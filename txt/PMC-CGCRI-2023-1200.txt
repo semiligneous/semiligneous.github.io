@@ -1,0 +1,128 @@
+ Covid-19 Response Inquiry
+ Submission
+                                                       Oscar Delaney, 15/12/23
+ I am a recent graduate of the University of Queensland with a Bachelor of Science
+ (Honours) majoring in biology. Thank you for the opportunity to contribute to this
+ important inquiry.
+
+ I have just returned from the Biological Weapons Convention (BWC) meeting held in
+ Geneva 4th-13th December, where I was part of the NTI|Bio Youth Delegation. At
+ those meetings, I was reminded how we need to plan for not just future zoonosis
+ events, but also the possibility of deliberate biological attacks by state or non-state
+ actors. The terms of reference state that the inquiry will present “recommendations
+ to improve response measures in the event of future pandemics”. However,
+ prevention is better than cure, and so the best way to respond to future pandemics is
+ to make them not happen in the first place. One of the specific areas of review is
+ how to target responses to the needs of vulnerable populations - here too the best
+ solution is to avoid a future pandemic altogether.
+
+ Therefore, the focus of my brief allotted three pages will be on reducing the
+ probability of another pandemic occurring. My research in biosecurity and pandemic
+ preparedness focuses especially on DNA synthesis security, so I will dwell on that.
+
+ DNA synthesis refers to a set of rapidly improving technologies that ‘print’ custom
+ DNA sequences based on a template computer file of A’s, O’s, G’s and T’s.
+
+ The ongoing democratization of DNA synthesis technology as costs fall is
+ significantly lowering the barrier to creating dangerous biological agents. The
+ sequence information for numerous dangerous pathogens and toxins is readily
+ available in the public domain, so plausibly relatively unsophisticated actors could
+ download a pathogen’s genome, order it in pieces from multiple DNA providers,
+ assemble the genome, boot up the pathogen, and deploy it as a bioweapon.
+
+
+Malicious
+Actor
+                        Dangerous                   weapon-                   Biological
+                        DNA                         isation                   catastrophe
+Sequence
+information
+The consequences of misuse could be catastrophic, potentially leading to events
+surpassing the severity of natural pandemics like COVID-19 if a malicious actor
+designs a bioweapon that combines the lethality of Ebola and the transmissibility of
+measles. This scenario underscores the need for effective governance of the digital-
+to-physical interface of DNA synthesis.
+
+A possible approach to regulating DNA synthesis is to ensure only certain trusted
+actors can place orders. While this ‘customer screening’ has some valuable role to
+play, by itself it is insufficient as malicious actors may be part of a legitimate research
+institute, or could steal the digital identity of someone who is. Therefore it is also
+important to screen the DNA sequences themselves that are ordered.
+
+Twenty-five DNA synthesis companies are part of the International Gene Synthesis
+Consortium (IGSC) and have agreed to meet minimum screening standards to
+prevent potentially dangerous DNA from being ordered by an unaccredited customer.
+However, this leaves at least 30 DNA synthesis companies that do not have any
+public screening protocols. Thus, it remains disconcertingly easy for malicious actors
+to order from non-screening companies.
+
+President Biden’s recent Executive Order on Safe, Secure, and Trustworthy Artificial
+Intelligence means the US will become the first country in the world to legally require
+some DNA orders to be screened. However, the national and international regulatory
+environment remains very weak overall. The Australia Group laudably regulates
+some exports of DNA synthesis equipment, however most orders of DNA molecules
+themselves are not checked at international borders.
+
+Currently, DNA synthesis governance relies predominantly on companies’ voluntary
+compliance with screening recommendations. This approach is far from optimal.
+Specifically, important policy recommendations include:
+
+   1. Minimum screening standards for all synthetic DNA providers are crucial.
+      This would ensure that all companies adhere to a baseline of biosecurity
+      checks, significantly reducing the risk of dangerous sequences successfully
+      being ordered. To enforce this, a governmental or intergovernmental agency
+      could be tasked with periodically sending deliberately dangerous orders to
+      each synthesis company to check it is indeed blocked. The DNA synthesis
+      industry in Australia is currently nascent, but we should aim to keep
+      regulations ahead of technology.
+   2. Government Funded Research: as well as the above supply-side
+      intervention on DNA companies, Australia should also consider a demand­
+      side intervention whereby all researchers receiving government grants must
+      only order DNA from biosecurity-compliant companies (domestic or
+      international). This would cause compliant companies to receive a higher
+      market share of DNA orders, encouraging more companies to screen
+      effectively.
+   3. Developing a cryptographically secure database of hazardous sequences
+      would provide a robust method for screening DNA orders. This database,
+      established through international consensus, would allow companies to
+      screen orders without direct access to sensitive sequence data. Such a
+      system would protect against the dissemination of high-risk sequences while
+      maintaining confidentiality. If set up effectively, this could also provide a cheap
+      or free centralised system for screening, so that DNA synthesis startups are
+      not overburdened with requiring their own bioinformatics and biosecurity team
+      to analyse each order.
+
+One of the best ways to manage future pandemics is to prevent them from arising at
+all, and an important though neglected class of possible sources of pandemics is
+rogue actors using advances in synthetic biology to create and release a bioweapon.
+Effective regulation of synthetic DNA should safeguard Australia against this risk,
+without stifling biomedical research and innovation.
+
+Feel free to contact me on                         to discuss matters arising from this
+submission.
+
+
+Acknowledgements and References
+I thank             fortheir invaluable collaboration on this research, and
+                                   and                                      for usefu
+advice and mentorship on this project. For a fuller version of this research, with
+complete referencing, see our paper:
+
+Palya, H., Delaney, O. Deploying Digital Detection of Dangerous NA. (2023).
+Journal of Science Policy and Governance. https://doi.Org/10.38126/JSPG210306
+
+An abridged reference list with the most important sources is:
+
+   •      Department of Health and Human Services. 2022. Screening Framework
+          Guidance for Providers and Users of Synthetic Oligonucleotides.
+   •      Diggans, James, and Emily Leproust. 2019. "Next Steps for Access to Safe,
+          Secure DNA Synthesis." Frontiers in Bioengineering and Biotechnology 7.
+   •      Gretton, Dana, Erika A. eBenedictis, Andrew B. Liu, Andrew C. Yao, and
+          Kevin M. Esvelt. n.d. "Random adversarial threshold search enables specific,
+          secure, and automated DNA synthesis screening." preprint.
+   •      Nuclear Threat Initiative, and World Economic Forum. 2020. Biosecurity
+          Innovation and Risk Reduction: A Global Framework for Accessible, Safe and
+          Secure DNA Synthesis. (Geneva).
+   •      Williams, Bridget and Rowan Kane. 2023. “Preventing the Misuse of DNA
+          Synthesis”. Institute for Progress.
+

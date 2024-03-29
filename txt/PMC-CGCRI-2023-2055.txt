@@ -1,0 +1,176 @@
+Submission to the COVID-19 Response Inquiry - Dr
+
+1. Introduction
+
+I am a self-employed scientific and technical writer with a background in historical research. Since early
+2020, I have been closely monitoring the scientific research published in several languages and discussing
+it with a few experts around the world. I continue to take sensible airborne precautions as it quickly
+became clear that significant long-term harms (for which there are currently no effective treatments) can
+result from any infection (no matter how mild to start with or how healthy you previously were) and that
+risks seem to be cumulative with subsequent reinfections 1.
+
+2. Suggestions and feedback about the role of advisory bodies
+
+Despite the evidence from earlier closely related viruses and a growing body of observational studies,
+advisory bodies failed to recognise in a timely fashion that airborne precautions would be needed to
+combat this virus. Some still seem to struggle with the primacy of aerosol transmission judging by
+messaging still concentrating on handwashing with no mention of the importance of respirators and
+improving indoor air quality. By stubbornly sticking to the old paradigm of droplet and fomite
+transmission, they recommended measures which could not effectively control spread, resulting in
+belated and often onerous controls.
+
+In April 2023, authorities claimed that "hybrid immunity... has now reached 99.6 per cent". This requires
+redefining "immunity" to something unrecognisable from standard definitions 2.
+
+Chief Medical Officer
+
+Advice given to government by Australia's CMO was frequently inaccurate and remains so. Instead of
+adapting theories in the light of new evidence, he and some state authorities have tended to stick with
+earlier assumptions (for example, droplet transmission, slow rate of evolution, that reinfections would be
+rare and help build long-lasting immunity and that most people wouldn't be susceptible to long-term
+risks).
+
+He also argued that COVID is not exceptional and can now be treated like an average outbreak of
+influenza - despite many studies showing higher fatality rates in the acute phase and more wide-ranging
+and severe long-term systemic damage3.
+
+He has repeatedly downplayed the risk of long-term issues and ignored the large amounts of evidence
+from around the world that even young, healthy people with initially mild cases can develop very long-
+lasting and possibly permanent effects. Speaking personally,                         mine with no
+previous health problems or risk factors, had a^^H triggered by a supposedly mild case of COVID and
+later had a^^^^^^^Hwhen he was infected again. One of my^^^^Jhad a                  luring his
+second (also supposedly mild) infection, requiring^^^^^^^^^^^l and leaving him with|
+                          | Neither had been able to get timely boosters or anti-viral treatments. I
+know many other people who are still suffering serious long-term consequences from "mild"
+infections/reinfections.
+
+
+1 Experiences of Canadians with long-term symptoms following COVID-19 (statcan.gc.ca), 8 December 2023. A f e and
+postacute sequelae associated with SARS-CoV-2 reinfection | Nature Medicine, 10 November 2022. Postacute sequelae of
+COVID-19 at 2 years | Nature Medicine, 21 August 2023
+2 The Saturday Paper, 8-14 April 2023, "Covid-19: Inside the shifting vaccine strategy | The Saturday Paper" It also claimed
+that we could now have more personal choice over when/whether to get boosted, which is sadly not yet true.
+3 COVID-19 is not "just the flu" - John Snow Project and Long-term outcomes following hospital admission for COVID-19
+versus seasonal influenza: a cohort study (thelancet.com) - The Lancet, 14 December 2023: [COVID has] "higher long-term
+risks of death and adverse health outcomes in nearly every organ system (except for the pulmonary system) and significant
+cumulative excess disability-adjusted life-years than hospital admission for seasonal influenza."
+
+
+1 | Pa ge
+ATAGI
+
+ATAGI continues to only consider the acute phase of the illness and restricts access to boosters and
+updated vaccines to groups they consider vulnerable. This approach ignores mounting bodies of evidence
+that even young and previously healthy people can develop debilitating long-term problems after "mild"
+initial infections. It also ignores evidence that recent vaccination, especially with an updated monovalent
+vaccine, provides more protection against acute illness 4. Their approach leaves most Australians with
+inadequate protection against new variants which display considerable immune evasion and, most
+inexplicably, leaves young children totally unprotected. Their "recommendations" should be made non­
+binding.
+
+3. Suggestions and feedback about key health response measures
+
+As many officials, hospital administrators and infection control staff remained wedded to the droplet and
+fomite dogma, many health care workers were denied access to airborne protections (even if they tried to
+bring in their own respirators) and got infected as a result. The removal of requirements for respirators in
+health-care facilities by medical authorities continues to lead to high rates of nosocomial infections, which
+have been documented to have a much higher-than-average fatality rate in hospitalised patients5.
+
+I think that better understanding and policies would have resulted from a multidisciplinary approach,
+especially the involvement of experts in domains such as aerosol science who warned very early, for
+instance, against quarantining overseas arrivals in airconditioned hotels. Imagine the difference if there
+had been a rapid construction of cabin-style accommodation. We would most likely not have needed
+strict lockdowns or certainly not for as long 6.
+
+Federal and State Health departments still need to improve public health messaging and inform the
+general public accurately about airborne transmission and what mitigations are effective (respirators,
+ventilation and HEPA filtration). They need to talk not just about acute illness but about the medium- and
+long-term dangers documented in many thousands of research papers, such as increased risk of
+cardiovascular events, neuro-cognitive effects and immune dysregulation and damage, to name just a few.
+
+4. Suggestions and feedback concerning vaccine supply deals
+
+The Morrison government's approach was very slow, inefficient, and badly organised. Unfortunately, the
+Albanese government's vaccine procurement and eligibility policy has proved to be just as bad, as they
+are relying on very poor advice from the CMO and ATAGI who keep acting as if SARS-CoV-2 is no longer
+any more serious than a seasonal respiratory virus and hoping, against all the evidence worldwide, that
+Australians would only need a booster before winter.
+
+COVID-19 vaccinations are still late in arriving and placed under very restricted access on questionable
+and poorly reasoned grounds. The current eligibility policy not only causes unnecessary delays in
+receiving timely boosters but may also discourage uptake by the few who are eligible. Now we have a vax-
+only strategy with no updated vaccines for most Australians, despite research suggesting that a recent
+vaccination, might lower the risk of infection or of serious longer-term issues in the following months 7.
+
+
+
+
+4 BNT162b2 XBBl.S-adapted Vaccine and COVID-19 Hospital Admissions and Ambulatory Visits in US Adults | medRxiv
+5 https://www.theage.com.au/national/victoria/hundreds-die-of-covid-after-catching-virus-while-in-hospital-20230330-
+pScwjx.html
+6 With foresight, we could have built a stock of portable cabins which could later serve as emergency accommodation for
+those made homeless by bushfires and floods or other reasons.
+7 XBB.1.5 monovalent mRNA vaccine booster elicits robust neutralizing antibodies against emerging SARS-CoV-2 variants, 6
+December 2023
+
+
+2 | Pa ge
+I remain quietly confident that second-generation vaccines currently in development (either inhaled or
+intranasal) will provide far greater protection against infection/transmission, and eventually be variant
+proof. If so, I hope that the TGA will expedite approval, the government procure them quickly and ATAGI
+not stop access. In the meantime, I am doing my best to avoid infection and possibly incurable damage.
+
+6. Suggestions and feedback about support for industry and businesses
+
+The impact of declining testing and the removal of isolation income support led to a lot more people
+turning up to work sick, which accelerated the spread of illness, caused economic chaos and resulted in
+death and ongoing disability for a great many Australians. For me, it is increasingly hard to find the sort of
+contract work I do unless I agree to work either full-time or more than half the week in unsafe offices
+where nothing has been done to improve indoor air quality. Most of the people I had previously worked
+with remotely were infected after a forced return to the office and a few of them have suffered ongoing
+cognitive issues. As a result, I have had to turn down a few contract opportunities I was approached
+about.
+
+Labour shortages could be addressed by recognising that removing mitigations and isolation requirements
+for an inherently dangerous and highly disruptive virus will most likely worsen the problem and lead to
+increased disability in the workforce, as shown already in the countries which "let it rip" earlier8.
+
+9. Suggestions and feedback for "improving Australia's preparedness for (current and) future
+pandemics"
+
+Australia could be better prepared for future pandemics if the government acted on the current one as
+this is unlikely to be the only airborne pandemic we will encounter in the next decades. We need to
+improve air quality in all public spaces, but particularly in healthcare, aged care, schools, workplaces, and
+public transport. Involving community groups in creating Corsi-Rosenthal boxes, for instance, could not
+only reduce costs but have the added benefit of creating more understanding of the need for improved
+indoor air quality within the population. In high-risk areas (especially healthcare and aged care) we will
+need ongoing use of proper respirators for the time being, in conjunction with HEPA filtration and good
+ventilation, to make these spaces safe and accessible for all and limit shortages of health-care workers.
+
+We also need timely, and a great deal less restrictive, access to updated vaccines and antivirals as they are
+an important addition to NPIs. Currently, the only way to be sure of not developing chronic conditions
+after a COVID infection, is to not get infected in the first place. The next best thing is to get reinfected as
+few times as possible with as low a viral load as possible. We forget that at our peril, both as individuals
+and as a society.
+
+By ignoring the ongoing consequences of the current pandemic, and the resultant damage to the
+economy, society, families, and individuals, we are neglecting the principles of public health which were
+largely responsible for the increase in life expectancy during the previous century.
+
+It is ironic that our failure to respond properly to this new situation came at a time when medical science
+had started to see the links between infections and some chronic illnesses (which had previously been
+attributed to lifestyle factors) and to understand a bit more about how some viruses can damage the
+immune system rather than build immunity.
+
+We urgently need to change course, learn from mistakes, and return to sound public health principles. As
+Professor Raina MacIntyre said back in early 2022, "no infection in human history has ever controlled
+itself by letting it rip".
+
+
+8 Long Covid and the Economy: There Is Money in Prevention - manager magazin (manager-magazin.de) "In long Covid
+research, the disease is now considered a "mass disabling event", triggering a significant global increase in diseases and
+disabilities".
+
+
+3 | Pa ge
+

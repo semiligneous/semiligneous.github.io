@@ -1,0 +1,149 @@
+School of Population Health, UNSW Sydney submission to COVID Inquiry
+The School of Population Health at UNSW Sydney is ranked in the top 50 globally for public health research
+and coordinates the largest health management teaching program in Australia. Expertise within the school
+ranges from responding to emerging public health crises to training the future health workforce, with a
+common focus to achieve social justice and better health for all.
+During the emergency phase of the pandemic many staff and affiliates from the School were seconded to
+NSW Health and provided significant contributions to pandemic responses in NSW. School staff also
+contributed through national committees such as ATAGI, via modelling expertise in state and national
+roadmaps out of lockdown and in regular public facing expert commentary to national media. Below we
+provide commentary and selected recommendations in relation to several of key focus areas for the inquiry.
+Governance: The response to the pandemic even from the limited perspective of health interventions was a
+massive and complex exercise involvement multiple levels of government, almost all government sectors,
+many expert groups and community organisations as well as wide-ranging interactions with industry. We feel
+it is of great importance that attention be given to assessing governance and for the inquiry to provide advice
+to ensure more streamlined and transparent arrangements in future.
+
+While the overall health response in Australia was very effective, greater transparency would have been
+beneficial. In particular, there was limited public disclosure of scientific evidence underpinning critical
+decisions and limited transparency in terms of publication of minutes and technical advice for publicly
+funded committees such AHPPC and ATAGI. In respect to pandemic response, this contrasts with e.g. UK
+SAGE, where detailed minutes and technical papers were made available. In respect to advice on
+immunisation, this stands in contrast to ACIP in the US in which full meeting papers are available in advance,
+with meetings live-streamed publicly.
+
+Recommendation: Commit to implementation of transparent reporting of meeting minutes and agendas and
+ideally supporting technical documents by relevant publicly funded health committees (e.g. AHPPC, ATAGI,
+CDNA). This should be implemented in the inter-pandemic period so that processes are well-established in
+advance of any future pandemic events.
+
+Given both the scale and regularity of policy change during the pandemic it is not surprising that
+coordination between state and territory governments and expert committees/agencies was complex and
+challenging. We note here the tremendous opportunity the inquiry has to review the many examples of
+these interactions and provide guidance on future arrangements. To be effective, however, we strongly
+believe any future governance arrangements should be tested in advance, through a commitment to regular
+simulation exercises.
+
+Recommendation: Establish and exercise as part of pandemic planning the clear definition and delineation of
+roles of key operational, policy and advisory actors including the Australian CDC, federal and state
+government, CDNA, defence forces
+
+Applied population health research is a critical tool in developing and refining the scientific basis for policy
+decisions during a pandemic. Australia has an excellent reputation in health and medical research but was
+relatively slow to publish local evidence on the pandemic. This was partially a case of opportunity, given the
+limited population exposure to COVID-19 until the Omicron wave. However, publication of important
+evidence, such as local vaccine effectiveness studies was slow even post Omicron1. We feel there are two
+related aspects that need attention to improve this situation for future pandemics.
+
+Recommendations: (a) establish simplified processes for rapid ethical approval and funding provision for
+important studies in the context of a pandemic, which could include clinical studies2, implementation
+research and enhanced surveillance, (b) establish data use policies and mechanisms that protect health data
+privacy and confidentiality without providing unreasonable barriers to generating the evidence required in
+emergence response situations.
+
+Health response measures: Australia entered the pandemic without detailed prior consideration of many of
+the elements that were eventually implemented to reduce transmission risk. These include but are not
+limited to strict border closure (both international and jurisdictional), hotel quarantine, movement
+restrictions and large-scale quarantining of community members as part of outbreak response. While
+evidence in regard to effects of these measures has been published both within Australia and in the
+international context3, assessment of their role in future planning remains limited. In addition, studies had
+(understandably) greater initial focus on benefits, as opposed to harms and unintended consequences. We
+believe it is important responsibility of the inquiry to distil current evidence and outline future research to
+clarify the role of these interventions in revised plans.
+
+Recommendation: to review evidence regarding population non-pharmaceutical interventions, regarding
+effectiveness, cost, feasibility and acceptability. Explicit consideration of equity is needed, given that there
+was an unequal distribution of benefits and harms across population groups.
+
+A striking early pandemic observation was the large difference in transmission risk between indoor and
+outdoor settings, reflecting differing risks of transmission through the air. Relevant interventions such as
+masks have been heavily investigated in experimental studies examining correlates of transmission reduction,
+with promising results. However, epidemiological evidence of effectiveness remains contested, with an
+inconclusive Cochrane review4,5 regarding to the effects of mask wearing on the spread of respiratory viruses.
+Unlike pharmaceutical interventions, a clear pathway from experimental evidence to evaluation through
+randomised controlled trials seems absent in this area.
+
+Recommendation: Evidence regarding mask and ventilation interventions on transmission be carefully
+considered, with a view to guiding strategy to address gaps in evidence. In particular, attention to behavioural
+factors that influence effectiveness would appear a high priority.
+
+Government response capacity: At both national and jurisdictional levels very significant increases in public
+health capacity were needed during the pandemic. Particularly in areas like contact tracing, staff numbers
+scaled by factors of 10-100, with other areas also requiring significant increases in staff. An important
+requirement in areas such as surveillance, health protection and health promotion was evidence generation,
+where additional staff were often seconded from academic institutions, becoming integrated into operational
+aspects of the response. We believe processes for enabling efficient scaling of public health capacity in future
+should be an important focus of the inquiry.
+
+Recommendation: To identify the likely areas of key important in terms of scaling public health response
+capacity, to consider where such staff would be drawn from and to give consideration to adverse
+consequences for the source sectors.
+
+At the outset of the pandemic, notifiable disease data systems were not effectively designed to inform many
+of the subsequent policy and response choices. These systems evolved during the pandemic and became
+much better aligned with response objectives. For instance, in the context of NSW, systems were augmented
+to facilitate detailed collection of contact-tracing information that allowed for near real-time assessment of
+test and trace performance6. However, now that the emergency pandemic phase is over, there is danger that
+these improvements are not sustained in the inter-pandemic period, nor designed to be effective in the next
+pandemic.
+
+Recommendation: Effective data systems for conducting real-time epidemiological analysis in support of
+emergence response objectives should be embedded in the inter-pandemic period, including increased
+capacity for and responsiveness of relevant data linkage.
+Community supports for people affected by response measures: Culturally and Linguistically Diverse (CaLD)
+communities in Australia experienced greater risks of negative outcomes from COVID-19 disease, a greater
+burden of COVID restrictions and have achieved a lower uptake of pharmaceutical interventions such as
+vaccines and antiviral drugs. There is a human rights obligation for governments to act on the needs of CalD
+communities during pandemics and other health crisis periods. This includes ensuring available resources
+and supporting community understanding and capacity to engage with recommendations. However,
+communication is still characterised by large-scale exclusion of linguistic minorities from timely, high-quality
+information. These communities can also be left behind in their access to and understanding of
+recommendations, compounded by cultural discordance and mistrust of health institutions. Communication
+and engagement efforts with CaLD community members have been hampered by lack of access to or
+ineffective communication channels, lack of trust in authority, literacy, lack of timely and culturally
+responsive materials, poor quality of materials and poor engagement strategies.
+
+Recommendations: (a) A dedicated management plan to support the response efforts focused on CaLD
+communities, (b) Specific strategies to communicate with linguistic minority communities, especially those
+that do not have local outreach services, (c) Dedicated funds to support surge capacity for bicultural workers
+and small grants available for community controlled organisations and NGOs in the sector to support local
+dissemination of information and community engagement efforts
+
+Australian citizens situated abroad encountered many difficulties in returning home during the pandemic.
+More than a year into the pandemic it was estimated that over 35000 citizens were stranded overseas and
+required assistance to return home. Closure of borders and vast reductions in international flight capacity
+meant long delays in obtaining a flight to Australia, with high levels of financial distress and clinically
+significant depression. Parallel situations for domestic travellers arose with the sudden closure of state
+borders in response to outbreaks in other, leaving citizens stranded interstate. While closure of international
+border undoubtedly contributed very significantly to Australia's successful suppression of transmission across
+2020-21, we argue that the impacts on citizens attempting to return home was unacceptably high and a
+more humane approach needs to be developed in advance of future pandemic events.
+
+Recommendations: Consideration be given to effective ways of reducing the time to return home and
+financial and mental impacts of travel restrictions on citizens living abroad, in the event that border closure is
+used again in future pandemic responses.
+
+Prepared by Prof James Wood, A/Prof Holly Seale and A/Prof David Muscatello on behalf of The School of
+Population Health UNSW Sydney.
+
+References
+1.                         https://doi.org/10.1016/i.vaccine.2022.09.029
+2.                         https://www.nihr.ac.uk/blog/how-the-nihr-mobilised-and-adapted-the-uk-research-landscape-to-deliver-c
+     studies/30611
+3.                           ^^^^HNature Comms.2021 https://doi.org/10.1038/s41467-021-26013-4
+4.                   2023 https://doi.org/10.1002/14651858.CD006207.pub6
+5.                           |AmJPH 2023 https://doi.org/10.2105%2FAJPH.2023.307377
+6.                         https://www.health.nsw.gov.au/lnfectious/covid-19/Documents/covid-19-surveillance-report-20200829.p
+7.                         Public Health 2022 https://doi.org/10.1186/sl2889-022-13680-l
+8.                         SMC ID 2022 https://doi.org/10.1186/sl2879-022-07155-2
+

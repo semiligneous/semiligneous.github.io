@@ -1,0 +1,127 @@
+Covid-19 Response Inquiry
+
+15 December 2023
+
+
+
+
+Dear Response Inquiry,
+
+
+
+
+requiredto make every effortto reduce the likelihood of the event occurring. InAustralia alone,
+there have been tens of thousands of direct deaths due to COVID-19 and magnitudes more
+suffering from mild to extreme and ongoing, debilitating ill health. As an engineer, I see this as an
+abject, and ongoing, failure of the Governmentto identify, implement, communicate, and manage
+effective strategies to prevent the transmission of COVID-19 in the general population.
+
+My submission relates to the areas of the Inquiry terms of reference that have impacted me and
+where therefore my voice can contribute. These are the:
+    •         Performance of the Governance and advisory bodies
+    •         Key health response measures
+    •         Mechanisms to better target future response to meet population needs.
+The following paragraphs document my experiences, positive and negative, and opportunities for a
+different approach that could improve future outcomes for both this COVID-19 pandemic and the
+next novel virus that arrives on our shores.
+
+It is important for any advisory body that they provide both the technical expertise specific to the
+situation and the independence to provide advice without a preconception about whatthe
+politically palatable outcome will be. There are of course challenges with finding experts on a novel
+virus due to the inherent absence of pre-existing data and research. As someone who is a trusted
+advisor within the industry I work in, reviewing the expertise of the individuals within the groups
+advising the government was a key first step for me in assessing the advice being provided. In many
+cases, checks indicated the advisors were working outside their fields of expertise and experience.
+In some cases, the advice coming from the advisory bodies and being communicated from the
+individual advisors to the public was (and still is) out of step with the global body of scientific
+research and tended to opinion ratherthan knowledge. These discrepancies are not explained to
+the public. The public are told by the Government that the advisors are, universally, leading experts.
+Instead, the value of contribution and level of inaccuracy varies and discredits the remaining
+experts. In particular, the advice given to the Government by the Chief Medical Officer was
+inconsistent with global experts on COVID-19 and increased the likelihood of transmission by
+falsely minimising the consequences of infection.
+Not dying is a pretty low bar to set when we consider COVID-19 impacts to our population, yet that
+has been the consistent benchmark set by the Government. The Australian population has been
+told by the Government that it is ok to catch COVID-19, that the more you catch it the less chance
+you have of catching it, that children don’t get COVID-19, that children don’t transmit COVID-19,
+that avoiding COVID-19 leads to “immunity debt”. None of these statements is true. The peer
+reviewed scientific research does not provide evidence to support to them. We all wish and hope
+that they were true. But, unlike the USA and their approach to gun violence, we don’t rely on ‘hopes
+and prayers’ to solve our biggest issues. We expect our Governmentto have leading, expert
+guidance that follows the current global best practice in dealing with issues like COVID-19 and are
+free to deliver advice without bias or political motivation. We have been letdown by the
+Government and their advisors in their dealing with COVID-19. In the future, we need for the
+Government and advisors to stay up to date with the changing nature of understanding with
+developing viruses and to work within the limitations of theirtraining and experience. They need to
+be able to clearly communicate when the scientific understanding has changed and thattherefore
+so has the advice. We can’t be left to rely on hopes and prayers that we will be the lucky ones that
+don’t get ongoing health issues due to an infection. Even more so, we deserve better than to not
+even understand this potential consequence so we can make informed decisions about what
+measures are appropriate to us as individuals to mitigate the likelihood of exposure. Good,
+personal responsibility can only be taken when you are in full understanding of the issues. It
+appearsto methatthe Government, supported by their advisors, has taken an approach that
+promotes ignorance and apathy.
+
+The Government’s initial response to limit transmission of COVID-19 were prudent given the
+uncertainty. It was communicated to the population that quarantine, testing and tracking were key,
+and these were generally carried out well in the early months of the pandemic. We were warned
+that if we allowed COVID-19 to spread unchecked thatthe resultant virus mutation rate would
+mean that science would not be able to generate vaccines quickly enough to get ahead. And we
+were all reliant on the breakthrough vaccine that would allow a resumption of “normal” life.
+Unfortunately, we are still waiting for a vaccine that provides immunity to COVID-19. The vaccines
+that have been developed and distributed do not prevent or even significantly reduce the
+transmission of COVID-19, at best they reduce the initial symptoms to the extent that the likelihood
+of death is reduced. Yet, the Government proceeded with dropping all health initiatives as soon as
+the vaccine was administrated, as if it was the panacea that we were all hoping for. When
+conditions change (i.e. vaccine not preventing transmission) then we need to change our plans.
+The Government has not. Instead, the express reason we were all so careful initially, mass
+transmission, has been adopted as a health response when evidence is clearthatthe initial
+concerns of the health professionals that mass transmission leads to virus mutation and reducing
+effectiveness of existing vaccines has been proventrue.
+What protection is provided by the available vaccines is also poorly distributed. The Government
+has decided our children are not worth vaccinating. Their only vaccine doses were administered
+almost 2 years ago and now offer no protection. Elsewhere in the developed world, children have
+received boosters and current vaccines. The Government has chosen forourchildren to be exposed
+to the potential of life-long ill health and made COVID-19 infection a certainty. The inaccurate
+health messaging with regards to children has amplified the risk. We have heard on repeat from
+Government “experts” that children do not get COVID-19, then that children don’t get very sick from
+COVID-19 and certainly that children don’t transmit COVID-19. These are all lies. The scientific data
+proves the opposite, yet the Government has done nothing to address and reverse the prevalent
+understanding in the community that there is no issue.
+I note that there was some effort of correction by the Government in response to the developing
+understanding that COVID-19 is an air-borne virus. But the general population still thinks that hand
+washing provides them a beneficial protection from COVID-19, while undertaking measures to
+provide clean air in indoor spaces and wear masks is too difficult and treats people who try to
+promote these effective measures as “extremists”.
+
+The Government’s targeted response specifically excluded supporting our school children. They
+were and still are forced into a school environmentthat has insufficient controls to prevent COVID-
+19 transmission. Clean air requirements are not mandated or measured. Attendance is upheld over
+health. The concomitant impacts of rampant in-school COVID-19 transmission on the widerschool
+communities and aging family members are ignored. Our you ng people don’t even understand the
+vulnerable position the Government has putthem in due to the constant gas-lighting over the
+impacts of COVID-19 that are demonstrated to occur over the longterm. My children continue to
+attempt to protect themselves using the only measure they have within their control, masks. In
+engineering, personal protective equipment (PPE) is the very bottom ofthe ladderwhen it comes
+to effective risk controls. It is a sad state that in Australia that is the best we have to offer our youth,
+and only if they have the fortitude and resilience to do it forthemselves.
+
+In engineering terms, we typically assess risks using a matrix to assess the combination ofthe
+consequence of an event happening and the likelihood of that outcome. Risks that plot other than
+low risk need to have the adequacy ofthe controls assessed and further controls implemented to
+lower the risk as part of a formal risk management process. I would suggest that a robust risk
+assessment and review of control measures’ effectiveness in mitigating either the likelihood or
+severity ofthe health impact be implemented for future pandemic responses. The risk
+management process needs to be undertaken with the contribution of suitably experienced and
+independent experts and be evidence based. For COVID-19, clean air, masking and population wide
+access to current vaccines and antivirals have been demonstrated as effective control measures
+and the Governmentshould be focusing on these now.
+Sometimes doing the right thing is inconvenient, it is uncomfortable, it is hard. It is therefore
+important that we all understand why we need to do these hard things, how they help, how we are
+all supported to participate, equitably, and that we are all working together, and then we can
+succeed. Just like climate change. We need to bring everyone with us to be successful. That is
+leadership. That is what we need from the Government in response the current and future
+pandemics.
+
+Sincerely,
+

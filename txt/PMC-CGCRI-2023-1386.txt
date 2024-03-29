@@ -1,0 +1,136 @@
+                                                                                                                       The Royal
+
+            Doherty                                                               THE UNIVERSITY OF
+                                                                                                                       Melbourne
+
+
+            Inst tute                                                             MELBOURNE
+                                                                                    A joint venture between The University of Melbourne
+                                                                                                       and The Royal Melbourne Hospital
+
+
+
+
+ Statement to Inqu ry nto the Commonwealth Government’s
+ response to the COVID-ig Pandemic, from the Peter Doherty
+ Institute for Infection and Immunity
+Introduction
+The Peter Doherty Institute for Infection and Immunity (the Doherty Institute) is an unincorporated joint
+venture between the University of Melbourne and the Royal Melbourne Hospital, combining research,
+education and public health in infectious diseases and immunology.
+The Doherty Institute incorporates research in fundamental science, clinical research and epidemiology and
+is home to reference laboratory services, diagnostic services, and clinical care for all infectious diseases.
+The Doherty Institute played a major role in Australia and the Asia-Pacific region’s response to COVID-19.
+Our submission highlights key areas of our involvement and key lessons learnt.
+Our response
+The Doherty Institute sits at the forefront of the global response to infectious diseases, through international
+networks and existing capacity in infectious disease identification, monitoring, and management. The
+Institute is a first responder to any outbreak in Victoria, Australia, and across our Region. Examples of this
+capacity are provided below:
+The Victorian Infectious Diseases Reference Laboratory (VIDRL) and the Microbiological Diagnostic Unit
+Public Health Laboratory (MDU-PHL), located within the Doherty Institute, were instrumental in the roll out
+of COVID-19 testing and genomics at a state and national level. VIDRL led the development of a diagnostic
+test within days of the announcement of the sequence of SARS-CoV2 in January 2020 and shared this
+expertise across Australia; was the first lab outside of China to grow the virus in-vitro, sharing it with other
+laboratories nationally and internationally; and provided technical assistance to the development of the
+National Testing Framework (Commonwealth funded). MDU-PHL significantly contributed to the
+development of whole genome sequencing (genomics) testing and analysis, including development of the
+AusTrakka platform, which serves as Australia’s national genomics surveillance system. Both laboratories
+developed and validated innovative testing techniques such as saliva samples, point of care tests and
+mobile laboratory testing.
+Utilising our notable epidemiological and mathematical capacity, we worked closely with the Federal
+Government to develop modelling scenarios, to support and inform public health response and action,
+protecting Australians from excess transmission and reducing long-term subsequent health impacts. These
+models played a key role in informing various national policy interventions, including travel restrictions,
+quarantine, and mask wearing, alongside national hospital utilisation and disease control. The advice was
+based on international best practice, and directly informed decisions by the Australian Health Protection
+Principal Committee (AHPPC) and National Cabinet.
+The Doherty Institute also led significant research activity into COVID-19, its transmission, and treatments.
+This included:
+   -   Leadership of APPRISE, an NHMRC-funded Centre of Excellence, to improve Australia’s response
+       to infectious disease emergencies, including the First Few Hundred studies and administration of a
+       national indigenous network to respond to COVID-19.
+13 Doherty
+         Insl tute
+
+   -   Basic research studies including the first to describe the immune response to COVID-19 as a result
+       of pre-approved protocols in place to study any new infectious disease (SETREP-ID) and ongoing
+       assessment of the immune response to vaccination, including in vulnerable populations.
+   -   Evaluated existing therapeutics as antiviral agents and developed novel platforms for therapeutic
+       development including the use of human organoids.
+   -       Leadership of a national platform trial for hospitalised patients, the ASCOT Clinical Trial.
+   -   Supported COVID-19 vaccination development, in conjunction with the CSIRO and the University of
+       Queensland. Development of three novel vaccines, including one reaching phase 1 evaluation.
+   -   The DISCOVER project, to understand risk factors for health-worker acquired infections, and
+       potential preventative measures that can be implemented.
+   -   The Optimise Study, run in conjunction with the Burnet Institute, a longitudinal cohort study to follow
+       COVID-19 diagnosed people, their close contacts, and the community.
+   -   MRFF-funded COVID-19 genomics program, to coordinate and support SARS-CoV-2 genomic
+       sequencing and analysis nationally, and evaluation of Australia’s national genomics approach.
+   -   Leadership of the National COVID Health and Research Advisory Committee and WHO Advisory
+       Committee on COVID-19 vaccine selection, membership of ATAGI, AHPPC, CDNAand many other
+       Victorian and national advisory bodies.
+Lessons Learnt
+From our extensive experience we highlight the following key lessons learnt and areas for further focus.
+Surveillance and Data
+   -   Ongoing investment in national integrated surveillance systems, and specialised modelling and
+       epidemiological capability that can be readily applied in public health emergencies, coordinated
+       through the newly established Australian Centre for Disease Control (ACDC) is required.
+
+   -   National sharing of genomic data and coordinated national analysis using secure platforms such as
+       AusTrakka with clearly defined governance agreements, roles and responsibilities for
+       Commonwealth and State Government and Public Health Laboratories to ensure effective
+       interpretation and application of the data to public health responses.
+Public health testing and outbreak response
+   -       National supply chain management to ensure equitable access to testing consumables.
+   -   Ongoing investment to maintain a highly skilled public health laboratory workforce with technical
+       skills, surge capacity, institutional relationships, and specialised equipment/facilities to ensure
+       capability and capacity for pathogen agnostic diagnostics and outbreak responses.
+Vaccines, therapeutics, and clinical trials
+   -   Linkages between public health laboratories, clinicians, and researchers to ensure rapid applied
+       research for public health responses.
+
+
+
+
+                                                                                                          Page 2
+r J Doherty
+          Insl tute
+
+   -   National adaptive platform trials to rapidly generate new evidence for immunological and host
+       responses and therapeutic interventions for infectious diseases. Additional capacity is needed for
+       community based therapeutic trials.
+   -        Improved vaccine evaluation through clinical trials from phase 1 to 3.
+   -        Improved supply chain management for novel vaccines and therapeutics.
+   -        Identification of novel therapeutics at speed.
+Expert advice and guidance
+   -   Development of a national network of trusted scientific and public health communication experts to
+       guide community engagement and public messaging.
+Research
+   -   Strategic funding of research that galvanise large scale collaborative programs with the potential for
+       high impact, in preference to competitive research that support small teams that work in isolation.
+   -   Funding for research platforms that extend across relevant pathogens to support responsive
+       research to pandemics e.g. pre-approved protocols, streamlined ethics approvals, data sharing
+       mechanisms and biobanks.
+   -   Consolidation of a trusted network of research institutes that can be rapidly activated to conduct
+       rapid research translated into public health policy and action.
+   -   Investment in monitoring and evaluation studies that assess both the effectiveness of the program
+       and the impact of its outputs on pandemic preparedness and response.
+   -   Framework for national sample transfer to enable expanded research capabilities nationally (e.g.
+       isolates of new variants were not able to be quickly shared across jurisdictions).
+   -   Lack of animal PCS facilities delayed research. Australia requires more PCS facilities for animal and
+       human research to be available and supported by a trained workforce.
+   -        Investment in Human Challenge models as a core platform for pandemic preparedness.
+
+The Doherty Institute, along with the University of Melbourne and the Burnet Institute, is a founding member
+of the Australian Institute for Infectious Disease (AIID). This new Institute will house the largest critical mass
+of scientists and public health professionals in the Southern Hemisphere, coupled with state-of-the-art
+technologies and industry partnerships needed to protect Australia and the Asia-Pacific region from global
+health issues. The establishment of the AIID will contribute to several critical infrastructure and capability
+gaps identified in our response to COVID-19, in conjunction with identified improvements from this Inquiry.
+
+
+
+
+                                                                                                           Page 3
+

@@ -1,0 +1,138 @@
+I was excited to see Australia announce the creation of a Centre for Disease Control.
+COVID-19 made it clear that Australia needs an institution of this kind. I’m also glad that
+Australia has commissioned this Inquiry, including to inform the priorities of the CDC.
+
+There’s a long-standing public health adage that “prevention is better than a cure”. The
+same logic applies to pandemics. Pike et al in The Origin and Prevention of Pandemics
+show that the “wait-and-respond approach is not sufficient and that the development of
+systems to prevent pandemics before they are established should be considered imperative
+to human health.” I think this insight should be foundational to the direction of this Inquiry.
+
+My submission focuses on a couple of select issues, but my overall view is that pandemic
+prevention should be a key priority of the CDC and that our institutions and leaders should
+never concede that pandemics are inevitable.
+
+I believe that the Australian government should be investing in better Indoor Air Quality (IAQ)
+to reduce the risks of future pandemics. Australians spend at least 90% of their time inc rs
+and every year, Australians fall ill as a result of exposure to airborne pathogens while
+indoors. Worse still, respiratory transmission is a primary transmission route for pandemics.
+Therefore, reducing respiratory transmission will not only result in less illness for Australians
+but also safeguard us against the next pandemic. In addition to proven approaches and
+technologies, there are promising, effective, and scalable interventions, such as Ultraviolet
+germicidal irradiation (UVGI), which Australia could be supporting in the hopes of
+deployment before the next pandemic.
+
+The Lancet COVID-19 Commission Task Force has proposed Non-infectious Air Delivery
+Rates (NADR) as measurable goals for ventilation and filtration targets that protect against
+infectious disease transmission. Air delivery rates to different sized rooms can be compared
+using the normalised measure of Air Changes per Hour (ACH) - the number of times the
+volume of air in a room is exchanged with fresh, pathogen-free air each hour. Ventilating a
+room with fresh outdoor air while exhausting air in the room reduces the concentration of
+pathogens in the air produced by the room's occupants. Filtration and disinfection
+technologies can achieve comparable effects to ventilating a room with fresh air can be
+measured by Equivalent Air Changes per Hour (eACH) - the number of ACH required to
+achieve the same reduction in pathogen concentration.
+
+Traditionally, air changeovers are achieved through opening a window or having an HVAC
+(Heating, ventilation, and air conditioning) system installed. The Air Safety to Combat Global
+Catastrophic Biorisk report summarises the cost-effectiveness of different mechanical IAQ
+interventions. A modern HVAC system costs $135 USD per ACH, assuming it is updated to
+current standards for filtration and air delivery rates. However, many buildings do not have
+an HVAC system installed and are often not ventilated - schools, cafes and restaurants,
+homes, and smaller and older workplaces are just some examples of poorly ventilated
+spaces that we visit every day. Modern HVAC systems can be expensive or difficult to retrofit
+into buildings but represent an important step towards delivering non-infectious air. However,
+there are more cost-effective technologies that are easier to retrofit and could be widely
+adopted to keep Australians safe and healthy indoors. One example is portable air cleaners
+using HEPA filters which are estimated to cost approximately $110 USD per eACH and are
+simple to retrofit into buildings that are unsuitable for HVAC.
+Ultraviolet germicidal irradiation (UVGI) is the use of ultraviolet light to inactivate or kill
+pathogens such as bacteria, fungal spores and viruses. UVGI lights in indoor spaces could
+decrease the number of pathogen particles in the air in a safe, scalable and simple manner.
+Upper room UVGI lamps use 254nm wavelength UV light to sterilise the air in the top of
+rooms as it circulates and cost approximately $14 USD per eACH. Far-UVC lights are a
+newer innovation that can bathe an occupied room in far-UVC wavelengths. It uses a shorter
+wavelength of 222nm, which appears to be safe for skin and corneas yet it still inactivates
+the comparatively smaller pathogen particles. Unlike other interventions, Far-UVC has
+potential to reduce short range and conversational distance transmission and sterilise
+surfaces, in addition to reducing long-range airborne transmission like mechanical
+ventilation, portable air cleaners and 254nm UVGI. It is estimated to cost $15-46 per eACH,
+however, still reguires additional R&D to make it cost-effective and scalable.
+
+Given that we have a mix of proven approaches for a variety of buildings and promising
+technology, I believe Australia should be investing in the deployment of what we know works
+and the research and development of what we know is promising. UVGI technology has the
+potential to make all indoor environments safe for Australians to occupy without fear of
+respiratory illness at an affordable price. Through supporting research and development in
+this technology, Australia can lower the burden of respiratory illness and protect against the
+next pandemic.
+
+
+Public commentary has focused on the possible origins of COVID-19, including whether it
+was a “lab leak”. Regardless of the specifics of COVID-19 specifically, I’ve been shocked to
+learn about the high rate of safety incidents at labs handling dangerous pathogens. A
+publication from Manheim and Lewis found that from 1975-2016 there were 71 reported
+high-risk human-caused pathogen exposure events - as well as evidence of underreporting.1
+An anonymous survey on biosecurity and accidents in Belgium reported almost 100
+laboratory-acguired infections in a 5 year study period.2 A lab leak also likely began the 1977
+flu pandemic.
+
+Given pandemics can cost millions of lives and trillions of dollars, it seems clear that safety
+standards (or adherence to standards) fall far short of what is appropriate. While I’m firmly in
+favour of science, and think that science is a force for good in fighting pandemics, it has to
+be done responsibly.
+
+As an outsider, there is little transparency about how physical containment facilities in
+Australia are regulated. The Office of the Gene Technology Regulator seems to focus mostly
+on GMOs and provides little information about its functions regarding physical containment
+facilities.
+
+To the extent that information is available, OGTR’s 2022-23 annual report is proud that it
+certified a record 132 physical containment facilities last year, meaning that there are now
+
+
+
+1 David Manheim and Gregory Lewis, ‘High-Risk Human-Caused Pathogen Exposure Events from
+1975-2016’ (2022) 10 FWOOResearch 752.
+2 Biosafety and Biotechnology Unit, ‘Laboratory-Acquired Infections in Belgium (2012-2017)’.
+1,874 “high-level” facilities operating in Australia. It also reports that it only conducted 49
+inspections in the same period, including no inspections of the highest-level PC4 facilities.
+
+Reviewing older reports, no PC4 facilities were inspected in 2021-22 either, and only 1
+inspection occurred in 2020-21. Despite only conducting 49 inspections in 2022-23, 26
+certified physical containment facilities were found to be non-compliant. In this context, the
+report noted that OGTR takes a “cooperative approach” to compliance and that no culpability
+was found in any of these cases.
+
+In addition to seeming shortcomings in oversight, the guidelines themselves are troubling.
+The rules for PC4 facilities were last updated in 2007 and reference standards like AS1324.1
+on air filters and AS/NZS 2243.3 on lab safety, which don’t appear to have been updated
+since 2001 and 2002 respectively. AS1324.1 specifically has been criticised by the HVAC
+industry for being based on inaccurate research from the 1950s and has now been
+superseded by ISO 16890.
+
+While this is a grim picture on multiple fronts, it’s not necessarily a criticism of OGTR. OGTR
+only has 51 employees and has wide-ranging regulatory functions apart from these topics.
+
+I think that this Inquiry should recommend a thorough review of biosafety - including the
+suitability of requirements, degree of adherence, and adequacy of oversight - for all
+research that involves human or animal pathogens. The review should include a risk
+assessment that takes into account the potentially catastrophic global consequences of
+errors, and ensures that our approach to mitigation is proportionate to that risk.
+
+Citations:
+    •       OGTR Annual Report 2022-23
+    • Australian Government Department of Health and Aged Care, Office of the Gene
+        Technology Regulator Annual Report 2021-22 (oqtr.qov.au)
+    • Guidelines for the certification of physical containment facilities | Office of the Gene
+        Technology Regulator (oqtr.qov.au)
+    • Bringing the Australian air filter standard up to speed - HVAC&R News
+        (hvacrnews.com.au)
+
+I think pandemics are one of the most important issues of our time, and expert assessments
+that the risk of pandemics is increasing are alarming. I think this inguiry should carefully
+consider how future pandemics could start and ensure it makes specific recommendations to
+reduce their likelihood. This should include the known mechanisms that have been with
+humans since time immemorial, such as zoonoses, as well as more recent risks, such as lab
+leaks, and emerging threats, such as engineered pathogens.
+

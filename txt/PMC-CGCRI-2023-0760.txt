@@ -1,0 +1,137 @@
+Dear Panel Members,
+
+I appreciate the opportunity to share my insights with you. As someone who has
+dedicated my professional life to saving and improving lives, the widespread harm caused
+by pandemics, such as COVID-19, deeply concerns me. This inquiry presents a crucial
+chance to enhance our readiness for future health crises, and my submission is therefore
+primarily related to “preventive health measures” in terms of reference 3.
+
+The immense human and economic toll of pandemics like COVID-19 underscores the need
+for robust prevention strategies. We must prioritise measures that preempt the
+emergence of novel pathogens and ensure swift, effective responses when they do appear.
+The research, such as the findings in "The costs and benefits of primary prevention of
+zoonotic pandemics" by Bertstein (2022), compellingly argues for substantial investment
+in pandemic prevention. This investment remains not only a moral imperative but an
+economically prudent decision, even in the most conservative estimates.
+
+In light of this, I urge the new Australian Centre for Disease Control to focus its efforts on
+preventing the emergence of novel pathogens, in particular ensuring to account for the
+possible risks from engineered pandemicsand lab leaks.
+
+Engineered Pandemics
+
+As we delve into pandemic preparedness, it's imperative to confront the potential of
+engineered pandemics, a risk significantly heightened by advancements in Al. This issue is
+squarely in line with the Inquiry's aim to anticipate future pandemics, underscoring the
+need for serious consideration of this emerging threat.
+
+Renowned experts, including MIT's Professor Kevin Esvelt, have projected that by 2025, the
+technologies for creating and spreading dangerous pathogens might become widely
+accessible. The Geneva Security report "Delay, Detect, Defend: Preparing for a future in
+which thousands can release new pandemics" (see Figure 1) thoroughly examines this.
+
+Professor Brian Schmidt AC from the Australian National University has voiced serious
+concerns about the "democratisation" of biotechnology. He points out the looming
+capability of using commonly available technology to not just modify existing diseases but
+to engineer new ones. This scenario, he believes, represents an unprecedented danger.
+
+Following these comments, the market for synthetic DNA, along with specialty reagents
+and Al tools, has seen rapid expansion, making it simpler for the general public to utilise
+this technology. The thought of a large number of individuals, regardless of their
+intentions, having the capacity to cause a pandemic is deeply troubling and
+unquestionably unacceptable.
+
+In response to this risk, President Biden issued an executive order on 30 October 2023,
+mandating the development of a framework for effective screening of risky DNA
+sequences, establishing access controls, and setting up stringent oversight mechanisms.
+Currently, in the US, about 20% of DNA orders are not screened, underscoring the urgency
+of this matter.
+
+Australia already has a regulatory framework for the importation of synthetic DNA, but
+there's a critical need to update these regulations. The Inquiry should recommend that the
+Commonwealth promptly revise its regime to align with US strategies, requiring all labs
+importing DNA into Australia to implement these new screening procedures.
+
+However, simply following the US in regulating synthetic DNA tackles only the immediate
+risks. Ongoing advancements in biotechnology and Al could potentially enable users to
+bypass these regulations. Therefore, the Inquiry should propose that the Department of
+Industry, together with the Department of Health and the CDC, develop minimum safety
+standards for cutting-edge Al models in Australia, particularly those posing biosafety risks.
+We must firmly establish that Al with dual-use capabilities, which could lead to
+catastrophic outcomes, are not acceptable in Australia. Furthermore, continuous
+monitoring of biotechnological progress is essential to ensure that the capability to
+engineer pathogens never becomes widely available.
+
+Lab Leaks
+
+The recent debate over COVID-19's origins has highlighted a critical issue: the safety of
+high-level biosecurity labs, including Australia's Physical Containment Level 3 and 4 (PC3
+and PC4) facilities. This concern is directly relevant to the Inquiry's objective of improving
+our preparedness for future pandemics, particularly considering the Commonwealth's role
+as a regulator.
+
+It's crucial to acknowledge the diversity of opinions among experts regarding the safety of
+current lab practices. The differing views largely stem from whether the perspective is
+institution-focused or globally oriented. Given the universal impact of pandemics, I
+advocate for adopting a global viewpoint to evaluate the acceptable levels of risk.
+Historical events, such as the lab-related last smallpox death in 1978, the SAPS virus
+escapes, and the unintentional distribution of live anthrax spores by a US military lab, serve
+as stark reminders that lab leaks are real risks, not mere conjectures.
+
+A key area of concern is the dated regulatory framework governing Australia's PC3 and
+PC4 facilities. The Office of the Gene Technology Regulator (OGTR) is responsible for
+setting these standards, yet the guidelines for PC4 facilities haven't been updated since
+2007. This 16-year gap has led to outdated practices, such as the HERA filtration criteria,
+which rely on standards from the early 2000s. These standards have been shown to
+significantly overestimate PM2.5 filtration efficiency, a finding known since 2016, but
+seemingly unaddressed by the OGTR.
+
+Further compounding this issue is the limited oversight by the OGTR, as evidenced by its
+annual reports showing minimal inspections of PC4 facilities in recent years. This lack of
+regular assessments raises serious questions about the current state of lab safety.
+
+While I recognize the constraints faced by the OGTR, particularly its limited staffing and
+broad scope of responsibilities, it's imperative that we critically examine the regulatory and
+oversight mechanisms in place. The apparent shortcomings in the current system are
+concerning, given the high stakes of the work conducted in these facilities.
+
+Therefore, I propose that the Inquiry recommend an independent review of the regulatory
+and oversight regimes governing PC3 and PC4 facilities. This review should evaluate their
+safety and the global standards necessary to avert future pandemics stemming from lab
+leaks. An independent assessment would not only address potential gaps in current
+practices but also, if the experts confident in the safety of these practices are correct, help
+communicate this assurance to the public.
+
+In Summary
+
+The essence of my submission rests on two critical pillars: the potential risks of engineered
+pandemics accelerated by Al advancements, and the urgent need to reassess and
+strengthen our lab safety standards. These are not just theoretical risks but real and
+present dangers, as evidenced by past incidents and expert predictions. The steps we take
+today in addressing these issues will determine not only our preparedness for future
+pandemics but also the resilience of our health systems and the safety of our global
+community.
+
+I strongly believe that the best way forward is through proactive, forward-thinking
+strategies that embrace both technological advancement and rigorous safety standards.
+By aligning our efforts with international best practices and continuously adapting to
+emerging risks, we can create a framework that not only prevents future pandemics but
+also strengthens public trust in our scientific and health institutions.
+
+I urge the Inquiry to prioritise these issues in its recommendations. Our collective future
+depends on the actions we take now. The cost of inaction is too great, and the opportunity
+to lead and innovate in this space is both a responsibility and a privilege.
+
+This is our chance to shape a safer, healthier future for Australia and the world. Let's seize
+this moment with the urgency and seriousness it deserves.
+
+Sincerely,
+
+
+
+
+Luke Freeman
+Registered Voter, Electorate of^^^^H
+CEO, Giving What We Can
+Director of Philanthropy, Effective Altruism Australia
+

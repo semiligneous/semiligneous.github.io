@@ -1,0 +1,170 @@
+Submission with regards to the response to COVID-19 by the Government with particular reference to the
+terms of reference point: Key health response measures (for example across COVID-19 vaccinations and
+treatments, key medical supplies such as personal protective equipment, quarantine facilities, and
+public health messaging).
+
+We wish it to be noted from the outset this inquiry should instead fall under the auspices of a Royal
+Commission. We are a group of clinicians, scientists and a lawyer that have addressed the mRNA vaccines in
+two literature reviews that call into question their safety and efficacy. We write as private citizens and not on
+behalf of our academic and professional institutions which include: The University of Queensland-M
+                                                                    ■University of Melbourne
+  | Childrens Health -                                                     University of NSW
+LilyRose Antenatal Clinic^^^^^^^^^^^Flinders University - Dr Elvis Seman; unaffiliated^H
+
+
+We will focus on the safety and efficacy message promoted by State and Federal governments. A compilation
+of >3,500 peer reviewed case reports and studies documenting COVID-19 vaccine side effects can be found at
+yvww.reactl9.org. Various lines of evidence indicate a broad range of side effects including, but not limited         Formatted: Default Paragraph Font
+to: autoimmune disease, cardiac disorders, neurological disorders and death1. Many of the large-scale clinical
+trials intended to provide evidence of safety and effectiveness were still in progress at the time of the
+Australian roll out. This part of the regulatory process usually takes 10 to 12 calendar months, but for
+COVID-19 vaccines it was shortened by accepting data on a rolling basis. Safety was not clearly established
+when the vaccines were first rolled out.
+
+In 2021 evidence for potentially severe side effects of the Covid-19 vaccines was mounting. In early 2022
+1011 case studies reporting side effects after vaccination (i.e. temporal association) were available in the
+scientific hterature. Scientific papers (examining the mechanisms by which these products cause harm)
+voiced concerns about the S1 subunit of the spike protein being toxic2 3’4’5. Further concerns were raised about
+the lipid nanoparticles (LNP’s) - whose role is to deliver the mRNA cargo to target cells and tissues - and
+inadequate knowledge of both their pharmacokinetic and toxic attributes6,7.
+
+Pfizer’s internal documents show LNP’s with their mRNA cargo distributed throughout the body of rats,
+crossing blood-brain and placental barriers, concentrating in the ovaries and spreading through bodily tissues
+far from the injection site. Additionally, concerns arose about long duration of the modified mRNA
+(modRNA) derived spike protein production, the number of translated protein copies deriving from a single
+synthetic strand of mRNA, number of cells and tissues acting as antigen factories and, consequently, the total
+resulting amount of spike protein produced in the vaccinees - something which was apparently never tested.
+
+Moreover, highly experienced doctors and scientists around the world were raising concerns, in some cases
+under threat of losing their license to operate and their livelihoods. The rapid spread and high mutation rate of
+the virus would be expected to make the vaccines progressively less efficient. The Omicron variant
+predictably became endemic8. Despite published concerns, the modRNA and DNA vaccines continued to be
+promoted. When waning vaccine efficacy did become apparent, subsequent booster injections were then
+advocated for. In the public domain at least (mainstream media, government messaging), there was minimal
+real debate over competing paths forward. Critical experts were denigrated and / or silenced and the
+authorities ran a one-sided campaign promoting a single view that can best be considered highly contentious.
+
+Our first review9, articulated the pathogenicity of the spike protein, its biodistribution throughout the body, the
+long-lasting nature of and adverse events expected from such biodistribution and subsequent cellular
+production of a foreign antibody. Drawing on 253 references some key points of this review are:
+
+SARS-CoV-2 spike protein is pathogenic, whether from the virus or created from genetic code in modified
+RNA and adenovectorDNA vaccines.
+
+
+
+                                                                                                        1 | Pa ge
+Biodistribution rodent study data show LNP’s carry mRNA to all organs and across blood-brain and blood­
+placenta barriers. Some of these tissues are likely to be impervious to viral infection; therefore, the LNP-
+modRNA injection complexes will affect the biology of numerous tissues not affected by the virus itself.
+LNP’s have inflammatory properties.
+The modification of mRNA with N1-methylpseudouridine for increased stability leads to the production of
+synthetic spike proteins for months. It is uncertain how many cells and from which organs modRNA spike
+proteins are produced, and therefore, the exact effective dose delivered per vaccine vial is unknown.
+The long-term fate of modRNA within cells is currently unknown.
+Evidence suggests reverse transcription of modRNA into a DNA copy is possible. If germline cells
+incorporate the DNA copy into the host genome there is a possibility of trans-generational inheritance.
+Production of foreign proteins such as spike protein on cell surfaces can induce autoimmune responses and
+tissue damage. This has profoundly negative implications for any future modRNA-based drug or vaccine.
+The spike protein exerts its pathophysiological effects (‘spikeopathy’) via several mechanisms that lead to
+inflammation, thrombogenesis, and endotheliitis-related tissue damage and prion-related dysregulation.
+Interaction of the vaccine-encoded spike protein with ACE-2, P53 and BRCA1 suggests a wide range of
+possible biological interference with oncological potential.
+Adverse event data from official pharmacovigilance databases, an FDA-Pfizer report obtained via FOI, show
+high rates of injury and multiple organ systems affected: primarily neurological, cardiovascular, and
+reproductive.
+Pfizer and Moderna modRNA COVID-19 clinical trial data independently interpreted has been peer-reviewed
+and published to show an unfavourable risk/benefit, especially in the non-elderly. The risks for children and
+babies clearly outweigh the benefits.
+Repeated COVID-19 vaccine booster doses appear to induce tolerance and may contribute to recurrent
+COVID-19 infection and Tong COVID’.
+Treatment modalities for ‘spikeopathy’-related pathology in many organ systems require urgent research and
+provision to millions of people suffering from long-term COVID-19 vaccine injuries.
+
+Our second manuscript (currently under peer review) examines mechanisms for fertility effects, effects of the
+spike protein during pregnancy, the fine balance of immune responses, and evidence for whether the spike
+protein possibly harms the infant10. This review has only just been submitted to the journal, but we are happy
+to provide the reference to this paper upon publication. In summary:
+
+Nanoparticles facilitate both uptake into cells and transcytosis, vesicular transport of macromolecules from
+one side of a cell to the other and central nervous system translocation along axons and dendrites. No studies
+on half-life of vaccine components or amount of spike protein were ever produced.
+Data by Pfizer showed 24% of pregnancies came to an untimely end in the post-vaccination period.
+Numerous studies confirm toxic effects of nanoparticles due to formation of reactive oxygen species (ROS).
+Adverse events in women with possible reproductive implications include: irregular menstruation, menstrual
+cramps, increased period frequency, menstrual cessation and worsening of premenstrual symptoms
+The spike protein adheres to the estrogen receptor-a affecting activities such as ovulation.
+LNP’s concentrate in the ovaries and testes.
+The LNPs are highly analogous to exosomes, small vesicles that bud from cells in the body and have been
+shown to cross the blood-placental barrier in direction of both mother and foetus.
+The pregnancy and lactation cumulative review by Pfizer investigated 458 reports of exposure to vaccine
+during pregnancy, which included spontaneous abortion and foetal death, among others.
+Vaccination shifts the immune response in pregnant women towards an inflammatory profile.
+Booster vaccination seems to shift the immune system into tolerance to spike protein which allows its
+inflammatory effects to continue unabated leading to immune exhaustion and non-responsiveness.
+Events observed in infants/children exposed to the vaccine via breastfeeding include: vomiting, diarrhea,
+insomnia, allergy to vaccine, anxiety, agitation, pain and urticaria. Antibody dependent enhancement is an
+additional and serious risk.
+According to TGA most children are asymptomatic and, when symptoms occur, they are usually mild.
+Besides death reported due to vaccination of infants/children, the vaccine seems to decrease the immune
+response to bacterial, fungal and viral stimulation in children.
+
+
+                                                                                                    2 | Pa ge
+•   Despite the clear message of the government that modRNA never enters the nucleus and cannot be integrated
+    into our DNA, we demonstrate several ways for genetic material, both the modRNA, and modDNA
+    contamination, in the vaccine to enter the nucleus with the risk of integration into the genomic DNA.
+•   The impact of the gene-based COVID-19 vaccines on immune systems and reproductive health of the current
+    generation of mothers and their children is beginning to emerge.
+
+    Recommendation for the next pandemic :
+
+•   Respect the Nuremberg codes, especially the stipulation that no human being be subjected to medical
+    interventions without fully informed consent. Vigorously defend the patients’ inviolable right to a) bodily
+    autonomy and b) to opt out without undue pressure, compulsion, or threat.
+•   Those who suffer adverse effects or have a conscientious objection to vaccination must be offered alternative
+    evidence-based preventative strategies.
+•   Transparently share information and actively foster open debate among medics, academics, and society.
+•   Prioritise established treatments that have compelling long term safety records.
+•   Enable far greater involvement of practicing physicians in any epidemiology and modelling exercises.
+•   Encourage a healthy diet, fresh air, and plenty of exercise.
+•   Pharma companies must be held accountable for their products.
+•   Enable the necessary detachment of future pandemic responses from the biological-pharmaceutical complex.
+    There must be no TGA funding by pharma, nor should it be allowable that a TGA employee can join a pharma
+    company within at least 5 years of leaving the TGA and vice versa.
+•   There must be truth and honesty in medicine - its underpinning science, application, and regulation.
+    References
+    1. Turni. C.. Lefringhausen. A. (2022) COVID-19 Vaccines - An Australian Review. Journal of Clinical &
+        Experimental Immunology. 7(3): 491-508.
+    2. Zhang. S.. Liu. Y.. Wang. X.. Yang. L.. Li. H.. Wang. Y.. & Hu. L. (2020). SARS-CoV-2 binds platelet ACE2 to
+        enhance thrombosis in COVID-19. Journal of hematology & oncology. 13(1). 1-22.
+    3. Cattin-Ortola. J.. Welch. L. G.. Maslen. S. L.. Papa. G.. James. L. C.. & Munro. S. (2021). Sequences in the
+        cytoplasmic tail of SARS-CoV-2 Spike facilitate expression at the cell surface and syncytia formation. Nature
+        Communications. 12(1). 1-11
+    4. Colunga Biancatelli, M. L.. Solopov. P. A.. Sharlow, E. R.. Lazo. J. S.. Marik. P. E.. & Catravas, J. D. (2021). The
+        SARS-CoV-2 spike protein subunit SI induces COVID-19-like acute lung injury in K18-hACE2 transgenic mice
+        and barrier dysfunction in human endothelial cells. American Journal ofPhysiology-Lung Cellular and Molecular
+        Physiology. https://doi.org/L-00223-2021
+    5. Rhea E.M., Logsdon A.F., Hansen K.M., Williams L.M., Reed M.J., Baumann K.K., Holden S.J., Raber J.. Banks
+        W.A.. Erickson M.A. (2021). The SI protein of SARS-CoV-2 crosses the blood-brain barrier in mice. Nature
+        Neurosciences. 24(3):368-378. doi: 10.1038/s41593-020-00771-8.
+    6. Cattaneo A.G.. Gornati R.. Sabbioni E.. Chiriva-Internati M.. Cobos E.. Jenkins M.R.. Bernardini G. (2010).
+        Nanotechnology and human health: risks and benefits. Journal ofApplied Toxicology. 30(8 ).730A4. doi:
+         10.1002/jat. 1609. PMID: 21117037.
+    7. Valdiglesias V. & Laffon B. (2020). The impact of nanotechnology in the current universal COVID-19 crisis. Let's
+        not forget nanosafety! Nanotoxicology. 14:8, 1013-1016, DOI: 10.1080/17435390.2020.1780332
+    8. Ou. J.. Lan. W.. Wu. X.. Zhao T.. Duan B.. Yang P.. Ren Y.. Qusn L.. Zhao W.. Seto D.. Chodosh J.. Luo Z.. Wu J..
+        Zhang Q. (2022). Tracking SARS-CoV-2 Omicron diverse spike gene mutations identifies multiple inter-variant
+        recombination events. Signal Transduction and Target Therapy 7. 138. https://doi.org/10.1038/s41392-022-00992-2
+    9.       Parry. P. I.. Lefringhausen. A.. Turni. C.. Neil. C. J.. Cosford, R.. Hudson. N. J.. & Gillespie. J. (2023).
+         'Spikeopathy': COVID-19 Spike Protein Is Pathogenic, from Both Virus and Vaccine mRNA. Biomedicines. 77(8).               ___________________________
+        Jrftps.//doi. org/10.3390/b iomedicines 11082287_____________________________________________________                     I Formatted: Default Paragraph Font
+    10.       Lefringhausen. A.. Jeanes, A.. Parry. P.L, Gillespie. J.. Cosford. R.. Lucas A McLindon, L.A., Little. D.. Seman.   1----------------------------------------
+        E.I.. Turni. C. (2023). Spikeopathy': What are the Implications of Spike Protein and Nanoparticles on Reproductive
+        Health? [under peer review]
+
+
+
+
+                                                                                                                 3 | Pa ge
+

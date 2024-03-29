@@ -1,0 +1,129 @@
+I am grateful for the opportunity to contribute my thoughts and personal experiences
+regarding the Australian Government's response to COVID-19. As a^^^^ndividual from
+Melbourne, the pandemic deeply impacted my I
+^^^^^^^^■This experience highlighted the unique challenges faced by my demographic,
+both socially and economically, during such crises.
+My central point emphasises the critical need to focus on preventing future pandemics. From
+my perspective, addressing the risk of novel pathogens is something within our control. We
+should aim to prevent their emergence and swiftly tackle them if they arise. Considering the
+immense human and economic toll of pandemics, and acknowledging the possibility of
+facing even more severe outbreaks than COVID-19, prevention must be ourforemost
+objective.
+I strongly believe that the new Australian Centre for Disease Control should prioritise the
+prevention and control of emerging pathogens. The research paper by Bernstein et al., titled
+'The costs and benefits of primary prevention of zoonotic pandemics," supports this stance
+economically.Theirfindings, even under conservative assumptions and without accounting
+for emerging technological advances, argue convincingly for substantial investment in
+pandemic prevention.
+My feedback is primarily aimed at 'preventive health measures', as outlined in the third term
+of reference.
+Source: "The costs and benefits of primary prevention of zoonotic pandemics" - PMC (nih.gov)
+
+
+Al-Bioconvergence
+In addressing pandemic prevention, Australia must urgently consider the increasing threat
+of engineered pandemics. The Inquiry's terms of reference, which focus on anticipating future
+pandemics, must include this critical aspect. The growing accessibility of technologies for
+designing and releasing novel pathogens is a significant concern, as highlighted by experts
+like MIT Professor Kevin EsveltThis issue is also detailed in the Geneva Security report
+"Delay, Detect, Defend: Preparing for a future in which thousands can release new
+pandemics."
+Professor Brian Schmidt AC from the Australian National University has expressed deep
+concern overthe "democratisation" of biotechnology, foreseeing a future where creating new
+diseases might become alarmingly simple.The expanding market for synthetic DNA and Al
+tools exacerbates this risk.
+Recognizing the gravity of this situation, President Biden issued an executive order in
+October 2023, mandating a framework for secure DNA screening. This includes screening for
+risky DNA sequences, implementing access controls, and enforcing robust oversight.
+Currently, about 20% of DNA orders are unscreened, posing a significant risk.
+Australia, having a permitting regime for synthetic DNA importation, should align with the US
+by updating this regime.This would require labs importing DNA into Australia to adopt these
+new screening measures for all orders.
+However, this approach alone isn’t sufficient. Continuous advancements in biotechnology
+and Al could allow users to circumvent these regulations. Thus, the Inquiry should
+recommend that the Department of Industry collaborate with the Department of Health and
+the CDC to establish safety standards for frontier models in Australia. This should focus on
+identifying and restricting Al models that pose biosafety risks. There should be clear
+expectations set for developers to ensure that Al with dual-use capabilities that pose
+catastrophic risks are controlled. It's also vital to monitor biotechnological advancements to
+prevent the widespread ability to engineer pathogens.
+Sources:
+    • Biden, J. (2023) Executive Order on the Safe, Secure, and Trustworthy Development and
+        Use of Artificial Intelligence. The White House.
+    • Engineered Pathogens and Unnatural Biological Weapons: The Future Threat of
+        Synthetic Biology - Combating Terrorism Centerat West Point
+    •       Andrew Leigh MP: Speeches and Conversations”;16 December 2021; at 18:41
+    •       Home | International Gene Synthesis Consortium
+    •       The Common Mechanism - IBBIS
+    •       SecureDNA - fast, free, and accurate DNA synthesis screening
+    •       Understanding Al-FaciIitated Biological Weapon Development:
+        https://www.longtermresilience.org/post/report-launch-examining-risks-at-the-inters
+        ection-of-ai-and-bio
+
+Preventing novel sequences of concern via detection and screening
+Gopal et al's report from the Geneva Centre for Security Policy, titled “Securing Civilisation
+Against Catastrophic Pandemics,” sheds light on the criticality of early detection in
+managing pandemic threats, especially those engineered for national security disruption.
+The report describes two grave pandemic scenarios: "wildfire" and "stealth" pandemics.
+
+A "wildfire" pandemic is characterised by highly lethal and transmissible agents that could
+lead to societal collapse by disrupting essential services like food, water, power, and law
+enforcement. These pathogens must be virulent enough to incapacitate key workers, even
+during lockdowns. Theoretically, such pathogens, comparable to those in other species, could
+be engineered to affect humans.
+
+The report also outlines the concept of "stealth" pandemics. These involve pathogens that are
+initially mild or asymptomatic, with a prolonged incubation period, allowing widespread
+infection before their severe impacts are recognized. Current diagnostic protocols, which
+rarely sequence common colds, would likely miss such engineered pathogens.
+
+I liken a "wildfire" pandemic to a mix of measles and ebola traits, while a "stealth" pandemic
+combines elements of measles and HIV. In both cases, the rapid multiplication of cases
+highlights the value of time in pandemic response.
+
+The basic reproduction number (RO) is crucial in understanding pathogen spread. For
+instance, measles, with an RO of 12 to 18, demonstrates how quickly a highly infectious
+disease can escalate. Early detection of novel pathogens is vital to mitigate their impact.
+Catching a pathogen by the second generation of spread and responding by the third, instead
+of the fourth or fifth, could be crucial in managing bioterrorism and preventing societal
+breakdown.
+
+Thankfully, the COVID-19 pandemic has propelled advancements in early detection
+technologies. In Australia, we've improved testing infrastructure and surveillance
+approaches. The Inquiry should recommend building upon this progress to establish a robust
+public health monitoring and early detection system. This might include routine
+pathogen-agnostic testing of individuals with influenza-like symptoms who test negative for
+specific pathogens, and expanding wastewater screening through metagenomics.
+
+Publications like those from the Nucleic Acid Observatory, and papers by Australians such as
+Sharma et al's "Threat Net: A Metagenomic Surveillance Network for Biothreat Detection and
+Early Warning" and Liang et al's "Managing the Transition to Widespread Metagenomic
+Monitoring: Policy Considerations for Future Biosurveillance," offer insights into such
+systems.
+In facing both natural and engineered pandemic threats, rapid detection and response
+remain our most potent defence. As infectious disease landscapes evolve, prioritising and
+enhancing early detection is not only a health imperative but also a matter of national
+security.
+
+Citations:
+    • Securing Civilisation Against Catastrophic Pandemics | Geneva Centre for Security
+        Policy (October 2023)
+    • Sharma S, Pannu J, Chorlton S, Swett JL, Ecker DJ. Threat Net: A Metagenomic
+       Surveillance Network for Biothreat Detection and Early Warning. Health Secur. 2023
+       Sep-0ct;21(5):347-357.
+    • Chelsea Liang, James Wagstaff, Noga Aharony, Virginia Schmit, and David Manheim.
+        Managing the Transition to Widespread Metagenomic Monitoring: Policy
+       Considerations for Future Biosurveillance. Health Security.Feb 2023.34-45.
+
+The terms of reference of this inquiry primarily care about being better prepared for the
+future. The evolution of public health has always been driven by forward-thinking individuals
+who bring fresh ideas and perspectives to tackle health challenges. Emphasising the
+importance of pandemic prevention is paramount, and this includes acknowledging and
+preparing for novel methods through which pandemics could arise. Tackling these
+challenges will necessitate delving into complex and sometimes uncomfortable topics, such
+as the implications of Al-bioconvergence and the critical need foradvanced detection and
+screening techniques for emerging pathogens. Addressing these cutting-edge issues is vital
+to ensure a healthier and more secure future. Prioritising these innovative approaches in
+pandemic prevention will be instrumental in safeguardingglobal health against the
+ever-evolving landscape of infectious diseases.
+

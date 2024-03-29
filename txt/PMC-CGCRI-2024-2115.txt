@@ -1,0 +1,128 @@
+Thank you for this opportunity to contribute to the COVID-19 Response Inquiry. I am an Associate
+Professor and hold a PhD in Finance and am making my submission as an Australian university
+employed academic. My submission meets the scope of the inquiry in recognising the wide-
+ranging impacts of COVID-19 across portfolios and the community. My submission specifically
+focuses on the economic impacts of COVID-19 and the recommendations extend to preparedness
+for future pandemics.
+
+
+I note that although COVID-19 is no longer considered a Public Health Emergency of International
+Concern by the WHO, it recognises that the COVID-19 pandemic has not ended and that it is
+unlikely to be declared over in the near term. Australia continues to have widespread transmission
+of COVID-19 in the community.
+
+
+The current and ongoing economic cost of COVID-19 is driven by widespread transmission
+resulting in
+     -           excess mortality in working age groups
+     -    full or partial withdrawal of workers from the workforce due to the long term impacts of
+          initial and repeat COVID infections
+     -           absenteeism of workers due to illness or from caring for family members
+     -           increased cost to the healthcare system
+
+
+Excess mortality
+Excess mortality is widely regarded as the best measure of the overall impact of a pandemic since
+it includes deaths both directly and indirectly due to the disease.
+
+
+Actuaries Institute's COVID-19 Mortality Working Group estimated that there were just over
+20,000 (12%) more deaths in Australia in 2022 than we would have expected if there had been no
+pandemic. Total excess mortality for the first eight months of 2023 is 6% (6,400 deaths).
+
+
+Excess deaths in Australia, increased significantly in working age groups in 2022. Mitigations to
+reduce transmission including isolation and mask requirements were removed in 2022. Excess
+death rates for women aged 0-44 were higher than men in 2022 (10% vs 4%) but men aged 45-64
+has similar excess death (9%). The available 2023 estimates are only until 31 July and do not
+include the impact of the current major waves.
+
+
+Excess death rates (Actuaries Institute's COVID-19 Mortality Working Group)
+                                  2021             2022                   2023 (to 31 July)
+F 0-44                            4%*               10%*                  9%*
+F 45-64                           -1%              7%*                    2%
+M 0-44                            -2%              4%*                    -3%
+M 45-64                           -1%              9%*                    1%
+*statisticaIly significant at the 5% level
+An estimate of the economic impact of U.S deaths due to COVID in terms of national income
+growth supplemented by the value of lives lost, was approximately US$3.57 trillion. The scale of
+welfare losses underscores the pressing need to invest in mitigating transmission of diseases to
+prevent economic shocks from future pandemic threats.
+
+
+Long term impacts of initial and repeat COVID infections
+The   long term     impacts of COVID      include   physical   and   cognitive impairments such as
+cardiovascular,   auto-immune     and   neurological    impacts. The     risk of   long term   impacts
+increase significantly with each reinfection. Recent research suggests that COVID infection ages
+the brain by 2    years which potentially impacts current and future performance and productivity
+in large numbers of people.
+
+
+In the U.S it is estimated that there are about 10 times the number of people with long COVID as
+have died of COVID. A July 2022 Harvard University study estimated the economic costs of long
+COVID in the U.S as $3.7 trillion. 59% of the cost is lost quality of life; the remainder is reduced
+earnings and greater medical spending. The total amount is roughly $11,000 per person, or about
+17% of pre-COVID US GDP. The cost of long COVID rivals in aggregate the cost of the Great
+Recession. This may be an understatement of the costs as it does not include the economic impact
+of lower productivity (due to caring for others or working while ill).
+
+
+Long COVID impacts work hours and type of employment. People with long COVID are less likely to
+be employed, work fewer hours and experienced greater impact in their employment status and
+work hours than people without long COVID. A 2022 Brookings report estimated that 1.8% of the
+US labour force was out of work due to the long term impacts of COVID. Similar estimates have
+been made for the UK by the Bank of England in May 2022, where labour force participation had
+decreased by 1.3% across the entire 16-64 year old population. Labour shortages limit the
+economy's ability to grow without boosting inflation.
+
+
+In Australia, there is no reliable data on the prevalence of long COVID. A recent Victorian health
+survey recently found 14 per cent of respondents met long COVID criteria and numerous other
+studies suggest it occurs in 10-20 per cent of infections. It is estimated that Long COVID is costing
+the Australian economy at least $5.7 billion and up to $46 billion a year, depending on the
+number of people unable to work due to illness (Impact Economics and Policy).
+
+
+Business and customers bear the cost of absenteeism of workers due to illness or from caring for
+family members. Prior to the pandemic, the absenteeism rate in Australia averaged 3.3% per
+month. During 2022, the absenteeism rate rose abnormally high to 5.8% at its peak (/               ql
+
+Force Australia), likely reflecting a higher illness burden as COVID mitigations were removed. It is
+estimated that absenteeism cost Australian businesses $24.2 billion in lost productivity in 2022.
+Absenteeism not only negatively affects productivity but also in less measurable ways such as
+reduced customer service and satisfaction and lost revenue.
+
+
+Recommendations
+
+
+The enormity of these costs implies urgent need for policy to reduce transmission of COVID in
+Australia and the development of treatment for long COVID. These policies also apply to future
+pandemics.
+
+
+Recent research suggests that non-pharmaceutical interventions had statistically and economically
+significant effects on public health outcomes during the early years of the current pandemic.
+Importantly, they also had a much smaller impact on the labour market and economic outcomes.
+
+
+Polices to reduce transmission of COVID and future diseases include :
+   -   Setting and implementing national indoor air quality standards to reduce transmission of
+       all air borne diseases in public and private buildings (in line with recommendation 9 of the
+       Australian Long COVID inquiry).
+   -   Public health campaigns to educate the public on the impact of disease/COVID, how to
+       reduce transmission and the best means of protection
+   -   Access to paid sick leave for all workers. When workers do not have access to paid sick
+       leave, they are more likely to go to work sick, which increases transmission
+   -   Consultation with multi disciplinary expertise to inform and set responses and policy for
+       the current and future pandemics. The complexity and wide ranging impacts of pandemics
+       requires expertise from other disciplines besides public health and infectious diseases
+       including other medical specialists, engineers, architects, social scientists and economists.
+
+
+The benefits of implementing these polices would far outweigh the ongoing costs of the current
+pandemic. The costs of unmitigated transmission of COVID suggest that much greater weight and
+focus needs to be placed on implementing and maintaining mitigations to reduce transmission of
+diseases in future pandemics.
+

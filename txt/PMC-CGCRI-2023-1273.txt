@@ -1,0 +1,114 @@
+15 December 2023
+
+
+
+
+Covid enquiry submission
+
+
+
+
+I think that as Victoria had the longest lockdowns of all the states we are in a unique position
+to detail aspects of eye care that went well during the pandemic and areas that did not and
+could be improved when the next pandemic occurs.
+
+As we went into lockdown I communicated with colleagues at Moorfield's Eye Hospital in
+London for guidance, who at that stage were weeks ahead of us into the pandemic. Our unit
+members also sought guidance from the American Society of Retinal Specialists and the
+American Academy of Ophthalmology, both of whom were publishing guidelines for care of
+eye patients during a viral pandemic. We used this advice to plan our own approach.
+
+Following the advice from the United Kingdom and the USA, we split our team and had an
+increased number of rotations through operating lists. The consensus was that the highest
+risk for infection for health care workers from patients was in the outpatient clinic.
+A split team meant the entire unit would not need to isolate if one team was exposed. By
+increasing rotation through theatre lists, one member of the team was always in theatre
+during clinic, hence also sparing that person to continue working should a clinic exposure
+cause all of the clinic team to isolate. For the future this is a straight forward rostering
+change that can implemented quickly.
+As per DH guidelines only Category One patients were planned for theatre. Guidelines for
+this categorization were utilised however our unit maintained dicretion over which cases
+fulfilled those criteria. I think that it is very important for clinicians to prioritize surgical
+conditions to reduce blinding outcomes - this was not the case in the UK. I am aware that
+conditions that we classified as category one in Australia did not receive surgery in the UK,
+resulting in poor outcomes and ongoing issues for those patients in the UK.
+
+As we commenced lockdown it became apparent that the hospital did not have enough PRE,
+in particular N95 masks. Our hospital engineers rapidly installed slit lamp shields, as
+previously we did not have protective shields on slit lamps nor did we wear masks when
+examining patients in the outpatient clinic.^^^^^^^^H is a unique specialty as we are
+not only front line doctors but due to the natureoftnesHt lamp microscopic examination,
+we needed to be in very close facial proximity (often cms away) to patients for often
+prolonged periods of time which increased our airborne transmission risk.
+
+For the future, the provision of adequate PRE is vital and I think this needs to be
+manufactured in Australia to ensure supply. Every health care worker should be fit tested
+and hence know their appropriate mask. I was not able to be fit tested until after the second
+wave in Victoria due to the limited availability of fit-testing spots.
+
+During the numerous lockdowns in Victoria we reinstituted the measures detailed above
+and continued with urgent surgery. I think it is important to acknowledge that with the
+measures introduced by DH / the RVEEH eg. screening questions, RAT and PCR testing
+surgery could continue, particularly as we did not have inpatients with Covid.
+Most of our eye surgery is day case surgery performed under local anaesthetic and this is
+lower risk for the anaesthetic / theatre staff than patients undergoing general anaesthetic.
+Deferring semi-urgent and elective cases has resulted in compromised patient outcomes
+and has created an ongoing service delivery challenge that will impact the Health Service
+for the forseeable future. Continuing with as much semi elective and elective surgery as
+possible reduces the burden of overdue elective surgery that we are now facing. This could
+have been scaled up once vaccination for health care workers was available. In particular
+this could continue in hospitals / day surgery units that do not have inpatients with Covid or
+a future viral disease.
+
+Vitrectomy surgery had been identified as a potential aerosol generating procedure so we
+conducted a study which refuted, this both in the lab and in theatre.1
+
+Telehealth was encouraged during the pandemic however we found this is not helpful for
+patients with eye disease. We instituted week one phone reviews post surgery however we
+have now ceased this as post operative problems were missed and we were not providing
+the standard of care that we believe should be provided.
+
+
+
+1 Okada M, Sousa DC, Fabinyi DCA, Hadoux X, Edwards TL, Brown KD, Chiu D, Dawkins RCH, Allen PJ,
+Yeoh J, van Wijngaarden P. Vitrectomy as an Aerosol-Generating Procedure in the Time of COVID-19:
+The VAPOR Study. Ophthalmol Retina. 2021 Jan;5(1):97-99. doi: 10.1016/j.oret.2020.07.023. Epub 2020
+Jul 30. PMID: 32739608; PMCID: PMC7391065.
+ Our greatest failure was in the monitoring and screening of diabetic patients, in particular
+insulin dependent diabetics. In our haste to protect them from being infected with Covid,
+knowing that diabetes was a risk factor for severe disease, we did not institute better care
+and many were neglected for 3 years. We are now facing exponential numbers of patients
+with end stage diabetic eye disease and blindness. This is a very depressing situation,
+particularly as there are many treatment options for diabetic retinopathy when it is detected
+early but is now too late.
+
+I believe that the causes are multifactorial.
+    1)      Telehealth management of general diabetic care is not optimal.
+    2)      Some diabetics didn't even receive telehealth calls.
+    3) Screening for diabetic eye disease conducted by optometrists ceased due to closure
+        of optometry practices.
+    4) Diabetic eye disease progresses silently until it is advanced and so patients are not
+        aware until visual loss has occurred.
+    5) Most people exercised less during the lockdowns and very many people report
+        weight gain due to this.
+    6)      Stress often leads to "comfort eating".
+
+There have been articles in the press about diabetic renal disease and peripheral vascular
+disease which have also increased so this is not only an eye problem but a diabetic
+complications problem.
+
+For the future we need to prioritize care and screening of diabetic patients in a fashion
+that can make them confident to be seen safely face to face and communicate to all our
+patients with diabetes the importance of ongoing care to prevent complications.
+Screening with comprehensive imaging could be very useful in this setting and could
+minimise face to face examination.
+
+I would like to conclude by emphasising that with appropriate PRE, good infection control
+habits and Covid screening ophthalmologists can continue to work face to face providing eye
+care and treating blinding diseases. If I knew at the start of 2020 what I now know, I believe
+that we could have provided better care for the people of Victoria.
+
+
+
+Your sincerely
+

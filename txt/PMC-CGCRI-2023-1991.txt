@@ -1,0 +1,175 @@
+                       Australian Government
+                       Office of the Australian Information Commissioner
+
+
+
+
+Our reference: D2023/029520
+
+COVID-19 Response Inquiry Panel
+Department of the Prime Minister and Cabinet
+
+Online lodgement: www.pmc.gov.au/covid-19-response-inquiry/consultation
+
+Submission by the Office of the Australian Information Commissioner to the
+COVID-19 Response Inquiry
+
+Dear Panel
+The Office of the Australian Information Commissioner (OAIC) welcomes the opportunity to
+make a submission to the COVID-19 Response Inquiry Panel to inform recommendations that
+aim to improve Australia’s preparedness for future pandemics.
+This submission outlines the OAlC’s role during the COVID-19 pandemic, and key learnings
+that can be used to ensure that privacy and access to information are strategic considerations
+and enabling factors in any future pandemic responses.
+
+Overview
+The OAIC is an independent Commonwealth regulator within the Attorney-General ’s portfolio,
+established to bring together three functions: privacy functions (protecting the privacy of
+individuals under the Privacy Act 1988 (Cth) (Privacy Act) and other legislation), freedom of
+information (FOI) functions (access to information held by the Commonwealth Government in
+accordance with the Freedom of Information Act 1982 (Cth)), and information management
+functions (as set out in the Australian Information Commissioner Act 2010 (Cth)).
+The COVID-19 pandemic posed unprecedented challenges and the Australian Government
+needed to respond rapidly, making wide-ranging decisions that had significant impacts across
+all areas of society, including on public health and the economy. The use of personal
+information was central to the public health response, facilitating critical data analysis and
+supporting public health outcomes, while government release of timely and accurate
+information helped citizens around the world respond and support containment efforts.
+Privacy is a fundamental human right, as recognised in Article 12 of the UN Declaration of
+Human Rights and Article 17 of the International Covenant on Civil and Political Rights
+(ICCPR).1 However, the Privacy Act recognises that the right to privacy is not absolute, and
+privacy rights may need to give way where there is a compelling public interest reason to do
+so. In this regard, proportionality, reasonableness and necessity are key concepts that must
+be considered when determining whether a particular impact on privacy is justifiable in the
+circumstances.
+
+
+
+1 The right to privacy is also enshrined in many other international and regional agreements.
+
+                                                                                                OAIC
+1300 363 992               T+61 2 9284 9749       GPO Box 5218          www.oaic.gov.au
+oaic.gov.au/enquiry        F+61 2 9284 9666       Sydney NSW 2001       ABN 85 249 230 937
+The COVID-19 pandemic heightened public awareness of the importance of the protection of
+personal information and access to information, highlighting the need to develop and
+maintain trust and confidence in government to ensure successful policy outcomes.
+
+The role of the OAIC during the COVID-19 pandemic
+The OAIC played a critical role in supporting the Australian Government’s response to COVID-
+19. We worked closely with stakeholders across government and with our domestic and
+international counterparts to highlight the need to maintain privacy and information access
+frameworks, through proportionate and pragmatic public health responses, and the proactive
+release of information which was of paramount importance. Our work contributed to
+maintaining a principled, clear and consistent approach to the COVID-19 pandemic. In
+particular, the OAIC worked collaboratively with the Australian Government to establish
+appropriate privacy safeguards and oversight for the COVIDSafe app, assess and mitigate
+privacy risks during the rollout of the COVID-19 vaccination program and digital vaccination
+certificates, and published clear guidance on the importance of secure handling of
+vaccination information.2 The OAIC also convened the National COVID-19 Privacy Team with
+state and territory privacy regulators. The team met regularly throughout the pandemic to
+consider and provide advice to government on privacy risks and proposals with national
+implications, such as the collection of personal information for contact tracing purposes.
+The OAIC and state and territory privacy commissioners and ombudsmen produced national
+COVID-19 privacy principles to support a consistent approach to solutions and initiatives
+designed to address the ongoing risks related to the COVID-19 pandemic. A key principle was
+purpose limitation which ensured that information collected for a specific purpose related to
+mitigating the risks of COVID-19, like contact tracing, would not be used for other purposes.
+The OAIC also joined with our access to information counterparts to issue a public statement
+on the continued importance of transparency and FOI duringthe pandemic.3 Further, the
+OAIC engaged proactively with international regulators, including leading the adoption of a
+resolution at the International Conference of Information Commissioners that resulted in
+publication of a joint statement supporting the proactive publication of information relating
+to the COVID-19 pandemic.4
+
+Recommendations for future responses
+Proactive engagement
+To ensure privacy is a core consideration in government decision making during future
+pandemics, the OAIC strongly recommends proactive engagement and consultation with our
+office, as well as other privacy regulators and relevant stakeholders. Engagement during the
+early stages of response development and throughout a pandemic will ensure any
+government proposals that may have an impact on privacy are reasonable, necessary, and
+proportionate to achieving a legitimate policy aim.
+
+
+
+
+2 See guidance developed for organisations and Australian Government agencies on the OAIC website, COVID-19.
+3 OAIC, Joint statement on transparency and access to information during the COVID-19 outbreak, OAIC website, April
+   2020.
+4 OAIC, ICIC endorses OAIC resolution on proactive publication, OAIC website, June 2021.
+
+
+                                                             2
+Government policy solutions that incorporate appropriate privacy safeguards, protect
+personal information and minimise privacy risks are also critical to generating the public trust
+and confidence required for their successful implementation.
+Appropriate privacy safeguards
+Part of taking a proportionate approach is considering what safeguards can be implemented
+to mitigate privacy risks. For example:
+•   Implementing a ‘privacy by design’ approach, by which privacy is designed into
+    government responses from the start, will ensure objectives are achieved in ways that are
+    less privacy intrusive.
+•   Ensuring government responses adopt the data minimisation principle, which limits
+    the collection of personal information, including sensitive health information, to the
+    minimum information reasonably necessary to achieving the legitimate purpose.
+•   Ensuring purpose limitation is adopted in any frameworks established to collect
+    personal information, so that information is generally not used for other purposes and is
+    destroyed once it is no longer needed.
+•   Ensuring that government policy decisions take into account the security of personal
+    information and ensure it is protected from misuse, interference and loss, and from
+    unauthorised access, modification or disclosure.
+Coordination and collaboration
+The COVID-19 pandemic highlighted the need for comprehensive privacy laws to ensure the
+protection of personal information. For instance, early in the pandemic we observed the rapid
+development and rollout of contact tracing apps by app developers that may not have been
+covered by the Privacy Act due to the small business exemption, which raised privacy risks.
+The OAIC supports the proposal to remove the small business exemption as part of the Privacy
+Act Review. More broadly, Commonwealth, State and Territory governments are increasingly
+working together on national initiatives that involve sharing information across jurisdictions
+including in the response to the pandemic. In these circumstances, it’s critical that there are
+nationally consistent privacy laws to ensure personal information is subject to similar
+protections across jurisdictions and to provide clarity and simplicity for regulated entities and
+the community. To this end, one of the objects of the Privacy Act is to provide the basis for
+nationally consistent regulation of privacy and the handling of personal information. As part
+of the current Privacy Act Review the Government also agrees in-principle that a working
+group should be convened to work towards harmonising key elements of Commonwealth and
+state and territory privacy laws, with the forward work agenda for the working group subject
+to agreement with states and territories (proposal 29.3).
+Appropriate funding of oversight bodies
+Ensuring sustainable funding of our office and other important oversight bodies will also be
+essential to ensuring effective performance of our ongoing roles and any additional
+responsibilities resulting from future pandemics.
+Support for proactive publication and timely decision making
+Agencies are encouraged to develop strategies to support sudden increases in access requests
+and timely decision making, including developing organisational capability to respond to
+
+
+                                              3
+requests within legislative timeframes and identifying information that can be proactively
+published.
+In future pandemics, proactive publication of information should be supported and
+implemented by governments. Recognising the role that access to information has in building
+community trust during times of crisis is critical. Public authorities make significant decisions
+which affect public health, civil liberties and economic participation. The importance of good
+record-keeping, transparency and access to information is therefore amplified in the context
+of any global pandemic.
+If we are able to be of further assistance to the Panel please contact Stephanie Otorepec,
+Director on                 or                                  and copy
+
+
+Yours sincerely
+
+
+
+
+Angelene Falk
+Australian Information Commissioner
+Privacy Commissioner
+
+20 December 2023
+
+
+
+
+                                              4
+

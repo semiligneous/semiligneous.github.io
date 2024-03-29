@@ -1,0 +1,124 @@
+My submission emphasises the importance of Australia adopting a new strategy which pivots
+towards proactive pandemic prevention rather than remaining in a reactive mode of
+preparation.
+
+In terms of my personal experience as a university student throughout COVID-19, I felt it
+impacted my education and employment opportunities hugely. I spent the majority of my
+time indoors with little real social interaction, and the opportunities available to me
+decreased hugely - for example, I was unable to go on a planned international university
+exchange during this period and many employers I was interested in working for were
+accepting much lower numbers for internships, or not at all. I was also unable to visit my
+elderly grandparents who lived overseas, which is important to me.
+
+I know I am not the only young person who went through this -1 noticed my close friends
+experiencing the same hardships.
+
+The government's efforts should not just be limited to managing the fallout of a pandemic but
+should primarily focus on preventing one. Despite significant investments in mitigating other
+natural disasters, especially in light of climate change, there seems to be a lack of parallel
+action towards reducing pandemic risks. This is concerning,
+
+This perspective informs the remainder of my submission.
+
+Indoor Air Quality and emerging technology
+
+In my view, the Australian government should establish practical and clear regulations and
+standards to govern Indoor Air Quality (IAQ), with an emphasis on areas of high risk.
+Exposure to indoor airborne pathogens annually compromises the health of Australians,
+posing a particular threat to the most vulnerable among us, including the elderly and those
+with weakened immune systems. Improving IAQ controls would not only shield us from
+existing and future pandemics but also mitigate health issues associated with other hazards,
+such as non-pandemic respiratory diseases.
+
+Even though Australians spending approximately 90% of their time in indoor environments,
+the Australian Department of Climate Change, Energy, the Environment and Water points
+out that the country lacks comprehensive IAQ controls, aside from limited regulation by Work
+Safe Australia. In the absence of nationwide standards and codes outlining minimum
+performance requirements for infection control, my concern is that we may resort to
+inadequate interventions that offer minimal protection against pathogens.
+
+By instituting clear and effective IAQ Australia standards and practices, we would establish
+measurable air quality objectives aimed at minimising pathogen transmission. Without such
+targets, my fear is that manufacturers and innovators may produce products that fall short in
+purifying indoor air to levels necessary for reducing pathogen transmission. IAQ standards,
+informed by the most current scientific research in respiratory diseases, air filtration and
+sanitation, public health, and behavioural science, would foster a regulatory environment
+conducive to effective IAQ interventions for the Australian public. Further, explicit
+requirements should be included for high-risk settings where airborne infections could pose
+life-threatening risks, such as aged care homes, hospitals, healthcare facilities, and other
+centres caring for the immunocompromised.
+
+The Lancet COVID-19 Commission Task Force has proposed Non-infectious Air Delivery
+Rates (NADR) - meaning we now have measurable ventilation and filtration targets to
+protect against infectious disease transmission. While the Task Force acknowledges
+ongoing debates around the optimal metrics and targets, there is consensus that current
+practices are inadequate. I urge the Inquiry to review this report for a deeper understanding
+of the factors involved in setting effective IAQ codes and standards.
+
+The Australian Building Codes Board (ABCB) could potentially formulate these IAQ codes
+and standards within the National Construction Code. The ABCB could leverage the
+expertise of the Australian Commission on Safety and Quality in Health Care and the
+Australasian Health Infrastructure Alliance (AHIA) and build upon the existing IAQ work
+conducted by the ABCB. ASHRAE Standard 241, Control of Infectious Aerosols, could also
+contribute to the development of these codes and standards.
+
+Implementing clear IAQ codes of practice and standards will help protect Australians from
+airborne pathogens in indoor settings. With a suitable regulatory environment, we can curb
+pathogen spread, ease the strain on our public health system, and safeguard our most
+vulnerable community members.
+
+Improving laboratory safety
+There discussions about the origins of COVID-19 has drawn attention to the safety of BSL-3
+and BSL-4 labs. This includes the safety of Australia’s Physical Containment Level 3 and 4
+(PCS and PC4) facilities. This issue is within the scope of the inquiry - it pertains to the
+overarching goal of improving Australia’s resilience for future pandemics and considering
+what role the Commonwealth has to play as a regulator.
+
+I understand there are a spectrum of views among experts about the safety of current lab
+practices. This difference of opinion largely arises depending on whether one views it from
+the angle of a specific institution or from a global standpoint. Given that pandemics do not
+discriminate, a global outlook when evaluating our risk tolerance seems vital. Historical
+instances such as the last smallpox death resulting from a lab leak in 1978, BARS virus
+escaping labs multiple times in the early 2000s, and a US military lab inadvertently sending
+out live anthrax spores samples to 192 labs across eight nations in 2015, make it evident
+that lab leaks are a real concern.
+
+The Office of Gene Technology Regulator (OGTR) is responsible for issuing guidelines for
+certifying different categories of physical containment facilities in Australia, the last time
+these guidelines for PC4 facilities were updated was way back in 2007 - over a decade and
+a half ago. The obsolete nature of these regulations results in various issues. For instance,
+clause 32 provides criteria for the HEPA filtration of exhausts from PC4 facilities. However
+the 2007 guidelines reference AS 1324.1 and AS 1324.2 from 2001 and 1996 respectively.
+AS 1324.1 is based on EN779from 1993. In Europe, EN779 was superseded by ISO16890
+in 2016. This update was crucial as it was found that the EN779 (and therefore AS 1324.1)
+greatly overestimated the efficiency of PM2.5 filtration in some cases by not considering
+electrostatic charge.
+
+ This indicates that since at least 2016, we have been aware that the filtration of exhausts
+from PC4 facilities might be only half as efficient as intended, but the OGTR has seemingly
+made no move to mitigate this risk.
+
+This risk is further amplified by the fact that the OGTR's annual reports show no inspections
+of PC4 facilities were conducted in the 2022-23 or 2021-22 reporting years and only a single
+inspection was carried out in 2020-21.
+
+I present this critique not with any animosity towards the OGTR. With a workforce of around
+50, the OGTR has multiple responsibilities and overseeing PCS and PC4 facilities is not its
+main function.
+It’s alarming that a cursory review of the regulations and oversight of these facilities in
+Australia demonstrates what appears to be serious deficiencies in the standards that I would
+expect for such important work. At the very least, considering the importance of public trust, I
+believe that the Inquiry should advocate for an independent review of the current regulatory
+and oversight systems, the safety of these facilities, and the public's expectations of their
+safety to assure there isn't a genuine risk of a future pandemic stemming from a lab leak. If
+those experts who believe there is no cause for concern are correct, an independent review
+of this nature could help clarify to the public why that is so.
+Concluding statement
+
+I believe that pandemics represent one of the most significant challenges we face in the
+current era, and the expert opinion that the threat of pandemics is on the rise is deeply
+concerning. It's crucial that this investigation thoroughly explores potential origins of future
+pandemics and provides explicit suggestions to mitigate their occurrence. This should
+encompass not only traditional sources of disease, like zoonotic transmission, but also more
+modern risks such as laboratory accidents.
+

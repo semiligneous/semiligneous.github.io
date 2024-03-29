@@ -1,0 +1,176 @@
+■C sh a
+SHPA response to Commonwealth Government COVID-19 Response Inquiry, November 2 I23
+
+The Society of Hospital Pharmacists of Australia (SHPA) is the national, professional organisation for the 6,100+ Hospital
+Pharmacists, and their Hospital Pharmacist Intern and Hospital Pharmacy Technician colleagues working across
+Australia's health system, advocating for their pivotal role improving the safety and quality of medicines use. Embedded in
+multidisciplinary medical teams and equipped with exceptional medicines management expertise, SHPA members are
+progressive advocates for clinical excellence, committed to evidence-based practice and passionate about patient care.
+
+SHPA welcomes the opportunity to respond to the Commonwealth Government COVID-19 Response Inquiry. As the
+peak body representing hospital pharmacists in Australia, SHPA and its members are proud to have played a significant
+role in responding to the impact of the COVID-19 pandemic on the Australian healthcare system. SHPA was proud to be
+the only pharmacy organisation represented on the National COVID-19 Clinical Evidence Taskforce and believes that
+involving pharmacists in the implementation and development of clinical guidelines is critical to the appropriate clinical
+management of any future pandemic.
+
+Hospital pharmacists have played a critical role throughout COVID-19 pandemic, operating the logistics of, and making
+up vaccine doses for state-run mass vaccination clinics during 2021, and supplying and dispensing vital COVID antiviral
+treatments from the National Medical Stockpile for the prophylaxis and treatment of COVID-19.
+
+The leadership of the Therapeutic Good Administration (TGA) during the global pandemic period has played a vital role in
+connecting stakeholders in areas of medicine supply, pharmacy, and healthcare, addressing traditional gaps in policy and
+regulatory cohesion. Despite this, the Australian Government's response to the pandemic also highlighted existing
+weaknesses in medicine supply and access.
+
+While early discourse around hospital capacity to support mass surges of intensive care unit (ICU) presentations were
+framed around the access to vital medical equipment such as ventilators, there was not commensurate discussion and
+alarm around all the essential medicines required to support people on ventilation, such as neuromuscular blockers and
+sedative agents for intubation of patients.
+
+These challenges faced by Australian hospitals were previously discussed in SHPA’s submission to Senate Inquiry into
+the Australian Government’s response to the COVID-19 pandemic^ which would be relevant to this submission. These
+findings were supported by SHPA’s COVID-19 Hospital Pharmacy Capacity Snapshot Series report2 which lasted for five
+weeks between April - May 2020, when the entire world was experiencing or preparing for mass surges in intensive care
+hospital activity that had not been experienced before.
+
+The lessons learned for hospitals and other key stakeholders from navigating the COVID-19 pandemic will help improve
+Australia's preparedness for future pandemics and public emergencies. This submission will discuss factors that
+contribute to hospital preparedness and capacity to respond to public emergencies and the importance of effective
+information sharing in strengthening Australia's pandemic response.
+
+If you have any queries or would like to discuss our submission further, please do not hesitate to contact Jerry Yik, Head
+of Policy and Advocacy on ivik@shpa.orq.au .
+
+
+
+
+         The Society of Hospital Pharmacists of Australia
+         PO Box 1774 Collingwood Victoria 3066 Australia
+         (03)9486 0177 | shpa.org.au | shpa@shpa.org.au | ABN: 54 004 553 806
+Strengthening support for hospitals to drastically scale operations during pandemic response
+
+As captured by SHPA’s COVID-19 Hospital Pharmacy Capacity Snapshot Series, the single largest concern experienced
+by Directors of Pharmacy, Chief Pharmacists and SHPA members nationally was the immense difficulty experienced by
+hospital pharmacy departments to provide critical medicines for the anticipated surge of patients requiring ventilation in
+intensive care units.2 While the release of modelling and collaborative efforts between federal and state governments
+enabled Australian hospitals to rapidly increase the number of their ICU beds by 250%, consideration of medicines
+required to use these beds were unfortunately not prioritised. These medicines included, but were not limited to:
+
+    ■        propofol - induction agent for intubation, sedative agent for ventilation
+    ■   cisatracurium, atracurium, rocuronium, vecuronium, pancuronium - neuromuscular blockers to facilitate intubation
+        and ventilation
+    ■        midazolam, fentanyl - induction agents for intubation, sedative agents for ventilation
+
+Lack of transparent communication between medicines manufacturers and wholesalers and the jurisdictional
+governments or hospitals eventually led to unreasonable restrictions being placed on hospital orders to prevent
+‘stockpiling’, with manufacturers determining supply based on ‘historic’ orders. In an evolving landscape of a global
+pandemic, it would be inappropriate to rely on historic orders to inform supply decisions. Furthermore, ‘stockpiling’, a
+terminology used to describe unnecessary compiling of resources, did not accurately describe the actions of hospitals
+seeking to obtain critical medicines necessary to treat patients in an anticipated volume requested by jurisdictional
+preparedness plans.
+
+The ability of hospitals to rapidly scale up and down operations in response to the dynamic nature of the pandemic
+remains a critical aspect of an effective healthcare system. SHPA recommends that the Australian Government utilise
+policy and regulation to ensure that Australia's medicines supply system is strengthened to reduce the chance that
+Australian hospitals are left at risk of undersupply of key medicines during a global pandemic. SHPA’s Pharmacy
+Forecast Australia 2021 report discusses potential policy frameworks which the Australian Government can pursue to
+strengthen Australia's medicines supply chain.3
+
+The learnings from this experience also highlights the need for enhanced collaboration with relevant stakeholders to
+establish a centralised system for managing and distributing critical pharmaceutical supplies during emergencies. In this
+respect, SHPA welcomes the Australian Government's plans to establish the Australian Centre for Disease Control as
+part of improving a nationally coordinated response to public health emergencies.4 Looking forward, this establishment
+will support Australia's pandemic preparedness and operational response capacity, as well as improve governance
+arrangements across all levels of government.
+
+Ensuring hospital pharmacy representation in key committees involved in medicines use during pandemic response
+planning
+
+SHPA was pleased to be able to participate and provide valuable information to the Medicines Shortages Working Party
+(MSWP) convened by the TGA to discuss medicines shortages during the pandemic. While the MSWP comprised of
+representatives from the TGA, pharmacy associations, medical associations, and the pharmaceutical sector, a subset of
+this committee specifically formed to address the management of available stock did not involve pharmacy
+representation.
+
+This may have contributed to the implementation of a strategy which relied heavily on ‘historic’ supply and existing
+customer relationships with wholesalers. Greater understanding of hospital procurement through hospital pharmacy
+representation on this committee could have provided more useful insight into effective resource allocation and early
+identification of problems that may arise with a blanket policy of ‘part’ or ‘back-ordered supply'.
+
+Lack of pharmacist representation was also noted in key specialist committees advising on the use of vaccines such as
+the Australian Technical Advisory Group on Immunisation (ATAGI) recommendations.5 This weakness was demonstrated
+by the early confusion of pharmacy stakeholders regarding what type of syringes or needles they required to draw up
+vaccines, to ensure that the entire vaccine dose could be delivered, and subsequently how to source these vaccine
+consumables as they were understandably highly sought after globally.
+
+         The Society of Hospital Pharmacists of Australia
+         PO B°x      Collingwood Victoria 3066 Australia
+         (03)9486 0177 | shpa.org.au | shpa@shpa.org.au | ABN: 54 004 553 806
+SHPA recommends that during an emergency, any strategic restrictions of medicine supply are determined in
+collaboration with government and hospital representatives to avoid negative unintended consequences and that these
+restrictions are effectively communicated to all affected parties. This may also benefit from increased transparency of
+medicine stocks held in hospitals to enable smoother coordination of stock movement if required.
+
+Supporting the use of modelling to inform medicines supply requirements during pandemic response
+
+As COVID-19 cases began to ramp-up, disruptions to medicine supply chains and subsequent medicines shortages
+impacting access to critical and life-saving medicines required in ICUs led to panic across all hospitals in Australia.
+Hospital pharmacists across the nation took it upon themselves to identify essential medicines and develop modelling to
+indicate the minimum quantities necessary based on the government's projected COVID-19 cases, and to procure them.
+
+Whilst the modelling of medicines requirements in hospitals were addressed by the specialist skills of hospital
+pharmacists, this created an additional burden for individual hospital pharmacy departments who were already
+experiencing workforce pressures with the surge in COVID-19 cases impacting their staff and workload.
+
+The availability and continued revision of modelling of medicines during pandemic planning is crucial to ensuring
+adequate medicines access for ongoing treatments of patients. SHPA recommends that the Australian Government
+recognises the importance of modelling to inform medicines requirements and its workforce impacts during pandemic
+responses, and adequately support hospital pharmacy workforce capacity, who are vital to future pandemic planning.
+
+Improving transparency regarding the role of Australia's strategic medicine reserves
+
+Australia holds a National Medical Stockpile with a limited quantity of pharmaceuticals, vaccines, and antidotes for use
+during public health emergencies. During the pandemic, the lack of transparency regarding its existence, contents, and
+access requirements of this national resource limited hospitals in ensuring adequate medicines access, particularly those
+required to support ventilation of critically ill patients, and prevented effective resource allocation during the pandemic.
+
+Inconsistencies in the availability of information relating to jurisdictional medicine reserves were also present. While most
+Directors of Pharmacy participating in SHPA’s COVID-19 Hospital Pharmacy Capacity Snapshot Series report responded
+to being aware of the existence of jurisdictional medicine reserve by mid-May 2020, 57% of responders were not aware of
+the extent of this reserve and 75% were not confident that it would meet the demands in the event of their planned-for
+surge scenario.1 23
+                  5
+                  4
+
+We need greater exchange of information and collaboration between governments responsible for health care, and
+improved leadership and governance to prepare Australian hospitals for future response to pandemics and public health
+crises. In future, it would be valuable if the Australian Government increased the information available regarding national
+and jurisdictional medicine reserves during non-pandemic periods so that protocols for access during pandemics are well
+understood.
+
+Attachments
+      ■          SHPA submission to Senate Inquiry into the Australian Government's response to the COVID-19 pandemic
+      ■          SHPA COVID-19 Hospital Pharmacy Capacity Snapshot Series
+
+References
+
+1 The Society of Hospital Pharmacists of Australia. (2020). SHPA submission to senate inquiry into the Australian Government’s response to the COVID-19 pandemic.
+Available at: https://prod.shpa.bond.software/publicassets/efff7c65-a187-ec11-90fc-
+00505696223b/shpa submission to senate inquiry into the australian governments response to the COVID-19 pandemic.pdf
+2 The Society of Hospital Pharmacists of Australia. (2020). COVID-19 Hospital Pharmacy Capacity Snapshot Series Final Report May 2020. Available at:
+https://shpa.orq.au/publicassets/6da941d0-de53-ec11-80dd-005056be03d0/shpa COVID19 hospital pharmacy capacity snapshot series final report may 2020.pdf
+3 The Society of Hospital Pharmacists of Australia. (2021). Pharmacy forecast Australia 2021, June 2021. Available at: https://shpa.orq.au/publicassets/89ea30be-de53-ec11 -
+80dd-005056be03d0/pharmacy forecast australia 2021.pdf
+4 Department of Health and Aged Care. (2023). Australian Centre for Disease Control. Available at: https://www.health.qov.au/our-work/Australian-
+CDC#:~:text=Qn%20Fridav%2010%20November%202023,emerqencies%20with%20a%20health%20impact
+5 The Society of Hospital Pharmacists of Australia. (2023). SHPA submissions to preparing for, and responding to, future pandemics and other international health
+emergencies. Available at: https://shpa.orq.au/publicassets/6d791 18a-5257-ee 11-912d-00505696223b/SHPA-submission-to-Preparinq-for-and-respondinq-to-future-
+pandemics-and-other-international-health-emerqencies.pdf
+
+
+
+             The Society of Hospital Pharmacists of Australia
+             PO Box 1774 Collingwood Victoria 3066 Australia
+             (03)9486 0177 | shpa.org.au | shpa@shpa.org.au | ABN: 54 004 553 806
+

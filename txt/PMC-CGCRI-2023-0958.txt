@@ -1,0 +1,181 @@
+                                       AUSTRALIAN ®
+
+
+
+         ©AIOH                         INSTITUTE OF
+                                       OCCUPATIONAL
+                                       HYGIENISTS
+
+
+
+
+Commonwealth Government COVID-19 Response Inquiry
+AIOH Submission
+Association number: A0017462L; ABN: 50 423 289 752; Approved by AIOH Executive: 14 December 2023
+
+Acknowledgements
+The AIOH Council acknowledges the work of members who contributed to this submission: External Affairs
+Committee: Kate Cole OAM (Chair), Professor Dino Pisaniello, Professor Deborah Glass, Tracey Bence, Jeremy
+Trotman, Peter Knott, Dr Sharann Johnson AM and Shelley Rowett; Co-opted AIOH members: Jane Whitelaw,
+Mark Reggers, Dr Laurie Glossop. Enquires related to this submission should be directed to the Chair of the AIOH
+External Affairs Committee at||||||||||||^^
+
+Who we are
+Occupational hygienists are the main frontline professionals who assess worker exposure to health hazards to
+prevent ill health through science-based investigation and testing of the efficacy of risk controls.
+The                                                    (AIOH) is the largest professional body for the scientists
+and engineers dedicated to protecting the health of workers in Australia. Established more than 40 years ago
+our members are at the coal face of health and safety assessment and risk reduction, working in metropolitan,
+rural and remote locations. We are in a unique position to understand the often complex nature of workplace
+health hazards and the efficacy of the protection against occupational illness provided to Australian workers.
+Our mission is to promote healthy workplaces and protect the health of workers through the advancement of
+the knowledge, practice and standing of occupational health and occupational hygiene. The AIOH is a founding
+member of the International Occupational Hygiene Association and many Australian occupational hygienists are
+engaged in occupational hygiene research with international collaborators. The AIOH brings world-wide
+experience and insights on a range of traditional and emerging occupational hygiene issues.
+Occupational hygienists have a detailed understanding of air contaminants, including bioaerosols, their
+aerodynamic behaviour, associated worker exposures and control measures, including bioaerosols, ventilation,
+air treatment and personal protection. The "Role of the Occupational (Industrial) Hygienist in a Pandemic" was
+originally published in 2006 and many recommendations were implemented during COVID-19.
+
+Our Submission
+The AIOH bring the following specific items to the attention of the inquiry for future learnings:
+    1.     The need for occupational hygiene expertise in multi-disciplinary advisory bodies.
+    2.     The need for improved processes for the importation and approval of respiratory protection.
+    3.     The opportunity to leverage learnings from industry.
+Occupational Hygiene Expertise
+
+Occupational hygienists are a key group in infection prevention under elimination and containment strategies.
+They have unique interdisciplinary knowledge of airborne transmission and respiratory protection and
+effectively interact with engineers, healthcare professionals and others. For example, the AIOH supported the
+Australian Commission on Safety and Quality in Health Care National Clinical Taskforce through provision of
+expertise to review and enhance the existing National Safety and Quality Health Service Preventing and
+Controlling Healthcare-Associated Infection Standard, released in 2021. Numerous AIOH members supported
+federal and state governments in their response to COVID-19, including taskforces established to address the
+safety of healthcare workers and those in managed quarantine, including the National COVID-19 Clinical
+Evidence Taskforce Infection Prevention and Control (IPC) Panel. In addition, the AIOH delivered several
+webinars on relevant topics including respiratory protection and managing ventilation and infection risk.
+
+PO Box 2124 Gladstone Park Vic 3043 Australia | P:+61 3 9338 1635 | aioh.org.au                                     1
+                                        AUSTRALIAN ®
+
+
+
+        ©AIOH                           INSTITUTE OF
+                                        OCCUPATIONAL
+                                        HYGIENISTS
+
+
+
+
+Quarantine hotels were used in the initial COVID-19 response. Disease transmission within the hotels was
+related to ventilation, and pressure differentials between rooms and corridors. Occupational hygienists
+demonstrated the issue of unwanted air movement and the WA response included a
+                                  . This subsequently expanded to hospitals and prisons, and operation centres of
+FMG and Rio Tinto. In situations where it is difficuIt/impossibIe to provide adequate air exchange, the use of
+mobile/supplementary HERA filter systems was an option in filtering air of the virus.
+                     is a direct consequence of this new knowledge of aerosol transmission, and enhanced
+ventilation is being explored in the ARC funded Industrial Transformation Training Centre, led by OUT.
+In addition, during the pandemic there was a lack of understanding of the difference between a surgical mask, a
+cloth mask and respiratory protective devices. A surgical mask is not intended to provide respiratory protection
+to the wearer. This lack of understanding was most evident in the community and, to some extent, in healthcare
+despite well-developed science applied in industrial settings. There was general resistance in healthcare to the
+need and                                   in line with Australian and international respiratory protective device
+standards. Most previously had a position that a fit check was equivalent to a fit test which is not the case.
+Healthcare was very resistant to accepting guidance and scientific evidence from other professional fields such
+as occupational hygiene.
+What was clear during participation in these numerous committees and groups, was the prior absence, and the
+value of, deep expertise in practical strategies to protect the health of workers during pandemic response
+planning.
+We recommend that the Federal Government include the requirement for expertise from a Certified
+Occupational Hygienist in multi-disciplinary advisory bodies.
+Register for approved respiratory protection
+There was a surge in demand to use respiratory protection against the transmission of viruses such as COVID-
+19. That demand created a number of issues including:
+
+    •   Uncertified and non-fit-for-purpose products flooding the international marketplace and directly
+        advertising such products to the public;
+
+    •   Insufficient information being available to support members of the public in how to use face masks
+        correctly. This was further underpinned by frequent images of incorrect usage of face masks across
+        popular media;
+
+    •   Concerns that use of face masks were appropriate for certain public health hazards, and that their use
+        can actually increase the risk of exposure; and
+
+    •   A severe shortage of approved products (P2/N95) for those at high risk such as firefighters and health
+        care workers.
+
+There was a flood of non-compliant products into the country registered by the TGA as therapeutic devices prior
+to the market surveillance process being implemented. No central body could provide confidence that products
+sold in Australia met the Australian standard and had to rely on claims and documents from PRE distributors
+and manufacturers. This left the door open for many smaller and unknown manufacturers with dubious
+claims/performance, as, for many, it was the only option to select for the industry. Lobbying by the AIOH in 2020
+into counterfeit products lead to a probe by the                       with over 1300 products being withdrawn.
+Hospitals require that respirators all be ARTG registered products, which limits the range and accessibility of
+products, whereas the majority of countries treat it all as PPE, reducing barriers to accessibility. There is
+provision to select PPE not on the ARTG based on a risk assessment, but most were reluctant to do this.
+
+
+
+PO Box 2124 Gladstone Park Vic 3043 Australia | P:+61 3 9338 1635 | aioh.org.au                                   2
+                                        AUSTRALIAN ®
+
+
+
+       ©AIOH                            INSTITUTE OF
+                                        OCCUPATIONAL
+                                        HYGIENISTS
+
+
+
+
+There was a lack of national standards and approach to respirator use, with each state doing their own thing,
+with the best intentions. This created inconsistencies in state health guidelines and recommendations and did
+not follow a precautionary approach in protecting healthcare workers. The wearing of P2/N95 respirators
+seemed to apply only for "aerosol generating procedures".
+The first scientific papers describing a large scale quantitative respiratory fit testing program for health care
+workers, and associated organisation issues, were co-and principally-authored, by a certified occupational
+hygienist in 2010. It addressed an influenza pandemic but was heavily cited in a                      in the context
+of the COVID-19 pandemic. We submit that there is much to learn and many opportunities for improvement in
+the way that respiratory protection is approved for use in Australia's workplaces.
+We recommend that the Federal Government allocate funds for the development of improved processes
+surrounding the importation and approval for the use of respiratory protection in Australian
+workplaces.
+Leveraging off industry knowledge
+We know from a                on real-world network data collected in Bucharest, that common transmission
+chains started with infected individuals who held jobs in the private sector and connected with non-active alters.
+Occupational transmission has been well publicised (e.g.              ), but not rigorously analysed to optimise
+future preventive efforts.
+While the Australian government had disaster and emergency management systems in place pre-COVID-19, we
+note that government-run pandemic exercises were rarely run at scale (                                ), and even
+more rarely involved industry. Thus, from an operational perspective, essential industries had to rely on internal
+health expertise for their continuity and response. Indeed, a number of industries, especially multinationals,
+rapidly generated best practice for disease prevention.
+Many occupational hygienists work in industry and have provided feedback on the early adoption of
+comprehensive systems and processes to protect the health of their workforce in the peak of the pandemic.
+Most Australian operations of large industrial businesses had set up their crisis response teams in January 2020
+when COVID-19 had emerged in the USA. Global companies often had large clinical teams, in-house medical
+practitioners, health promotion specialists, occupational hygienists and sometimes epidemiologists and
+infectious disease specialists who had worked through Ebola, avian influenza and SARS CoVI epidemics.
+Industry has decades of experience in health and safety risk management and were adept at applying
+consequence v likelihood to maintain productivity when face to face work was still required.
+Large businesses in resource and construction sectors were deemed essential services and the drive to keep
+providing energy and other commodities of high value meant the effort to innovate and develop best practices
+was well spent. One notable best practice in a                            whose scientists were quick to recognize
+airborne route as a viable source of SARS-CoV2 transmission. By July 2020 it had expanded its layers of
+safeguards for COVID from the typical approach of 4 x Ws (Wash hands, wear mask, watch your distance, work
+from home) to include 2 x Vs (vaccination, ventilation). Ventilation risk assessments were rolled out across its
+global onshore and offshore operations and meeting indoor air quality standards became part of pre-conditions
+for worksites to keep their employees at work or allow them to return to work.
+For future pandemics, it would be beneficial to engage with, and utilise expertise from occupational hygienists
+and the experience from global companies. Australia has a number of "industry towns" where the supporting
+industry resources are crucial. It is well known that the loss of scarce healthcare personnel in remote
+communities leads to breakdown of health systems. Pandemic planning needs to identify the availability of
+remote industry resources.
+We recommend that the Federal Government look outwards to industry for examples of best practice
+for workplace health and safety.
+
+
+PO Box 2124 Gladstone Park Vic 3043 Australia | P:+61 3 9338 1635 | aioh.org.au                                        3
+

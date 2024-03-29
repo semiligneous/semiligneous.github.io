@@ -1,0 +1,373 @@
+                    AiP
+                     Australian Institute for Progress
+
+
+
+
+Submission to
+Commonwealth
+Government COVID-19
+Response Inquiry
+
+
+
+
+                                                      www.aip.asn.au
+The Australian Institutefor Progress exists to advance the discussion, development and implementation ofpublic policy for Australia’s future,
+                                       from its base in Brisbane. Thefuture does not look after itself
+Submission Combatting Misinformation and Disinformation                          20/08/2023
+
+
+
+
+Table of Contents
+  Introduction...............................................   Error! Bookmark not defined.
+
+  Onus on proponents of legislation.............                Error! Bookmark not defined.
+
+     Faulty research.......................................     Error! Bookmark not defined.
+
+  Relationship to the original ACCC research                    Error! Bookmark not defined.
+
+  Effect on new media..................................         Error! Bookmark not defined.
+
+  Recommendations.....................................          Error! Bookmark not defined.
+Commonwealth Government COVID-19 Response                                                                                 15/12/2023
+
+
+
+
+December 15, 2023
+
+
+
+
+Ms Robyn Kruk AO
+Chair
+Independent Panel
+Commonwealth Government COVID-19 Response Inquiry
+Department of Prime Minister and Cabiner
+CANBERRA ACT 2601
+
+
+Dear Ms Kruk,
+
+
+
+
+The Australian Institute for Progress is an Australian think tank based in Queensland that took an
+early interest in COVID -19 policy. We thank the committee for this opportunity to make a
+submission on the Communications Legislation Amendment (Combatting Misinformation and
+Disinformation) Bill 2023.
+
+Should you have any queries you may contact me by email                                                            ■ or by phone
+
+
+
+
+Regards,
+
+
+
+
+GRAHAM YOUNG
+EXECUTIVE DIRECTOR
+
+
+
+
+                                                       www.aip.asn.au
+The Australian Institute for Progress exists to advance the discussion, development and implementation ofpublic policy for Australia’s future,
+                                        from its base in Brisbane. Thefuture does not look after itself.
+Commonwealth Government COVID-19 Response                                                 15/12/2023
+
+
+    1.      Introduction
+The Australian Institute for Progress was formed in 2014 as a think tank. We are interested in a
+number of policy areas, including science and economics. In early 2020 we became interested in
+COVID-19 policy, both as a result of COVID-19's potential as an existential threat, and then because
+of policy errors, their economic impacts, and the lack of scientific rigour behind them.
+
+Initially borders were closed and lockdowns ordered to flatten the curve - that is that the underlying
+policy was one of achieving "herd immunity" modified by a short-term need to ensure that health
+infrastructure could deal with the expected load.
+
+In March we wrote to our members broadly supporting government health measures at the time but
+calling for more data and a flexible decision-making process.
+
+With more data, by April we noted the policy appeared to have shifted to one of elimination and
+publicly disagreed with a number of government policies, including lockdowns. Early in June we
+organised an open letter to heads of Australian governments signed by a number of public figures
+and academics calling for the economy to be re-opened on the basis of cost benefit analysis. We also
+called for better governance structures.
+
+Our views have not substantially changed since then, and data and subsequent events have tended
+to confirm them. This submission is not based on 20-20 hindsight, but on very good foresight.
+
+
+
+
+                                                  1
+Commonwealth Government COVID-19 Response                                                    15/12/2023
+
+
+    2.      Lockdowns did not work
+The evidence from around the world is that lockdowns did not work. They didn't stop transmission
+of the disease and they appear to have caused more deaths than they saved. The only measure that
+definitively captures both the intended and the unintended consequences of lockdowns is excess
+deaths. Some excess deaths will be from COVID-19, and some may be from other causes. We can
+control for some of this by comparing jurisdictions that locked down with those that didn't.
+
+When we do that, we find that Sweden which was an outlier in the OECD in not having a mandated
+lockdown has performed better than its peers in northern Europe who did, and that Florida, that
+locked-down but rapidly quickly re-opened after assessing new information did better than
+California, which had one of the strictest lockdowns in the world.
+
+    3.      Vaccinations had an equivocal effect
+While the relative efficacy of the mRNA vaccines appeared to be good in the first instance their
+absolute efficacy was small. They were not effective in stopping infection or transmission. The
+number of adverse events is higher than for any other vaccine, and the risk reward balance in age
+groups younger than 65 is against the vaccines, and this is recognised in the latest ATAGI
+recommendation that no one under 65 should have a booster shot. Yet they were recommended for
+the whole population as a measure to prevent transmission as well as infection and serious illness,
+irrespective of age. These recommendations led to the various mandates and restrictive practices
+imposed by governments and businesses, damaging the lives of the few, with no benefit for the lives
+of the many.
+
+    4. The federal government must take primary responsibility for these poor policy
+       solutions.
+While many of the solutions were unilaterally imposed by the states, the federal government had a
+primary responsibility in setting the tone. It also had the ability to over-ride some of these policies,
+such as vaccine mandates, but refused to do this, even though the Prime Minister expressed his
+opposition to them.
+
+The federal government further implicitly encouraged the states to continue with bad policies by
+under-writing the cost to business and individuals of these policies. The Parliamentary Budget Office
+estimated at one stage that by 2030 the gross government debt would be $800 million more than it
+would otherwise have been without these measures.
+
+The following are our recommendations as to how we can more effectively and robustly respond to
+future pandemics.
+
+    5.      A culture of transparency
+Many of the policy errors occurred because views that departed from those of the top health
+bureaucrats were labelled as "misinformation" and chased from the public square. Citizens,
+including many policy makers, were robbed of the tools they needed to make good decisions, and
+correct bad ones.
+
+             a. Sharing of information
+There is an urgent need for information in the health area to have a standardised format and a
+schedule for collection that is uniform over the health system, or at least the hospital system. Health
+authorities also need to be able to tap into sources of de-identified data, such as should be available
+from pathology labs, for public health uses.
+
+
+
+                                                    2
+Commonwealth Government COVID-19 Response                                                   15/12/2023
+
+
+The data should then be made available to the public. Some very good quality analysis was done by
+citizen journalists and scientists.
+
+            b. Information in context
+Information should only be shared in context. The "fear porn" distributed nightly on the mainstream
+media was not conducive to good public policy. If citizens had realised many more people were
+dying from causes other than COVID-19 it would have given governments more room to move as
+there would have been less community panic.
+
+            c. Random sampling
+Random sampling for COVID-19 antibodies should have been undertaken in the community rather
+than the reporting of raw detection statistics from testing. The latter give an unrealistic idea of what
+proportion of the population has, or has not, had COVID-19 and then feeds into estimates of
+infection and case fatality rates. If this had been done, some of the modelling on which the health
+bureaucrats relied might have been more reliable, or have been discarded.
+
+              d. Strong public debate
+Debate was discouraged, and even dissident professionals in good standing with their professional
+organisations were demeaned as "conspiracy theorists", or sometimes the novel term "cooker".
+Some medical professionals were disciplined by the health regulator, or sometimes their employer,
+for holding heterodox ideas that ultimately proved to be correct. There are many reasons for
+encouraging robust public debate. One is to ensure that policy is the best it can be, by testing it.
+Another is to engender trust by the community in the decision-making process. Polls show that trust
+in all public institutions declined during the pandemic, and have continued to decline.
+
+    6.      Accountability
+During the pandemic, under the legislation, the health minister was in control. This is wrong,
+although better that a politician who can be held to account by their colleagues, or electors, be
+responsible than an unelected health bureaucrat, as was the case in most Australian states. The
+issue extends beyond political control, to the vaccine manufacturers, and ultimately individual
+citizens.
+
+             a. Executive control
+This should always rest with the prime minister and cabinet, not a single minister, and the legislation
+should be amended to ensure this. We do not support the idea of National Cabinet as a decision­
+making body, although if it wanted to make representations to the parliamentary executive it should
+be allowed to do so. If the government of the day wanted to convene a type of "war cabinet" so as
+to involve the opposition, that would be a legitimate matter for them, the opposition, and the
+parliament. The consensus body that was National Cabinet was not fit for purpose in terms of
+making good decisions.
+
+             b. Vaccine manufacturers
+Vaccine manufacturers are indemnified by the commonwealth. We understand this is on the basis
+that it would be difficult to find a manufacturer prepared to make a vaccine if the risks were
+uncapped. It is not an argument we accept. All products come with risks which manufacturers have
+to insure against. Pharmaceuticals are no different. Damages should not be capped. There have to
+be real consequences for pharmaceutical companies who produce an unsafe or defective product, or
+one that harms a user through a known side-effect. The costs should not be put onto the taxpayer.
+This takes away the incentives the manufacturers have to be prudent.
+
+
+
+                                                   3
+Commonwealth Government COVID-19 Response                                                  15/12/2023
+
+
+            c. Parliament
+Parliament should ratify, within at least 28 days, any emergency decisions made by the cabinet (or
+the health minister if the current situation continues to obtain). Pandemics are not the same thing as
+war, and parliament should be expected to scrutinise policies being implemented, even after their
+implementation.
+
+    7.      Cost benefit analysis
+No proper cost benefit appears to have been undertaken on lockdowns or vaccinations. While the
+lockdowns were a state initiative, the Commonwealth could have exercised some influence over
+them by doing a cost benefit analysis. Vaccinations are definitely a commonwealth issue and at a
+simple level, such as what age groups should receive vaccinations, no cost benefit appears to have
+been done.
+
+As noted above, at one stage the Parliamentary Budget Office calculated that by 2030 the
+Commonwealth Gross Debt would be $800 million higher because of measures taken during the
+pandemic. This is a huge cost and as a proportion of GDP similar to what the Australian government
+spent in one year during World War II. If the money had been spent elsewhere it could have funded
+210 years of intensive care beds; increase the amount of cancer funding by 4,000%; fund the
+combined ambulance services for 280 years; fund the PBS for 68 years; buy 9 million ventilators; and
+is the equivalent of 4.5 years of total national health expenditure.
+
+Work                                                    demonstrates that as a result of lockdowns
+more people actually died than were saved, and the excess mortality statistics tend to prove this. It
+is also true, as just one example, that there was a greater threat to the lives of healthy young men
+from vaccine-induced myocarditis than there was from COVID-19.
+
+    8.      Advisory bodies
+             a. Viewpoint diversity
+Advisory bodies appear to have been generally drawn from too narrow a class of people without
+sufficient relevant diversity. Hospital administrators are not good at public health because hospitals
+are not self-sustaining. Epidemiologists do not understand the economic aspects of things. More
+economists, for example, should have been involved, plus people with an understanding of logistics.
+There is also a good case for some business and even trade union involvement.
+
+            b. Transparency of discussions
+On the same model as the Reserve Bank of Australia, the minutes of advisory body discussions
+should be released so that participants in the process, and the general public, can understand why
+decisions are being made. There was a shift from a containment strategy "flattening the curve" to an
+elimination strategy that has not, to this day, ever been explained. This should not be the case.
+
+              c. Internal contestability
+There should also have been some internal group involved in "devil's advocacy" so that there is an
+institutionalised critique of decisions being made. The process is sometimes referred to as "red and
+blue teams" and is a process used in the military to anticipate problems and avoid group think.
+
+    9.      Epidemiological modelling
+The models relied upon here and internationally were not accurate. Some of the favoured modellers
+have failed time and again. The best example of this
+but our own Doherty institute at one stage was found to be 400% too pessimistic.
+
+
+
+                                                  4
+Commonwealth Government COVID-19 Response                                                    15/12/2023
+
+
+We recommend inviting the modellers whose results were closest to reality to advise on a new
+national body to validate models; that modeller's forecasts be assessed for accuracy on a regular
+basis so the government is sure it is getting the best advice; that the computer code of models be
+made public so colleagues as well as citizen scientists, modellers and others, can assess the models'
+suitability.
+
+Some of the best modellers were actually not epidemiologists but mathematicians building the
+models in their own time. Pro bono expertise was severely under-utilised during the pandemic.
+
+    IC Pandemic plans
+We had a pandemic plan based on decades of experience - it didn't involve lockdowns and it did
+involve protecting the vulnerable. Sweden stuck to the original plan and had a superior result. Some
+US states did as well, and a number of poorer countries did, because they were too poor to have a
+choice.
+
+Australia and other rich countries didn't stick to the plan.
+
+There was no explanation why the plan was jettisoned then, and there hasn't been since. This is
+inexcusable. We support the previous pandemic plan. We believe it should be promulgated and
+enshrined in uniform legislation so that it would take an act of parliament to do something else.
+
+We also have concerns about the World Health Organization's recent moves to change the
+International Health Regulations and the Accord so that it can prescribe not only when a pandemic
+exists, but what measures countries should take. Decisions need to be taken on a national basis and
+in such a way that they follow well-established medical conventions rather than what the last
+country (China in the case of COVID-19) did.
+
+    11.       Human rights
+Australia's Human Rights Commission was almost entirely absent during the COVID-19 pandemic,
+even when the states were coercing their citizens to take vaccines. This was a breach of the Geneva
+Convention and the commission should have involved itself.
+
+We assume this to be a failing on the part of management and recommend sweeping changes to the
+various commissioners who failed to take action.
+
+    12.       Regulatory authorities
+The Australian Technical Advisory Group on Immunisation failed in our view to properly approve the
+vaccines used against COVID-19. The process appears to be one where decisions on whether drugs
+and vaccinations are safe was in practice outsourced to the United States FDA and other USA bodies.
+If ATAGI was making its own decisions, why did it approve the use of the mRNA vaccines for
+pregnant women when there was no human trial to show this was safe?
+
+The Australian Health Practitioner Regulation Agency has too much power over the doctor-patient
+relationship through its ability to deregister practitioners, and its apparent determination to decide
+what is, or is not, appropriate medical practice. While malpractice is clearly an issue, there is a wide
+range of medical practices that are disputed, but which have expert opinion to support them. As
+long as patients are aware of all the potential risks and benefits it ought to be a decision for the
+patient and the doctor as to whether particular therapies are used.
+
+This situation will be made worse by the Health Practitioner Regulation National Law and Other
+Legislation Amendment Act 2022.
+
+
+                                                    5
+Commonwealth Government COVID-19 Response                                                    15/12/2023
+
+
+This act destroys the practitioner patient relationship and makes the paramount relationship
+between the practitioner and the government. This reverses millennia of medical practice as well as
+international conventions.
+
+It will also potentially cost people their lives. The off-label use of pharmaceuticals is a common
+practice in medicine and is a form of innovation. The more dictation of medical practice occurs the
+less innovation there will be. The doctor becomes no more than a centrally controlled algorithm with
+a human face.
+
+The legislation appears to arise from practices by the regulator during the COVID-19 pandemic which
+are being formalised in this legislation. It is a retrograde step.
+
+    13.      Commonwealth financial policies
+The Commonwealth's decision to offer support to individuals and businesses was overly generous
+and has left Australia in a financially vulnerable position. If another pandemic of a similar scale arose
+we would not be able to repeat these measures, and in fact might not even be able to implement
+better measures at a smaller scale.
+
+By shifting the cost of illness from the individual to the government this distorted individual decision
+making and assessments of relative risk. It was also regressive and did not take account of relative
+need or wealth. Some individuals received more money than they would have earned working, while
+some businesses who boomed during the pandemic were also paid COVID-19 relief.
+
+These policies also seem to have replicated since in other areas undermining personal responsibility
+and resilience.
+
+Furthermore, they encouraged state governments to pursue punitive regimes knowing that the
+Commonwealth would underwrite the pain. Lockdowns would surely have been fewer and less
+severe if support hadn't been available.
+
+
+
+
+                                                    6
+

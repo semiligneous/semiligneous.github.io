@@ -1,0 +1,166 @@
+             Submission to the Commonwealth Government COVID-19 Response Inquiry
+
+                          Dr Bruce Chen, Senior Lecturer, Deakin Law School and
+
+                       Dr Maria O’Sullivan, Associate Professor, Deakin Law School
+
+Overview
+
+We provide this submission in our capacity as legal academics with expertise in human rights law and
+public law. We have both contributed public commentary and analysis on COVID-19 over the past
+three years.1 Bruce Chen has published peer-reviewed work on the interpretation of emergency laws
+and court challenges to the exercise of emergency powers. His work demonstrates the importance of
+other accountability mechanisms during times of emergency. Maria O’Sullivan has published peer-
+reviewed work on the use of automated decision-making. This will be of relevance in considering ways
+in which to increase the efficiency of pandemic-related decisions.
+
+1. Use of Technology and Pandemics - Automated Decision-making, Trust and Digital Access
+The use of technology (including apps to facilitate close contacts/tracing and the use of automated
+government decisions), will be an integral component of preparing adequately for future pandemics. This
+is a complex area which raises significant legal issues of privacy, human rights, accountability and
+transparency, and fairness. We highlight the following issues:
+
+1.1 Automated Decision-making - Administrative Justice and a Remedy
+Australian government agencies are very committed to the increasing use of automation in order to increase
+the efficiency of government decision-making and this is likely to be a significant factor in dealing with
+future pandemics. We agree that automated decision-making has the capacity to increase the speed of certain
+decisions. For instance, automation could be used to facilitate border entry decisions (such as the processing
+of border entry exemptions which were subject to significant delays during COVID-19).
+
+However, in developing automation for future pandemics, we would underline the need to consider issues
+of human rights, accountability and transparency, administrative justice2 and the right to an effective
+remedy.3
+
+1.2 Contextual issues - Digital Access and Public Trust
+
+In addition to the above, there are two things that need to be considered in using technology to facilitate
+pandemic-related decisions.
+
+
+
+
+1 See, eg, Chen’s media commentary: ‘Vaccine Rule Challenge will Exceed 100 Plaintiffs’, The Age (Melbourne, 23 October
+2021); ‘Why Vax Mandate is Delicate’, Herald Sun (Melbourne, 4 October 2021); ‘Our Human Rights Still Remain’,
+Herald Sun (Melbourne, 17 September 2020); ‘Civil Liberties have been put at Risk’, The Australian (Sydney, 26 August
+2020); ‘Andrews is Walking a Fine Line with Victorians’ Trust by Moving to Extend the State of Emergency’, Herald Sun
+(Melbourne, 25 August 2020); ‘Masks are Fit for Purpose’, Herald Sun (Melbourne, 11 August 2020); and O’Sullivan’s
+media commentary: ‘Proposed changes to pandemic powers in Victoria’, ABC News Radio, 16 November 2021; Victoria's
+'vaccine economy' future, ABC Radio National, Life Matters, 7 September 2021; ‘How life might change for the
+unvaccinated’, ABC Signal Podcast, 7 August 2021; ‘Can vaccine passports help us prevent spread of the delta variant?’ ,
+ABC Radio National, Life Matters, 22 July 2021; ‘Should freedoms increase for Australians who are fully vaccinated
+against COVID-19?’, ABC Melbourne Radio, Conversation Hour, 7 July 2021.
+2 See Yee-Fui Ng, Maria O’Sullivan, Moira Paterson and Normann Witzleb, ‘Revitalising Public Law in a Technological
+Era: Rights, Transparency and Administrative Justice’ (2020) 43(3) UNSWLaw Journal 1041.
+3 Maria O’Sullivan, ‘Automated Decision-Making and Human Rights: The Right to an Effective Remedy’ in Janina
+Boughey and Katie Miller (eds), The Automated State: Implications, Challenges and Opportunities for Public Law
+(Federation Press, 2021).
+Digital Access
+
+The use of apps and other automated tools make significant assumptions about digital literacy and access
+in the community. These are accentuated during a pandemic. This was highlighted in the 2021 Victorian
+Ombudsman Report on the administration of exemption permits during Victorian state border closures:
+
+       Many people found it difficult to comply with the Department’s requirements.
+       It is not clear what thought, if any, the Department gave to the likely difficulties facing people
+       away from home; those unfamiliar with technology, the internet or without access to it; or
+       other practicalities to obtain the required documentation.4
+Thus, disparities in digital access (particularly in rural and remote communities) will need to be considered
+in developing the use of automation in future pandemics.
+
+Public Trust
+
+Given the problems encountered during the rollout of the COVID Safe App and subsequently, the
+significant harm caused through the use of automation by Robodebt, there needs to be consideration as to
+increasing public trust in the use of technology by governments. This needs to be done to ensure that the
+use of technology will be accepted and utilised effectively and safely by members of the public.
+
+2. Human Rights and the Biosecurity Act
+As a State Party to a number of core international human rights treaties, Australia has agreed to be bound
+by human rights standards, including under the International Covenant on Civil and Political Rights
+^ICCPR'} and International Covenant on Economic, Social and Cultural Rights ^ICESCR'}.
+
+2.1 Relevant Human Rights
+
+Some of the COVID-19 response measures by the Commonwealth Government were: early quarantine
+requirements and establishing quarantine facilities; entry and exit requirements into and out of Australia,
+including vaccination, testing and face masks; prohibiting entry from ‘high risk’ countries; banning overseas
+travel; preventing entry and requiring departure of cruise ships; prohibiting entry into remote (including
+Aboriginal) communities; and regulating use of the COVID Safe App and data.
+
+These response measures limited a wide range of human rights, including:5 right to freedom of movement
+and to choose their residence (ICCPR, Article 12(1)); right to leave and enter their own country (ICCPR,
+Article 12(2) and (4)); right to liberty (ICCPR, Article 9) and right to humane treatment when deprived of
+liberty (ICCPR, Article 10); right to privacy, family and home (ICCPR, Article 17(1)); right to equality and
+non-discrimination (ICCPR, Articles 2(1), 3 and 26; ICESCR, Articles 2(2) and 3)); and right to protection
+of families and children (ICCPR, Article 23 and 24; ICESCR, Article 10).
+
+At the same time, the response measures taken sought to protect the right to life (ICCPR, Article 6) and
+right to the highest attainable standard of health (ICESCR, Article 12). The COVID-19 pandemic often gave
+rise to difficult balancing equations, bearing in mind that most human rights are not absolute and may be
+limited for reasonable and demonstrably justified reasons. In our view, the Commonwealth legislative
+framework could be amended to improve response measures. It did not adequately direct for such rights-
+
+
+
+4 Victorian Ombudsman, Investigation into Decision-making under the Victorian Border Crossing Permit Directions,
+7 Dec 2021 <https://www.ombudsman.vic.gov.au/our-impact/investigation-reports/investigation-into-decision-making-
+under-the-victorian-border-crossing-permit-directions/#discretionary-decision-making-under-the-border-directions >.
+5 The State and Territory response measures limited an even broader range of human rights, including, rights to freedom of
+expression, assembly and association, right to freedom of thought, conscience and religion, right to take part in cultural life,
+right to work, and right to education.
+balancing considerations to be canvassed before measures were decided upon. The measures also lacked
+accountability for their rights-limiting impacts after they were made.
+
+2.2 The Biosecurity Act
+
+Commonwealth Government response measures were implemented predominantly through the Biosecurity
+Act 2015 (Cth). Section 477 of that Act was the primary power under which the Health Minister could
+determine emergency requirements.6 That power is subject to proportionality testing (section 477(4)) but
+the question is, ‘proportionate to what?’ It makes no reference to human rights standards. As a result, certain
+exercises of this power had insufficient regard to the significance and value of individual’s human rights.7
+We are also concerned there was at times a lack of evidence to justify the extent of limitation on such rights
+(as well as at State and Territory level).8
+
+Moreover, legislative instruments would usually be subject to parliamentary scrutiny and disallowance.
+However, the Biosecurity Act expressly excludes section 477 determinations from this safeguard (section
+477(2)). Given the volume of determinations made, often with highly significant impacts on human rights,
+and their re-making to the extent of being quasi-permanent - this is a significant gap in oversight and
+accountability. We reiterate the recommendation by the Senate Standing Committee for the Scrutiny of
+Delegated Legislation that such determinations should be subject to parliamentary scrutiny and
+disallowance.9 A further implication of the exclusion is that section 477 determinations are not subject to
+the preparation of statements of compatibility. Usually, legislative instruments must be accompanied by an
+assessment of whether that instrument is compatible with human rights under international human rights
+treaties.10 The lack of official and public reasoning for why human rights were limited by response measures
+lacked transparency and did not engender public trust. We point to the Australian Human Rights
+Commission’s recommendation that such determinations should be subject to the statements of
+compatibility scheme11 (or an alternative scheme).12
+
+3. Final Comments
+We make some final, related comments. First, common law courts are known for their tendency to defer to
+the executive during times of emergency. In our view, this was arguably borne out in Australia during the
+COVID-19 pandemic. Second, judicial review claims before the courts were limited in their utility and
+scope for several reasons. Third, the pandemic demonstrated that the exercise of Commonwealth13 (and
+State)14 executive power is subject to few constitutional restraints in times of emergency. The above
+observations point to the need for greater preparedness for scrutiny by Australian parliaments, which did
+not sit for significant periods of time during the pandemic.
+
+
+
+6 See also Biosecurity Act, ss 44 and 45 determination of entry and exit requirements into and from Australia.
+7 See Bruce Chen, ‘The COVID-19 Border Closure to India: Would an Australian Human Rights Act have made a
+Difference?’ (2021) 46(4) Alternative Law Journal 320 and Elizabeth Hicks, ‘Proportionality and Protracted Emergencies:
+Australia’s COVID-19 Restrictions on Repatriation Rights Compared’ (2023) 45(1) Sydney Law Review 77.
+8 See, eg, Bruce Chen, ‘Comments: The Victorian COVID-19 Response: Reflections on Loielo v Giles’ (2021) 32(1) Public
+Law Review 8 regarding the Victorian lockdown curfew.
+9 Senate Standing Committee for the Scrutiny of Delegated Legislation, Parliament of Australia, Inquiry into the Exemption
+ofDelegated Legislation from Parliamentary Oversight (Interim Report, 2 December 2020) 70 [4.77], In Victoria, pandemic
+orders are now subject to a disallowance procedure: see Public Health and Wellbeing Act 2008 (Vic), s 165AU.
+10 Human Rights (Parliamentary Scrutiny) Act 2011 (Cth), s 9.
+11 Australian Human Rights Commission, Free & Equal - Position Paper: A Human Rights Act for Australia (December
+2022) 315.
+12 In Victoria, pandemic orders now require a statement on the Charter of Human Rights and Responsibilities Act 2006
+(Vic): see Public Health and Wellbeing Act 2008 (Vic), s 165AP(2)(c) and (d).
+13 It remains unclear whether there is a constitutional freedom to leave and re-enter Australia.
+14 See, eg, Gerner v Victoria (2020) 270 CLR 412 regarding Victorian lockdowns restricting intrastate movement; and
+Palmer v Western Australia (2021) 272 CLR 505 regarding Western Australia state border closures.
+

@@ -1,0 +1,151 @@
+Australian COVID-19 Modelling Initiative (AUSCMI)
+submission to the Australian COVID-19 Response Inquiry
+We write on behalf of the Australian COVID-19 Modelling Initiative (AUSCMI) to contribute to
+the COVID-19 Response Inquiry. AUSCMI is a broad collective of expert researchers,
+epidemiologists, and modellers focused on modelling infectious diseases dynamics that is not
+formally constituted. We met throughout the pandemic to support coordination of Australian
+COVID-19 modelling for policy and disseminated our modelling research through various
+modalities, including a series of educational seminars to improve community understanding of
+infectious disease modelling. Our submission focuses on the role, impact and potential of
+modelling in policy, strategy and research. We provide related recommendations for improving
+Australia's preparedness for future pandemics. We note that several very important modelling-
+related issues fall out of scope of the review terms of reference, including sub-national and
+international coordination and long Covid.
+
+1, Modelling involvement, transparency and reproducibility
+Disease modelling can be a powerful tool for ensuring responses to emerging infections are
+evidence-based.1'5 However, transparency is key to public acceptance and impact.6 Australia
+has a breadth of modelling groups located across many institutions that possess a broad range
+of expertise. Different methodologies can increase confidence in results where conclusions
+coincide, provide complementary insights or identify areas of genuine epidemiological
+uncertainty. Although there is a tension between responding rapidly to a crisis and undertaking
+comprehensive analyses, there is scope to improve the collaborative involvement, scientific
+review, transparency and reproducibility of pandemic modelling for policy.6
+
+Recommendation'. Australia should adopt a collaborative approach to modelling at the national
+level, with at least three independent groups contributing to modelling for public health
+decision-making bodies. Where time constraints render it impossible for several groups to
+undertake independent analyses, such groups can still collaborate in the identification of
+questions to be addressed, interpretation of the implications of modelling results for policy and
+peer review. The UK’s modelling consortium (SPI-M-O) provides one possible model to inform
+the construction of such a collaborative approach.7 With the advent of the Australian Centre
+for Disease Control (ACDC) and regional cooperation built during COVID-19 period, there is
+the opportunity to extend modelling networks, which would facilitate collaboration and peer
+review.
+
+2, National coordination
+While acknowledging that the scope of this review pertains to the federal domain, Australia’s
+response was characterised by key decisions being made across multiple jurisdictions. It is
+the federal responsibility to clearly articulate an overarching control strategy for all Australian
+governments to follow. Although national strategies were sometimes stated (e.g. aggressive
+suppression), in practice these were poorly defined and contributed to a lack of national
+coordination. A clear national strategy is critical to ensuring effective communication to the
+public of the rationale for implementing specific public health interventions.
+
+Recommendation'. Australia should clearly define the meaning of the terms used to define the
+possible strategies to be deployed in the event of a future pandemic. Each strategic option
+should be associated with a coherent epidemiological rationale and set of goals.
+Implementation of the strategy should be supported by a national body of scientific advisors
+with broad representation.
+
+3, Harmonisation of data sources for broader use
+At the national level, comprehensive data were not widely available in useable formats to guide
+decision making. This was true for key epidemiological data (e.g. case numbers, tests,
+hospitalisations, vaccination distribution) and social mobility data (e.g. transportation usage)
+that supports modelling the epidemic trajectory. This made the development of models difficult
+and limited the capacity to model in real-time to only a few groups. Careful reassessment of
+disease surveillance activities and how these important data are collected, stored, aggregated
+and shared is needed. Whilst data privacy and the security of identifiable individual data are
+important, modelling studies (particularly those examining transmission at the population level)
+often require only aggregated, non-identifiable data. Ensuring data are consistently gathered
+and stored can facilitate later epidemiological data linkage studies, which are critical to
+accurately modelling emerging pathogens.
+
+Recommendation'. A national body, such as the ACDC, is essential to coordinate data
+collection, analysis, and publication. This body should ensure harmonisation of the fields for
+collection of data for all jurisdictions for central collation. Data should be made equally
+accessible to all reputable modelling groups seeking to undertake modelling for policy.
+
+4, The importance of targeted and age-informed strategies
+A critical feature of COVID-19, which modelling helped to identify, is its highly age-dependent
+severity8 (also true of SARS) and the fact that children have lower transmissibility.9 Public
+health strategies should have taken this into account from early in the pandemic, when this
+epidemiological phenomenon was first established. In particular, modelling highlighted the
+extreme risk to the elderly and the comparatively smaller benefit from interventions targeting
+children. Given these features, protection of the aged care sector should have been a major
+priority from the early in the pandemic. Although school closures may have been a necessary
+component of certain response strategies, public health and social measures that avoid
+concentrating harms in children should have been consistently preferred.
+
+Recommendation: Pandemic policy responses should use modelling to inform an
+epidemiological understanding that can help to tailor strategic responses to the characteristics
+of the pathogen. This modelling-based understanding should be integrated with social, ethical
+and economic principles.
+
+5, Social equity and cohesion
+Multiple modelling groups identified social inequalities as a significant epidemiological factor
+in the epidemiology of COVID-19. In particular, risk factors for infection and severe outcomes
+often clustered with employment status that made it more difficult for individuals to protect
+themselves against infection.
+
+Recommendation: Mitigation of pandemic risk should be one of several arguments considered
+in ensuring governments pursue policy that maximises social equity and cohesion.
+
+6, Interpandemic preparedness and evaluation
+Pandemic risk must be recognised as a standing threat. It is not a question of if but when the
+next pandemic will occur. As one component of broader pandemic preparedness, future
+investment in the systems, structures and frameworks that support the development of
+modelling capacity in Australia is key. Modelling should be undertaken now to explore
+hypothetical pandemic analyses before new pathogens emerge, including the simulation of
+alternative response scenarios to future emerging pathogens. Many public health
+interventions were adopted simultaneously or in rapid sequence, making it difficult to define
+which interventions worked and which did not. Now is an appropriate time to undertake further
+work to quantify the effectiveness, harms and cost effectiveness of the interventions deployed
+in order to enhance our preparedness for future pandemics.
+
+Recommendation: The Australian Government should invest in supporting modelling groups,
+communities of practice, platforms and linkage infrastructure. Standing frameworks of
+governance for the sharing of surveillance data should be considered during inter-pandemic
+periods to minimise the logistical burden during the crisis period. Research should be
+undertaken now to define the effectiveness of interventions for COVID-19, which will inform
+future pandemic responses.
+Authors: A/Prof James Trauer1, Prof Tony Blakely2, Prof Margaret Hellard3, Prof Mikhail Prokopenko4, A/Prof Nick
+Scott3, A/Prof Jason Thompson5, Professor Tania Sorrell6, A/Prof Oyelola Adegboye7, Dr Samson Ogunlade89    , Dr
+Angus Hughes1, Dr Abdul Kuddus8
+We would like to also acknowledge ^^^^^^^^^^^^^^substantial contribution to AUSCMI and the
+conceptualisation and drafting of this submission. However,
+
+
+Author affiliations: 1School of Public Health and Preventive Medicine, Monash University; 2Melbourne School of
+Population and Global Health, The University of Melbourne; 3The Burnet Institute; 4Centre for Complex Systems,
+The University of Sydney; 5Melbourne School of Design, The University of Melbourne; 6Sydney Infectious Diseases
+Institute, The University of Sydney; 7Menzies School of Health Research; 8The Australian Institute of Tropical
+Health and Medicine, James Cook University
+
+
+References
+1.      McBryde ES, Meehan MT, Caldwell JM, et al. Modelling direct and herd protection
+effects of vaccination against the SARS-CoV-2 Delta variant in Australia. Medical Journal of
+Australia 2021; 215(9): 427-32.
+2.      Scott N, Palmer A, Delport D, et al. Modelling the impact of relaxing COVID-19
+control measures during a period of low viral transmission. Medical Journal of Australia
+2021; 214(2): 79-83.
+3.      Chang SL, Harding N, Zachreson C, Cliff OM, Prokopenko M. Modelling transmission
+and control of the COVID-19 pandemic in Australia. Nature Communications 2020; 11(1):
+5710.
+4.      Trauer JM, Lydeamore MJ, Dalton GW, et al. Understanding how Victoria, Australia
+gained control of its second COVID-19 wave. Nature Communications 2021; 12(1): 6266.
+5.      Szanyi J, Wilson T, Howe S, et al. Epidemiologic and economic modelling of optimal
+COVID-19 policy: public health and social measures, masks and vaccines in Victoria,
+Australia. The Lancet Regional Health - Western Pacific 2023; 32.
+6.      Thompson J, McClure R, Scott N, et al. A framework for considering the utility of
+models when facing tough decisions in public health: a guideline for policy-makers. Health
+Research Policy and Systems 2022; 20(1): 107.
+7.      Medley GF. A consensus of evidence: The role of SPI-M-O in the UK COVID-19
+response. Adv Biol Regul 2022; 86: 100918.
+8.      Williams P, Koirala A, Saravanos GL, et al. COVID-19 in New South Wales children
+during 2021: severity and clinical spectrum. Medical Journal of Australia 2022; 217(6): 303­
+10.
+9.      Davies NG, Klepac P, Liu Y, et al. Age-dependent effects in the transmission and
+control of COVID-19 epidemics. Nature Medicine 2020; 26(8): 1205-11.
+

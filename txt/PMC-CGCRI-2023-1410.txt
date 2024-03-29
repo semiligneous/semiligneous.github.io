@@ -1,0 +1,209 @@
+                                           C0VID-19 RESPONSE INQUIRY
+
+
+                                                   SUBMISSION BY:
+
+
+
+                                                    Marie Johnson
+
+                                                        CEO
+
+                           Centre for Digital Business Pty Limited ABN: 16 162 122 072
+
+
+
+
+                                                  CENTRE FOR         _
+                                                    digital business
+
+
+
+
+                                                 15 December 2023
+
+
+
+
+Marie Johnson                                                                            COVID-19 Response Inquiry
+CEO, Centre for Digital Business, ABN: 16 162 122 072                                           15 December 2023
+Marie-johnson.com
+Submission to the Inquiry into the response to the Covid-19 pandemic.
+
+The COVIDSafe App was developed in early 2020 and subsequently heavily promoted by the Australian
+Government with the primary purpose being to assist contact tracing efforts. Technical limitations of Apple's IOS
+and Google's Android operating systems were identified early on as limiting the effectiveness of the app. In late
+May 2020 Apple and Google jointly announced the initial release of the Exposure Notification Framework (ENF)
+to address the primary issues compromising the performance of this and similar apps being developed across
+the world1.
+
+In mid-June 2020 Boston Consultin^rou^BCG^rovide^dvic^^he Australian Government regarding the
+ENF and recommended"                                    based on its assessment that even if
+
+
+
+Notwithstanding similar private and public advice from many other parties to adopt the ENF, the Government
+chose instead to pursue an alternative, locally developed, solution known as "Herald". This solution proved
+largely ineffective, and to the best of my knowledge, no other nation adopted this "novel" technology.
+
+The primary purpose of this brief submission is to contrast this decision with that of many other nations in
+20201", to understand how it was made and ensure that in the future we avoid making decisions that ignore the
+advice of competent technical experts.
+In 1997, Former President of the Soviet Union^^^^^^^^^^^^said, "Political leaders need scientific
+support...The price of mistakes in political decision-making is very high." Over many decades of experience in
+global technology, I have found this advice to be true.
+
+In the case of the CovidSafe App, technical advice appeared to have been ignored or over-ruled at the political
+level, a reckless catastrophe during a global pandemic. Such high-handed political over-reach it would seem,
+bore no regard to the nature and scale of risk. This is the same culture, practice, and disregard for risk to life
+that was witnessed during RoboDebt, and continues with RoboNDIS created at the same time as RoboDebt.
+
+This period of RoboDebt, RoboNDIS and the CovidSafe App catastrophes, bear lessons that cannot and must not
+be ignored.
+
+Based on evidence and the experience in the UK, the Australian Government's decision to not adopt the ENF,
+may have resulted in the suffering and/or death of many more Australian Citizens than otherwise would have
+occurred.
+
+The UK's first attempt at a COVID App was piloted in early 2020. It failed miserably and was abandoned. In
+contrast to the Australian Government however, in late September 2020 they launched a new version which
+(for the first time) included the Apple/Google ENF APIs'7. In May 2021, Nature published the findings of a
+research effort undertaken by researchers from Oxford University and the Turing Institute7. The key findings of
+this research note are, that over the three-month period from October to December 2020, the updated app was
+used by 16.5 million users and that the use of the app reduced the number of infections by between 284,000
+and 594,000 cases. By any measure that's a lot of people that didn't become infected, get sick or subsequently
+die.
+
+While it is the case that the UK went on to face a far larger problem with COVID, and with the user experience of
+its App, this research nevertheless appears to have confirmed the advice given to the Australian Government
+and demonstrated that it was the decision to adopt the Google/Apple ENF that made the difference between an
+app that worked effectively to support contact tracing and one that didn't.
+The Final Report of the Senate Select Committee on Covid 19 (April 2022)71, touched briefly on the failure of the
+COVIDSafe app to deliver on its early promises. It did not however consider the consequences of the
+Government's decision to ignore the use of the ENF.
+
+Recommendation: That the Review/Committee:
+
+    1.        Investigate the reasons for not adopting the ENF.
+    2.       Examine any political interference in the use of the ENF standard.
+    3.   Determine what risk assessment (including risk to life) was undertaken in the development of the
+         CovidSafe App, with the intentional decision not to adopt the globally accepted protocol.
+
+ Marie Johnson                                                                           COVID-19 Response Inquiry
+ CEO, Centre for Digital Business, ABN: 16 162 122 072                                          15 December 2023
+ Marie-johnson.com
+   4.   Recommend to government that the "CovidSafe App ENF Decision", be developed as a case study of
+        equal bearing and weight as the RoboDebt case study, for study and examination by the Australian
+        Public Sector.
+
+
+
+
+Marie Johnson                                                                     COVID-19 Response Inquiry
+CEO, Centre for Digital Business, ABN: 16 162 122 072                                    15 December 2023
+Marie-johnson.com
+Marie Johnson
+Marie Johnson is the CEO of the Centre for Digital Business, a digital services and Al company.
+
+Marie is an eminent global award-winning digital authority; advocate for the humanitarian application of Al; and
+a relentless inclusion and accessibility advocate. Marie was awarded the prestigious US Government O-Visa for
+Individuals with Extraordinary Ability or Achievement.
+
+She is an international speaker, author, and commentator on artificial intelligence, human rights, technology,
+ehealth, cyber, identity, ethics, and innovation.
+
+Marie's expertise is the human experience in complex servicing systems.
+
+At the forefront of digital transformation for decades, Marie's inimitable track record across the public and
+private sector in Australia and internationally, covers health and human services; disability services; global
+ehealth immigration and visa systems; tax; identity; and payments.
+The expanse of roles includes large scale service delivery operations; global technology; advisor to governments
+globally; Chief Information Officer; Chief Technology Architect; Technology Authority; intelligence analyst; board
+director; and STEM patron.
+
+Throughout her career, Marie's extraordinary expertise has been sought by world leaders and global
+organisations on the geo-political and democratic dynamics of national technology.
+
+Her distinguished experience encompasses leading Microsoft's Worldwide Public Services and eGovernment
+industry based in Seattle. In taking up this role, the US Government awarded Marie the 0-1 Visa with Microsoft
+noting Marie's egovernment knowledge '...is unique in the world and is of particular interest to Microsoft as we
+pursue our egovernment strategies'.
+
+For many years, Marie was the Chief Technology Architect for the Australian Department of Human Services,
+with responsibilities including the architecture and technology business cases bringing together the massive
+systems of Centrelink, Medicare Australia, and the Child Support Agency. Marie was responsible for initiating
+Payment Delivery Reform, as part of Service Delivery Reform. Previously, Marie was the Chief Technology
+Architect for the Australian Health and Human Services Access Card.
+
+In a major service delivery transformation role at the Department of Immigration and Citizenship, Marie created
+and delivered the Visa Pricing Transformation, which generated interest globally from friendly counterpart
+Immigration agencies. For the first time, this involved the application of differential pricing to visas, channels,
+visa products in conjunction with an innovative digital business model, electronic payments strategy and
+legislative change, projecting additional revenue to the Federal Budget of $700Million. Responsibilities also
+encompassed the delivery of the global eMedical system (a digital operating model for managing risk-based
+health assessments) to over one hundred countries, in partnership with Citizenship and Immigration Canada.
+Marie was Head of the Technology Authority for the Australian National Disability Insurance Agency and
+responsible for the technology business case, the implementation of co-design, a programme of innovation and
+the creation of Nadia.
+
+Various board and advisory roles include Independent Member of the Australian Federal Police Spectrum
+Program Board; member of the New South Wales Government Digital Government Advisory Board; invited
+member of the Accenture Global CIO Council; National Director of the Australian Information Industry
+Association; Faculty at Exponential Medicine Singularity University; and an Inaugural Member of The Australian
+National University Cyber Institute Advisory Board.
+
+Over many years, Marie has been a judge on Australian and international technology and innovation awards.
+Marie is a writer and regular contributor to a variety of media publications, including InnovationAus and CIO
+Australia. She has authored chapters for books, and authored and co-authored international papers. Marie was
+one of forty Australian innovation leaders and foremost thinkers invited to write a paper on the future of
+Australian jobs and industry, in the first publication of The Innovation Papers.
+
+Marie is an in-demand international keynote speaker and sought-after participant on podcasts and webinars.
+She has spoken at Singularity University Exponential Medicine; Medica, the world's largest medical and health
+trade fair; O'Reilly Al; and in 2020, delivered the Kenneth Jenkins Oration.
+
+ Marie Johnson                                                                           COVID-19 Response Inquiry
+ CEO, Centre for Digital Business, ABN: 16 162 122 072                                          15 December 2023
+ Marie-johnson.com
+The innovation and digital initiatives Marie has led have been recognised globally.
+
+These include the United Nations Public Service Award in the category 'Application of ICT in government:
+egovernment' for Business Entry Point (www.business.gov.au) which she led for 5 years prior.
+
+Marie was recognised as the 2006-2007 'Innovative CIO of the Year - Australia'; named one of Australia's '100
+Women of Influence" in 2013; and awarded the 'Exceptional Woman of Excellence' at the 2019 Women
+Economic Forum.
+
+In 2022, Marie received the Australian Capital Territory Mental Health Carer Award.
+
+Marie has an MBA from the Melbourne Business School (specialising in innovation, technology, and
+ecommerce); Bachelor of Arts Deakin University (international relations, defence, and strategic studies);
+Graduate of the Harvard University Kennedy School of Government Senior Executive Fellows Program; and
+Graduate of Australian Institute of Company Directors.
+
+
+
+
+1 https://covidl9.apple.com/contacttracing and https://www.google.com/covidl9/exposurenotifications/
+
+11 https://www.health.gov.au/sites/default/files/2023-ll/foi-4810-released-documents-covidsafe-app-abt-
+report.pdf
+
+111 https://www.xda-developers.com/google-apple-covid-19-contact-tracing-exposure-notifications-api-app-list-
+countries/
+
+lv https://www.theguardian.com/world/2020/iun/18/uk-poised-to-abandon-coronavirus-app-in-favour-of-
+apple-and-google-models
+
+v https://www.nature.com/articles/s41586-021-03606-z
+
+Vlhttps://parlinfo.aph.gov.au/parllnfo/download/committees/reportsen/024920/toc pdf/Finalreport.pdf;fileTy
+pe=application%2Fpdf
+
+
+
+
+ Marie Johnson                                                                        COVID-19 Response Inquiry
+ CEO, Centre for Digital Business, ABN: 16 162 122 072                                       15 December 2023
+ Marie-johnson.com
+

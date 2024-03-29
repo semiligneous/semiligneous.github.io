@@ -1,0 +1,176 @@
+                   Submission to Commonwealth Government Covid-19 Response Inquiry
+
+I am a research scientist (PhD) with over 25 years of experience working in Life Sciences, Medicine and Public
+Health. I have been concerned about the accuracy of data being presented by various levels of Government,
+Government Authorities and Public Health officials regarding case numbers, hospitalizations and deaths
+associated with SARS-CoV-2 infection, and the safety of the Covid-19 vaccines.
+
+I have spent three years conducting independent research and have generated a substantial number of
+analyses that do not support the broad and generally unsubstantiated claims made by the Governments,
+Government Authorities and Public Health Officials to support the COVID-19 response.
+The following document lists several items that I propose for inclusion within the framework of the
+Commonwealth Government Covid-19 Response Inquiry. I believe the requested investigations are vital
+given the central role of the information in informing the COVID-19 response. I request that the findings of
+the investigations are made available in sufficient detail for peer-review of all methods and interpretations.
+Review of methodology for testing and classifying case numbers, hospitalizations and deaths associated
+with infection with SARS-CoV-2 infection.
+A core component of evaluating the COVID-19 response is examining the impact COVID-19 infection has had
+on the health of the Australian population. Key to this is the accurate and reliable identification of health
+outcomes resulting from Sars-CoV-2 infection including infection rates, hospitalisations, admissions to
+Intensive Care Units (ICU), and deaths. The latter is, in turn, dependent on the availability of reliable and
+valid criteria for classifying COVID-19 cases.
+
+It is recommended that the Covid-19 Response Inquiry include a full review of the available data regarding
+the suitability, validity and accuracy of the principal methodology used in the detection of COVID-19
+infection, the polymerase chain reaction (PCR) test for COVID-19, a test touted as the gold standard for use in
+identifying COVID-19 cases, hospitalisations, and deaths.
+
+This includes: a full review of research that properly establishes (1) the range of false positive and false
+negative rates for COVID-19 PCR tests conducted on asymptomatic and symptomatic individuals; (2) a review
+of whether these rates are acceptable for a "gold standard" diagnostic tool; (3) how methodological factors
+such as sample storage, processing, transport, temperatures and the number of amplification cycles used in
+the analyses of samples can impact the false positive and false negative rates, and (4) a clear determination
+of any cross-reactivity that the COVID-19 PCR test may have with other microbes or compounds.
+
+It is also recommended that the enquiry review each testing site to examine (1) the specific methodological
+characteristics of each site (regarding all items listen in item 3 of the above paragraph) and (2) the adequacy
+of training of laboratory staff conducting the PCR tests or otherwise managing samples and/or results. These
+investigations are essential to an assessment of the accuracy and validity of the results from each testing site,
+and therefore to the accuracy and validity of the broader case counts etc.
+
+It is recommended that the enquiry also include a review of the quality and validity of COVID-19 case and
+death classifications using the WHO recommended ICD code of U07.1 and U07.2. This includes a review of
+the false positive and false negative rates that results from the application of these codes, and other issues
+potentially affecting the accuracy, validity and clinical relevance of classifications of COVID-19 cases using
+these ICD codes.
+
+Evaluation of the definitions of these two code definitions illustrates how their application may impact, and
+potentially inflate case numbers and the numbers of hospitalisations, ICU admissions and deaths.
+
+Definition of U07.1 - individuals with a laboratory confirmation of infection with CO VID-19, irrespective of
+clinical signs and symptoms. Under this code, a person can have no symptoms of COVID-19 infection at all
+and be classified as a COVID-19 case, hospitalisation and/or COVID death, based on a positive test result
+alone. In the absence of symptoms, and a relevant estimate of the false positive rates of the PCR and other
+test used to identify COVID-19 cases, it is uncertain whether a case defined this way is valid and has any
+clinical significance at all. The application of this classification code may have inflated case counts
+substantially and engenders the hospitalization, ICU and death data potentially misleading and
+uninterpretable. This issue is exacerbated in NSW where the classification of cases, hospitalisations and
+
+                                                                                                      1 | Page
+deaths has included back-capturing positive COVID-19 test results from 14 to 28 days prior to presentation at
+hospital, regardless of whether covid symptoms were present or whether an individual is currently
+registering as positive to the disease.
+
+Definition of U07.2 = an individual who is suspected of having CO VID-19 but laboratory testing for CO VID-19
+is inconclusive or unavailable and a clinical determination of COVID-19 has been made. The clinical diagnoses
+of individuals under this code, even in the face of negative test results, when the symptomology of the
+condition shares so many clinical characteristics with other respiratory disorders such as viral pneumonia,
+and a myriad of vaccine injuries such as multi-inflammatory disease, myocarditis, TSSI, also has the potential
+to inflate case counts and health outcomes and engender a misinterpretation of data.
+
+Review of Any Changes to Testing for Non-COVID-19 Infections with Similar Symptomatology
+There has been claims that medical professionals were instructed not to test for influenza infection at certain
+periods during 2021 and 2022, regardless of symptom presentation, and to only test for COVID-19 infection.
+Such a directive may inflate the false categorisation of individuals as COVID-19 infections under ICD code
+U07.2 through restricting the ability to identify alternative diagnoses with over-lapping clinical presentation
+and may explain a drop in influenza cases and non-COVID-19 respiratory infections reported in 2021.
+
+Review of the storage/management of genetic information generated via the conduct of PCR tests
+Also recommended is a full review of the fate of genetic profiles generated during the conduct of each
+individual PCR test. Was all genetic information generated during the conduct of tests (except for the test's
+outcome) destroyed following the test? If not, why not, and what are the details of the information's storage
+and use following the test. Is there any evidence that the genetic information generated by these tests has
+been provided to anyone for uses other than for the determination of COVID-19 status?
+
+Review of any payments paid to pharmacies, health professionals, and specialist doctors regarding the
+identification and management of covid 19 patients.
+This includes a comprehensive review of (1) any payments paid to pharmacies, health professionals, and
+specialist doctors who were administering the vaccines and (2) any payments made to COVID-19 testing
+laboratories, medical and allied health professionals, clinics, hospitals, coroners, or any other person involved
+in the categorization of individuals as having COVID-19 infection.
+
+Review of classification of vaccination status in public health and media reports comparing cases,
+hospitalisations, ICU admissions and death
+Recommendation to review how SARS-CoV-2 cases were classified in public health reports involving COVID-
+19 vaccination status. A review of reports where vaccinated individuals (individuals who have had a COVID-
+19 vaccine at any time) were included in the unvaccinated or no-effective dose group, and how this
+categorisation impacted interpretations, is required.
+
+Recommendation to re-evaluate differences in rates of infection, hospitalisation, ICU admission and death
+between unvaccinated (no dose) and vaccinated individuals using standardised methodology to identify
+cases (i.e. a current diagnosis of COVID-19 infection, excluding individuals previously classified as cases based
+on historical, unstandardised back-capturing of positive test results for periods of between 14 and 28 days)
+and following strict adherence to standardised classification criteria that do not include vaccinated
+individuals (who have received a covid-19 vaccine at any time), or people of unknown vaccination status, in
+the unvaccinated group/no dose group, and where the percentages of the comparative groups who become
+infected with COVID-19, or are hospitalised, admitted to ICU, or die "from/or with" COVID-19 are calculated
+based only on the individuals of known vaccination status.
+
+Review of post-market!ng pharmacovigilance by Therapeutic Goods Administration (TGA)
+Request a review and report of the processes undertaken by the TGA to monitor the safety of the COVID-19
+vaccines which were initially released on provisional approval and listed on the Black Triangle Scheme. The
+provision of detailed information around the TGAs processes, their findings, and ultimately their
+interpretations and decisions relating to the safety and full registration of the vaccines is essential to allow
+peer-review of their methodology and evaluations, and to ensure that people and not product is protected.
+The TGA is heavily sponsored by pharmaceutical companies ('95%) and was previously suggested to lack
+independence and to display processes that may be interpreted as protecting product over people
+
+                                                                                                      2 | Page
+(https://www.health.wa.gov.au/Reports-and-publications/Ministerial-Review-Public-Health-Response-into-
+     idverse-Events-to-the-Se sc al-lnflut za-Va    ie). The latter is particularly important in the framework
+of mandating provisional medications that are so classified for the very fact that the TGA has acknowledged
+that safety has not been fully established.
+
+It is also indicated by the sheer number of Adverse Event Reports that list the Covid-19 vaccines as the
+suspected medicine that have been added to the Database of Adverse Event Notification (DAEN) since the
+release of the COVID-19 vaccines https://daen.tga.gov.au/medicines-search/. As of 15 December 2023, the
+TGA DAEN has a total of 612,167 adverse event reports (AERs) that have been listed in association with
+10,164 medical terms across 52 years from 1 Jan 1971 to 1 Dec 2023. 44,050 of these AERs listed a cardiac
+disorder and 14,630 were associated with an outcome of death. AERs where Covid-19 vaccines are listed as
+the suspected medicine relate to only 11 of the 10,164 terms (0.1%) over a period from 1 Dec 2020 until 1
+Dec 2023 but have contributed 139,606 of the AERs (22.8%) and 16,618 of the AERs including cardiac
+disorders (37.7%). For 1006 of the AERs listing COVID-19 vaccines as the suspected medicine, death was
+reported as an outcome. This is 6.9% of all deaths ever listed on the DAEN.
+
+The review of AERs where COVID-19 vaccines is listed as a suspected medicine should include the following:
+(1) a summary and evaluation of the number of adverse events reported to the TGA; (2) a review of the total
+number of AERs listed in the internal Adverse Event Management System (AEMS) database including
+specification of the number with death as an outcome; (3) detail regarding the process of review of the AERs
+listed in the AEMS including the inclusion/exclusion criteria applied when determining which AERs will be
+submitted to the DAEN, how many AERs were excluded from the DAEN under each of exclusion criteria,
+where duplicates are indicated, the DAEN case number of the duplicate, and an outline of the demographics
+and adverse event terms associated with the AERs excluded from the DAEN; (4) an outline of data audit
+processes; (5) an outline of management of incomplete data (missing age, gender and/or adverse event
+data); (6) how deaths are reviewed and, to date, how many can be ruled out as being the result of the
+COVID-19 vaccination (7) a review of the protocols undertaken to evaluate the number and types of adverse
+events reported against the background of AER typically reported with the purpose of identifying safety
+signals; (8) the provision of detail regarding the tolerance limits and stopping criteria related to the
+assessment of safety signals, what has TGA done to date to assess safety signals, what they have observed
+and on what basis were safety signals, if found, ignored; and (8) what are the details of the product testing
+procedures, including tolerance limits and rejection criteria, and what was found in regards to quality.
+
+Review of post-market!ng pharmacovigilance by the National Centre for Immunisation Research and
+Surveillance (NCIRS)
+AusVaxSafety is an active post-marketing pharmacovigilance program that collects data through a survey sent
+via text to individuals who receive vaccines at participating centres/clinics. Surveys are sent 3, 8 and 42 days
+after vaccination. The surveys collect information about: (1) whether one or more adverse events were
+experienced following vaccination; (2) whether the adverse event(s) resulted in the person seeking medical
+help and, what type of help was sort (phone advice, GP, visit to hospital emergency); (3) whether vaccination
+impacted routine activities, and (4) whether a number of specific, more generalised adverse events were
+experienced. Participants were also provided a free text box to provide further information. In addition to
+these general surveys, AusVaxSafety is working with the TGA and other government departments to conduct
+an Adverse Events of Special Interest (AESI) long-term follow up program that specifically tracks AESI such as
+anaphylaxis, myocarditis, and Thrombosis with Thrombocytopenia Syndrome (TTS).
+Despite all the data being collected by AusVaxSafety and others, only a summary of the findings for the Day 3
+survey has been provided on the AusVaxSafety website for the public for review. The Day 8 and Day 42 data
+have not been provided. Neither has any data relating to the free text response given with any of the three
+surveys, or any of the results of the AESI long-term follow up program, been provided by the NCIRS. The
+AusVaxSafety surveys have been being conducted since 2021 and the failure to provide access to the study
+findings is unacceptable.
+
+Request a review of data collection processes and an outline of all findings to date for the day 3, 8, and 42
+surveys and the AESI programs, as a matter of urgency. This should include a detailed provision of
+methodology, and access to adverse event data provided in the free text responses.
+
+                                                                                                     3 | Page
+

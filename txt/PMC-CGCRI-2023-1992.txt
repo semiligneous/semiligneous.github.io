@@ -1,0 +1,1090 @@
+AMSANT Aboriginal Corporation                                                                             <P'C
+                                                                                                        /                %
+ICN 8253 | ABN 26 263 401 676                                                                           R               %
+Levell Moonta House 143 Mitchell St NT 0800                                                             t               !
+
+Postal Address - GRO Box 1624 Darwin NT 0801                                                             AMSANT
+
+Commonwealth Government COVID-19
+Response Inquiry
+December 2023
+
+Introduction
+Aboriginal Medical Services Alliance of the Northern Territory (AMSANT) is the peak body for
+Aboriginal Community Controlled Health Services (ACCHS) in the Northern Territory. ACCHSs are
+valued for the provision of culturally appropriate, holistic primary health care and are well positioned
+to address barriers to accessing health care (such as racism, transport and cultural needs).
+
+The maintenance of public health restrictions until the availability of COVID-19 vaccines and antivirals
+is likely to have been an important contributing factor to the lower-than-expected mortality rates
+among Aboriginal and Torres Strait Islander people at the time that many restrictions were lifted in
+early 2022. In contrast, the national 2020 COVID-19 mortality rate for Native Americans in the United
+States was almost three times that for the Caucasian population - the rate being highest on "reserves",
+which is their equivalent of Australian Aboriginal remote communities (Leggat-Barr et al., 2021).
+
+However, the current mortality rate from COVID-19 in Aboriginal and Torres Strait Islander people is
+1.6 times that of non-lndigenous people; in remote and very remote areas, this increases to 3.7 times
+(data up to 31 March 2023; ABS, 2023). Higher rates of socioeconomic disadvantage (ABS, 2023) and
+some of the highest rates of chronic disease in the world (Hare et al, 2022) drive this disproportionate
+impact. However, features of the Australian Government's pandemic response could have been
+delivered more effectively to better protect this population. This submission outlines identified
+strengths and deficiencies of the pandemic response below, as well as recommendations for
+improving systems to avert a disproportionate impact on Aboriginal people in the NT in the next public
+health emergency.
+
+Governance and Aboriginal leadership
+The Aboriginal and Torres Strait Islander Advisory Group on COVID-19 (the 'Taskforce') was
+established in March 2020, co-chaired by the National Aboriginal Community Controlled Health
+Organisation (NACCHO) and the Australian Government Department of Health. Key reasons for the
+effectiveness of the Taskforce include:
+
+    •      Co-chairing by people with relevant expertise (e.g. in this case Dr Dawn Casey and a senior
+           public servant with experience in the ACCHS sector).
+    •           Aboriginal representation from the outset.
+    •           High level input into Communicable Diseases Network Australia (CDNA).
+    •           Adequate resourcing, including secretariat support.
+    •           Knowledgeable membership including key affiliate representation.
+
+The ACCHS sector also demonstrated its role of leadership, expertise, and adaptability during health
+emergencies. The sector delivered an immediate and effective response despite existing resource
+limitations in the primary care sector.
+
+
+                                                  Page 1 of 7                    Aboriginal Medical Services Alliance - NT
+        rSOWCii DUALITY
+                                                                      Telephone (08) 8944 6666 Facsimile (08) 8981 4825
+                                                                Email: reception@amsant.org.au Web: www.amsant.org.au
+Recommendations:
+
+    1.   Advisory and/or decision-making bodies that would direct any public health emergency
+         response for Aboriginal and Torres Strait Islander communities must be formed early and
+         include leadership from the ACCHS sector.
+
+Funding and resources
+ACCHSs played a significant role across all essential pandemic activities, including raising awareness
+of COVID-19, promoting and delivering vaccines, and supporting those who contracted COVID-19.
+Rapid provision of funding to ACCHSs and affiliates, to support these activities, was relatively flexible
+with reasonable reporting processes. Deployment of rapid and flexible funding to the ACCHS sector
+is essential in any future response.
+
+However, there was a lack of Australian Government support for vulnerable Aboriginal communities
+during the first severe Omicron wave of COVID-19 in the NT. The NT Government was overwhelmed
+and avenues to obtain Federal support in a timely manner were not clear.
+
+In early 2022, three ACCHSs s requested assistance during the Omicron outbreaks. One was being
+impacted by floods and internet/phone outages and another two were having severe COVID
+outbreaks to manage with already existing severe staffing shortages. The NT government was not
+able to support their COVID response in a timely manner and the avenues to request Federal
+assistance was not clear, despite Darwin being the base for the National Critical Care and Trauma
+Response Centre. By the time Federal assistance was made available, the emergencies in each of
+the communities had already peaked and for one remote community - the response provided
+('mapping of need') was not a priority (when practical support on the ground was required). There
+must be clear and timely avenues for support for very remote communities in a public health
+emergency given the limited resources available and heightened vulnerabilities of remote
+communities.
+
+There was also insufficient support for homeless people or people living in very overcrowded houses
+who could not safely isolate when they had COVID 19. This lack of support contributed to rapid
+spread of COVID 19 within Aboriginal communities.
+
+Recommendations:
+
+    2.   Rapid and flexible funding must be provided to the ACCHS sector to carry out essential
+         public health emergency activities and to support additional costs - e.g. the cost of
+         quarantining staff.
+    3.   Reporting and administrative requirements of public health emergency funding must not be
+         overly burdensome on health services.
+    4.   Federal government support in a public health emergency must be timely and accessible in
+         response to urgent health service and community needs particularly in remote and very
+         remote communities or high risk urban communities - e.g. town camps.
+
+
+Biosecurity zones
+In February 2022, the Commonwealth Minister for Health, at the request of the NT Government and
+with the support of the Northern Land Council established a series of biosecurity zones to slow the
+movement of people, and the spread of COVID-19. It is difficult to assess the impact these
+
+
+
+
+                                                     Page 2 of 7
+biosecurity zones had on reducing the spread of COVID-19 because there was no reported
+community spread in NT towns. The challenges to implement the zones included:
+
+    •        Significant added stress on an already strained primary care workforce.
+    •    Anecdotal suggestion that the biosecurity zones were "leaky", people could get around them
+         (e.g. leaving a car at the outskirts of the zone and then walking across the border). To stop
+         this would require massive police resourcing which is unlikely to be sustained.
+    •    Biosecurity measures included limiting visitation access to '"essential workers' only", with
+         governments and agencies such as the NT PHN unilaterally deciding which services were
+         non-essential and often diverting these workers to other areas. This included nearly all allied
+         health workforce and the mental health, alcohol and other drug, domestic and family
+         violence and social and emotional wellbeing (SEWB) outreach workforce. The decision about
+         what workforce is essential should be made with local ACCHSs and communities with advice
+         from public health and the decision should be commensurate with the public health threat.
+         Given the high rate of SEWB problems and chronic disease, the decision to cease these
+         services for months at a time caused significant harm.
+    •    The biosecurity measures required Aboriginal people who needed hospitalisation or to
+         undergo other medical treatment to quarantine in locations that could be minimally
+         supported and, in some cases, distressing and even dangerous (e.g. young Aboriginal
+         mothers being discharged from hospital with their first baby having to isolate in a culturally
+         unsafe and unsupported quarantine and patients discharged from psychiatric care
+         quarantining on their own).
+    •    Feedback from clinicians also included that some patients at quarantine facilities had
+         difficulties accessing their regular medications.
+
+Recommendations:
+
+    5.   Where public health emergency responses may have a significant social impact (e.g.
+         biosecurity zones) there must be rapid funding of measures to provide support for those
+         affected (e.g. appropriate quarantine facilities).
+    6.   ACCHSs and local communities should be central to the decision making about which
+         services should continue and how they should continue in a public health emergency with
+         the decision being guided by the severity of the public health threat. Services that should be
+         considered high priority include allied health and responses to, and management of, mental
+         health, domestic and family violence, alcohol and other drug use, and social and emotional
+         wellbeing.
+
+Access to vaccination and treatment
+COVID-19 vaccination was rolled out too slowly to the NT ACCHS sector, with vaccines being freely
+available to low-risk people in Darwin at the same time they were inaccessible to very remote
+people. It appeared that the Federal Government felt that remoteness was sufficient to protect
+these communities along with the biosecurity measures. However, if there had been community
+transmission in towns such as Alice Springs or Broome, biosecurity measures (with their deficiencies
+as listed above) would not have been sufficient to protect remote communities.
+
+One factor of the slow rollout was ineffective messaging (discussed further below), which caused a
+lack of trust (e.g. about safety of the AstraZeneca vaccine) that could not be recovered in some
+communities. There should have been a more rapid pivot to Pfizer vaccine availability for all
+Aboriginal community members to hasten uptake of vaccines.
+
+
+
+                                                      Page 3 of 7
+A positive feature of the response was the lower thresholds for Aboriginal people in very remote
+communities to access antivirals - this was essential in communities known to be at higher risk of
+poor health outcomes from COVID-19.
+
+Recommendations:
+
+    7.   Vaccinations and treatments must be prioritised and effectively distributed to high-risk
+         groups including Aboriginal communities.
+
+Public health messaging
+Australian Government messaging for COVID-19 broadly, and COVID-19 vaccination specifically, was
+relatively ineffective for Aboriginal people in the NT. Local organisations produced high quality
+resources that were responsive to local community information needs and preferences (see
+Trudgen, 2020 as one example). These organisations (including ACCHSs) should be resourced to
+undertake public health messaging.
+
+There remain ongoing issues with a lack of clear messaging to the public, including Aboriginal
+communities about the ongoing risk of COVID-19 risk, the long-term impacts of COVID-19 on chronic
+disease risk and Long COVID.
+
+Aboriginal and Torres Strait Islander communities were targets for disinformation regarding the
+COVID-19 vaccine, which may have contributed to vaccination rates under 90% in Aboriginal
+communities when COVID-19 arrived in the NT (Roussos, 2021). Disinformation compounds
+hesitancy and distrust of government activities, stemming from the events of colonisation. Culturally
+sensitive public health messaging, led by local Aboriginal communities, should be initiated as early as
+possible in a health emergency, to combat disinformation campaigns and to promote informed
+choice for Aboriginal people.
+
+Recommendations:
+
+    8.   Aboriginal organisations including ACCHSs should be resourced to create and disseminate
+         health promotional resources in a public health emergency.
+
+Data
+Stratified data, specific to Aboriginal mortality and morbidity, was slow to be collected, analysed and
+accessed. This data was initially restricted to Australian Government committees. Health services,
+including ACCHSs, needed to have accurate information about the potential risks for their
+communities and should have been provided with timely data. The new Australian Centre for
+Disease Control should prioritise improving Aboriginal and Torres strait islander communicable
+disease data and ensure that this data can be shared with ACCHSs and local communities.
+
+Recommendations:
+
+    9.   Public health emergency data, including mortality and morbidity data, specific to Aboriginal
+         communities must be provided in a timely manner to ACCHSs.
+
+Broader health system impacts
+Redirection of resources to address COVID-19 led to reduced healthcare provision (e.g. routine
+medical or chronic diseases checks, or specialist medical services). This was exacerbated by health
+
+
+
+
+                                                    Page 4 of 7
+workforce shortages, (in the NT, particularly fly-in-fly-out staff impacted by lockdowns), and
+jurisdictional border restrictions.
+
+This pandemic highlights a need to explore what is required in ACCHSs to provide effective primary
+healthcare during public health emergencies.
+
+Telehealth: Temporary Medicare Benefits Schedule (MBS) Telehealth items assisted in improving
+access to primary care. Telehealth for Aboriginal and Torres Strait Islander people needs to be
+culturally safe, well-resourced, and in addition to (not replacing) face-to-face care. Effective use of
+Telehealth in the ACCHS setting is resource-intensive, as a clinician usually supports the patient in­
+person during the consultation. Given the ongoing remote workforce crisis, Telehealth items should
+be expanded again in remote and very remote areas to include suitable items such as care plans and
+review of care plans.
+
+Recovery phase: The recovery phase will be protracted in remote and very remote areas. Prior to
+the pandemic, workforce trends included very high turnover and locum use rates. This was
+exacerbated by the pandemic such that in 2020, one third of the vacancies in Aboriginal primary
+health care were in the NT (where the majority of Aboriginal people live in remote or very remote
+areas). This is very disproportionate relative to population share (the NT comprises only 10% of the
+total Aboriginal population). Most clinical indicators have declined since 2020, with little sign of
+recovery, revealing the strain on primary care (AIHW, 2023). This is very concerning given that the
+life expectancy gap in the NT is the widest of any jurisdiction.
+
+There needs to be sustained workforce support for the recovery phase, particularly in remote and
+very remote areas. AMSANT is working with the Department of Health and Aged Care on an urgent
+response to the workforce crisis based on a policy paper with short, medium and long term actions
+(attached). Any identified actions must be resourced. There must also be policy action to support
+more equitable distribution of the health workforce.
+
+Investment in building the resilience and capacity of the ACCHS sector is not just about service
+provision - it is also about investing in the employment of Aboriginal and Torres Strait Islander
+people. This potential area for growth has not been thoroughly considered in the pandemic
+response. Aboriginal and Torres Strait islander staff were invaluable in the acute phase of the
+pandemic with key skills including providing culturally safe communication, addressing vaccine
+hesitancy and supporting contact tracing. Enhanced public health training could support a larger
+Aboriginal workforce working across a range of communicable diseases within Aboriginal primary
+health care who could then easily pivot to a central role in a pandemic response or other public
+health emergency. There is also a need for increased Aboriginal and Torres Strait Islander
+participation in the government public health workforce to ensure a culturally safe and more
+effective response.
+
+There also needs to be consideration of a public health loading for ACCHSs particularly in Northern
+Australia where the rates of communicable diseases such as trachoma and rheumatic heart disease
+are particularly high. ACCHSs also often undertake much of the work normally done by public health
+staff in other populations-e.g. contact tracing. Funding could also be used to support local workforce
+and ensure ongoing pandemic preparedness. AMSANT suggests this loading be set at 10%.
+
+
+
+
+                                                     Page 5 of 7
+Recommendations:
+
+    10. ACCHSs need to be adequately resourced for ongoing maintenance of primary healthcare
+           provision during a public health emergency, in addition to supplementary emergency
+           activities.
+    11. MBS rebates for Telehealth should be expanded in remote and very remote areas to
+           improve access to primary healthcare where face-to-face care may have limited availability.
+    12. There must be long term resourcing and policy attention to the workforce crisis in remote
+           and very remote areas that was exacerbated by the pandemic.
+    13. Invest in capacity building for the ACCHS sector with a focus on Aboriginal and Torres Strait
+           Islander workforce including training and support for an Aboriginal and Torres Strait Islander
+           public health workforce.
+    14.         Leadership from the ACCHS sector must continue throughout the recovery phase.
+    15. ACCHS should be provided with a 10 % communicable disease loading to support clinical and
+           public health approaches to communicable disease control.
+
+Community supports and social determinants of health
+How social determinants affected Aboriginal and Torres Strait Islander people was not adequately
+considered in the pandemic response. Extreme measures were undertaken (such as isolating whole
+communities), it was still not possible to slow the spread of COVID 19 in remote communities and in
+town where overcrowding in social housing existed. Funding should be increased to improve remote
+housing conditions in the NT, where widespread poor quality and overcrowded housing
+infrastructure exacerbated the spread of COVID-19 infection. Whilst overcrowding and
+homelessness remains at high levels, regional quarantine centres will need to be stood up quickly in
+the event of another public health emergency that requires Aboriginal people to quarantine and
+isolate.
+
+During periods of lockdowns, biosecurity zones and quarantine, many Aboriginal people and
+communities became isolated with limited social supports or access to services. Resources such as
+additional welfare payments must be considered to offset the financial hardship associated with a
+public health emergency.
+
+Recommendations:
+
+    16. Social determinants of health, community infrastructure and financial support must be
+           addressed to ensure community preparedness for future public health emergencies.
+
+
+
+
+                                                      Page 6 of 7
+References
+ABS (Australian Bureau of Statistics) (2023). COVID-19 Mortality in Australia: Deaths registered until
+31 March 2023 [Review of COVID-19 Mortality in Australia: Deaths registered until 31 March 2023],
+ABS. Retrieved December 19, 2023, from https://www.abs.gov.au/articles/covid-19-mortality-
+australia-deaths-registered-until-31-march-2023
+
+AIHW (Australian Institute of Health and Welfare) (2023). Aboriginal and Torres Strait Islander
+specific primary health care: results from the OSR and nKRI collections, Vacancies (FTE). (2023,
+August 24). Australian Government, https://www.aihw.gov.au/reports/indigenous-
+australians/indigenous-primary-health-care-results-osr-nkpi/contents/osr-workforce/vacancies-fte
+
+Hare, M. J. L, Zhao, Y., Guthridge, S., Burgess, P., Barr, E. L. M., Ellis, E., Butler, D., Rosser, A.,
+Falhammar, H., & Maple-Brown, L. J. (2022). Prevalence and incidence of diabetes among Aboriginal
+people in remote communities of the Northern Territory, Australia: a retrospective, longitudinal
+data-linkage study. BMJ open, 12(5), e059716. https://doi.org/10.1136/bmjopen-2021-059716
+
+Leggat-Barr, K., Uchikoshi, F., & Goldman, N. (2021). COVID-19 risk factors and mortality among
+Native Americans. Demographic Research, 45, 1185-1218. https://www.jstor.org/stable/48640810
+
+Roussos, E. (2021, October 28). Remote Aboriginal communities battle misinformation in race
+against time to boost vaccination rates [Review of Remote Aboriginal communities battle
+misinformation in race against time to boost vaccination rates], ABC News.
+https://www.abc.net.au/news/2021-10-28/nt-remote-communities-covid-vaccination-santa-teresa-
+ali-curung/100572230
+
+Trudgen, R. (2020, April 6). Navigating COVID-19 when you don't understand English» Why
+Warriors. Why Warriors, https://www.whywarriors.com.au/2020/04/navigating-covid-19-when-you-
+dont-understand-english/
+
+
+
+
+                                                        Page 7 of 7
+AMSANT Aboriginal Corporation
+ICN 8253 | ABN 26 263 401 676                                                                           /             \
+Levell Moonta House 143 Mitchell St NT0800                                                             f
+Postal Address - GRO Box 1624 Darwin NT 0801                                                            AMSANT
+
+
+              AMSANT Workforce Crisis policy paper July 2023
+
+
+Recommendations
+
+Short Term Crisis Response
+
+   1.    Index core funding for ACCHSs and increase the Medicare bulk billing incentive in rural and
+         remote areas.
+   2.    Establish an international migration campaign to recruit remote primary health care staff,
+         including general practitioners.
+   3.    Run a national campaign encouraging practitioners to make a long-term commitment to
+         return regularly for some weeks/months to a particular community over a number of years.
+   4.    Disallow MM1 and MM2 localities for international medical graduates and non-vocationally
+         registered Australian doctors, unless working for an Aboriginal community controlled health
+         service or if a severe shortage can be demonstrated.
+   5.    Allocate 40 subsidised medical undergraduate places already funded to Charles Darwin
+         University so that the Northern Territory can at last have its own medical school.
+   6.    RACGP and ACCRM to set national stretch targets for the proportion of GP registrars 1)
+         undertaking terms in Aboriginal PHC and 2) undertaking terms in remote Aboriginal
+         PHC/community-controlled service providers.
+   7.    The Commonwealth fund bonuses for GP registrars who agree to work remote with the
+         minimum term being six months and with increasing bonuses for longer periods of training in
+         remote and very remote areas.
+   8.        Implement a retention payment system for remote area nurses after 12 months of service.
+   9.    Undertake and audit of all clinics and staff housing and develop an asset upgrade and
+         replacement plan as needed based on the findings of the audit.
+
+
+Medium Term Strategies
+
+   10. The National Aboriginal and Torres Strait Islander Health Workforce Strategic Framework and
+         Implementation Plan is implemented.
+   11. Establish a skills-based Aboriginal Health Worker training program and expand the Aboriginal
+         Health Practitioner training program with community-based training whenever possible to
+         provide a pathway for Aboriginal community members into the health professions.
+   12. The Centrelink system is reformed so that it encourages remote Aboriginal people to enter
+         the workforce including part time and short-term roles.
+   13.        Support two-year graduate nurse programs in large ACCHSs.
+   14. Reform undergraduate health professional training courses to make them more suitable to
+         the needs of remote communities.
+
+
+
+
+                                                Page 1 of 15                    Aboriginal Medical Services Alliance - NT
+          Mil 011*1.1™
+                                                                      Telephone (08) 8944 6666 Facsimile (08) 8981 4825
+                                                               Email: reception@amsant.org.au Web: www.amsant.org.au
+   15. Further develop courses in the Northern Territory in nursing and midwifery and allied health
+       professions (e.g., pharmacy, podiatry, diabetes nurse education, occupational therapy,
+       psychology and others).
+   16. Establish a Centre of Excellence in GP registrar training in remote/very remote Aboriginal
+       primary health care.
+   17. The Commonwealth Government to explore mechanisms to supplement GP registrar salaries
+       in private practice so that they are comparable with equivalent hospital-based registrar
+       salaries.
+
+
+
+Long Term Strategies
+
+   18. Address poor education, poverty, inequality, poor housing and intergenerational trauma to
+       unlock Aboriginal participation and contribution in the health professions.
+   19. Expand Aboriginal leadership and participation at all levels of the health system, including as
+       managers, administrators and health professionals, through cadetship and scholarship
+       programs.
+   20. Address maldistribution and over-specialisation of health professionals, especially of doctors
+       and nurses
+
+
+
+1 Introduction
+The NT Aboriginal primary health care sector is experiencing a workforce crisis that is threatening to
+reverse some of the life expectancy gains made during the last 20 years. This paper sets out some of
+the issues and potential solutions. AMSANT has advocated most of the above recommendations to
+Minister Butler in October with three follow up meetings. No concrete action has resulted as yet, but
+the Minister's office has reassured us that the letter was influential and there may be some actions
+in the budget. Donna Ah Chee provided a paper to the NACCHO workforce summit in April which
+included most of the recommendations included in the paper. AMSANT has also written to NACCHO,
+RACGP and ACCRM about the sharp decline in GP registrar numbers and we have put forward the
+recommendations about GP registrars to those organisations.
+
+2 Extent of health need in the NT
+The life expectancy gap in the NT is the widest of any jurisdiction at 15 years but there has been
+substantial improvement in life expectancy over the last fifteen years (9 year improvement for men
+and 4.9 improvement for women) (Zhao et al, 2022). These gains have been primarily attributed to
+health system improvements, especially primary health care as in this period, other key social
+determinants of health have not improved. Clearly there is a long way to go with progress needing to
+accelerate if we are to close the life expectancy gap by 2031 in accordance with Close the Gap Goals.
+
+The disease burden is growing with a major study showing that rates of diabetes in Central
+Australia were the highest in the world with rates increasing substantially in both the Top End and
+Central Australia( Hare M et al 2022, ) Rates of diabetes in pregnancy are also estimated to be the
+highest in the world in Central Australia whilst type two diabetes in children in Northern Australia is
+amongst the highest rates globally and is growing (Hare M et al 2020, Titmuss A 2022)). . Of the
+four jurisdictions with RHD registers ( Queensland , Western Australia South Australia and the
+NT) ,the NT has 42% of the cases of rheumatic heart disease on the RHD register, and the rates of
+
+
+
+
+                                                   Page 2 of 15
+people with ARF are increasing at a faster rate than other jurisdictions ( AIHW 2021, AIHW 2020),
+ACCHS data demonstrates a 12% increase in people requiring monthly penicillin needles in just one
+year The failure to address social determinants adequately has led the health system to deal with an
+ever growing burden of chronic and communicable disease fuelled by social and cultural
+determinants such as poverty, expensive food, overcrowded housing , intergenerational trauma and
+racism.
+
+3 Workforce crisis
+3.1 Turnover and retention
+The levels of staff turnover and vacancies were high prior to COVID as evidenced by a workforce
+turnover study conducted in the NT government primary health care sector demonstrating that only
+20% of nurses/AHRs were still working at the same remote clinic 12 months after commencement
+and half had left four months (Russell D et al, 2017). The most recent OSR report (2020 -2021 CY).
+demonstrates that 34% of vacancies were in the NT despite the NT Aboriginal population comprising
+only 9% of the total Aboriginal population (AIHW, 2023). The total number of vacancies were much
+higher than in states with significantly higher Aboriginal populations such as Queensland (AIHW,
+2023).
+
+3.2 Impact of crisis on access to health professionals
+3.2.1 Aboriginal staff
+Aboriginal and Torres Strait Islander people make up 53% of employees in Aboriginal PHC, of which
+89% are employed in the ACCHS sector (AIHW, 2023). There are multiple benefits to service delivery
+outcomes when teams include Aboriginal staff including better connection, rapport and trust with
+patients, improved communication, improved attendance at appointments higher compliance with
+treatment, better follow up and reduced discharge against medical advice in hospital (AIHW 2022a).
+The proportion of Aboriginal staff in ACCHSs has slowly been declining since 2013 when the
+proportion of Indigenous staff was 58%. The NT has the lowest rate of Indigenous health
+professionals employed per 100, 000 population of any jurisdiction despite having the highest
+proportion of Aboriginal people and a particularly high health need compared to other jurisdictions
+(AIHW 2022a).
+
+3.2.1.1 Aboriginal Health Practitioners and Aboriginal Health workers.
+Aboriginal health practitioners/workers are critical to a culturally safe effective workforce delivery
+yet their numbers have been slowly declining for many years (number declined in the NT from 228 in
+2013/2014 to 205 in 2021(AIHW 2022a). Retention of these critical staff is made more difficult by
+high turnover of non-local staff with AHRs and other Aboriginal staff continually needing to orientate
+and support new staff. The funding of an additional 500 places nationally for local entry level
+Aboriginal workforce in Aboriginal community-controlled health services across Australia is very
+welcome and needs to be built on through ongoing investment in recruitment training and support
+of this critical workforce.
+
+3.2.1.2 Other identified roles for Aboriginal staff.
+There are a number of career choices in health and related fields beside clinical roles. These include
+roles in administrations, community health /health promotion and public health, SEWB/mental
+health/AOD and family support. There are also emerging areas in health coaching and opportunities
+in disability and aged care as more services expand activity in these key service areas. However,
+there are not always clear pathways into these diverse career options. An NT Human Services
+
+
+
+                                                    Page 3 of 15
+Industry plan has been developed to guide development of a range of roles in health and social
+services. AMSANT is also undertaking research into mapping these diverse career pathways to
+facilitate clearer career pathways through Central Australian Academic Health Science Centre funded
+research.
+
+3.2.1.3 Aboriginal representation in all administrative and health professional roles
+The proportion of Aboriginal registered doctors, nurses, allied health staff and other registered
+health professionals is much less than population share and has been only slowly increasing with an
+approximate doubling nationally from 1996 to 2016(AIHW 2022b). The professions with the biggest
+gap between Indigenous and non-indigenous rates are medicine, nursing and allied health (AIHW
+2022b).
+
+Aboriginal staff are critical to non-clinical areas including policy and advocacy, research, strategy and
+planning and management/administration. This includes senior roles up to and including the CEO of
+services. Strong Aboriginal leadership is crucial to the effective functioning of the ACCHS sector.
+
+3.2.1.4 Doctors
+Most NT ACCHSs have very significant shortage of general practitioners and this has worsened
+during the pandemic Telehealth Medicare rebates have helped somewhat with services using
+general practitioners living in non-remote areas to provide this service. However, this has limits and
+resident GPs are still required to review and physically examine patients as well as to support other
+staff (particularly nurses and AHPs) and have input into clinical governance. Given the high burden of
+chronic complex disease, it is unacceptable for very remote areas to have half the ratio of doctors to
+patients as urban and regional areas (AIHW 2022a).
+
+The recently announced changes to overseas doctors' requirements to work in an area of workforce
+shortage will actually worsen shortages in rural and remote areas at this time of crisis. Prior to 2022,
+overseas trained doctors were required to work in a remote for five years or a rural area for 10 years
+before they could access GP MBS items in urban and regional areas. This policy resulted in significant
+numbers of overseas doctors practising in the NT. Overseas trained doctors can now access GP
+Medicare rebates in some outer metropolitan (Ml) areas as well as all MM2 areas. These changes
+have caused an immediate shift of doctors away from remote areas. The decision and the failure to
+consult with the rural and remote health sector prior to the decision being made is very
+disappointing given the extremely high health need in remote areas.
+
+3.2.1.5 GP registrar training
+GP registrar training at its peak in 2016 had 64 new registrars commencing training, reducing to 20 in
+2020 and to less than 10 in 2023. The GP registrar training program has been a crucial way that
+doctors enter our sector with many senior doctors training in the NT. The dramatic reduction from
+2022 to 2023 in registrar numbers has occurred at the same time as the Colleges have taken over GP
+training from the NTGPE. Previous requirements to 1) undertake a term of training outside Darwin
+and 2) undertake a term in Aboriginal health have been dropped this year as NTGPE said this was too
+difficult to maintain when training was transitioning to the Colleges. Even if this was reinstated, it
+would make little difference to the number of doctor training in the community controlled sector
+when training numbers are so low. The dramatic slump in numbers of doctors entering GP registrar
+training is highly concerning for the future of the GP workforce in the NT.
+
+
+
+
+                                                    Page 4 of 15
+3.2.1.6 Rural Generalist Training
+The NTG (along with other State Governments) was funded to develop a rural generalist unit with
+the aim of training doctors specifically for a rural and remote career. In other jurisdictions such as
+Queensland, this scheme has had a strong focus on training doctors to work in small rural hospitals.
+This is not the key need in the NT where small rural hospitals such as Tennant Creek are well
+supplied with doctors (on generous packages) whilst remote Aboriginal PHC remains very short of
+doctors. Hospital salaries are difficult for our sector to compete with and there is risk that doctors
+will be drawn away from Aboriginal PHC to hospital medicine. The evidence strongly suggests that
+well trained GPs will provide greater health benefit working in Aboriginal primary health care than in
+Emergency Departments (Levine et al, 2019).
+
+3.2.1.7 Junior doctors
+A scheme to provide junior doctors exposure to primary health care in rural, remote and very
+remote areas (prior to these doctors deciding which speciality to pursue) commenced in 2022. A
+previous iteration of this scheme was very successful with many NT ACCHSs participating. The first
+allocation of junior doctors in 2023 in the current scheme was weighted towards government PHC
+and the hospital system outside of Darwin and Alice Springs with only two (out of 9) being allocated
+to the community-controlled sector. Further allocation to our sector is being hampered because
+hospitals are still the employer and need to release these doctors for a term. The Royal Darwin
+Hospital has only released a limited number and Alice Springs Hospital has refused to release any
+junior doctors for this scheme. The NT has aimed to source junior doctors from interstate with
+limited success. This is likely to improve only slowly with overseas trained doctors now returning to
+the system but with intense competition for health professionals including doctors from other
+developed countries.
+
+3.2.1.8 Nurses
+Nurses and midwives are the most common health professional worldwide at around 27 million
+(WHO 2020). There is a global shortage of nurses (estimated to be between 6-13 million by 2030)
+which has been worsened by COVID 19 and is causing intense international competition for nurses
+(Health Workforce Australia 2014). The last national study by Health Workforce Australia in 2014,
+shortly before it was decommissioned predicted that there would be an Australian shortfall of
+85,000 nurses by 2025 and 123,000 by 2030 (Health Workforce Australia, 2014). The number of
+nurses being trained has continued to increase but retention is also a key issue as is ageing of the
+workforce. There has been a steady increase in the number of nurses registered but not practising,
+The Commonwealth Health Department is undertaking a nursing workforce strategy but there seems
+little other policy to address these severe and potentially worsening shortages.
+
+Very remote areas have a higher ratio of nurses to population than less remote areas, but this is
+largely because nurses are doing work undertaken by general practitioners in regional and urban
+settings and also because there is a very high health need. In 2020, there were 1,202 FTE clinical
+nurses and midwives per 100,000 people in Very remote areas compared with 1,069 in Major cities.
+(AIHW, 2022b). Anecdotally, the nursing shortage has greatly increased over the last two years.
+
+Nursing shortages have been acute over the pandemic and have caused NTG government clinics to
+cease providing a 24/7 resident service in several remote communities in Central Australia.
+
+
+
+
+                                                    Page 5 of 15
+3.2.1.9 Allied health
+Allied health is a key part of comprehensive PHC and there are widespread shortages exacerbated by
+COVID but also competing demands from NDIS and to a lesser extent- aged care. Key health
+professionals such s clinical psychologists are also in very short supply in very remote areas with a
+severe maldistribution. However, a detailed outline about allied health is beyond the scope of this
+paper.
+
+3.3 Impact of workforce crisis on health service performance
+Review of the national key performance indicators (last results from June 2022) showed a decline
+over time with the NT having lower performance than most other jurisdictions in some important
+indicators including health checks (2nd lowest for 0-14 age group and 3rd lowest for adults),
+recording of alcohol consumption( lowest),recording of BP in people with diabetes (2nd lowest), and
+good BP control (lowest of any jurisdiction)( AIHW, 2023). Review of the NTAH key performance
+indicators for the calendar year ending December 2022 demonstrates ongoing worsening
+performance in 15 indicators with two stable and none improving. There were sharp declines in very
+important indicators such as completeness and timeliness of immunisation, screening for sexually
+transmitted infections, rates of adult health checks and the proportion of people who require
+monthly penicillin needles for rheumatic heart disease prophylaxis receiving at least 80% of their
+needles. Given the COVID pandemic has improved over the last six months, some recovery could
+have been expected by now, without a workforce crisis. However, it is clear that this recovery will be
+uncertain, long and slow without decisive action on the workforce crisis.
+
+3.3.1 Reasons for the decline in performance
+Continuity of care is critical particularly in chronic disease care and this is compromised by a high
+proportion of short-term staff who often focus mainly on acute rather than preventative care. Staff
+shortages result in staff working long hours which then leads to staff requiring fatigue level during
+business hours- this then can cause a vicious cycle of routine primary health care being neglected,
+leading to more acute presentations and thus more fatigue leave. Staff get burnt out and dissatisfied
+in this environment as they know they are not providing high quality care whist still working very
+hard. There are also OH and S issues with fatigue potentially causing more accidents and staff mental
+health issues. In addition, the low numbers of Aboriginal health professionals particularly in remote
+teams and under representation in senior professionals roles will reduce the performance of the
+service as a whole.
+
+A recent paper published in the MJA online (Larkins et al 2022) showed that in NT government clinics
+more than 70% of chronic disease patients have not seen a doctor for more than 12 months. In
+addition to this, it has been reported that in Central Australia, 90% of remote patients which chronic
+conditions in NT government clinics are not collecting their medications and there has been an
+increase in End Stage Renal Failure by 20% in the last 12 months (personal communication Dr Paul
+Burgess).
+
+The Walker coronial inquest has heard disturbing further evidence of nursing vacancies with the NT
+government reporting a 25 % remote nurse vacancy rate at the Central Australian Aboriginal
+Congress 20%. These are unfilled nursing positions which are not able to be covered by locum
+nursing staff. If locum nursing staff were not counted, then the vacancy rate would be substantially
+higher and we know that short term staff cannot do all that is needed.
+
+
+
+
+                                                    Page 6 of 15
+3.3.2 Impact of COVID
+COVID 19 has exacerbated the adverse workforce trends in the NT so that the situation is now quite
+dire. The NT Aboriginal PHC sector has a heavy reliance on interstate and international nurses and
+doctors with New Zealand being the most important source of international health staff. Our sector
+immediately struggled as borders closed. Border closures were necessary, but the workforce was
+quickly depleted and has not recovered yet. The sector struggled with Omicron outbreaks during
+periods of critical workforce shortages and this led to higher than normal levels of burnout and
+fatigue as well as staff absenteeism and early retirements. At the same time, COVID 19 vaccination
+and quarantine positions were plentiful and were offering wages that were often higher than
+standard remote area nursing remuneration despite the work being less complex and stressful.
+Unsurprisingly, our services lost many staff to vaccination and quarantine positions and many of
+these staff have not returned. There are major workforce shortages now even in capital cities, so
+competition remains intense. Although international migration has recommenced, global
+competition for health workforce is also increasing. The end result is unsustainable rates of vacant
+positions with two large remote /very remote ACCHS having one third of doctor positions vacant and
+from one third to two thirds of nursing positions vacant.
+
+4 Strategies to address the crisis.
+There has been a failure to invest in long term workforce initiatives over many years which has now
+culminated in the current unsustainable workforce structure in NT Aboriginal primary health care.
+We need ways to attract and retain new staff into the sector who are willing to give longer term
+commitment to Aboriginal PHC whilst also providing stronger support for the local Aboriginal
+workforce who are critical to effective culturally safe Aboriginal PHC. The Commonwealth Health
+Department needs a greater degree of engagement in these issues particularly noting the recent
+decision about overseas doctors detailed above, which will exacerbate rather than assist with the
+current crisis. There appears to be a reliance on current mechanisms such as Government funded
+locum agencies (e.g., Remote Area Health Corps- RAHC) to deal with workforce issues. RAHC has
+been very useful and has developed a strong orientation and support program for staff new to
+remote. However, our services find that RAHC and the Rural Workforce Agency (the two key
+government funded locum and recruitment agencies) can only provide a small proportion of their
+total locum and recruitment needs. When RAHC expanded their remit to cover all of remote
+Australia, the assistance they were able to provide to NT ACCHSs actually declined. Furthermore,
+RAHC does not recruit to permanent roles, and this is a key need whilst the Rural Workforce Agency
+is not funded to a level to cope with the high and growing workforce shortages. Services are forced
+to use commercial locum agencies who charge high fees and also require a substantial payment if a
+locum staff member from that agency transitions to permanent employment from locum roles.
+
+The paper sets out some initiatives that need to be urgently considered by government, from a crisis
+response to more long term approaches. Some are specific to categories of health professionals
+whilst others are more general.
+
+4.1 Short term crisis response
+Recommendation 1: Index core funding for ACCHSs and increase the Medicare bulk billing
+incentive in rural and remote areas.
+
+Due to high vacancy rates, locums are increasingly being used to cover these vacancies and services
+are being charged very high rates as locum agencies take advantage of shortages to increase fees
+
+
+
+
+                                                   Page 7 of 15
+and with also competition from interstate providers. Inflation is now running at 7-8% whilst CPI is
+only 2.5%. Thus, ACCHSs funding is effectively being significantly cut at a time of increased
+expenditure.
+
+Medicare has also been frozen for several years and although this has now changed, the Medicare
+rebate has been significantly reduced due to this unfortunate decision by the previous
+Commonwealth Government. Bulk billing rates have fallen significantly and Medicare revenue for
+ACCHSs is also falling in real terms.
+
+Recommendation 2: Establish an international migration campaign to recruit remote primary
+health care staff, including general practitioners.
+
+An international migration campaign specifically for remote primary health care (MM6 and MM7)
+including general practitioners, should be undertaken. This should be focused on Europe, the United
+Kingdom, New Zealand, Canada and the USA. A targeted scheme with a strong focus on Aboriginal
+health care could at least partly counteract the negative impact of the decision on overseas-trained
+doctors and reduce nursing and other shortages. The focus should be on first world countries given
+the ethical challenges of recruiting from countries with less well-developed health systems.
+Generous relocation packages will be required given intense global competition for health
+professionals. AMSANT has already asked the Commonwealth to run such a campaign. This was
+considered but declined. The Department of Home Affairs is promoting migration for priority
+occupations, and AMSANT was asked to contribute information to fact sheets developed for nurses
+and doctors. However, the material that AMSANT provided was not included in the fact sheets,
+which were brief, covered hospitals and primary health care and made no mention of either remote
+health or Aboriginal health. AMSANT has raised this issue with Minister Butlers office.
+
+Recommendation 3: Run a national campaign encouraging practitioners to make a long term
+commitment to return regularly for some weeks/months to a particular community over a number
+of years.
+
+A national advertising campaign could be considered asking practitioners to consider a long term
+commitment even if that commitment was to return regularly to the same community on a yearly
+basis for some weeks/months. This could be from the point of view of community members who
+could talk about the difference between interacting with staff that they know and like as opposed to
+short term staff. The advertising campaign could also counter negative publicity about remote towns
+which may have impacted om recruitment outcomes in recent months.
+
+Recommendation 4: Disallow MM 1 and MM2 localities for international medical graduates and
+non-vocationally registered Australian doctors, unless working for an Aboriginal community-
+controlled health service or if a severe shortage can be demonstrated.
+
+The Commonwealth government should urgently change the decision to allow overseas trained
+doctors to access Medicare in some urban areas (MM1) that are categorised as areas of GP
+shortages. IMGs (International Medical Graduates) working in inner regional areas (MM2) should
+only be able to access Medicare if the suburb is categorised as having a severe GP shortage-
+currently IMGs in all MM2 areas can access Medicare within the first ten years. IMGs should also
+not be able to work in MM3 and MM4 areas that are well supplied (e.g. Byron Bay). Non
+vocationally registered doctors can also access the higher vocationally registered Medicare rebate in
+
+
+
+
+                                                      Page 8 of 15
+some MM1 and all 1711712 locations. The GP shortages are not nearly as acute as they are in remote
+and very remote areas. Furthermore, urban patients are able to access GPs in nearby suburbs and
+people in 1711711 and 1711712 areas have good access to hospitals unlike people in very remote areas.
+ACCHS in urban and regional areas should be exempt from this requirement given the critical need
+to improve Aboriginal health outcomes. GPs that work in very remote areas should be able to access
+Medicare in urban areas after five years of working in very remote areas.
+
+Recommendation 5: Allocate 40 subsidised medical undergraduate places already funded to
+Charles Darwin University so that the Northern Territory can at last have its own medical school.
+
+AMSANT is fully behind the establishment of an NT Medical School at CDU, with 40 new places in
+addition to the 22 or so places that the Flinders Medical program currently has in the NT. The NT
+required 63 interns per year to meet its own hospital requirements and so would be able to offer all
+graduates internships. The evidence strongly backs the assertion that more doctors would stay in the
+NT if they trained locally.
+
+Recommendation 6: RACGP and ACCRM to set national stretch targets for the proportion of GP
+registrars 1) undertaking terms in Aboriginal PHC and 2) undertaking terms in remote Aboriginal
+PHC/community controlled service providers.
+
+The Colleges have now taken over the training program and it should be easier for registrars to do a
+remote term even whilst based in an interstate urban region. AMSANT has written to both Colleges
+requesting that a national target be set for GP registrars undertaking a term in Aboriginal Health
+with a specific target for training in remote Aboriginal PHC. This should be set so it is a stretch target
+- significantly higher than what is currently achieved.
+
+Recommendation 7: The Commonwealth fund bonuses for GP registrars who agree to work remote
+with the minimum term being six months and with increasing bonuses for longer periods of
+training in remote and very remote areas.
+
+In terms of the crisis in the GP training program, it is vital that financial and other incentives are used
+to attract GP registrars into the rural pathway. In a situation where so few doctors are choosing
+general practice, it is hard to maintain the previous quotas that were used to get doctors into the
+rural pathway, but this system had previously worked well.
+
+A financial bonus should be paid for registrars in increasing amounts depending on the time spent in
+remote and very remote areas. Bonuses for very remote areas should be set at a higher level than
+remote levels.
+
+Recommendation 8: Implement a retention payment system for remote area nurses after 12
+months of service.
+
+Nurses are a central part of the Aboriginal PHC workforce and currently, nursing workforce
+shortages are acute. Nursing shortages are the key reason that several government primary health
+care clinics in remote CA have ceased 24/7 service and are now just provided without reach services
+2- 3 days a week in office hours only.
+
+There needs to be a system of retention payment implemented for remote area nurses that
+commences after 12 months service just as there is for doctors. The payments should increase
+
+
+
+
+                                                     Page 9 of 15
+between MM6 and MM? locations. These payments should come from the Commonwealth
+government just as the GP retention payments do. This should be an urgent but also an ongoing
+commitment given the severe shortages.
+
+Recommendation 9: Undertake and audit of all clinics and staff housing and develop an asset
+upgrade and replacement plan as needed based on the findings of the audit.
+
+One of the most significant barriers to the recruitment and retention of health professionals in
+remote communities is both the quality of staff housing and the lack of adequate staff housing. It is
+now especially important that all housing is secure and safe and this now requires "Crimsafe" and
+other mechanisms to ensure adequate security. There is also need to consider more innovative ways
+to further develop staff housing so that options are available for shared facilities when this is
+preferred, as this creates a greater capacity for supportive relationships and a sense of security.
+
+As climate change progresses it will become more and more important that clinics and houses are
+well air conditioned, have access to cold water and that there is planning for adequate shade around
+clinics, in staff housing and in the community.
+
+It is also essential that clinics themselves are modern and safe working environments with all of the
+appropriate security and safety features that are needed. Clinics need to be able to be quickly locked
+down in the event of an outbreak of violence directed towards clinics staff, especially when clinics
+are often the only place that women escaping domestic violence can take refuge in remote
+communities.
+
+4.2 Medium Term Strategies
+Recommendation 10: The National Aboriginal and Torres Strait Islander Health Workforce
+Strategic Framework and Implementation Plan is implemented.
+
+A key priority is to expand Aboriginal and Torres Strait Islander participation at all levels of the health
+service. This will require long term funding for cadetship programs, traineeships and scholarships so
+that ACCHS can support young students who are studying to become health professionals. As part of
+this, the National Aboriginal and Torres Strait Islander Health Workforce Strategic Framework and
+Implementation Plan 2021-2031 must be funded and implemented with a clear governance
+mechanism led by NACCHO oversighting the implementation.
+
+Recommendation 11: Establish a skills-based Aboriginal Health Worker training program and
+expand the Aboriginal Health Practitioner training program with community-based training
+whenever possible to provide a pathway for Aboriginal community members into the health
+professions.
+
+There needs to be a renewed emphasis on basic training at the Certificate two level (in primary
+health care) with positions available in our services at that level. Some people may be happy to stay
+at that level, whilst others will pursue further training up until a Certificate four. These staff bring
+invaluable cultural, community and language skills to our services in addition to primary health care
+knowledge.
+
+There also needs to be a strong focus on community-based training in local clinics wherever this is
+possible with training that can only be delivered outside the local community to be provided in a
+network of remote training centres within the larger remote communities. This will require training
+
+
+
+                                                     Page 10 of 15
+infrastructure to be developed in the larger remote communities, but it is vital to reduce the
+requirement for travel as much as possible. This will greatly enhance the capacity and capability of
+local community members to undertake both AHW and AHP training.
+
+There also needs to be a greater emphasis on recruiting Aboriginal and Torres Strait Islander people
+to senior positions in the health system so they can influence the system for the better. Mentorship
+of those in middle management positions to enable more rapid career progression should be
+funded.
+
+Recommendation 12: The Centrelink system is reformed so that it encourages remote Aboriginal
+people to enter the workforce including part time and short-term roles.
+
+There needs to be major reform to the current Centrelink system which is punitive and discourages
+people particularly in very remote areas from engaging in part time work.
+
+Recommendation 13: Support two-year graduate nurse programs in large ACCHSs.
+
+A two-year graduate nurse program at Central Australian Aboriginal Congress (CAAC) has been very
+successful. It is a well supported program where graduate nurses are based at CAAC but also gain
+hospital experience. The program is very popular and had to turn away many suitable applicants.
+The program has attracted Aboriginal nurse graduates who are clearly keen to start their nursing
+career in Aboriginal health. The two-year program gives nurses the skills to commence a remote
+area nursing program career with limited further support. Building on the successful outcomes of
+the program, AMSANT is asking that there is an urgent funding decision to expand the program to all
+of the larger ACCHSs who wish to participate. The NT PHN is refunding the Central Australian
+program with underspends but there is not a commitment to ongoing funding of this program for all
+ACCHS that can support it.
+
+Recommendation 14: Reform undergraduate health professional training courses to make them
+more suitable to the needs of remote communities.
+
+There needs to be significant reform of undergraduate training programs to make them more
+suitable to the needs of remote communities.
+
+Recommendation 15: Further develop courses in the Northern Territory in nursing and midwifery
+and allied health professions (e.g., pharmacy, podiatry, diabetes nurse education, occupational
+therapy, psychology and others).
+
+There needs to be greater investment into training in outer regional remote and very remote areas
+with an emphasis on nursing, midwifery and allied health. As regional and remote universities and
+Centres of Rural and Remote Health have become competitors for students in Australia and
+overseas, they have reduced focus on their core obligations to rural and remote communities with a
+subsequent decline in training in remote and rural areas. This needs to change. The NDIS scheme is
+not meeting the needs of remote and very remote participants partly because of a lack of allied
+health - this situation is getting worse as demand increases.
+
+The University Department of Rural Health in Alice Springs needs to be transferred to Charles Darwin
+University as it has not been able to apply its resource to the very aim for which it was established -
+the recruitment and retention of health professional across Central Australia. It is now time to invest
+
+
+
+
+                                                   Page 11 of 15
+in our own NT university as this institution has built the relationships with our sector which are key
+to success in addressing our workforce needs.
+
+Recommendation 16: Establish a Centre of Excellence in GP registrar training in remote/very
+remote Aboriginal primary health care.
+
+The AMSANT Board has supported a CAAC developed proposal for a centre of excellence in GP
+training in remote Aboriginal primary health care to be funded in a remote town such as Alice
+Springs or Broome. As set out in the proposal, this center would provide a national focus for GP
+training in Aboriginal health with specific aims including:
+
+    •   Increasing the number of well supported registrar training positions in ACCHSs in rural and
+        remote settings;
+
+    •          Encouraging GP registrars to undertake training in Aboriginal health in all settings;
+
+    •   Supporting GP Supervisors in collaboration with local training providers, GPSA (General
+        Practice Supervisor's Australia- the national supervisor support organization), and
+        government Aboriginal primary health services;
+
+    •          Provide access to remote support for registrars and supervisors working in ACCHSs;
+
+    •   Support partner organisations by providing access to experienced supervisors, Aboriginal
+        cultural expertise, added information, technical support and specialised training initiatives;
+
+    •   Ensure that the training and placement experience is professionally and personally rewarding
+        for GP registrars; and
+
+    •   Ensure GP registrars are provided with the support and training to prepare them to work
+        effectively in the diverse context of Aboriginal Australia.
+
+Key partners would include NACCHO and affiliates, RACGP and ACCRM, Rural Training Hubs and
+Universities, GP Supervisors Australia (GPSA) and the Commonwealth Department of Health.
+
+Recommendation 17: The Commonwealth Government to explore mechanism to supplement GP
+registrar salaries in private practice so that they are comparable with equivalent hospital-based
+registrar salaries.
+
+Doctors often take a substantial pay cut when they start private practice GP registrar terms, and
+they also lose sick leave and maternity leave entitlements that they have built up in the hospital
+system. Junior doctors may choose non-GP speciality career paths partly based on finances and
+security. This has led Tasmania to institute a single employer model for GP training. This might not
+suit the NT given that salary support is available for GP registrar posts in ACCHSs. However, the
+Federal government could provide funding to top up GP registrar salaries in private practice as these
+are often substantially lower than what is earned by hospital colleagues at a similar stage of training,
+particularly for GP registrars doing their first GP registrar post in private practice.
+
+4.3 Long Term Strategies
+Recommendation 18: Address poor education, poverty, inequality, poor housing and
+intergenerational trauma to unlock Aboriginal participation and contribution in the health
+professions.
+
+
+
+                                                      Page 12 of 15
+In order to increase Aboriginal and Torres Strait Islander participation in the health workforce to a
+level commensurate with population share and health need, and also to increase participation at all
+levels of the health system including leadership roles, there must be concerted action on social
+determinants of health. This includes reducing overcrowding, increasing employment opportunities
+for Aboriginal people including in remote communities and increasing welfare benefits so they are
+above the poverty line. Systemic racism and intergenerational trauma must be addressed
+comprehensively. Evidence based culturally safe early childhood programs also have a track record
+of improving educational and social outcomes for populations with high levels of poverty and need
+to be implemented at scale. For adults who have been failed by the education system, evidence
+based adult literacy programs need to be implemented at a scale commensurate with the need.
+
+Recommendation 19: Expand Aboriginal leadership and participation at all levels of the health
+system, including as managers, administrators, and health professionals, through cadetship and
+scholarship programs.
+
+The Aboriginal primary health care sector requires strong leadership at all levels. Currently in very
+remote areas, the majority of managers and senior clinicians are non-Aboriginal people. This leads to
+a system which may not centre Aboriginal values, and which is not improving social determinants as
+well as it might. There needs to be a concerted effort to increase participation at all levels through
+funding of cadetships, scholarships, mentoring and other support (e.g. child care, transport or access
+to subsidised housing which is often provided to non-Aboriginal staff but not to Aboriginal staff).
+
+Recommendation 20: Address maldistribution and over-specialisation of health professionals,
+especially of doctors and nurses.
+
+In the longer term, there needs to be a review and strengthening of policies to improve
+maldistribution of health professionals and to increase capacity for training of health professionals in
+rural and remote areas. If the status quo of ongoing severe maldistribution continues, inequities in
+health access and outcomes are at risk of increasing for Aboriginal people in remote areas. This is
+clearly unacceptable given the current life expectancy gap. These long-term strategies need to be
+developed and implemented now otherwise the situation will be even worse in ten years' time.
+
+AMSANT has previously advocated for Medicare Benefits to be restricted so that new practitioners
+could not access Medicare from locations which were already well supplied with doctors. This would
+be politically difficult to achieve but may be the most effective long-term strategy to reduce
+maldistribution of doctors.
+
+There also needs to be a narrowing of the gap between what general practitioners and other
+specialists earn in order to turn around the decrease in doctors entering general practice training. If
+governments are not prepared to progressively tax incomes greater than $200K much more than
+present or put of ceiling on what medical specialists can earn, then the only option is to increase the
+remuneration that GPs receive. This would be best done as part of a large-scale reform process that
+move the system towards salaried GP positions in all localities based on population numbers much
+like the NHS achieves in England. This need to be part of a funding reform process for General
+Practice which includes patient enrolment and a mixed mode funding model such as exists with
+ACCHS and the former Health Care Home funding model. These types of reform are needed
+urgently.
+
+
+
+
+                                                   Page 13 of 15
+There is also severe maldistribution of nurses and allied health professionals. Increased regional
+training, tax concessions or even tax exemptions for health employees in very remote areas, and
+scholarships that bond students to remote areas for several years post-graduation are all potential
+solutions.
+
+
+
+
+References
+Australian Institute of Health and Welfare( 2023) : Aboriginal and Torres Strait Islander specific
+primary health care: results from the nKPI and OSR collections.
+
+AIHW ( 2021)Acute rheumatic fever and rheumatic heart disease in Australia, 2015-2019,
+https://www.aihw.gov.au/reports/heart-stroke-vascular-diseases/acute-rheumatic-fever-and-
+rheumatic-heart-disease/contents\
+
+AIHW (2022a). Aboriginal and Torres Strait Islander Health Performance Framework.
+
+AIHW ( 2022b) Health workforce - Australian Institute of Health and Welfare (aihw.gov.au) last
+updated July 2022
+
+Hare M, Barzi F, Boyle J, Guthridge S, Dyck E, Singh G, Falkahammar H , Webster V, Shaw J, Maple
+Brown L ( 2020).Diabetes during pregnancy and birthweight trends among Aboriginal and non­
+Aboriginal people in the Northern Territory of Australia over 30 years. The Lancet Regional Health -
+Western Pacific. . eCollection 2020 Aug.
+
+Hare M , Zhao Y, Guthridge S, BurgessP, Barr E, Ellis E, Butler D, Rosser A, Falhammer H, Maple
+Brown L ( 2022).Prevalence and incidence of diabetes among Aboriginal people in remote
+communities of the Northern Territory, Australia: a retrospective, longitudinal data-linkage study.
+BMJ Open. 2022 May 15;12(5):
+
+Health Workforce Australia ( 2014). Australia's future health workforce -Nurses, Overview report
+
+Levine D, Landon B and Linder B (2019).Quality and Experience of Outpatient Care in the United
+States for Adults with or Without Primary Care Mar l;179(3):363-372.
+
+Larkins S, Allard N and Burgess P (2022). Management of COVID-19 in the community and the role of
+primary care: how the pandemic has shone light on a fragmented health system Med J Aust | | doi:
+10.5694/mja2.51721 Published online: 26 September 2022
+
+
+Russell D, Yuejen Zhao Y , Guthridge S2, Ramjan M,Jones M, Humphreys J and Wakerman J 2017.
+Patterns of resident health workforce turnover and retention in remote communities of the
+Northern Territory of Australia, 2013-2015. Aug 15;15(1):52
+
+Titmuss A, Davis E, O Donnell V, Wenitong G Maple Brown L, Haynes A 2022; Youth-onset type
+2 diabetes among First Nations young people in northern Australia: a retrospective, cross-sectional
+study Lancet Diabetes Endocrinol. 2022 Jan;10(1):11-13.
+
+World Health Organisation( 2022)., Fact sheet Nursing and midwifery (who.int)
+
+
+
+
+                                                   Page 14 of 15
+Zhao Y, Qin S, Wilson T and Burgess C: 2022. Improved life expectancy for Indigenous and non­
+Epub 2022 May 29.Medical Journal of Australia
+
+
+
+
+                                                Page 15 of 15
+

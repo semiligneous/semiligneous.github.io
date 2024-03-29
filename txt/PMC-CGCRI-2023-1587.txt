@@ -1,0 +1,242 @@
+6   aiia
+    australian information
+    industry association
+
+
+
+
+         Australian Information Industry Association
+
+
+
+                                 Submission on the
+
+                         Commonwealth Government
+
+                             COVID-19 Response Inquiry
+
+
+
+
+                                    15 December 2023
+           aiia
+           australian information
+           industry association
+
+
+
+
+Introduction
+The Australian Information Industry Association ('the AHA') thanks the Department of the Prime Minister
+and Cabinet for the opportunity to respond to its COVID-19 Response Inquiry.
+
+
+This submission highlights the importance of digital technologies in keeping the broader Australian
+economy running and in delivering patient care during the COVID-19 years. Notwithstanding, there were
+lessons from the inconsistent use of modern technologies and the lack of integration of hardware
+software, people, processes, information, and information technology systems that resulted in poor
+communication and outcomes.
+
+
+The AIIA emphasises the need for the Government to continue investing in digital infrastructure and
+technologies, building on the rapid digital transformation that occurred during those intervening years
+and in line with new citizen expectations. The Government, society and industry must develop a long­
+term strategy to continue the productivity gains as well as to build the concepts of virtual care - such as
+video consultations, remote monitoring, and online clinical management - into mainstream healthcare
+delivery in a post-COVID world. Our vision must be for virtual care not as an exception or backup to in­
+person care, but as a core component of care that is part and parcel of how patients, clinicians and
+clinical teams interact. This ensures Australia is prepared for future pandemics.
+
+
+Australian digital experience during COVID-19
+The outbreak of the COVID-19 pandemic caught Australia unprepared. The lack of strategic funding,
+procurement and standards resulted in poor or inconsistent application of modern technologies. The
+following are some documented experiences.
+
+
+I.   Experience in the Government sector, with secondary benefits to the broader economy
+
+
+     There were barriers in the Government OpEx funding models. Many Government-purchased IT was
+     bought for an initial lifecycle and defaults to run for much longer. The outbreak of COVID-19
+     accelerated three years-worth of digital transformation by completing it in three months, ensuring
+     capability uplifts across the Government. This concerted effort resulted in innovative approaches to
+     work for its employees and service delivery to the public. The broader economy benefited from
+     flexible working arrangements, remote learning, remote court hearings, and more.
+
+
+     The rapid Government digital transformation attests to how digital leadership in Government is
+     possible once the Government sets its mind on it. It also proves ongoing benefits in service delivery to
+     the Australian community. The digital experience also lifts citizens expectations in Government
+     services.
+
+
+II. Experience in the Healthcare sector
+
+
+     Lack of agile funding and procurement
+
+
+     The outbreak of COVID-19 caused the Australian Health community to take reactionary measures.
+     This includes the use of legacy technology, which is explained further in the immediately following
+     section.
+6        aiia
+         australian information
+         industry association
+
+
+
+
+   Lack of integration of new systems and default to legacy technology
+
+
+   There was a significant variation in the quality, sophistication, and integration of technology platforms
+   (e.g. hardware, software, people, processes, and information), causing barriers to adopt modern
+   digital tools. There were also a lack of standards (e.g. cyber security standards) encompassing the use
+   of these systems to instil trust to overcome these barriers.
+
+
+   For example, Australia saw an uptake in virtual models of care across a range of patient groups
+   including within cancer care facilities, hospital geriatric teams and aged care facilities. While health
+   services have seen a six to eight-fold increase in the use of video consultations since the outbreak of
+   the pandemic, the majority of telehealth consultations remain by telephone.
+
+
+   In another example, despite the availability of end-to-end electronic prescribing and dispensing at the
+   onset of the pandemic, prescription processes were a challenge in making the transition to virtual
+   care for many individuals, with scripts being faxed to pharmacies ahead of the accelerated rollout of
+   e-prescribing using cloud technologies.
+
+
+   Lack of accessibility
+
+
+   Patients struggled to access care due to lack of digital infrastructure. Some patients turn off their
+   video to save on data costs, while clinicians often default to the telephone when connection or
+   microphone issues come into play. Some rural and remote health services would like to benefit from
+   better telehealth but struggle with bandwidth or network access issues.
+
+
+   Switching between platforms and operating on the basis of an ad-hoc hybridisation of platforms such
+   as phone, email and video consultation resulted in lack of coherence and security of patient-clinician
+   engagements.
+
+
+Future State: Long-term solutions to create reliable, available, relevant, complete, secure platforms for
+improved patient care.
+Building on the recent rapid acceleration in telehealth and virtual care, Australia must now power the
+next wave of virtual care.
+
+
+To ensure virtual care is sufficiently interoperable and collaborative, governments must facilitate the
+greater adoption of digital tools and multi-party co-working platforms, enabled by an expansive
+procurement panel and a long-term strategy of procurement and integration. To support this journey,
+governments must prioritise the application of appropriate technical standards for telehealth and ICT-
+enabled consultations in Australia.
+
+
+Digital literacy and digital inclusion are essential to healthy take up of virtual care. Governments must
+invest in relevant campaigns in the health care context for consumers, carers, and clinicians.
+lV
+           ana
+       j J australian information
+           industry association
+
+
+
+
+Summary of recommendations
+
+ Stage         Recommendations
+ Design             •   Clinicians and consumers must be engaged as co-designers in the development of
+ and                    models of digital health care.
+ plan               •   All governments, Commonwealth, State and Territory continue to prioritise the
+                        application of appropriate technical standards for telehealth and ICT-enabled
+                        consultations in Australia.
+
+
+
+ Fund               •   Government to invest in myGov platform - the key national digital identity
+                        infrastructure - to enable access to government services and real-time tracking to
+                        stop the spread of highly infectious diseases.
+                    •   Governments invest in funding infrastructure at the state and federal levels to
+                        progress telehealth towards meaningful, fully leveraged virtual care.
+                    •   Governments investigate procurement reform for telehealth ensuring procurement
+                        habits are agile, frequently refreshed, and expansive.
+                    •   Governments fund capable in-home virtual care to reduce inappropriate or
+                        unnecessary hospital or clinic attendance, using a public health and allocative
+                        efficiency approach in virtual care.
+
+
+
+ Adopt              •   Hospitals, practice managers, and government agencies adopt digital health tools
+                        and multi-party coworking platforms.
+                    •   Governments adopt an expansive procurement panel and enact long-term
+                        strategies of procurement and integration for virtual care and digital health tools.
+                    •   Government and telecommunications industry to incentivise the public's full use of
+                        video platforms, reducing socioeconomic and regional divides.
+
+
+
+ Secure             •   Greater allocation of funding and resources for IT security for all agencies,
+                        hospitals, and practices.
+                    •   Practices and hospitals engage in coordinated risk assessments and mitigation
+                        strategies for virtual care processes, with security oversight of each component in
+                        the virtual care solution.
+
+
+
+ Educate            •   Combat the notion that virtual care constitutes second-rate or second-class care.
+                        Virtual care should not be viewed as simply substitution but as a substantive and
+                        valuable augmentation to traditional models of care.
+                    •   Governments invest in digital inclusion and digital literacy campaigns in the health
+                        care context for consumers, carers, and clinicians to enhance take up of virtual care
+                        tools.
+6         aiia
+          australian information
+          industry association
+
+
+
+
+Conclusion
+
+The AIIA and its members stand ready to assist in facilitating the growth and maturity of virtual care
+through industry collaboration. This submission is informed by the AIIA's 'Beyond Telehealth: Towards
+Virtual Care' white paper, which has further case studies and details.1 Should you have any questions
+about the content of this submission please contactV
+
+
+
+
+Yours sincerely
+Simon Bush
+CEO, AIIA
+
+
+
+
+About the AIIA
+
+The Australian Information Industry Association (AIIA) is Australia's peak representative body and
+advocacy group for those in the digital ecosystem. We are a not-for-profit organisation to benefit
+members, which represents about 300 companies and 900,000 employed in the tech sector in Australia.
+Since 1978, the AIIA has pursued activities to stimulate and grow the digital ecosystem, to create a
+favourable business environment for our members and to contribute to Australia's economic prosperity.
+
+We do this by delivering outstanding member value by:
+• providing a strong voice of influence
+• building a sense of community through events and education
+• enabling a network for collaboration and inspiration; and
+• developing compelling content and relevant and interesting information.
+
+We are unique in that we represent the diversity of the tech ecosystem from small and medium
+businesses, start-ups, universities, and digital incubators through to large Australian companies,
+multinational software and hardware companies, data centres, telecommunications companies, and
+technology consulting companies.
+
+
+
+
+1 The AIIA, 'Beyond Telehealth: Towards Virtual Care' 2021 (link)
+

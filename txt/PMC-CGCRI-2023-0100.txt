@@ -1,0 +1,97 @@
+Commonwealth COVID Inquiry- D Parris Submission
+
+I was excited to see Australia announce the creation of a Centre for Disease Control, this seems like
+the next logical step in the wake of COVID-19. I'm also glad that Australia has commissioned this
+Inquiry, including to inform the priorities of the new CDC.
+
+
+In this submission I argue that prioritising pandemic prevention is key to strengthening our resilience
+and preparedness as we move towards a world where pandemics, and particularly bad pandemics,
+are particularly likely.
+
+
+It is often said that "prevention is better than a cure." Pike et al in "The Origin and Prevention of
+Pandemics" show that the
+
+
+
+
+As such, understanding the origins of pandemics is central to effective prevention. While historical
+data points to zoonoses as the primary cause, recent studies, such as Gopal et al.'s "Securing
+Civilisation Against Catastrophic Pandemics," highlight the evolving landscape, where lab leaks and
+engineered pathogens pose substantial threats. In particular, the emergence of "dual-use" risks from
+artificial intelligence (Al) and biotechnology is a contemporary challenge that demands attention.
+Recent hearings in the US Senate Judiciary Subcommittee underscore the rapid pace of Al
+development and its potential to empower malicious actors in bioweapons production.
+
+
+President Biden's executive order in response to these risks sets a precedent for proactive
+governance. It mandates the development of frameworks for screening synthetic DNA and imposes
+requirements on Al labs to mitigate "dual-use risks." I think Australia should consider adopting a
+similar approach.
+
+
+Expanding the scope of preventative health measures to address Al-related risks aligns with historical
+public health innovations. The parallels with issues like clean water and infectious diseases addressed
+by heros like Florence Nightingale, underscore the importance of tackling the challenges of our time,
+such as Al and synthetic biology.
+
+
+Mitigating risks in intensive animal agriculture is another crucial facet of pandemic prevention. To
+reduce the risk of pandemics from our food system Australia should investigate the suitability of such
+interventions:
+
+
+    •    Implementing straightforward and economical measures, such as proper fencing,
+         vaccination, or zoning, which could substantially decrease the risk of viruses from wild
+         animals spreading to livestock and, subsequently, to humans. This is discussed in detail by
+         Gortazar et al (2015) The wild side of disease control at the wildlife-livestock-human
+         interface: a review. Front. Vet. Sci. 1:27. doi: 10.3389/fvets.2014.00027
+    •    Improving inadequately designed ventilation systems in intensive farming which may release
+         substances, including pathogens, into the environment, heightening their transmission from
+         livestock to both wild and domestic animals. This is discussed in detail by Jones, et al (2013).
+        Zoonosis emergence linked to agricultural intensification and environmental change.
+        Proceedings of the National Academy of Sciences, 110(21), 8399-8404.
+        https://doi.org/10.1073/pnas.1208059110
+    •   Increasing the awareness of zoonotic spillover in producers and vets working with livestock.
+        An assessment of Irish farmers found that more than half thought it was impossible to get an
+        infection from sick poultry and over 90% thought it was impossible to get an infection from a
+        healthy-looking animal. Producers and vets are at the front line of zoonotic spillover in the
+        same way that healthcare providers are at the front line of infectious disease. As the "eyes
+        on the ground", their awareness of zoonotic risks, and the actions they take. You can read the
+        original research in Mahon et al, (2017). An assessment of Irish farmers' knowledge of the
+        risk of spread of infection from animals to humans and their transmission prevention
+        practices. Epidemiology & Infection, 145(12), 2424-2435. doi:10.1017/S0950268817001418
+    •   As in the COVID-19 pandemic, Australia could consider pioneering rapid antigen tests or
+        other rapid diagnostics to allow producers to check their livestock routinely and monitor
+        themselves for such illnesses. Agriculture Victoria has recently developed rapid tests for the
+        grape industry. While this is a good step, it's another example of Australia's "biosecurity
+        approaches" having practical measures to help the agricultural industry, but not having
+        practical measures to prevent pandemics or otherwise take a true one health approach.
+    •   Other peer-reviewed literature also mentions interventions that fall into 5 categories: stop
+        clearing and degradation of tropical and subtropical forests, improve health and economic
+        security of communities living in emerging infectious disease hotspots, enhance biosecurity
+        in animal husbandry, shut down or strictly regulate wildlife markets and trade, and expand
+        pathogen surveillance at interfaces between humans, domestic animals, and wildlife. The
+        inquiry can read about these in more detail at Vora, et al (2023). Interventions to Reduce Risk
+        for Pathogen Spillover and Early Disease Spread to Prevent Outbreaks, Epidemics, and
+        Pandemics. Emerging infectious diseases, 29(3), 1-9.
+        https://doi.org/10.3201/eid2903.221079
+
+
+In conclusion, pandemics are a pressing global concern, and their prevention should be a top priority
+for the CDC. I think we should have a strong and preemptive approach, addressing both traditional
+risks like zoonoses and emerging threats such as Al-related risks. The inquiry's recommendations
+should reflect an understanding of the multifaceted nature of pandemic risks to ensure Australia's
+preparedness for the future.
+
+
+Citations
+Emerging human infectious diseases and the links to global food production
+New portable genetic test for phylloxera I Media releases I Media centre I About I Agriculture
+Victoria
+Recent Senate Hearing Discussing Al X-Risk I Medium
+Al suggested 40,000 new possible chemical weapons in just six hours - The Verge
+Dual use of artificial-intelligence-powered drug discovery | Nature Machine Intelligence
+The Origin and Prevention of Pandemics - PMC (nih.gov)
+

@@ -1,0 +1,189 @@
+< IBEC                     Integrated Biosciences and Built Environment Consortium
+
+
+IBEC Australian Members Submission to the Australian Commonwealth Government COVID-19
+Response Inquiry
+IBEC (the Integrated Biosciences and Built Environment Consortium) is a US-registered international not-for-
+profit scientific body founded in 2020 in response to the COVID-19 pandemic. It integrates expertise in
+buildings, pathogens, and people, with diverse advisors in scientific, engineering, medical, and social science.
+We collaborate to bridge science to practice. Led by individuals with extensive experience in research,
+disaster management, risk mitigation, and biological agent control, IBEC addresses pandemic challenges with
+a focus on safeguarding lives, economies, and long-term health. This submission responds to the terms of
+reference detailed by the Commonwealth Government in their submission instructions.
+
+This document represents a combined submission by four Australian IBEC members:
+    • Dr Professor Lidia Morawska: Aerosol science and practice - Queensland - Scientific Advisor to IBEC.
+    • Dr Melissa Marot: Neuropsychology/organisational psychology - Victoria - Scientific Advisor to IBEC.
+    • Brett Cole: - Infection control and occupational hygiene - Victoria - Board member of IBEC.
+    • Dr Claire Bird: Microbial ecology and bioaerosol detection - Queensland - Vice President, IBEC.
+
+
+
+
+Governance and advisory bodies - We believe that an anticipated national threat calls for a pre-emptive
+nationwide plan delivered by strong leadership at the time of need. For nearly two years, global
+organisations such as the WHO1  2 and the CDC3 hesitated to acknowledge airborne transmission as the primary
+route of SARS-CoV-2 spread. The Australian Government delayed discussions with relevant Australian peak
+bodies e.g. AIOH4, AIRAH5,IAQAA6, ABSANZ7 and OzSage and world-leading experts in airborne disease
+transmission prevention such as those within the School of Earth and Atmospheric Sciences at the
+Queensland University of Technology. WHO action was prompted only after a letter to leaders was produced
+by over 200 scientists, led by Prof. Morawska, but not by the Australian Government 8- 9.
+
+This breakdown in communication blocked a robust scientific response, contributing to the unchecked spread
+and evolution of the virus into highly transmissible strains.
+
+In direct response to a publication involving several of IBEC Scientific Advisors led by Prof. Morawska10, in
+2023 the House of Representatives Standing Committee on Health, Aged Care and Sport recommended
+establishment and funding of a multidisciplinary advisory body. This body would include experts in
+ventilation, architecture, aerosol science, industry, building codes, and public health. Its purpose would be to
+assess the economic impact of poor indoor air quality (IAQ) and ventilation, focussing on high-risk settings
+e.g. hospitals, aged care facilities, childcare, and educational settings. Additionally, the advisory body would
+lead the development of national IAQ Standards for use in Australia. IBEC supports the creation of the
+Australian Centre for Disease Control, however the Inquiry recommendations emphasising ongoing
+Government collaboration with professional organisations. IBEC, actively networks with experts across the
+global IAQ industry and can support such initiatives.
+
+
+1 Morawska L, Allen J, Bahnfleth W, Bluyssen PM, Boerstra A, Buonanno G, et al. A paradigm shift to combat indoor respiratory
+infection. Science. 2021 May 14;372(6543):689-91).
+2 World Health Organization
+3 Centers for Disease Control and Prevention
+4 Australian Institute of Occupational Hygiene
+5 Australian Institute of Refrigeration, Air Conditioning and Heating
+6 Indoor Air Quality Association Australia
+7 Association for Biosafety for Australia and New Zealand
+8 Morawska, L., 2021, Australia must get serious about airborne infection transmission. Here's what we need to do. The Conversation,
+26 July 2021.
+9 Morawska, L. and Marks, G.B., 2022, Ventilation reduces the risk of infection: why are we still ignoring it? The Conversation,
+published online 1 December 2022.
+10 Morawska, L., Marks, G.B., Monty, J. et.al. (2022) Healthy indoor air is our fundamental need: the time to act on this is now.
+Medical Journal of Australia, 217(11): 578-581.
+
+Weareibec.org                                           commit2care.org                                                            1
+     1B E c             Integrated Biosciences and Built Environment Consortium
+
+
+Politicising the pandemic cost Australia immeasurably, with travel barriers and conflicting actions failing to
+protect public health and the economy, whilst eroding public confidence in Government. We advocate for
+increased Federal responsibility in preparing bipartisan plans for critical infrastructure before pandemics,
+including plans for inter-state travel, fair vaccination allocation, human diagnostics, and protective equipment
+for vulnerable populations. A robust Standard is crucial to a unified framework for all relevant professions
+and parties to ensure a comprehensive, single voice at times of crisis. IBEC has started to develop a
+framework and could assist in those developments in Australia.
+
+Public guidance on preventing airborne pathogen transmission was unclear; emphasis was wrongly placed on
+hand sanitation and physical distancing, diverting attention from more effective measures. IBEC's and
+AIHA's11 Commit-2-C.A.R.E. online tool addressed the gap, educating the public on options to reduce
+transmission. The simple user-interface was supported by a robust back-end model demonstrating the effect
+of increased ventilation, air filtration and mask use, reducing occupant density and spending less time in
+potentially contaminated spaces. Users were empowered to better protect themselves and others.
+Collaboration with Australian scientists and engineers could have enhanced such tool development, provided
+solid public advice, and reduced transmission rates and misinformation spread.
+
+Despite whole of government training towards pandemic preparedness and response at state level in
+previous decades, the response to SARS-CoV-2 revealed a surprising lack of application of these lessons when
+meeting human and infrastructure challenges. A national response would assist in bipartisan application of
+these lessons. In healthcare settings, there was existing pandemic response protocols built into most major
+public hospital operations, i.e. one Pandemic Ward. However, this proved to be completely inadequate to
+service the inpatient load at the height of the pandemic. Furthermore, the lack of planning and infrastructure
+to expedite ward conversion of to treat COVID-19 patients led to major outbreaks in clinical staff. Infection
+spread was accelerated by inadequate and inappropriate HVAC advice, poor timing and low effectiveness.
+
+Despite exhaustive scientific, medical, and engineering publications on airborne transmission mitigation and
+infection control, supplies and stockpiles of N95 respirators were inadequate to protect healthcare workers
+and were unable to support the Government mandated use of masks. Public guidance lacked clarity on basic
+respiratory protection limitations, correct usage, and deployment in specific scenarios. Inadequate regulation
+allowed defective devices into the market. The AIOH12, AIHS13, IAQAA14, and NZOHS15 collaborated on a
+document to help buyers identify compliant respiratory protective products. This was supported by several
+States, Worksafe, and trade unions and included appropriate compliance to Respiratory Protective Device
+Standards (AS/NZS 1715 16etc.) and appropriate fit testing. The AIOH further developed the RESPFit17
+Program to assist the public in validating appropriate respiratory protective devices and fit. The need for this
+work highlighted failure to implement effective preparedness plans at Federal level.
+
+Key health response measures - Disease outbreaks in quarantine centres could have been prevented by
+consulting aerosol science specialists. While vaccination and diagnostics were crucial, a balanced discussion
+on preventing interpersonal infection was overlooked and cost lives. Implementing air monitoring devices,
+understanding ventilation, and air filtration could have saved lives; IBEC recommends a more holistic
+response to future pandemics. Further, Australia confronts ongoing public health and economic risks beyond
+COVID-19, including increasing outbreaks of emerging and re-emerging respiratory diseases, increased
+spread of disease caused by climate change, and growing antimicrobial resistance. Ensuring confidence in
+government decision-making during health crises requires understanding, foreseeing and managing
+individual and collective responses to evolving situations. Expert input on optimal public health messaging
+and risk is vital for pandemic preparedness. Australians seek assurance of coordinated prepared governments
+learning from current situations. Utilising the expertise of Australian leaders in airborne infection
+
+
+11 American Industrial Hygiene Association - Centers for Disease Control and Prevention-funded joint project
+12 Australian Institute of Occupational Hygiene
+13 Australian Institute of Health and Safety
+14 Indoor Air Quality Association Australia
+15 New Zealand Occupational Health Society
+16 AS/NZS 1715:2009 - Selection, use and maintenance of respiratory protective equipment
+17 AIOH - Respirator fit testing training and accreditation - Accessed at: https://respfit.org.au/
+
+Weareibec.org                                     commit2care.org                                              2
+     1B E c            Integrated Biosciences and Built Environment Consortium
+
+transmission, hygiene and IAQ control is crucial. The government should actively engage with this sovereign
+knowledge, while also seeking international collaboration for global health threats. Treating proven methods
+as restrictions on personal freedoms was a critical error. Human behaviour experts able to predict public
+responses to lockdowns and mask-wearing, engineers and scientists advising on ventilation and protective
+measures could have minimised the need for prolonged isolation. Conflating protective measures with a
+message of personal freedom hindered mask adoption, impacting disease transmission and personal
+freedom.
+
+Broader health supports - Through Medicare, the Federal Government provided good support by increasing
+mental health session allocation and changing legislation to include Telehealth. Working closer with the State
+Governments would enable faster rollout of these services to the community.
+
+International policies to support Australians - The closure of international borders and securing of supply
+deals for vaccinations were important control measures in the early part of the pandemic prior to our current
+understanding of, and access to alternative controls. Given the rapid development in infection reduction and
+detection technologies it will be even more critical that experts are consulted early in the event of a future
+pandemic, or in better managing current and emerging airborne infective agents which impact quality of life
+and productivity.
+
+Support for industry and business - Insufficient training and resources left business owners struggling to
+navigate health risks, human resource decisions, and business survival, resulting in psychosocial implications
+for both owners and staff. First responders, healthcare professionals, teachers, aged care staff, and gig
+economy workers, faced disproportionate risks while being expected to work. When these same workers
+declined vaccination at a later stage they were barred from work. Targeted measures such as mask-wearing,
+continuous COVID-19-related sick pay support, reduced occupant density, improved ventilation, air filtration,
+and simple air monitoring devices would have reduced job losses, financial hardship and business closures.
+
+While dependence on international trade poses a supply chain vulnerability, Australia has a small population
+compared to the size of the international community it may interact and liaise with. IBEC recommendations
+include studying overseas developments in infection control in the building, such as ASHRAE 24118. To
+support this, Australia should invest in research and deployment of HVAC and air purification technologies,
+advocate for specialist providers and engage universities and professional bodies in industry guidance.
+
+Community supports - There are numerous examples of where a direct clash between Federal and State
+policies which lie outside of the terms of this inquiry impacted critical areas of risk, including child protection
+and domestic violence.
+
+Hard borders for international students in Australia were an oversight, neglecting the economic and
+intellectual contributions they bring. The mistreatment of students, who invested significantly in Australian
+education, is regrettable and will impact universities for years. This not only affects educational institutions
+but also hampers primary industries reliant on graduates for innovation and market creation.
+
+Targeting help for particular populations - Disseminating important messages to vulnerable groups is
+challenging, and we need both a communication plan and low-cost technologies to reduce psychosocial and
+health risks. A nationally coordinated response, collaboratively with First Nations peoples and CALD groups,
+radio and television organisations, may mitigate operational challenges of resource poor state-based
+communication operations. This messaging also needs to be clear, concise and harmonised across Federal
+and State based Governments.
+
+Individuals can become part of a discrete "population" at particular times in their lives. Imposing a hard
+lockdown preventing people sharing end-of-life time with their family members resulted in significant
+distress for all parties. The inflexibility and disparity across the country must be prevented in the future by
+implementing controls to avoid such loss and in developing a national framework, consequent standards and
+potential regulation to protect all people at times of vulnerability.
+
+
+18 ASHRAE Standard 241, Control of Infectious Aerosols
+
+
+
+
+Weareibec.org                                    commit2care.org                                                   3
+

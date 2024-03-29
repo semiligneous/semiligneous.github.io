@@ -1,0 +1,300 @@
+               Good
+               Ancestors
+               Policy
+
+
+
+Good Ancestors Policy is on Australian charity working to improve policy via rigorous and
+evidence-based proposals that could have a big impact on the future. We are proud to have helped
+coordinate Australians for Pandemic Prevention and support the content of their submission.
+
+We think this Inquiry will lead to the most positive outcomes for Australians if it focuses on the future.
+Australia needs to learn the lessons of COVID-19, but also needs to not "over-learn" those lessons. While
+some things might be the same, others are likely to be different.
+
+Overall, we assess that the evidence justifies substantial investment in pandemic prevention - both to
+reduce the risk of novel pathogens emerging and to reduce the risk that any outbreak escalates into a
+pandemic. Australia's approach should factor in all potential causes of a pandemic: this requires
+robust implementation of proven approaches, as well as urgent implementation of new and emerging
+technologies. Spending on mitigations should be commensurate with risk. Currently, there is substantial
+underinvestment in pandemic prevention when compared to other, less consequential, disasters.1 Even
+conservative estimates that don't account for promising new technologies or co-benefits suggest that
+every dollar spent on zoonotic pandemic prevention alone saves $20 in harm.2
+
+We recommend:
+1.      The CDC should design and operate practical programs to reduce the risk of zoonoses.23
+     1.1.   Work with states and territories to update biosecurity strategies to identify and implement
+            measures to prevent transmission at the human-wildlife-livestock interface.4-7
+     1.2.   The CDC, the Indo-Pacific Centre for Health Security, and the Ambassador for Global Health
+            should protect Australians by increasing efforts to support other countries in combating the
+            risks of novel pathogens emerging in their jurisdiction.
+     1.3.   Australia should consider including requirements about minimum standards of pandemic
+            prevention in free trade agreements. For instance, if a free trade deal relates to animal
+            products, the deal should set minimum zoonoses prevention standards for all parties.
+2.      Early detection could transform the trajectory of future pandemics. The CDC should develop a
+        strategy for an early novel pathogen detection system8 9 that harnesses emerging surveillance
+        technologies, including metagenomics and CRISPR-based diagnostics.10-12
+3.      Reliably clean indoor air must be normalised.13-15 In addition to improving standards for
+        filtration and ventilation,16 the Inquiry should recommend that research funding be directed t
+        resolving outstanding questions relating to UV germicidal irradiation, including far-UVC.17
+        These technologies must be deployed before the next pandemic pathogen emerges
+4.      While zoonoses have been the leading cause of pandemics historically, evidence suggests that
+        the next pandemic is most likely to leak from a lab or be intentionally engineered.18 This has
+        profound implications for how we must prevent and prepare for pandemics. The CDC should be
+        tasked with assessing and controlling the risk of emerging biotechnologies and encouraging
+
+
+
+                                                                                                    1
+                                                                                                                g
+
+       safer practices domestically and globally.19-22 It is unacceptable that the Office of the Gene
+       Technology Regulator has not inspected any Australian PC4 labs for over 2 years.23
+5.     Across all of its work, the Inquiry should consider the possibility of pandemics worse than
+       COVID-19 and how suitable its recommendations are in those contexts. Specifically:
+     5.1.   Workforce shortages and absenteeism could endanger the operation of critical
+            infrastructure, including electricity.24 Addressing this will require critical infrastructure
+            operators to have robust pandemic planning, including PRE that realistically allows their
+            employees to perform critical functions during a catastrophic pandemic.25
+     5.2.   Government should develop and exercise national plans that cover a range of pandemic
+            scenarios, including worst-case scenarios. To ensure the plans are robust and build public
+            confidence, the plans should be made public and exercised regularly with civil society and
+            industry participants. The plans should cover:
+             5.2.1. The emergence of a novel pathogen in Australia with the goal of identifying,
+                   containing and eliminating it before a pandemic occurs.
+             5.2.2. A "wildfire" pandemic that is more transmissible and has higher lethality than
+                   COVID-19.25
+             5.2.3. A"'stealth" pandemic that is more transmissible as COVID-19, and has presentation
+                   or harmful effects that may manifest significantly after infection e.g. similar to HIV or
+                   Human T-lymphotropic virus.25
+
+Given the page restriction, this focuses on far-UVC and the implications of worse pandemics. We would
+welcome further opportunities to engage with the Inquiry.
+
+Improving Indoor Air Quality
+Improving Indoor Air Quality (lAQ) to reduce pathogen transmission would slow the initial spread of a
+pathogen and allow more time for response - including efforts to contain and eliminate a pathogen
+before a pandemic begins. Consistent with the recommendations of "Sick and tired: Casting a long
+shadow",13 we recommend that the CDC lead an update of minimum performance requirements
+across the states and territories for IAQ to include infection prevention and incorporate the Lancet
+COVID-19 Commission Task Force's Proposed Non-infectious Air Delivery Rates (nadr).16 This should
+include a mandated minimum standard for IAQ in new high-risk and public spaces and subsidising the
+cost of IAQ upgrades where necessary, including existing high-risk locations.
+
+An uplift of IAQ will require a mix of technology. We assess that germicidal irradiation using ultraviolet C
+(UVC) light is particularly promising for a range of reasons:
+ • UVC light, a form of ultraviolet radiation with wavelengths between 200nm and 280nm,
+       deactivates pathogens by damaging their DNA or RNA.
+ • Upper-room UVC (~254nm) emitters are installed horizontally near the ceiling to
+       deactivate microorganisms that circulate towards the ceiling.
+ • Far-UVC (207 to 222 nm) light fixtures are installed to shine down on rooms and provide
+       continuous disinfection. This could reduce short-distance transmission and surface
+
+
+
+
+                                                                                                            2
+                                                                                                         g
+
+    transmission, unlike other ventilation and filtration methods. Far-UVC could be particularly
+    impactful in situations like hospitals, restaurants, classrooms or places of worship.
+ • While far-UVC is not immediately ready for commercialisation, research shows that it is
+    safe for eyes and skin,17,26,27 and effective at deactivating pathogens,28 including in the air.29
+ • While work is required to drive down costs, it's unlikely that there are significant technical
+    hurdles that would make far-UVC inherently impractical to commercialise.
+ • The combination of these features means that far-UVC can achieve many of the same
+    health benefits that mask-use would achieve in the general population but without
+    requiring individual behaviour change, making it a much more tractable public health
+    measure for reducing airborne pathogen transmission.
+
+Combined, these points mean that far-UVC is ideally placed for government support to transition it
+from a promising nascent technology to a scalable product that is ready for commercialisation. For
+these reasons, a key element of delivering recommendation 3 should be funding appropriate bodies -
+like the NHMRC, Thrive via ARC funding, or a new Cooperative Research Centre - to strategically
+accelerate the technology for inclusion in national IAQ standards.
+
+Preparing for worse pandemics
+The core function of this Inquiry should be readying Australia for the next pandemic. However,
+pandemic characteristics are growing harder to predict. The Geneva Centre for Security Policy
+assesses that lab leaks have already overtaken natural spillover as the most likely cause of the next
+pandemic.25 Progress in biotechnology and Al may mean this gap will widen and the risk of nefarious
+actors will grow.19-22'30 These potential differences need to inform our response - we can't fight the last
+war.
+
+While COVID-19 caused workforce shortages and supply chain interruptions, these were less severe
+than if the virus was more lethal among the working-age population. In a catastrophic pandemic, the
+worst consequences could come from cascading and compounding effects. Worker absence could
+leave critical infrastructure understaffed. Given the constant need for human intervention in power
+generation and distribution, the national grid and other critical infrastructure could rapidly collapse.31 A
+grid collapse causing cascading infrastructure failure could rapidly make cities uninhabitable.
+
+Any recommendations produced by the Inquiry, including regarding PPE stockpiles, should be mindful
+of pressures on critical infrastructure from a pandemic more lethal than COVID. This might include
+ensuring there is sufficient and suitable PPE for critical infrastructure workers to confidently attend their
+places of work during the height of a future pandemic.25
+
+Of course, merely having equipment is not enough. Australia lacks a sufficiently diverse range of
+regularly exercised national plans that would cover future pandemic scenarios i.e. "stealth" and
+"wildfire".25 Given the value of immediate action, governance frameworks like the Australian
+Government Crisis Management Framework or coordination tools, like the National Coordination
+Mechanism or the Australian Health Protection Principal Committee, are necessary but not sufficient.
+Likewise, while specific plans like the Smallpox Emergency Management Plan are helpful, they do not
+have the flexibility to cover a novel pathogen. For these reasons, Australia should develop a range of
+plans and ensure they are regularly exercised on the tabletop and in person.
+
+
+                                                                                                     3
+                                                                                                                     a
+
+Citations
+
+1. Productivity Commission. (2020, January 29). D Emergency management, Section 9—Report on
+     Government Services 2020.
+     https://www.pc.gov.au/ongoing/report-on-government-services/2020/emergency-management
+
+2. Bernstein, A. S., Ando, A. W., Loch-Temzelides, T, Vale, M. M., Li, B. V, Li, H., Busch, J., Chapman, C.
+    A., Kinnaird, M., Nowak, K., Castro, M. C., Zambrana-Torrelio, C., Ahumada, J. A., Xiao, L.,
+     Roehrdanz, R, Kaufman, L., Hannah, L., Daszak, R, Pimm, S. L., & Dobson, A. P. (2022). The costs
+     and benefits of primary prevention of zoonotic pandemics. Science Advances, 8(5), eab!4183.
+     https://doi.org/10.1126/sciadv.abl4183
+
+3. Johnson, I., Hansen, A., & Bi, P. (2018). The challenges of implementing an integrated One Health
+     surveillance system in Australia. Zoonoses and Public Health, 65(1), e229-e236.
+     https://doi.org/10.1111/zph.12433
+
+4. Mahon, M. M., Sheehan, M. C., Kelleher, P. F., Johnson, A. J., & Doyle, S. M. (2017). An assessment of
+     Irish farmers’ knowledge of the risk of spread of infection from animals to humans and their
+     transmission prevention practices. Epidemiology & Infection, 745(12), 2424-2435.
+     https://doi.Org/10.1017/S0950268817001418
+
+5. Jones, B. A., Grace, D., Kock, R., Alonso, S., Rushton, J., Said, M. Y., McKeever, D., Mutua, F., Young,
+     J., McDermott, J., & Pfeiffer, D. U. (2013). Zoonosis emergence linked to agricultural intensification
+     and environmental change. Proceedings of the National Academy of Sciences, 110(2^), 8399-8404.
+     https://d0i.0rg/l 0.1073/pnas.1208059110
+
+6. Gortazar, C., Diez-Delgado, I., Barasona, J. A., Vicente, J., De La Fuente, J., & Boadella, M. (2015). The
+     Wild Side of Disease Control at the Wildlife-Livestock-Human Interface: A Review. Frontiers in
+     Veterinary Science, 1. https://www.frontiersin.org/articles/10.3389/fvets.2014.00027
+
+7. Vora, N. M., Hannah, L., Walzer, C., Vale, M. M., Lieberman, S., Emerson, A., Jennings, J., Alders, R.,
+     Bonds, M. H., Evans, J., Chilukuri, B., Cook, S., Sizer, N. C., & Epstein, J. H. (2023). Interventions to
+     Reduce Risk for Pathogen Spillover and Early Disease Spread to Prevent Outbreaks, Epidemics, and
+     Pandemics. Emerging Infectious Diseases, 29(3), e221079. https://doi.org/10.3201/eid2903.221079
+
+8. Parkinson, S., Dawney, J., Adams, A., & Senator, B. (2023). Data collection and sharing for pathogen
+     surveillance: Making sense of a fragmented global system. RAND Corporation.
+     https://www.rand.org/pubs/research_reports/RRA2788-1 .html
+
+9. The Apollo Program for Biodefense—Winning the Race Against Biological Threats, (n.d.). Bipartisan
+     Commission on Biodefense. Retrieved 13 January 2023, from
+     https://biodefensecommission.org/reports/the-apollo-program-for-biodefense-winning-the-race-against
+     -biological-threats/
+
+
+
+
+                                                                                                                 4
+                                                                                                                    a
+
+10. Welch, N. L., Zhu, M., Hua, C., Weller, J., Mirhashemi, M. E., Nguyen, T. G., Mantena, S., Bauer, M. R.,
+     Shaw, B. M., Ackerman, C. M., Thakku, S. G., Tse, M. W., Kehe, J., Uwera, M.-M., Eversley, J. S.,
+     Bielwaski, D. A., McGrath, G., Braidt, J., Johnson, J., ... Myhrvold, C. (2022). Multiplexed
+     CRISPR-based microfluidic platform for clinical testing of respiratory viruses and identification of
+     SARS-CoV-2 variants. Nature Medicine, 28(5), Article 5. https://doi.org/10.1038/s41591-022-01734-1
+
+11. Simner, P. J., Miller, S., & Carroll, K. C. (2018). Understanding the Promises and Hurdles of
+     Metagenomic Next-Generation Sequencing as a Diagnostic Tool for Infectious Diseases. Clinical
+     Infectious Diseases, 66(5), 778-788. https://doi.org/10.1093/cid/cix881
+
+12. Liang, C., Wagstaff, J., Aharony, N., Schmit, V., & Manheim, D. (2023). Managing the Transition to
+     Widespread Metagenomic Monitoring: Policy Considerations for Future Biosurveillance. Health
+     Security, 21(1), 34-45. https://doi.org/10.1089/hs.2022.0029
+
+13. Commonwealth Parliament House, C. (n.d.). SICK AND TIRED: CASTING A LONG SHADOW
+     (Australia) [Text]. Retrieved 13 December 2023, from
+     https://www.aph.gov.aU/Parliamentary_Business/Committees/House/Health_Aged_Care_and_Sport/L
+     ongandrepeatedCOVID/Report/Chapter_5_-_Prevention
+
+14. Duffield, G., & Bunn, S. (2023). Indoor air quality. Parliamentary Office of Science and Technology, UK
+     Parliament. https://doi.org/10.58248/PB54
+
+15. Haines, C. A., Olsiewski, R, Bruns, R., & Gronvall, G. K. (2022). National Strategy for Improving Indoor
+    Air Quality. Johns Hopkins Center for Health Security.
+     https://centerforhealthsecurity.org/sites/default/files/2023-02/20221026-nsi-iaq-report.pdf
+
+16. The Lancet COVID-19 Commission Task Force on Safe Work, Safe School, and Safe Travel. (2022).
+     Proposed Non-infectious Air Delivery Rates (NADR) for Reducing Exposure to Airborne Respiratory
+     Infectious Diseases.
+     https ://statid .squarespace.com/static/5ef3652ab722df11fcb2ba5d/t/637740d40f35a9699a7fb05f/1 668
+     759764821/Lancet+Covid+Commission+TF+Report+Nov+2022.pdf
+
+17. Welch, D., Buonanno, M., Grilj, V, Shuryak, I., Crickmore, C., Bigelow, A. W., Randers-Pehrson, G.,
+     Johnson, G. W., & Brenner, D. J. (2018). Far-UVC light: A new tool to control the spread of
+     airborne-mediated microbial diseases. Scientific Reports, 8(1), Article 1.
+     https://doi.Org/10.1038/S41598-018-21058-w
+
+18. Esvelt, K. M. (2022). Delay, Detect, Defend: Preparing fora Future in which Thousands Can Release
+     New Pandemics. Geneva Council of Security Policy.
+     https://www.gcsp.ch/publications/delay-detect-defend-preparing-future-which-thousands-can-release-n
+     ew-pandemics
+
+19. Sandbrink, J. B. (n.d.). Artificial intelligence and biological misuse: Differentiating risks of language
+     models and biological design tools.
+
+
+
+
+                                                                                                                5
+                                                                                                                    a
+
+20.       Mark Dybul. (2023). Biosecurity in the Age of Al. Helena.
+      https://938f895d-7ac1-45ec-bb16-1201cbbc00ae.usrfiles.com/ugd/938f89_74d6e163774a4691ae8aa0
+      d38e98304f.pdf
+
+21. Manheim, D., & Lewis, G. (2022). High-risk human-caused pathogen exposure events from 1975-2016.
+      FIOOOResearch, 10, 752. https://doi.Org/10.12688/f1000research.55114.2
+
+22. Urbina, F., Lentzos, F., Invernizzi, C., & Ekins, S. (2022). Dual use of artificial-intelligence-powered drug
+      discovery. Nature Machine Intelligence, 4(3), Article 3. https://doi.org/10.1038/s42256-022-00465-9
+
+23.       Office of the Gene Technology Regulator. (2023). Annual Report 2022-23.
+      https://www.ogtr.gov.au/sites/default/files/2023-10/operations_of_the_gene_technology_regulator_ann
+      ual_report_2022_23.pdf
+
+24. Electric Power Grids Under High-Absenteeism Pandemics: History, Context, Response, and
+      Opportunities. (2020). leee Access, 8, 215727-215747.
+      https://doi.org/10.1109/ACCESS.2020.3041247
+
+25. Gopal, A., Bradshaw, W., Sunil, V., & Esvelt, K. M. (2023). Securing Civilisation Against Catastrophic
+      Pandemics (Geneva Paper). Geneva Center for Security Policy.
+      https://dam.gcsp.ch/files/doc/securing-civilisation-against-catastrophic-pandemics-gp-31
+
+26. Truong, C.-S., Muthukutty, P, Jang, H. K„ Kim, Y.-H., Lee, D. H„ & Yoo, S. Y. (2023). Filter-Free,
+      Harmless, and Single-Wavelength Far UV-C Germicidal Light for Reducing Airborne Pathogenic Viral
+      Infection. Viruses, 15(7), 1463. https://doi.org/10.3390/v15071463
+
+27. Hessling, M., Haag, R., Sieber, N., & Vatter, P. (2021). The impact of far-UVC radiation (200-230 nm)
+      on pathogens, cells, skin, and eyes - a collection and analysis of a hundred years of data. GMS
+      Hygiene and Infection Control, 16, Doc07. https://doi.org/10.3205/dgkh000378
+
+28. Narita, K., Asano, K., Naito, K., Ohashi, H., Sasaki, M., Morimoto, Y, Igarashi, T, & Nakane, A. (2020).
+      Ultraviolet C light with wavelength of 222 nm inactivates a wide spectrum of microbial pathogens.
+      Journal of Hospital Infection, 105(3), 459-467. https://doi.Org/10.1016/j.jhin.2020.03.030
+
+29. Eadie, E., Hiwar, W., Fletcher, L., Tidswell, E., O’Mahoney, P, Buonanno, M., Welch, D., Adamson, C.
+      S., Brenner, D. J., Noakes, C., & Wood, K. (2022). Far-UVC (222 nm) efficiently inactivates an
+      airborne pathogen in a room-sized chamber. Scientific Reports, 12(1), Article 1.
+      https://doi.Org/10.1038/S41598-022-08462-z
+
+30. Lewis, G., Millett, P, Sandberg, A., Snyder-Beattie, A., & Gronvall, G. (2019). Information Hazards in
+      Biotechnology. Risk Analysis, 39(5), 975-981. https://doi.org/10.1111/risa.13235
+
+31. Texas has an official death count from the 2021 blackout. The true toll may never be known. (2022,
+      August 5). Texas Standard.
+      https://www.texasstandard.org/stories/texas-freeze-winter-storm-2021-death-count/
+
+
+
+
+                                                                                                               6
+

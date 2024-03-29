@@ -1,0 +1,2228 @@
+        c
+        $   /%
+
+
+
+
+                                   •‘t   II
+
+
+
+
+                                                  H"
+
+
+
+
+                                                      .       ..
+                                                  .       .
+
+
+
+
+            Legal Memorandum
+AN ANALYSIS OF THE LEGAL ENFORCEABILITY TO EXACT QUARANTINE FEES
+       FROM AUSTRALIAN CITIZENS RETURNING FROM ABROAD
+
+
+                     Peter Bowden | August 2023
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+An Analysis of the Legal Enforceability to Exact Quarantine
+Fees from Australian Citizens Returning from Abroad
+
+
+Preface
+
+1.   This memorandum explores selected legal issues and considerations arising from the
+
+     mandating of quarantine charges upon returning citizens within the state of
+
+     Queensland, Australia.     The paper seeks to explore whether the charges were
+
+     compatible with section 55 of the Constitution and the International Health
+
+     Regulations.1
+
+2.   This memorandum is intended to provide general information only and is not
+
+     intended to be legal advice. You should not rely on this memorandum without seeking
+
+     legal advice from a qualified lawyer in relation to your specific circumstances. The
+
+     author of this memorandum makes no representations or warranties, express or
+
+     implied, as to the accuracy or completeness of any information contained herein or
+
+     the appropriateness of any particular course of action. The author will not be liable
+
+     for any damages whatsoever arising out of or related to the use of this memorandum
+
+     or the information contained herein.
+
+Background
+
+3.   On 29 January 2020, a public health emergency was declared in Queensland under
+
+     section 319 of the Public Health Act 20052 for COVID-19.
+
+4.   On 19 March 2020, the Public Health and Other Legislation (Public Health Emergency)
+
+     Amendment Act 2020 amended the Public Health Act to include powers for the Chief
+
+     Health Officer (CHO) to make public health directions to assist in containing, or to
+
+     respond to, the spread of COVID-19 in the community.
+
+5.   On 28 March 2020, the CHO public health direction required anyone arriving in
+
+     Queensland from overseas to quarantine in a hotel or other premises nominated by
+
+     an emergency officer appointed under the Act.
+
+
+
+
+1 World Health Organization, International Health Regulations (2005) (2nd ed, 2008)
+https://www.who.int/publications/i/item/9789241580496 accessed 26 March 2023.
+2 Queensland Government. (2005). Public Health Act 2005.
+https://www.legislation.qld.gov.au/view/pdf/inforce/current/act-2005-048
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+6.   The Community Services Industry (Portable Long Service Leave) Act 2020 amended the
+
+     Public Health Act to include a head of power for fees to be charged for quarantine and
+
+     the Public Health Regulation 2018 to prescribe the fees for a person's quarantine. The
+
+     amendments commenced on 1 July 2020 and were scheduled to expire on 18 March
+
+     2021.
+
+7.   On 8 March 2021, the Public Health and Other Legislation (Extension of Expiring
+
+     Provisions) Amendment Act 2021 extended part 7AA of the Public Health Act, which
+
+     included the head of power for fees to be charged for quarantine fees, to 30
+
+     September 2021.
+
+8.   Section 362MC of the Public Health Act provided for a regulation making power,
+
+     which permitted a regulation to prescribe the fees payable for a person who is
+
+     required to quarantine at a place other than the person's home, for example a hotel.
+
+     These fees include the types of costs associated with the person's quarantine, for
+
+     example, the cost of accommodation or the cost of meals.
+
+9.   Section 61A of the Public Health Regulation set out the fees payable for quarantine.
+
+     The initial daily accommodation fees were $135 per room, including a $15 linen
+
+     service fee. A daily fee for meals was also payable with the fee being $65 per day for
+
+     adults and $32.50 per day for children.
+
+10. On 1 July 2021, the Public Health Amendment Regulation (No. 2) 2021 increased the
+
+     cost of the daily accommodation fee by $30 per night to $165 per room per night. The
+
+     cost of food remained unchanged at $65 per night. The cost of a single adult to
+
+     undergo fourteen (14) days of mandatory hotel quarantine under the direction of the
+
+     CHO is $3,220.
+
+Issue
+
+11. Pursuant to section 55 of the Constitution (Contention 1) and the International Health
+
+     Regulations (Contention 2), the issue to be considered is whether it was legal for the
+
+     Queensland Government to charge fees to Australian citizens (citizens) for mandatory
+
+     quarantine upon returning to Australia from abroad.
+
+
+
+
+                                                                                            2
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+Authorising Law relied Upon By The Queensland Government
+
+12. The Queensland Government relied upon the Part 7AA (Fees for quarantine during
+
+    COVID-19 emergency) of the Public Health Act3 specifically section 362IVIC (1) of
+
+    Part7AA of the Public Health Act which states:
+
+        a.   A regulation may prescribe the fees payable for a person who is required to
+
+             quarantine at a place other than the person's home, (e.g., 'a hotel, a motel').
+
+    And section 362MCD (1) of Part7AA of the Public Health Act states:
+
+        b.   A person required to quarantine is liable to pay the fees prescribed by
+
+             regulation for the person's quarantine.
+
+13. On 1 July 2021, the Public Health Amendment Regulation (No. 2) 20214 sought to
+
+    increase the cost of the daily accommodation fee by $30 per night to $165 per room
+
+    per night. The cost of food remained unchanged at $65 per night.
+
+
+
+
+3 Queensland Government, 'Public Health Act 2005', 1 July 2020,
+https://www.legislation.qld.gov.au/view/pdf/2020-07-01/act-2005-048 [accessed 26 March
+2023],
+4 Queensland Government, 'Public Health and Other Legislation (Extension of Expiring Provisions)
+Amendment Act 2021', 23 April 2021,
+https://www.legislation.qld.gov.au/view/pdf/published.exp/sl-2021-0082 [accessed 23 March
+2023],
+
+                                                                                               3
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+                                     CONTENTION ONE
+
+             BREACH OF THE INTERNATIONAL HEALTH REGULATIONS (2005)
+
+
+
+
+Contention
+
+14. It is contended that the Queensland Government in charging fees for quarantine,
+
+    breached its obligations and failed to comply with Article 40 of the World Health
+
+    Organisation's (WHO) International Health Regulations (IHRs).
+
+International Law
+
+15. The Australian Commonwealth has the power to pass laws with respect to 'external
+
+    affairs' under section 51(xxix) of the Constitution. The external affairs power is the
+
+    primary power within the Constitution that enables the Commonwealth to implement
+
+    international law into Australia. If the Commonwealth enters into a treaty with
+
+    another nation, it will only come into force if it is given that effect by statute.5
+
+16. In the case of Koowarta v Bjelke-Peterson6, it was held that a law which gives effect
+
+    within Australia to an international agreement will only be valid law under section 51
+
+    (xxix) if the agreement is with respect to a matter which itself can be described as an
+
+    external affair. It was also held that any subject-matter may constitute an external
+
+    affair, provided that the manner in which it is treated in some way involves a
+
+    relationship with other countries or with persons or things outside Australia.
+
+17. The common denominator across the four major judgements in Koowarta7,
+
+    established that the implementation of a treaty is a valid use of power under section
+
+    51 (xxix), at least when the subject matter is of 'international concern'.8
+
+
+
+
+5 Kioa v West (1985) 159 CLR 550.
+6 (1982) 153 CLR 168.
+7 Koowarta v Bjelke-Peterson (1982) 153 CLR 168.
+8 Blackshield, T., Williams, G., & Australian Law Reform Commission. (2021). Australian
+constitutional law and theory: commentary and materials (6th ed.). Annandale, N.S.W: The
+Federation Press.
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+Was COVID-19 an International Concern?
+
+18. Gibbs CJ in the case of the Commonwealth v Tasmania (Tasmania Dam Case)9, stated
+
+    that whether a matter is of international concern depends on the extent to which it
+
+    is regarded by the nations of the world as a proper subject for international action,
+
+    and on the extent to which it will affect Australia's relations with other countries.
+
+19. The World Health Organization (WHO) first declared the COVID-19 outbreak a public
+
+    health emergency of international concern on 30 January 202010. At that time, the
+
+    outbreak had spread to several countries outside of China, where the outbreak was
+
+    first reported, and there were concerns about the potential for further spread and
+
+    the impact on global public health.
+
+20. Australia did not officially announce that COVID-19 was an international concern, as
+
+    the announcement was made by the World Health Organization (WHO) on 20 January
+
+    2020. However, the Australian Government immediately began implementing
+
+    measures to prevent the spread of COVID-19 even prior to the WHOs announcement.
+
+    For instance, on 23 January 2020, Australia's Chief Medical Officer issued a travel
+
+    advisory recommending that people avoid travel to Wuhan, China, where the
+
+    outbreak was first reported. The Australian Government also established a national
+
+    incident room on 27 January 2020 to coordinate its response to the outbreak and
+
+    began implementing enhanced border measures on 1 February 2020 to screen
+
+    incoming travellers for COVID-19. On 18 March 2020, the Governor-General declared
+
+    that a human biosecurity emergency exists.11
+
+21. Overall, it can be considered that the Australian Government considered the COVID-
+
+    19 outbreak as an international concern and therefore by extension enabled the
+
+
+
+
+9 Commonwealth v Tasmania (1983) 158 CLR 1
+10 World Health Organization. (2020, January 30). Statement on the second meeting of the
+International Health Regulations (2005) Emergency Committee regarding the outbreak of novel
+coronavirus (2019-nCoV). Retrieved from https://www.who.int/news-room/detail/30-01-2020-
+statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-
+committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)
+11 Biosecurity (Human Biosecurity Emergency) (Human Coronavirus with Pandemic Potential)
+Declaration 2020,18 March 2020, available from
+https://www.legislation.gov.au/Details/F2020L00266 [accessed 25 March 2023], The emergency
+declaration was extended on 15 May 2020, 4 September 2020,11 December 2020, 3 March 2021
+and 11 June 2021.
+
+                                                                                            5
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+    Commonwealth to validly carry out its external affairs obligations under section 51
+
+    (xxix) with respect to the implementation of treaties.
+
+Treaty - WHO International Health Regulations (2005)
+
+22. The treaty to be considered in this contention is the World Health Organisation (WHO)
+
+    International Health Regulations (IHRs)12. The IHRs are a set of legally binding
+
+    international agreements that aim to prevent, protect against, control, and provide a
+
+    public health response to the international spread of disease. The IHRs were first
+
+    adopted by the World Health Assembly in 1969 and were revised in 2005 to consider
+
+    the emerging global health threats, including bioterrorism, SARS, and avian influenza.
+
+23. The current IHRs are a framework for cooperation between countries and are based
+
+    on the principles of transparency, respect for human rights and dignity, and
+
+    protection against unnecessary interference with international travel and trade. The
+
+    IHRs require countries to establish and maintain core public health capacities,
+
+    including disease surveillance and response systems, laboratory services, and
+
+    communication systems.
+
+24. The IHRs were adopted by World Health Assembly in 2005 and entered into force on
+
+    15 June 2007. As a member state of the World Health Organization (WHO), Australia
+
+    is a signatory to the IHRs and is legally bound to comply with the obligations set out
+
+    in the regulations. Australia implemented the IHRs through the Biosecurity Act 201513,
+
+    which replaced the Quarantine Act 1908. The Biosecurity Act provides the legislative
+
+    framework for responding to public health emergencies, including the management
+
+    of infectious diseases, and incorporates the provisions of the IHRs.
+
+Article 32
+
+25. The IHRs set out requirements for the treatment of travellers including the provision
+
+    of accommodation and food for travellers required to quarantine; Article 32
+
+    (Treatment of Travellers) states:
+
+
+
+
+12 World Health Organization, International Health Regulations (2005) 3rd edn (World Health
+Organization, 2016) https://www.who.int/publications/i/item/9789241580496 [accessed 27
+March 2023],
+13 BIOSECURITY ACT 2015 (Cth)
+
+                                                                                              6
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+        a.   In implementing health measures under these Regulations, States Parties
+
+             shall treat travellers with respect for their dignity, human rights and
+
+             fundamental freedoms and minimise any discomfort or distress associated
+
+             with such measures, including by:
+
+                  i.   ...
+
+                 a.    ...
+
+
+                Hi.    providing or arranging for adequate food and water, appropriate
+
+                       accommodation and clothing, protection for baggage and other
+
+                       possessions, appropriate medical treatment, means of necessary
+
+                       communication, if possible, in a language that they can understand
+
+                       and other appropriate assistance for travellers who are quarantined,
+
+                       isolated or subject to medical examinations or other procedures for
+
+                       public health purposes.
+
+Article 40
+
+26. Furthermore, the IHRs set out requirements with respect to charging travellers fees
+
+    for health measures. Article 40 prohibits member states from charging travellers
+
+    (except for travellers seeking temporary or permanent residence) for health measures
+
+    such as vaccination, isolation and quarantine (Charges for health measures regarding
+
+    travellers). The section 1(c) states:
+
+        a.   Except for travellers seeking temporary or permanent residence, and subject
+
+             to paragraph 2 of this Article, no charge shall be made by a State Party
+
+             pursuant to these Regulations for the following measures for the protection
+
+             of public health:
+
+                  I.   appropriate isolation or quarantine requirements of travel.
+
+22. It is considered that section 1(c) is applicable to all citizens returning from abroad
+
+    because they enjoy citizenship and therefore cannot be seeking permanent residence
+
+    as this is already afforded as a citizenship right.
+
+
+
+
+                                                                                            7
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+Australian Legislation Giving Effect to the Implementation of the WHO International
+
+Health Regulati ns (2005), Article 32 and 40
+
+28. An issue to be considered is whether the requirements of Article 32 and 40 are legally
+
+    enforceable within Australia.
+
+29. As mentioned, the Biosecurity Act 2015 (Cth) provides the legal basis for Australia's
+
+    implementation of the IHRs and the management of public health emergencies in the
+
+    country.
+
+30. The Government at the time of implementation stated that14:
+
+        a.      "adoption of the IHRs would bring significant benefits to Australia. In meeting
+
+               international standards for the prevention and control of the international
+
+               spread of disease, and by cooperating with the WHO and States Parties,
+
+             Australia will be well placed to respond to public health emergencies, and in
+
+             particular to combat a global pandemic".
+
+        b.      Australia would be obliged to implement the IHRs with the principles of non­
+
+               discrimination, transparency, full respect for human rights, and consistently
+
+               with other international law instruments.
+
+31. The Commonwealth has stated that as a member state of the World Health
+
+    Organization (WHO), Australia must comply with the International Health Regulations
+
+    (2005)15.
+
+Constitution Section 51(ix) - Quarantine
+
+32. Quarantine falls under the Constitution's power to make laws with respect to
+
+    "quarantine" as stated in Section 51(ix) of the Constitution of Australia. The
+
+    Commonwealth can delegate its power and did so for the operation of quarantine to
+
+    the states in 2008 through the implementation of the National Health Security
+
+
+
+
+14Parliament of Australia, Joint Standing Committee on Treaties, 'Report 80: Treaty tabled on 24
+February 2005', 20 June 2006, chapter 6.
+https://www.aph.gov.au/Parliamentary Business/Committees/Joint/Completed Inquiries/jsct/2
+0iune2006/chapter6 [accessed 26 March 2023],
+15 Australian Government Department of Health, 'International obligations', Communicable
+diseases - Biosecurity, Australian Government, 17 June 2020,
+https://www.health.gov.au/topics/communicable-diseases/biosecurity/international-obligations.
+[accessed 26 March 2023]
+
+                                                                                               8
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+    Agreement (NHSA).16 A key feature of the NHSA being that its implementation would
+
+    support Australia's ability to comply with the IHRs.
+
+Federal and State Biosecurity Legislation and Quarantine Fees
+
+33. Prior to the 8 March 2021, the Biosecurity Act 2015 (Cth) was the predominate
+
+    legislation enabling the Commonwealth to manage biosecurity risks at the national
+
+    level, including the management of quarantine measures to prevent the entry and
+
+    spread of infectious diseases and pests into the country.
+
+34. In Queensland, the Biosecurity Act 2014 complements the Federal Act by providing a
+
+    framework for managing biosecurity risks within Queensland. Both Acts work
+
+    together to enable effective management of biosecurity risks in Australia. The federal
+
+    government is responsible for managing biosecurity risks at the national level, while
+
+    the state government manages biosecurity risks within its borders.
+
+35. The Biosecurity Regulations 2017 (Cth)17 and Biosecurity Regulation 2016 (Qld)18,
+
+    enable the prescribing of fees that may be charged in relation to 'fee-bearing
+
+    activities' carried out by, or on behalf of, the Commonwealth in performing functions
+
+    and exercising powers under the Act.
+
+36. Both Federal and State legislation do not permit the charging of fees to citizens
+
+    directed into quarantine because there are no heads of power within the legislation
+
+    which support the exaction of fees for such purpose. On this basis, it is considered
+
+    that the State and Federal biosecurity legislation is compliant with Article 40 of the
+
+    international treaty and confers such rights upon Australian citizens.
+
+
+
+
+16 Department of Health. (2023). National Health Security Agreement.
+https://www.health.gov.au/sites/default/files/2023-02/national-health-security-
+agreement O.pdf. [accessed 26 March 2023]
+17 Biosecurity Regulation 2016 (Cth)
+18 Legislation.qld.gov.au. Biosecurity Regulation 2016 (Qld) sch 10. Available at:
+https://www.legislation.qld.gov.aU/view/html/inforce/current/sl-2016-0075#sch.10
+
+                                                                                            9
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+Quarantine Amendment (National Health Security) Act 2008 (Cth)19
+
+37. Despite the Quarantine Act (1908) being largely repealed and replaced by the
+
+    Biosecurity Act (2015), it is considered that there are related provisions from the
+
+    Quarantine Act 1908 which are still in force. Section 64C of the Quarantine
+
+    Amendment Act is one of them.20
+
+38. The Quarantine Amendment Act specifically incorporates the IHRs into domestic law
+
+    by preventing the charging for quarantine being prescribed health measure.
+
+    Specifically section 64C of the Act deals with charges for the provision of prescribed
+
+    health measures such as quarantine in relation to travellers and states the following:
+
+
+        64B Traveller definitions
+
+                     Travellers
+
+                (1) For the purposes of this Act, a person is a traveller if:
+                     (a) the person has entered Australia while undertaking a voyage
+                          from another country; and
+                     (b) none of the following applies:
+                              (i) subject to subsection (2), the person has been immigration
+                                   cleared (within the meaning of subsection 172(1) of
+                                   the Migration Act 1958)-,
+                             (ii) the person has been detained under section 189 of that Act;
+                             (hi) the person has left Australia;
+                             (iv) the person is prescribed by the regulations.
+                     Note:        The regulations may prescribe the person by reference to a class of
+                                  persons (see subsection 13(3 ) of the Legislative Instruments Act 2003).
+
+                (2) Subparagraph (1 )(b)(i) does not apply in relation to a person who has
+                    been immigration cleared (within the meaning of subsection 172(1)
+                    of the Migration Act 1958) if:
+                     (a) before the person was immigration cleared, the person was
+                          notified that he or she would be required to submit to the
+                          provision of a prescribed health measure as soon as practicable
+                          after being immigration cleared; and
+                     (b) the person submits to the provision of the prescribed health
+                          measure as soon as practicable after being immigration
+                          cleared; and
+
+19 An Act to amend the Quarantine Act 1908, and for related purposes -
+https://www. legislation.gov. au/Details/C2008A00068#:~:text=0,uarantine%20Amendment%20%
+28National%20Health%20Security%29%20Act%202008%20No.,the%20Quarantine%20Amendme
+nt%20%28National%20Health%20Security%29%20Act%202008.
+20https://www. Iegislation.gov.au/Details/C2008A00068#:~:text=Quarantine%20Amendment%20
+%28National%20Health%20Security%29%20Act%202008%20No.,the%20Quarantine%20Amend
+ment%20%28National%20Health%20Security%29%20Act%202008 .
+
+                                                                                                        10
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+                       (c) the provision of the prescribed health measure is not yet
+                             complete.
+
+
+        64C Charges for the provision of prescribed health measures in
+                 relation to travellers
+
+                       Travellers not seeking temporary) residence or permanent residence
+
+                   (1) If a traveller is not seeking temporary residence or permanent
+                       residence in Australia, no person (other than the Commonwealth) is
+                       liable, under any law of the Commonwealth, to pay for the provision
+                       of a prescribed health measure in relation to the traveller.
+
+
+
+39. On 8 March 2021, the Public Health and Other Legislation (Extension of Expiring
+
+    Provisions) Amendment Act 2021 extended part 7AA of the Public Health Act, which
+
+    introduced a new head of power for fees to be charged for quarantine fees, to 30
+
+    September 2021 (and which was subsequently extended).
+
+40. Of note, it was revealed by the Australian National Audit Office (ANAO) that the State
+
+    Government did not seek advice on whether charging for mandatory quarantine was
+
+    consistent with Article 40 of the IHRs.21 On face value, the introduction of this power
+
+    created   an    inconsistency with the Commonwealth            and    State government's
+
+    obligations to comply with the IHR treaty, specifically Article 40.
+
+41. The question to be considered is whether the State law (Public Health Act 2005) is
+
+    inconsistent with Commonwealth law (Biosecurity Act 2015) , and if so, which law
+
+    should prevail.
+
+Constitution Section 109
+
+42. Section 109 of the Constitution states, "when a law of the State is inconsistent with a
+
+    law of the Commonwealth, the latter shall prevail, and the former shall, to the extent
+
+    of the inconsistency, be invalid."
+
+
+
+
+21 Australian National Audit Office, 'Management of International Travel Restrictions during
+COVID-191, Performance Audit Report No. 12 2021-22 (Australian Government, 2022) at 2.87
+https://www.anao.gov.au/work/performance-audit/management-international-travel-
+restrictions-during-covid-19. [accessed 25 March 2023]
+
+                                                                                               11
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+43. In order for section 109 to apply, there must be a valid State law and valid
+
+    Commonwealth         law.22   On   analysis,    it is evident that both    the   Sate   and
+
+    Commonwealth laws in question are valid (subject to the outcome of Contention
+
+    One), because the respective parliaments had the power to enact them.
+
+44. In the case of Clyde Engineering Co Ltd v Cowburn,23 Higgins J established three
+
+    circumstances in which a Commonwealth law is 'inconsistent' with a State law as
+
+    follows:
+
+        a.             It is impossible to follow both laws
+
+        b.     If one law purports to confer a legal right, privilege or entitlement that the
+
+               other law takes away or diminishes
+
+        c.     If the Commonwealth law evinces a legislative intention to 'cover the field'
+
+               (not applicable in this instance).
+
+Was it impossible to comply with both laws?
+
+45. The Biosecurity Act (2015) gives effect to Article 40 of IHRs by limiting the extent of
+
+    fees that may be charged in relation to fee-bearing activities and which are set out at
+
+    section 106 of the Biosecurity Regulation (2016). Specifically, the Act limits the extent
+
+    of fees that may be charged and excludes charges for persons directed into
+
+    quarantine. This is in contrast with Queensland's Public Health Act 2005 (modified 8
+
+    March 2020) which gives rise to a head of power at section 362MC to charge such
+
+    fees.
+
+46. Whilst the Commonwealth has enumerated certain quarantine powers to the states
+
+    via the National Health Security Agreement (NHSA).24 The states in effect, act for and
+
+    on behalf of the Commonwealth and therefore have an obligation to comply with
+
+    Commonwealth law. This includes international treaties to the extent that they have
+
+    been incorporated into domestic law.
+
+
+
+
+22 Blackshield, T., Williams, G., & Australian Law Reform Commission. (2021). Australian
+constitutional law and theory: commentary and materials (6th ed.) at 11.3. Annandale, N.S.W:
+The Federation Press.
+23 Clyde Engineering Co Ltd v Cowburn (1926) 37 CLR 466.
+24 Department of Health. (2023). National Health Security Agreement.
+https://www.health.gov.au/sites/default/files/2023-02/national-health-security-
+agreement O.pdf. [accessed 26 March 2023]
+
+                                                                                               12
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+Al. It is considered that whilst it was technically possible for Queensland to comply with
+
+    both laws, i.e., it also had the power to waiver all fees. The reality is that the
+
+    Queensland did not do so and which it had an obligation as it was acting on behalf of
+
+    the Commonwealth; therefore, it failed to carry out its obligations in complying with
+
+    the IHRs.
+
+Did the Federal law purport to confer a legal right, privilege or entitlement that the State
+
+law took away or diminished?
+
+48. It is contended that the Commonwealth purported to confer the legal rights,
+
+    privileges and entitlements prescribed by the IHRs upon the Australian people
+
+    through legislating the Biosecurity Act (Cth). The legislation does not limit of preclude
+
+    the implementation of Article 32 and 40 and thus the rights of which were intended
+
+    to be conferred through the Act. Simply put:
+
+        a.   The Public Health Act 2005 (did) purported to have legal permission to exact
+
+             fees whereas the Biosecurity Act (Cth) did not.
+
+49. On this basis a legal inconsistency arises akin to the case in Colvin v Bradley Brothers
+
+    Pty Ltd,25 because the enactment of section 362MC of the Public Health Act, giving
+
+    rise to the power to exact quarantine fees, took away and/or diminished the legal
+
+    right conferred by the Commonwealth through the ratifying of the IHRs.
+
+50. On this basis, because the State is inconsistent with a law of the Commonwealth,
+
+    the latter shall prevail, and the former shall, to the extent of the inconsistency, be
+
+    invalid.' i.e., the powers to exact fees available within the Public Health Act should
+
+    be rendered invalid.
+
+Teoh Principle - Breach of Natural Justice
+
+51. In the alternative, should it be found that Article 40 of the IHRs has not been
+
+    sufficiently incorporated into domestic law by statute and thereby rendering section
+
+    362MC valid, alternate legal precedent exists which may still result in its defeat. This
+
+    contention is made with reference to the case of Minister for Immigration and Ethnic
+
+    Affairs v Teoh26 whereby it was held that where a decision-maker is required to
+
+
+
+
+25 (1943) 68 CLR 151.
+26 (1995) (1995) 128 ALR353.
+
+                                                                                             13
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+    consider an international treaty as part of the decision-making process, the decision­
+
+    maker must give genuine consideration to the obligations imposed by that treaty,
+
+    even if the treaty has not been incorporated into domestic law.
+
+52. In the case of Teoh, Mr. Teoh, a Malaysian national, had applied for a permanent
+
+    residency visa in Australia on the basis that he had an Australian citizen child. The
+
+    Minister for Immigration and Ethnic Affairs refused his application, citing a change in
+
+    policy that excluded children born after their parents' applications were made. Mr.
+
+    Teoh argued that this policy was inconsistent with Australia's obligations under the
+
+    Convention on the Rights of the Child.
+
+53. The High Court held that the Minister was required to consider Australia's obligations
+
+    under the Convention, even though it had not been incorporated into domestic law.
+
+    The court found that the Convention created a legitimate expectation on the part of
+
+    Mr. Teoh that the Minister would consider his child's best interests, and that the
+
+    Minister's failure to do so constituted a breach of natural justice.
+
+54. Based on the Teoh principle, a question arises as to whether the decision makers in
+
+    amending the Public Health Act, gave genuine consideration to Article 40.
+
+55. As mentioned, it was revealed by the Australian National Audit Office (ANAO) that the
+
+    State Government did not seek advice on whether charging for mandatory quarantine
+
+    was consistent with Article 40 of the IHRs27, this alone infers that no consideration let
+
+    alone genuine consideration was given by the Queensland Government on the issue.
+
+56. Of note, on the 19 April 2021 and in an effort by the WHO to remind signatories like
+
+    Australia of their legal obligations in ensuring the enforcement of citizen rights
+
+    conferred by IHRs28, stated that all member states were to:
+
+
+
+
+27 Australian National Audit Office, 'Management of International Travel Restrictions during
+COVID-19', Performance Audit Report No. 12 2021-22 (Australian Government, 2022) at 2.87
+https://www.anao.gov.au/work/performance-audit/management-international-travel-
+restrictions-during-covid-19. [accessed 25 March 2023]
+28 World Health Organization, 'Statement on the Seventh Meeting of the International Health
+Regulations (2005) Emergency Committee Regarding the Coronavirus Disease (COVID-19)
+Pandemic' (News Release, 19 April 2021) https://www.who.int/news/item/19-04-2021-
+statement-on-the-seventh-meeting-of-the-international-health-regulations-(2005)-emergency-
+committee-regarding-the-coronavirus-disease-(covid-19)-pandemic accessed 26 March 2023.
+
+                                                                                               14
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+           a.   Reduce the financial burden on international travellers for the measures
+
+                applied to   them for the protection      of public health   (e.g.,   testing,
+
+                isolation/guarantine, and vaccination), in accordance with Article 40 of the
+
+                IHR.
+
+57. On the known facts, it appears that the Queensland government failed to consider
+
+    the statement made by the WHO. On this basis, it is contended that an action to bring
+
+    about the extinguishment of section 362MC for a failure to consider the treaty should
+
+    arise.
+
+58. Overall, it is considered that the Queensland Government had no legal power to exact
+
+    quarantine fees from Australian citizens returning from abroad.
+
+
+
+
+                                      CONTENTION TWO
+
+                 BREACH OF SECTION 55 OF THE AUSTRALIAN CONSTITUTION
+
+Contention
+
+59. It is contended that the Queensland Government breached section 55 of the
+
+    Australian Constitution by levying fees for quarantine as a tax within the Public Health
+
+    Act.
+
+Section 55 of the Australian Constitution
+
+60. Section 55 requires that laws imposing taxation shall deal only with the imposition of
+
+    taxation and any provision therein dealing with any other matter shall be of no effect.
+
+    It also requires that laws imposing taxation deal with one subject of taxation only.
+
+61. Put simply, if the Australian Parliament passes a law to impose a tax, that law can only
+
+    deal with the imposition of the tax itself. It cannot include provisions that deal with
+
+    other matters, such as public health orders or imposing penalties for non-compliance.
+
+    If such provisions are included in a tax law, they are considered to be of no effect.
+
+62. Section 55 is designed to prevent the government from using its power to impose
+
+    taxes to achieve other policy objectives that may be unrelated to taxation. By limiting
+
+    the scope of tax laws to the imposition of taxation only, the Constitution aims to
+
+
+
+
+                                                                                            15
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+    prevent the Government from using the tax system as a backdoor to circumvent other
+
+    constitutional provisions or to infringe upon individual rights and freedoms.
+
+63. If it can be determined that the 'fees' levied under section 362MC (1) of Part7AA of
+
+    the Public Health Act are a 'tax' for the purpose of Section 55, then the section will be
+
+    determined invalid and unenforceable because the Public Health Act deals with
+
+    matters other than the 'imposition of taxation' e.g., Public health risks and orders.
+
+Particulars
+
+64. On 8 March 2021, the Public Health and Other Legislation (Extension of Expiring
+
+    Provisions) Amendment Act 2021 extended part 7AA of the Public Health Act, which
+
+    included a new head of power enabling fees to be charged for quarantine, to 30
+
+    September 2021 (and which was subsequently extended).
+
+65. Between 28 March 2020 and 16 February 2022, the Queensland Government exacted
+
+    quarantine fees for from citizens returning from abroad.
+
+Issue
+
+66. The issue to be considered is whether the fees exacted under section 362MC (1) of
+
+    Part7AA of the Public Health Act are to be properly characterised as a law 'imposing
+
+    taxation' on returning citizens.
+
+67. That being so, section 362MC (1) of Part7AA of the Public Health Act will be a law
+
+    'imposing taxation' if the fees which it purported to exact from, or with respect to,
+
+    returning citizens from abroad, for relevant purposes be characterised as a tax29.
+
+68. The only basis upon which it could be suggested that the fees levied under 362MC (1)
+
+    for the purpose of quarantine was not a tax, was if it represented a 'fee for services'30.
+
+What is a Tax?
+
+69. In referring to the case of Lower Mainland Dairy Products Sales Adjustment
+
+    Committee v Crystal Dairy Ltd31, Latham CJ defined the term 'tax' by stating that "a
+
+
+
+
+29 Air Caledonie International V. The Commonwealth (1988) 165 CLR 462
+30 Air Caledonie International V. The Commonwealth (1988) 165 CLR 462
+31 (1933) AC 168, 175.
+
+                                                                                            16
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+    tax is a compulsory exaction of money by public authority for the purposes,
+
+    enforceable by law, and is not for payment of services rendered."
+
+70. In the case of Matthews v Chicory Marketing Board (Vic)32, Latham CJ adopted the
+
+    three features (positive attributes) identified by the Privy Council to characterise a
+
+    'tax' which were:
+
+        a.            The exaction was compulsory
+
+        b.            The exaction was for public purposes and
+
+        c.            The exaction was enforceable by law.
+
+71. This definition should be caveated and is considered not exhaustive to the underlying
+
+    principle described per Latham CJ in that "there is no reason in principle why the
+
+    compulsory exaction of money under a statutory power could not be properly seen
+
+    as taxation."33
+
+72. Furthermore, section 53 of the Constitution states that a proposed law shall not be
+
+    taken to 'impose taxation' if it constitutes a 'fee for service' (negative attribute); i.e.,
+
+    A 'Fee for services' may not be considered a tax, even if it is compulsory.34
+
+73. The exaction of money will amount to a tax, if the three positive attributes and
+
+    negative attribute have been sufficed.35 It was determined in Matthews v Chicory
+
+    Marketing Board (Vi)36 and expanded by Air Caledonie, that there are several
+
+    elements, needed to establish that an exaction is a 'fee for service':
+
+        a.            There is a specific identifiable service
+
+        b.            A fee is paid for the service
+
+        c.   There is a discernible relationship with the value of what is acquired by the
+
+             recipient and
+
+        d.   The service is rendered to, or at the request of, the person required to make
+
+             the payment.
+
+
+
+
+32 (1938) 60 CLR 263, 276.
+33 Air Caledonie International V. The Commonwealth (1988) 165 CLR 462
+34 Mattnews v Chocory Marketing Board (vic) (1938) 60 CLR 263.
+35 Ibid
+36 (1938) 60 CLR 263.
+
+                                                                                             17
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+Were Hotel Quarantine Fees Compulsory?
+
+74. The Hotel Quarantine fees authorised under section 362MC of the Public Health Act,
+
+    and prescribed within section 61A of the Public Health Regulation 2018, were made
+
+    compulsory upon the CHO public health direction requiring anyone arriving in
+
+    Queensland from overseas to quarantine (e.g., Quarantine for International Arrivals
+
+    Direction (No. 9), which was made on 6 May 2021).
+
+75. Furthermore, Section 362MCD (1) of Part7AA of the Public Health Act states:
+
+        a.   A person required to quarantine is liable to pay the fees prescribed by
+
+             regulation for the person's quarantine.
+
+76. It can therefore be concluded that hotel quarantine fees were compulsory for persons
+
+    required to quarantine.
+
+Were Hotel Quarantine Fees For Public Purposes?
+
+77. Pursuant to the Public Health Regulation (No.2) 202137, the purpose of charging a
+
+    quarantine fee was to offset the cost to government for the running of quarantine.
+
+    Specifically, the fees were raised by Government to achieve the objectives of the
+
+    Public Health Act for example:
+
+        a.           Preventing, controlling and reducing risks to public health; and
+
+        b.           Responding to public health emergencies.
+
+78. The government acknowledged38 that the fees exacted from returning citizens would
+
+    not recover the entire costs of hotel quarantine, as the cost of security overlay for
+
+    hotels, health support services, transport and logistics was not included in the
+
+    calculation of the fee.
+
+79. In Australia, the fact that a levy is directed to be paid into the Consolidated Revenue
+
+    Fund is generally regarded as a conclusive indication that the levy exacted is for public
+
+    purposes. The Queensland Government received extensive funding from the
+
+    Consolidated    Revenue   Fund    for the   purposes    of establishing    and   running
+
+
+37 Queensland Government, 'Public Health and Other Legislation (Extension of Expiring
+Provisions) Amendment Act 2021', 23 April 2021,
+https://www.legislation.qld.gov.au/view/pdf/published.exp/sl-2021-0082 [accessed 26 March
+2023],
+38 Ibid
+
+                                                                                            18
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+    quarantine39. It is reasonable to presume that upon receipt of quarantine fees exacted
+
+    from citizens, the Department of Health had the capacity to be remit such fees back
+
+    into consolidated revenue.
+
+80. On the basis that the exacted fees were used to achieve the objectives of the Public
+
+    Health Act, it can be concluded that the fees were intended for and had the capacity
+
+    to be used 'for public purposes'.
+
+Were Hotel Quarantine Fees Enforceable by Law?
+
+81. Section 362MF (Payment and recovery of fees) of the Public Health Act provides that
+
+    the fees for hotel quarantine are enforceable by law. The section states:
+
+        a.    A person liable to pay fees under section 362MD must pay the fees, or any
+
+              part of the fees not waived under section 362ME.
+
+        b.    An amount not paid by the person under subsection (1) may be recovered from
+
+              the person as a debt due to the State.
+
+82. Debts due to the State of Queensland are enforceable under the State Penalties
+
+    Enforcement Act 1999 (Qld) (SPE Act). Under this legislation, if a person fails to pay
+
+    the hotel quarantine fee, the State Debt Recovery Office may take enforcement action
+
+    to recover the debt. This can include taking legal action, issuing a warrant for arrest,
+
+    or garnishing wages or bank accounts.
+
+83. It can therefore be concluded that hotel quarantine fees were and remain enforceable
+
+    by law.
+
+Positive Attributes Concluded
+
+84. Overall, the fees exacted from citizens under section 362MC of the Public Health Act
+
+    possessed all three positive attributes because the fees were a compulsory levy by a
+
+    public authority, imposed for public purposes and enforceable by law. On this basis,
+
+    it can be concluded that the exaction can be characterised as a 'tax' (subject to any
+
+    other statutory impositions e.g., fee for service, privilege, penalty).
+
+
+
+
+39 Australian Government, Department of the Treasury, 'National Health Reform Agreement -
+Schedule A COVID-19 Response Vaccine Amendment', April 2021,
+https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-
+04/covid-19 response vaccine amendment schedule.pdf [accessed 23 March 2023]
+
+                                                                                              19
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+Was Hotel Quarantine Fees a 'Fee for Service?
+
+85. As previously mentioned, section 53 of the Constitution states that a proposed law
+
+    shall not be taken to 'impose taxation' if it constitutes a 'fee for service' (negative
+
+    attribute). Therefore, if it can be determined that quarantine fees are considered as
+
+    a 'fee for service' then it cannot be considered a tax.
+
+86. As determined in Matthews v Chicory Marketing Board (Vi)40 and expanded in Air
+
+    Caledonie, the following elements are needed to establish that an exaction is a 'fee
+
+    for service':
+
+        a.            There is a specific identifiable service
+
+        b.            A fee is paid for the service
+
+        c.   There is a discernible relationship with the value of what is acquired by the
+
+             recipient and
+
+        d.   The service is rendered to, or at the request of, the person required to make
+
+             the payment.
+
+There was no specific identifiable service.
+
+87. The issue to be considered is whether 'quarantine' can be considered a 'service'; the
+
+    Macquarie Dictionary defines the term 'quarantine' as:
+
+        a.   'o strict isolation designed to prevent the spread of disease'.41
+
+88. In conjunction, section 362MB of the Public Health Act defined the 'Meaning of
+
+    quarantine' as:
+
+        a.   'A person is required to quarantine if - the person is required, under public
+
+             health direction or a direction given under section 362H(l)(a) to stay at or in
+
+             a stated place'.42
+
+89. The Macquarie Dictionary defines the term 'service' as:
+
+
+
+
+40 (1938) 60 CLR 263.
+41 Macquarie Dictionary Online, 'Macquarie Dictionary', n.d.,
+https://www.macquariedictionary.com.au/ [accessed 18 March 2023],
+42 Queensland Government. (2005). Public Health Act 2005.
+
+                                                                                         20
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+        a.   'an act of helpful activity'f3 whereby 'helpful' is defined as 'giving or affording
+
+             help'.43
+                   44
+
+90. To satisfy this element of the test, it must therefore be demonstrated that quarantine
+
+    being the 'service' constituted an act of helpful activity.
+
+91. In analysing whether quarantine could be considered a service, particularly in the
+
+    context of a citizen returning to Australia from abroad, it is crucial to look at the
+
+    surrounding circumstances of such a situation. The presumption is that an Australian
+
+    citizen returning home from abroad is doing so for purposes other than participating
+
+    in quarantine. Quarantine by its nature would generally be considered by a citizen in
+
+    these circumstances as an unavoidable imposition necessary to endure in order to
+
+    enter Australia for a particular purpose.
+
+92. Upon arrival, the citizen is directed and compelled to enter an environment of social
+
+    isolation with movement severely restricted for a period of fourteen days. It is well
+
+    documented, even by the Qld Government, that enduring such an environment for
+
+    this period is not conducive to good physiological and psychological outcomes.45 It has
+
+    also been well acknowledged by Government that "Fourteen days in hotel quarantine
+
+    system can be a difficult and taxing experience." 46 Based on the nature of quarantine
+
+    alone, it is difficult to accept that the nature of quarantine could be characterised by
+
+    the citizen as an act of helpful activity.
+
+93. Furthermore, it is considered that the involuntary unavoidable imposition of
+
+    quarantine on a returning citizen could never be considered as an 'act of helpful
+
+    activity' because in such circumstances there is no giving or affording of help. On this
+
+    basis, quarantine cannot be characterised as a 'service' provided to the person
+
+    quarantined.
+
+
+
+
+43 Macquarie Dictionary Online, 'Macquarie Dictionary', n.d.,
+https://www.macquariedictionary.com.au/ [accessed 18 March 2023],
+44Macquarie Dictionary Online, 'Macquarie Dictionary', n.d.,
+https://www.macquariedictionary.com.au/ [accessed 18 March 2023],
+45 Queensland Government, 'Avoiding Social isolation', n.d.,
+https://www.qld.gov.au/community/getting-support-health-social-issue/avoiding-social-isolation
+[accessed 26 March 2023],
+46 Australian Government, Department of Health, 'National Review of Hotel Quarantine', October
+2020, https://www.health.gov.au/sites/default/files/documents/2020/10/national-review-of-
+hotel-quarantine.pdf [accessed 25 March 2023],
+
+                                                                                             21
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+    A Contrary Argument
+
+94. A contrary argument could arise in that quarantine could be contended as a service
+
+    because it was a 'helpful activity' to the public in preventing the spread of disease in
+
+    the community. It could also be inferred the benefit obtained by a citizen in
+
+    quarantine would be obtained by subsequently entering an environment free from
+
+    COVID-19 upon clearance. This unfortunately was never the reality as the
+
+    Government's data revealed that upon the commencement of quarantine on the 28
+
+    March 2020, the Australian Government had recorded 3,588 COVID-19 cases within
+
+    the community; on the 16 February 2022, the day that mandatory quarantine ended
+
+    in Queensland, there had been over three million cases of COVID-19 in Australia
+
+    equating to 12% of the population47. It is undeniable that the causation of such
+
+    prevalence within the community was attributable to the failings in Australia's
+
+    quarantine system. This is supported by the several studies which identified 'systemic
+
+    issues with infection control in hotel quarantine'.48 In the alternative, if quarantine
+
+    was characterised as a service, the question becomes whether this service was fit for
+
+    purpose to achieve the policy objectives - based on the evidence this would be
+
+    difficult to contend.
+
+95. It is contended that pursuant to the judgement in the case of Northern Suburbs
+
+    General Cemetery Reserve Trust v Commonwealth of Australia,^9 if a particular citizen
+
+    who paid quarantine fees derived no more benefit than the community who didn't
+
+    incur such an impost,     it cannot be said to be a fee for service in any sense and
+
+    therefore the fees would not be prevented from being characterised as a tax.
+
+96. Furthermore, per the case of Air Caledonie International v The Commonwealth50 it
+
+    was held that "a reguirement that a returning citizen submit, in the public interest, to
+
+
+
+47 Australian Government, Department of Health, 'Coronavirus (COVID-19) case numbers and
+statistics', n.d., https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics
+[accessed 25 March 2023],
+48 Lopez-Ortega, Mariana, Nicole Bates, and Michelle Redman-MacLaren, 'Social media as a tool
+for knowledge exchange on COVID-19 in the Pacific: case study of the Pacific Community', BMC
+Public Health, vol. 22, no. 1, 2022, article no. 410,
+https://bmcpublichealth.biomedcentral.com/articles/10.1186/sl2889-022-13339-x [accessed 30
+March 2023],
+49 Northern Suburbs General Cemetery Reserve Trust V Commonwealth of Australia (1993) 112
+ALR87
+50 (1988) 165 CLR 462
+
+                                                                                             22
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+    the inconvenience of such administrative procedures at the end of a journey cannot,
+
+    however, properly be seen as the provision or rendering of 'services' to, or at the
+
+    reguest or direction of, the citizen concerned." On the basis that returning citizens
+
+    involuntarily submitted to an administrative procedure i.e., compliance with the
+
+    directions issued by the CHO, it is difficult to conclude that quarantine constituted a
+
+    specific identifiable service.
+
+In the alternative, there was no fee paid for the service.
+
+97. On the basis that quarantine could not be characterised as an identifiable service,
+
+    any fee for such would automatically be precluded from eventuating.
+
+98. A contrary position could consider that the Public Health Regulation prescribes
+
+    specific fees amounting to $3,220 for a mandatory 14-day quarantine period under
+
+    section 61A being:
+
+        a.           $165 per day for accommodation and
+
+        b.           $65 per day for meals.
+
+99. The regulation attempts to tie the prescribed fees directly to the cost of
+
+    accommodation and meals; however, it is contended that this is not necessarily
+
+    accurate and perhaps more so a convenient mechanism by the Government to mount
+
+    a defence that the fees are charges for services. This contention is on the basis that
+
+    section 61A(1) states that the fees are "fees for a person's guarantine," whereby it
+
+    should be considered that the wider object of the legislation is to exact fees to defray
+
+    the total costs of quarantine.
+
+100. In analysing the legislation, there is nothing preventing the Government from
+
+    using the funds raised for purposes other than accommodation or meals. This view is
+
+    supported within the Public Health Amendment Regulation (No.2) explanatory
+
+    notes51 which state that the purpose of the fees is "To support costs for hotel
+
+    guarantine continuing to be sustainably managed". This statement implies that the
+
+    purpose of the costs exacted are to partially offset public funds expended on
+
+    quarantine; therefore, it would be reasonable to conclude that the purpose of the
+
+    regulation is to appropriate revenue for such purpose.
+
+
+
+51 Public Health Amendment Regulation (No. 2) 2021, Explanatory notes for SL 2021 No. 82
+
+                                                                                           23
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+101. This issue also gives rise to the question as to whether the Government can
+
+    cherry-pick specific activities of quarantine and classify them as services. For example,
+
+    the Public Health Amendment Regulation (No. 2) 2021, explanatory notes,52 states
+
+    that fees were calculated without regard for to following costs:
+
+        a.           security overlay for hotels,
+
+        b.           health support services,
+
+        c.           transport and logistics.
+
+    However, there was nothing preventing the Government from using the fees raised
+
+    to pay for such costs; or any other liabilities incurred by the Department of Health.
+
+102. The Public Health Act and Public Health Regulation, imposes no requirement that
+
+    the Queensland Government agree to expend the money exacted from citizens on
+
+    accommodation and meals. On this basis, there is no statutory warrant for concluding
+
+    that such a charge could amount to a fee for service.53 Therefore, by extension no
+
+    fee could have been paid for the service.
+
+
+
+
+    Rule in Air Caledonie
+
+103. Per Air Caledonie International I/. The Commonwealth54, if the moneys raised by
+
+    legislation, when paid, were used for the general off-setting of the administrative
+
+    costs of certain areas of the relevant Department (e.g., Department of Health), then
+
+    the fee at least in so far as it related to citizens would be considered a tax and the
+
+    provisions of the law would be a law 'imposing taxation'.
+
+104. In analysing section 362MC (Fees Payable) of the Public Health Act, the Act
+
+    authorises the exaction of fees by the Department of Health without limitation to
+
+    persons who are required to quarantine at a place other than that person's home.
+
+    There is no limitation as to how the Department of Health uses the exacted fees, and
+
+
+
+
+52 Public Health Amendment Regulation (No. 2) 2021, Explanatory notes for SL 2021 No. 82
+53 Northern Suburbs General Cemetery Reserve Trust V Commonwealth of Australia (1993) 112
+ALR87 at 93
+54 (1988) 165 CLR 462
+
+                                                                                            24
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+    therefore without limitation, the fees may be used for the general off-setting of the
+
+    administrative costs of certain areas. This alone, may be considered sufficient to
+
+    determine that section 362MC imposed taxation.
+
+105. It can be considered that in any event, the quarantine fees amounted to a
+
+    mandatory charge imposed upon citizens for the privilege of entering Australia. Per
+
+    the rule in Air Caledonie International I/. The Commonwealth55, "The right of the
+
+    Australian citizen to enter the country is not gualified by any law imposing a need to
+
+    obtain a license or 'clearance' from the Executive".
+
+    Conclusion
+
+106. Overall, the Public Health Act and Public Health Regulation do not by their terms
+
+    establish any sufficient relationship between the liability to pay the charge and the
+
+    provision of accommodation and meals with the ultimate expenditure of the money
+
+    collected to regard the liability to pay the charge as a fee for services. This position
+
+    was held in Northern Suburbs General Cemetery Reserve Trust 1/ Commonwealth of
+
+    Australia.56
+
+In the alternative there was no discernible relationship with the value acquired.
+
+107. In Air Caledonie, Latham CJ stated "if the person reguired to pay the exaction is
+
+    given no choice about whether or not he acguires the services and the amount of
+
+    exaction had no discernible relationship with the value of what is acguired, the
+
+    circumstances may be such that the exaction is, at least to the extent that it exceeds
+
+    that value, properly to be seen as a tax." On the basis that quarantine fees amounted
+
+    to a compulsory exaction, two questions arise being:
+
+        a.           Is there a 'discernible relationship'? and
+
+        b.           What value is acquired by a citizen through quarantine?
+
+    Discernible Relationship
+
+108. In the case of Australian Capital Territory v Queanbeyan City Council, Stone J held
+
+    that the calculation of the fees is negligible in determining whether a discernible
+
+
+
+55 (1988) 165 CLR462
+56 Northern Suburbs General Cemetery Reserve Trust V Commonwealth of Australia (1993) 112
+ALR87 at 93
+
+                                                                                            25
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+    relationship exists and that there must be a relationship between the charge and the
+
+    value of the commodity or service in question.57 On the basis, it could be inferred that
+
+    the fees exacted for accommodation and meals by the Government bear no
+
+    relationship to whether a discernible relationship exists.
+
+109. It should also be considered that the quarantine program exhibited monopoly
+
+    characteristics   because     the   Government       had    complete       control   over   its
+
+    implementation and the legislation did not seek to place any limitation on the
+
+    amounts it could charge. The approach of Gummow J in Airservices58 was that the
+
+    provision of goods and services under monopoly conditions mean that there is no
+
+    market by reference to which a value can be discerned and therefore some other
+
+    measure of value is to be used. This means that to assess the value acquired by the
+
+    citizen, analysis of the environment and surrounding circumstances could be used as
+
+    an alternate measure of value.
+
+110. In the case of Australian Capital Territory v Queanbeyan City Council, a
+
+    "discernible relationship" was described as a very low threshold in which It does not
+
+    posit that a fee should represent good value.59 In the context of mandatory
+
+    quarantine, the question then becomes one of how "discernible relationship" with
+
+    "value" is to be determined in such circumstances?
+
+    Air Caledonie Test
+
+111. The test promulgated in Air Caledonie, states that there must be a discernible
+
+    relationship with the value acguired.
+
+112. The Macquarie dictionary defines the term 'value' as:
+
+        a.            (noun) "equivalent worth or equivalent return: for value received."
+
+         b.   (verb) "to consider with respect to worth, excellence, usefulness, or
+
+              importance."
+
+
+
+
+57 Australian Capital Territory v Queanbeyan City Council (2010) 273 ALR 553
+58 202 CLR at 282-284 [444]-[45]
+59 Australian Capital Territory v Queanbeyan City Council (2010) 273 ALR 553
+
+
+
+                                                                                                26
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+     Furthermore, it is suitable that the natural meaning of "value" is "net value" and that
+
+     a calculative approach which accounts for any detriment, damage or loss should be
+
+     applied.
+
+113. The Macquarie dictionary defines the term 'acquired' as:
+
+         a.     "to come into possession of; obtain."
+
+     Value Acquired
+
+114. On the basis that citizens returning to Australia from abroad were given no choice
+
+     about whether they underwent quarantine, the phraseology of the second half of the
+
+     test is crucial. The word 'value' and the reference to 'what is acguired' imply that the
+
+     Court will look at the value of the service as perceived by the recipient, rather than
+
+     looking at the cost to the Government of providing the service.60 The proposition that
+
+     a fee may bear some relation to the cost of the service has been established61;
+
+     however, Air Caledonie modifies and expands the definition of 'fee for service' in that
+
+     the service must be 'of value' to the recipient rather than a reflection of the cost to
+
+     the Government in providing the service.
+
+115. Government bodies are accustomed to testing the legality of a 'fee for service' by
+
+     reference to the cost of supporting the service, under the Air Caledonie rule,
+
+     governments can no longer rely on this but rather must determine the actual value of
+
+     the service to the recipient. The Public Health Regulation references the calculation
+
+     of the fees to the cost of the supporting service without any consideration of the value
+
+     acquired by the citizen - it is contended that this is a major flaw in the Regulation and
+
+     one which will be difficult for the Government to overcome.
+
+     Facts
+
+116. The fees exacted for a single adult in undergoing fourteen (14) days of mandatory
+
+     quarantine under the direction of the CHO was $3,220 and which was pursuant to the
+
+     Public Health Amendment Regulation (No. 2) 2021 enforced from 1 July 2021.
+
+
+
+
+60
+
+61 Harper v. Vic. (1966) 114 C.L.R. 361, 378
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+117. The fees were levied by the Government to "support the costs for hotel
+
+    guarantine continuing to be sustainably managed",62 this statement alone infers that
+
+    the calculation is referenced to the cost of providing the service without considering
+
+    the actual value of the service acquired by the recipient.
+
+118. Prima facie, it would be simple to conclude that the purported value transferred
+
+    from the Government and acquired by the recipient was the provision of
+
+    accommodation and food for a fee of $165 and $65 per day respectively, and that
+
+    these fees were proportionate to the actual costs in providing such services. As
+
+    mentioned, this interpretation would likely to be considered erroneous as it does not
+
+    consider the "value as perceived by the recipient" and which is required and implied
+
+    by the second half of the test formulated by Latham CJ.
+
+119. It is reasonable to contend that the perceived acquisition of "Value" is inextricably
+
+    linked and/or akin to acquiring some type of benefit and which is measured in the
+
+    context of worth, excellence, usefulness, or importance. On this basis, to satisfy the
+
+    test, it should be demonstrated that the 'value acquired' by the citizen is somewhat
+
+    analogous to the perceived benefit acquired.
+
+    Value acquired - worth, excellence, usefulness, or importance
+
+120. The presumption is that in consideration for payment of $3,220, some form of
+
+    benefit is acquired by the citizen undergoing quarantine; therefore, it is important to
+
+    analyse available data which documents the specific outcomes of citizens in such
+
+    circumstances to determine whether those outcomes could be characterised as a
+
+    benefit and by extension be characterised as valuable.
+
+121. Prima facie, it could be considered that payment of a fee to enter mandatory
+
+    quarantine is connected with little if any perceived value and/or benefit by the
+
+    recipient. This is because in ordinary circumstances, it would be extremely rare that a
+
+    reasonable person would voluntarily exchange $3,220 to confine themselves to
+
+    solitary isolation within a small hotel room and without access to basic amenity such
+
+    as fresh air for 14 consecutive days.
+
+
+
+
+62 Public Health Amendment Regulation (No. 2) 2021
+
+                                                                                             28
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+122. It is well acknowledged within Government that "Hotel quarantine is difficult to
+
+    endure,     particularly for vulnerable people."63 This statement made by the
+
+    Government implies an admission that negligible value is acquired by a person
+
+    required to undergo quarantine, particularly if it was not done so voluntarily.
+
+123. The adverse effects of quarantine for persons required to undergo 14-days of
+
+    solitary isolation has been well documented by the Queensland Government. For
+
+    example, numerous cases in Australia have cited extensive evidence of the harmful
+
+    effects of social isolation on persons, particularly those who are exposed to prolonged
+
+    periods of segregation. In the Supreme Court of Queensland case of Callanan v
+
+    Attendee X64, Applegarth J referred to the research of Sharon Shalev, who found that
+
+    all studies of persons held in social isolation for more than 10-days demonstrated
+
+    negative health effects. Applegarth J also noted Shalev's finding that social isolation
+
+    increased a person's risk of being admitted to hospital for psychiatric reasons by 20
+
+    times65.
+
+124. The Queensland Government itself has documented66 the adverse health impacts
+
+    of social isolation inherent of a quarantine environment which include:
+
+        a.             insomnia and tiredness
+
+        b.     increased chance of developing anxiety, depression and other mental
+
+               illnesses
+
+        c.             elevated blood pressure
+
+        d.             increased chance of developing dementia
+
+        e.             negative feelings, including self-denial, guilt and self-loathing
+
+        f.             self-harm
+
+
+
+63 Australian Government, Department of Health, 'National Review of Hotel Quarantine', October
+2020, https://www.health.gov.au/sites/default/files/documents/2020/10/national-review-of-
+hotel-quarantine.pdf [accessed 25 March 2023].
+64 [2013] QSC 340.
+65 McDermott, R, The University of Queensland TC Beirne School of Law, 'Solitary confinement in
+Queensland prisons: An analysis of law, policy and practice', December 2019,
+https://law.uq.edu.au/files/55114/Solitary-Confinement-Report.pdf [accessed 24 March 2023].
+66 Queensland Government, 'Avoiding social isolation', Queensland Government,
+https://www.qld.gov.au/community/getting-support-health-social-issue/avoiding-social-isolation
+[accessed 24 March 2023],
+
+                                                                                            29
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+         g.            thoughts about suicide
+
+         h.            increased risk of substance misuse
+
+         i.            physical health implications, including worsening illness, weight loss or gain.
+
+    Specific Implications
+
+125. It is well documented that the hotels employed for the purposes of delivering
+
+    quarantine were largely established without due consideration for compatibility with
+
+    existing statutes and fundamental human rights. The basic facts are that in many
+
+    circumstances, the hotels used, lacked the mandatory requirements prescribed under
+
+    statute and international law for persons in social isolation and were not-fit-for-
+
+    purpose67.
+
+126. It could be concluded that where quarantine environments failed to fulfill the
+
+    policy objectives, failed to afford basic amenity and deprived persons of their liberty,
+
+    it would be impossible to conceive that any value was being acquired by the recipient.
+
+127. Examples of where quarantine infringed human rights can be demonstrated by
+
+    analysing the following law:
+
+         a.            Corrective Services Regulation 2017 (Qld)
+
+         b.   Queensland Human Rights Act (Section 30 humane treatment when deprived
+
+              of liberty)
+
+         c.   United Nations Standard Minimum Rules for the Treatment of Detainees, Rule
+
+              45
+
+         d.            ICESCR Article 12.
+
+    Corrective Services Regulation 2017 (Qld)
+
+128. The minimum requirements for persons subjected to social isolation is governed
+
+    by the Corrective Services Regulation 2017 (Qld). If it was considered that quarantine
+
+    should afford citizens with equivalent rights to prisoners then there was an obligation
+
+    to ensure persons undergoing quarantine were given the opportunity to exercise, in
+
+
+67 Baker, M.G., Wilson, N., Kvalsvig, A., & Telfar Barnard, L. 'Hotel quarantine causes 1 outbreak
+for every 204 infected travellers. It's far from fit for purpose', The Conversation, 1 April 2021,
+https://theconversation.com/hotel-quarantine-causes-l-outbreak-for-every-204-infected-
+travellers-its-far-from-fit-for-purpose-161815 [accessed 26 March 2023],
+
+                                                                                                     30
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+    the fresh air, for at least 2 daylight hours a day which is set out in the Part 2, Division
+
+    1 Section 4 (d) of the Regulation as follows:
+
+        a.   The chief executive must ensure a person undergoing separate confinement is
+
+             given the opportunity to exercise, in the fresh air, for at least 2 daylight hours
+
+             a day, unless a doctor or nurse advises that it would not be in the interests of
+
+             the persons health to exercise for a stated period or indefinitely.
+
+129. It is fact that persons who underwent hotel quarantine were not given the
+
+    opportunity to exercise, in the fresh air, for at least two daylight hours a day (and in
+
+    many instances at all). In such circumstances where a citizen in quarantine was
+
+    afforded less rights than a citizen in prison then it could not reasonably be perceived
+
+    that the citizen acquired value.
+
+    Human Rights Act 2019 (Act)
+
+130. The passing of the Human Rights Act 2019 (Qld), as well as Australia's ratification
+
+    of the Optional Protocol to the Convention Against Torture (OPCAT), requires the Qld
+
+    Government to comply with the United Nations Standard Minimum Rules for the
+
+    Treatment of Detainees (the Nelson Mandela Rules), specifically:
+
+        a.   Rule 14 - In all places where the person is required to live or work: The
+
+             windows shall be large enough to enable the person to read or work by natural
+
+             light and shall be so constructed that they can allow the entrance of fresh air
+
+             whether or not there is artificial ventilation;
+
+        b.   Rule 45 - Solitary confinement shall be used only in exceptional cases as a last
+
+             resort, for as short a time as possible and subject to independent review, and
+
+             only pursuant to the authorization by a competent authority.
+
+131. It is fact that the Government's quarantine infrastructure, systems and processes
+
+    failed to afford citizens these minimum legal requirements or to properly assess that
+
+    directing a citizen into solitary confinement was 'a last resort'. Again, In such
+
+    circumstances where a citizen in quarantine was afforded less rights than conferred
+
+    under the Human Rights Act 2019 (Qld), then it could not reasonably be perceived
+
+    that the citizen acquired value.
+
+    Complaints to the Ombudsman and Human Rights Commission
+
+
+
+                                                                                            31
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+132.    The adverse effects of quarantine have been well documented and reported by
+
+    persons placed into such with hundreds of complaints issued to government
+
+    ministers, State Ombudsman's, police departments and other local government
+
+    authorities. For example, the Queensland Ombudsman's 2020-2021 annual report68,
+
+    noted receiving several 'complaints about the conditions of hotel guarantine, such as
+
+    access to fresh air and food quality, as well as the cost of hotel quarantine and refusal
+
+    of applications for waiver of costs.'
+
+133.    The National Review of Hotel Quarantine reported that 'In the period up to 28
+
+    August 2020, in the order of 90 complaints were made to the Human Rights
+
+    Commission about the requirement to quarantine and/or conditions of quarantine
+
+    including: lack of access to fresh air, food, quality of the accommodation, and size
+
+    (especially for people with psycho- social disabilities).'69
+
+134.    It could be concluded these represent instances of where the citizen perceived no
+
+    acquisition of value.
+
+    Lack of Government Evidence
+
+135.    The Government has never evidenced the actual conferred or perceived value by
+
+    the recipient in exacting fees for quarantine. On that basis, it is impossible to conclude
+
+    that the amount of the exaction has a discernible relationship with the value which
+
+    was acquired by the recipient.
+
+136.    This notion, disposes the idea that the fees exacted for quarantine, can amount
+
+    to a transfer of value because any claim of such is fundamentally flawed on the basis
+
+    that there is no discernible relationship with the value acquired by the recipient.
+
+In the alternative, the service was not rendered to, or at the request of, the person
+
+required t make the payment.
+
+137.    To satisfy the fourth element of the test in Air Caledonie, the service must have
+
+    been rendered to, or at the request of, the person required to make the payment.
+
+
+
+68 Queensland Ombudsman 2020-21, Report on COVID-19 Complaints, viewed T1 March 2023,
+https://www.ombudsman.qld.gov.au/ArticleDocuments/262/QO%20Annual%20Report%20202Q-
+21%20-%20PUBLIC%20-%2004%20Report%20on%20COVID-19%20complaints.PDF.aspx.
+69 Department of the Prime Minister and Cabinet, National Review of Hotel Quarantine, 2020
+https://www.pmc.gov.au/sites/default/files/resource/download/national-review-of-
+quarantine.pdf": Viewed 26 March 2023.
+
+                                                                                           32
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+138.    The stated objective of quarantine by the Queensland Government was to
+
+    "reduce the risk of COVID-19 transmission within the community and protect the
+
+    health and safety of Australians." It would be reasonable to presume that the persons
+
+    who received the benefits (if any) of quarantine were the Australian public who
+
+    resided outside of the quarantine system.
+
+139.    A perceived benefit to the Australian public could be conferred because the
+
+    implementation of a quarantine system minimised the risk of exposure to potentially
+
+    infectious citizens returning from abroad thus minimising their risk of infection.
+
+140.    It is simple to reason, that the public would benefit from a community free from
+
+    Covid in a similar way that a pig farmer benefits from a farm free from African swine
+
+    fever, due in part, to an effective quarantine system. By analogy, if a farmer wanted
+
+    to keep his farm disease free, he could establish a quarantine system which would
+
+    require all new pigs entering his property to spend a suitable amount of time isolated
+
+    in a pen separated from the rest of the herd. During this time the farmer would ensure
+
+    his pigs were fed and sheltered so that they didn't die knowing that he would
+
+    ultimately benefit from doing so. In this instance, the services are rendered to and for
+
+    the benefit of the farmer and not the pigs in the pen. Similarly, this analogy applies to
+
+    quarantine in that the public ultimately derive any benefits of quarantine and thus
+
+    the services are being provide to them.
+
+141.    Another key aspect of this contention is that the benefit can only be derived if
+
+    the quarantine system is effective. As mentioned, over three million COVID-19 cases
+
+    were recorded in the community during the mandatory quarantine period which
+
+    indicates that the Covid quarantine system was in fact ineffective.
+
+142.    Overall, it can therefore be concluded that quarantine services were rendered to,
+
+    or at the request of, the Australian public (including the Executive) and not the citizen
+
+    in quarantine.
+
+Conclusion
+
+143.    The issue to be considered is whether the fees exacted under section 362IVIC (1)
+
+    of Part7AA of the Public Health Act are to be properly characterised as a law 'imposing
+
+    taxation' on returning citizens.
+
+
+
+
+                                                                                          33
+An Analysis of the Legal Enforceability to Exact Quarantine Fees from Australian Citizens
+Returning from Aboard
+
+
+
+
+144.    It is evident that quarantine fees satisfied the three positive attributes of a tax
+
+    being that they were compulsory, were for public purposes and were enforceable by
+
+    law. It is also evident that the fees exacted failed to satisfy the required negative
+
+    attribute because there was:
+
+        a.           No specific identifiable service
+
+        b.           No fee paid for the service
+
+        c.   No discernible relationship with the value of what is acquired by the recipient
+
+             and
+
+        d.   The service was not rendered to or at the request of, the person required to
+
+             make the payment.
+
+        As such it is difficult to contend that the fees could be characterised anything
+
+        other than a 'tax'.
+
+145.    On the basis that 'fees' levied can be characterised as a 'tax', pursuant to Section
+
+    55 of the Constitution, section 362MC (1) of Part7AA of the Public Health Act should
+
+    be determined invalid and unenforceable because the Public Health Act deals with
+
+    matters other than the 'imposition of taxation.'
+
+
+
+
+                                                                                         34
+

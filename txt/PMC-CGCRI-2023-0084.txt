@@ -1,0 +1,117 @@
+ 1   World’s-Best Statistical Practice Saves Lives
+ 2   Dennis Trewin AO, FASSA is the former Australian Statistician and former President of the
+ 3   International Statistical Institute and the International Association of Survey Statisticians.
+
+ 4   Nicholas Fisher is Principal of ValueMetrics Australia and Visiting Professor of Statistics at the
+ 5   University of Sydney. He was formerly a Chief Research Scientist in CSIRO.
+
+ 6   Noel Cressie FRSN FAA is Distinguished Professor at the University of Wollongong, Australia, and
+ 7   a centre director in its National Institute for Applied Statistics Research Australia (NIASRA)
+
+ 8   Executive Summary
+
+ 9   As three senior members of the Statistics profession, we are concerned that statistical methods
+10   are not being used, or not being used appropriately, in formulating responses to the continuing
+11   challenges facing Australia, including pandemics.
+
+12   Whilst our focus is largely on the future, we shall highlight some key aspects of the response to
+13   the COVID-19 pandemic (hereafter COVID) as context for the importance of addressing the
+14   issues we identify. Elaboration of each of these aspects is available in Attachment 1, Details
+15   Relating to the Submission.
+
+16   We are scientists who believe that collaboration from all relevant disciplines is critical when the
+17   next pandemic comes. From a statistical perspective, we think there are five critical issues to
+18   managing a pandemic. These are given below, followed by actionable recommendations
+19   stemming from them.
+
+20   1. There is need for national, expert oversight of all scientific aspects, among them
+21      epidemiological and statistical. However, during COVID, statistical aspects (apart from the
+22      ABS surveys) were largely ignored.
+
+23   2. The timely capture and analysis of diverse informative data streams is critical to informing
+24      wise decision-making and ongoing communication with the community about the current
+25      state of a pandemic. There needs to be a pandemic information plan that can be activated at
+26      short notice. The plan should include a rolling national, scientifically designed monitoring
+U       survey. [An outline for such a plan is provided on page 3 of Attachment 2, Pandemic
+28      Information Management Plan. An earlier version was submitted to the Office of the Prime
+29      Minister and Cabinet in August 2020, who referred it to the Department of Health, but there
+30      is no evidence it was considered.]
+31   3. There is a need to understand the potential impacts of uncertainty in the assumptions and
+32      models used for predictions. Had this been adopted appropriately during COVID, the timing
+33      for reducing the public-health impacts would have changed and the impacts of the Omicron
+34      variant (including fatalities) significantly reduced. [See Attachment 1, Details Relating to the
+35      Submission.]
+
+36   4. Australia needs to follow best international practice in developing, updating, and using
+37      epidemiological models that include an accounting of uncertainty and ongoing synthesis of
+38      competitive predictions. For example, our national weather forecasting at BOM applies this
+39      world's-best-practice approach. However, during the COVID pandemic, the government
+40      relied almost exclusively on the modelling from the Doherty Institute, so dramatically
+41      underutilizing the available national expertise.
+
+42   5. It is essential to allow for socio-economic heterogeneity: policy and practice may need to
+43      vary from sub-population to sub-population. In fact, ignoring heterogeneity led to biases in
+44      predictions (including an upward bias in estimates of the effectiveness of the vaccination
+45      program).
+
+46   RECOMMENDATION 1. Professional statisticians should be appointed to the various advisory
+47   groups to government that involve working with data, to advise on world's-best statistical
+48   practice.
+
+49   RECOMMENDATION 2. There should be a professional statistician on the Advisory Group of
+50   ATAGI.
+
+51   RECOMMENDATION 3. A Pandemic Information Plan should be developed as a matter of
+52   urgency. Furthermore, we strongly recommend that a multi-disciplinary Task Force be
+53   established now, to determine the data/information requirements for managing a pandemic
+54   and how they might be met. The membership should include a senior statistician with statistical
+55   modelling and analysis expertise, an official (government) statistician, an epidemiologist, a
+56   medical researcher, an economist, a social psychologist, and a public-health official.
+
+57   RECOMMENDATION 4. A rolling national, scientifically designed monitoring survey should be
+58   instituted at the first sign of an emerging pandemic, preferably with the involvement of the ABS.
+
+59   RECOMMENDATION 5: Because of the ubiquitous need throughout government for high-level
+60   data-scientific oversight of actual or potential decision-making based on complex data, and the
+61   need for an independent source of advice, we recommend the position of Chief Data Scientist
+62   be established with strong parallels to that of Chief Scientist. Such an appointment would have
+63   enhanced policy development in many other areas. [See Attachment 3, Proposal for a Chief
+64   Data Scientist.]
+
+65   RECOMMENDATION 6. We urge that transparency of data sources and modelling be
+66   implemented in Australia, consistent with the approaches being used in the USA
+67   (https://covidl9forecasthub.org ), in collaboration with the CDC; and those used in Europe
+68   (https://covidl9forecasthub.eu), coordinated by the European Centre for Disease Prevention
+69   and Control.
+
+70   RECOMMENDATION 7. As part of the development of the Pandemic Information Plan
+71   (Recommendation 3 above), identify the most important sources of heterogeneity that will
+72   impact the pandemic, and include them as part of the relevant data streams.
+
+73   Finally, we draw attention to the following international commentary on these matters.
+
+74
+75
+76
+77   Copyright considerations prevent us reproducing the entire contents that justify the title.
+78   However, the final paragraph is very compelling:
+
+79
+80
+81
+
+82
+83
+84
+85
+86
+87
+
+88
+89
+90
+91
+92
+
+93
+

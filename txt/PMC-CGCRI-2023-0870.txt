@@ -1,0 +1,169 @@
+The immune system needs at least 125 nmol/L (50 ng/mL) circulating 25-hydroxyvitamin
+D in order to function properly - Submission from Robin Whittle
+This submission to the COVID-19 Response Enquiry addresses the key health response measures which Federal
+and State governments should have implemented in order to suppress COVID-19 transmission, harm and death -
+and should implement now and in the future for this and numerous other reasons.
+
+I am an electronic technician and computer programmer in Daylesford, Victoria. Since early 2020 I have been
+raising awareness of the immune system's need for 25-hydroxyvitamin D levels well above the ca. 50 nmol/L (20
+ng/mL) level which is sufficient for the kidneys to regulate calcium-phosphate-bone metabolism. This is critically
+important for reducing the risk of severe COVID-19 and many other illnesses.
+
+I established the Nutrition for Immune System Health (NISH) email discussion list nish.groups.io and I am part of
+an informal, international, group of researchers, doctors and advocates who have long been trying to raise
+awareness of the need for adequate 25-hydroxyvitamin D levels, with the COVID-19 pandemic making this a matter
+of life and death for millions of people.
+
+Please read the research articles cited and discussed at: vitamindstopscovid.info/  evi/, This was a submission
+to a UK government inquiry (co-signed by^^^^^^^^^^MD, Hawaii).            Robin Whittle 2023-12-14
+
+Low 25-hydroxyvitamin D increases COVID-19 severity, transmission and risk of serious harm and death
+        This box and whiskers graph is from^Het al. 2022 https://doi.orq/10.1371 /journal.pone.0263069 . It
+        shows that the lower the pre-infection 25-hydroxyvitamin D level is (as measured in "vitamin D" blood
+        tests) the greater the severity of COVID-19. Severity drives increased viral shedding and so transmission.
+
+
+
+
+        The histograms from^^|et al. 2020 www.medrxiv.org/content/10.1101 /2020.09.04.20188268v1 depict
+        the prevalence of different levels of 25-hydroxyvitamin D in sunny Israel. The 25-hydroxyvitamin D levels of
+        white skinned people in the southern Australian states, who do not properly supplement vitamin D, during
+        winter, would be significantly lower. The elderly, those with dark or black skin and those with sun-avoidant
+        lifestyle (e.g. Muslim women in Australia and Israel) often have levels below 25 nmol/L - 20% of what their
+        immune system needs. Vitamin D researcher and Head, Department of Medicine, Monash University,
+                                                                                                                       1
+Professor               raised these concerns in August 2020 regarding the darker skinned immigrants in
+Victoria who then were suffering the highest rates of COVID-19 transmission, hospitalisation and death:
+www.abc.net.au/listen/programs/healthreport/is-there-a-link-between-vitamin-d-and-
+coronavirus/12566324.
+
+The green area of the graph depicts levels of 125 nmol/L (50 ng/mL, 1 part in 20,000,000 by mass) and
+above, which are needed by many types of immune cell, in order to properly supply their intracrine (inside
+each cell) and paracrine (to nearby cells) signaling systems. These signaling systems are crucial to the
+ability of individual immune cells to alter their behaviour in response to their changing circumstances.
+Since no peer-reviewed journal article provides a tutorial explanation of these systems, and since they must
+be understood by all doctors and immunologists, I wrote such a tutorial: vitamindstopscovid.info/00-
+evi/#02-compounds .
+
+Neither vitamin D3 cholecalciferol nor 25-hydroxyvitamin D calcifediol function as hormones. The immune
+system does not use hormonal signaling. 25-hydroxyvitamin D is produced, over several days, in the liver
+from vitamin D3 which is either ingested or produced in ideally white skin by extensive ultraviolet B
+exposure.
+
+Since 2008, leading researchers and medical doctors (many are both) have been calling for 100 to 150
+nmol/L (40 to 60 ng/mL) to be recognised as the level of circulating 25-hydroxyvitamin D which is
+necessary for good health: www.qrassrootshealth.net/project/our-scientists/.
+
+The most direct evidence of immun^ystem dysfunction increasing the further the 25-hydroxyvitamin D
+level fall below 125 ng/mL is^^^| et al. 2014 iamanetwork.com/iournals/iamasurgery/fullarticle/
+1782085, PDF: sci-hub.se/10.1001 /iamasurq.2013.3176 Morbidly obese patients undergoing gastric
+bypass surgery for weight loss at Massachusetts General Hospital had a 30% risk of hospital acquired
+infections and a 30% risk of surgical site infections if their 25-hydroxyvitamin D level was about 40 nmol/L
+(16 ng/mL). This is not far below the 50 nmol/L (20 ng/mL) required for proper kidney regulation of
+calcium-phosphate-bone metabolism, which is all most doctors and government supplemental vitamin D3
+recommendations aim to attain.
+
+Yet the risk of each type of infection falls to about 2.5% at 125 nmol/L and above. While people suffering
+from obesity have lower 25-hydroxyvitamin D levels than normal for any given vitamin D3 supplemental
+intake as a ratio of body weight 5nn.info/temp/250hd-obesity/, there is no reason to believe their immune
+systems need a higher level of 25-hydroxyvitamin D to function properly than do normal weight people.
+
+       50%
+                                  Hospital-Acquired infections               Gastric bypass patients at
+                                  Surqical Site Infections                   Massachusetts General Hospital
+                                                                             2007 -2011 (L0WESS plot)
+       40%-                              Without proper vitamin 0 supplementation,
+                                  ______ most people's levels are 5 to 25 ng/mL 12.5 to 62.5 nmol/L
+                                         Immune cells fail to respond fully and rapidly.
+  g                                      Risk of infection rises to 45 to 18%.
+       30%^
+                                                  30 ng/mL 75 nmol/L is widely believed to be the threshold
+                 Approx, distrib.                 of vitamin D repletion. However, this is obviously incorrect,
+  O              of people who                    since at this level, immune cells cannot suppress infections
+       20%       do not properly                  properly. Risk now 12%.
+  co                                                                         Immune system can cut rfectm risk to 2.5%, with
+                 supplement 03.                                              at least 50 ng/mt 125 nmol/L 25-hydroxyvrtannin D.
+                                                                             0.125 mg 5000IU vitamin D3 per day (70 kg adult) wil
+                                                                             generally attain this after 3 months.
+       10%-                                                                  Medical emergencies (70 kg ncrrc-bcse bodywe^ght'k
+                                                                             typical times to 50 ng/mL 25(OH)D: lOmg 400.000 IU
+                                                                             vitamin 03 = a few days; 1 mg calcifediol = 4 hours.
+
+
+
+         0
+             0    5    10    15     20    25     30    35    40 45 50 55 60 65 70 75 80
+                       25           50           75         100    125   150   175   200
+                                           25-hydroxyvitamin D level ng/mL nmol/L
+
+New Jersey based Emeritus Professor of Medicine,PhD, MBA, DSc, (CV) has been
+researching vitamin D since the mid-1990s. He told me that the most common response by doctors to
+research such as the above is: "How can it be true? It is too simple." Most medical doctors,
+immunologists and epidemiologists pay far too little attention to research on vitamin D and other nutrients.
+It is true, simple and of overriding importance to all aspects of health that most people need to supplement
+                                                                                                                                    2
+vitamin D3 properly in order to attain the 125 nmol/L (50 ng/mL) or more level of circulating 25-
+hydroxyvitamin D which their immune systems need to function properly.
+
+In 2022, Professor^^^^^^Mprovided the first peer reviewed recommendation for vitamin D3
+supplemental intake quantities to safely attain this healthy level of 25-hydroxytivamin D, without requiring
+blood tests or medical monitoring: Rapidly Increasing Serum 25(OH)D Boosts the Immune System,
+against Infections - Sepsis and COVID-19 Nutrients 2022-07-21 www.mdpi.com/2072-6643/14/14/2997.
+In a recent webinar
+odysee.eom/@FrontlineCovid19CriticalCareAlliance:c/Weeekly Webinar Auq16 2023:d?t=3386 he
+simplified his recommendations for average daily vitamin D3 intakes:
+        70 to 90 IU / kg body weight for those not suffering from obesity (BMI < 30).
+        100 to 130 IU / kg body weight for obesity I & II (BMI 30 to 39).
+        140 to 180 IU / kg body weight for obesity III (BMI > 39).
+So a 70 kg non-obese person should supplement around 49C to 6300 lUs a day on average. Please do
+not be alarmed by these high numbers: one IU of vitamin D3 is 1/40,000,000th of a gram. 5000 IU (0.125
+milligrams) a day is a gram every 22 years, and pharma-grade vitamin D3 costs about USD$2.50 a gram
+ex-factory. This is the only way most people's immune system can function properly. The Australian
+government vitamin D recommendations aim to attain only 27.5 nmol/L (11 ng/mL) circulating 25-
+hydroxyvitamin D: www.eatforhealth.qov.au/nutrient-reference-values/nutrients/vitamin-d. Daily vitamin D3
+intake recommendations are : 1 to 50 years: 0.05 mg 200 IU; 51 to 70 years: 0.01 mg 400 IU and 70+ years:
+0.015 mg 600 IU. The largest capacity D3 capsules Australian retailers can sell are 0.025 mg 1000 IU.
+
+Professor ^^^^^^Halso recommends the most important early treatment for the great majority of
+COVID-19 patients, whose 25-hydroxyvitamin D levels are a fraction of 125 nmol/L 50 ng/mL. Rather than
+use a single bolus dose of vitamin D3, such as 10 mg 400,000 IU, which takes several days to raise 25-
+hydroxyvitamin D over 125 nmol/L due to the delays of hydroxylation in the liver, he recommends a single
+oral dose of 0 )4 milligrams calcifediol, which is 25-hydroxyvitamin D, per kg body weight. This is 1 mg
+for average weight adults, and raises circulating 25-hydroxyvitamin D safely over 125 nmol/L (50 ng/mL) in
+about 4 hours. The crucial importance of rapidly boosting this level in hospitalised COVID-19 patients has
+been known since August 202C ^^|et al. www.sciencedirect.com/science/article/pii/
+S0960I 76020302Z64 in which a single oral dose of 0.566 mg of calcifediol in hospitalised COVID-19
+patients was the primary reason for ICU admissions dropping from 50% to 2% and deaths from 8% to zero.
+
+However, most doctors are far too enamoured of the promises made for vaccines, monoclonal antibodies
+and expensive, patented, anti-virals to take a proper interest in nutrition and the fact that most people's
+immune system is crippled to a potentially large extent by insufficient 25-hydroxyvitamin D.
+
+In 2021,^^^Het al. www.nature.com/articles/s41590-021 -01080-3 elucidated the role of 25-
+hydroxyvitamin D based intracrine (they called it autocrin^ signaling in Thl regulatory lymphocytes. An
+inadequate supply of this compound was the primary or sole reason for Thl cells from the lungs of
+hospitalised patients remaining stuck in their pro-inflammatory startup program, never transitioning to their
+anti-inflammatory shutdown program, despite detecting the condition to do so: a high level of a
+complement protein. If these people had had 125 nmol/L (50 ng/mL) 25-hydroxyvitamin D when infected,
+they would probably not have had such severe infection and inflammation as to require hospitalisation.
+
+The research cited in these three pages, shows that a great deal of human ill-health, and millions of deaths
+worldwide from COVID-19, could have been greatly reduced with 125 nmol/L (50 ng/mL) or more
+circulating 25-hydroxyvitamin D. There is very little vitamin D3 in food - fortified or not - or in
+multivitamins, so a "balanced diet" is insufficient for good health. White skinned people can generate
+sufficient vitamin D for immune system health with extensive UV-B skin exposure. However, this is only
+available naturally on cloud-free summer days - and UV-B damages DNA and raises the risk of skin cancer.
+
+The Australian public relies on the federal government to support the best measures which ensure general
+health and proper early treatment of all diseases, especially COVID-19. The government needs to look
+beyond the blinkered view of the majority of the medical profession and support the public according to the
+best research. Please read the best of this research yourselves: vitamindstopscovid.info/ 0-evi.
+
+Adequate 25-hydroxyvitamin D can be attained easily with proper vitamin D3 supplementation. This is
+important for numerous reasons, including suppressing the transmission and/or severity of a very large
+number of health conditions, including: sepsis, COVID-19, Kawasaki disease, MIS-C, influenza. In utero
+#3.2: autism, intellectual disability, schizophrenia, ADHD, low birth weight pre-eclampsia. In old age #3.3:
+most or all forms of dementia, including Parkinson's disease. Numerous auto-immune diseases, including
+MS, lupus and rheumatoid arthritis are worsened by low 25-hydroxyvitamin D.
+                                                                                                                3
+

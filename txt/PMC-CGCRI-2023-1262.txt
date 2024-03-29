@@ -1,0 +1,199 @@
+             Australian Academy
+             of Health and
+             Medical Sciences
+
+The Australian Academy of Health and Medical Sciences submission
+to the Commonwealth Government COVID-19 Response Inquiry
+December 2023
+The Australian Academy of Health and Medical Sciences (AAHMS) is pleased to contribute to the
+Australian Government ’s COVID-19 Response Inquiry. AAHMS is Australia’s Learned Academy for
+health and medicine - the impartial, authoritative, cross-sector voice. We are an independent,
+interdisciplinary body of Fellows - elected by peers for outstanding achievements and exceptional
+contributions to health and medical science in Australia. Collectively, we advance research and
+innovation to improve everyone’s health and engage with community, industry and governments.
+
+This submission responds to the Inquiry terms of reference 2,3 and 8 as they relate to the health and
+medical research landscape and the translation of research into evidence-based policy and practice.
+We also focus on the policy gaps and opportunities to improve future preparedness. At the same
+time, AAHMS acknowledges Australia’s pandemic successes. Overall, we had a lower excess
+mortality rate and less excess health sector spending than many other countries, and while there are
+certainly areas for improvement, Australia faired relatively well by international standards.1
+
+Research-informed policy and practice
+Research and innovation were vital in guiding Australia’s response to the pandemic. Australia must
+continue to develop a strong research and innovation ecosystem that can deliver the best, most
+relevant evidence to inform decision-making in emergencies. Such an ecosystem should:
+
+•   Be responsive - pandemic preparedness and response relies on the ability to quickly initiate and
+    scale up research. Conventional grant agencies, for example, the Medical Research Future Fund
+    (MRFF) and National Health and Medical Research Council (NHMRC) were often unable to
+    provide timely funding for projects in the context of an emergency. Funding delays were
+    exacerbated by operational barriers - governance and ethics approval processes could be further
+    streamlined, and research and digital infrastructure standardised, harmonised and continually
+    updated. This should occur together with coordination of data-management, linkage and sharing
+    between federal, state and territory jurisdictions. These operational barriers have been widely
+    described in our previous work (e.g. Australia’s data-enabled research future, Long COVID
+    Parliamentary Inquiry expert roundtable) and will not be discussed in further detail here
+    (although would be pleased to do so at the Committee’s request), except to note that the
+    Australian Centre for Disease Control (CDC) should play a key role in developing more cost
+    effective and sustainable disease surveillance systems and advancing linkage of key state and
+    national datasets.2,3
+•   Be timely, effective and impactful - pandemic preparedness and response require research
+    readiness and support for and across multiple disciplines and sectors including clinical trials, public
+    health, social sciences, implementation, evaluation and policy research. During the pandemic,
+    certain types of research were better supported than others. For instance, research into non­
+    pharmaceutical public health interventions (NPIs), such as mask wearing, ventilation and
+    infection control in healthcare and community settings was poorly funded despite their potential
+    benefits when implemented appropriately, and high cost when not. Research into the
+    development of effective treatments, such as antivirals, could also have been stronger and better
+    coordinated. Social sciences research, First Nations-led research, and research into post-COVID
+    conditions, One Health, and the use of digital tools and artificial intelligence could all have been
+    better supported.
+
+
+                                                                                                          1
+•    Be strategic - pandemic research must be strategic and the best way to achieve this is by ensuring an
+     ongoing strategic approach across Australia’s health and medical research and innovation. Austra I ia
+     should develop an overarching national strategy to guide research priorities, which facilitates
+     Commonwealth and cross-jurisdictional cooperation and collaboration. Provision of infrastructure
+     that includes support for research-ready adaptive clinical trials platforms and builds current and
+     future research workforce capacity through support of early and mid-career researchers is vital.' 4
+     Measures introduced to manage pandemics should be evidence-informed. Networks and
+     mechanisms for research translation e.g. the National COVID-19 Health and Research Advisory
+     Committee and the Aboriginal and Torres Strait Islander Advisory Group on COVI D-19, are often
+     reactive, and not representative of all stakeholders (e.g. researchers, consumers, public health
+     authorities, jurisdictions, funders and industry).
+•    Build on planned/existing structures - (1) To maximise its potential, the future CDC should
+     incorporate mechanisms for rapid assessment of research and provision of evidence-driven
+     recommendations to policy makers and healthcare administrators who are time-poor. Surveillance
+     activities should quickly characterise emerging threats, coordinate data collection and inform
+     research funding. (2) The Rapid Research Information Forum, chaired by Australia’s Chief
+     Scientist, was an expert group that included the Australian Learned Academies. This group
+     analysed the latest evidence on emerging, pressing questions regarding COVID-19 and provided
+     scientific advice to Government.5 To enhance its effectiveness, it should be streamlined and
+     coordinated better to ensure appropriate consultation and limit duplicated efforts. (3) AAHMS’
+     2022 report, ‘Embedding research and innovation as core functions of the health system: A vision for the
+     future of health in Australia’ called for the Australian and jurisdictional Governments to establish an
+     alliance for transforming healthcare through research, which would bring key partners together
+     to develop and implement strategies for including research and innovation as core functions of the
+     health system.6 Creating such a group would help ensure that research reaches patients efficiently.
+
+Improving outcomes for Aboriginal and Torres Strait Islander communities
+Australia must develop mechanisms to ensure First Nations voices are included at the highest levels
+of pandemic planning and to amplify the expertise of First Nations-led groups in delivering
+culturally safe, community-based care.
+
+The Australian Government could:
+• Play an important role in developing and embedding cultural governance within a pandemic
+   response framework.7
+• Assist in the adoption of a strengths-based approach through provision of structured support
+   and inclusion of proven strategies developed by First Nations-led health groups.
+• Improve sustainable leadership opportunities by embedding Aboriginal and Torres Strait Islander
+   leadership within health and medical sciences, thereby ensuring effective development and
+   translation of First Nations-led research.
+♦ Build and nurture relevant First Nations expertise within the CDC - The CDC should embed
+   Aboriginal and Torres Strait Islander voices within its leadership, governance and operations.
+• Provide long-term investment to facilitate trusted and culturally safe care through consistent
+   and sustained funding for First nations healthcare workers and rural and regional pharmacies.
+• Enable Indigenous data sovereignty and hence safe and secure use of data for policymaking and
+   the development of public health measures to improve outcomes for these communities.
+
+
+
+' REMAP-CAP, i.e. a Randomised, Embedded, Multi-factorial, Adaptive Platform Trial for Community-Acquired Pneumonia, used a novel and
+innovative adaptive trial design to simultaneously and efficiently evaluate a number of COVID-19 treatment options. Source: F  '-CA
+website, accessed 7 December 2023. REMAP-CAP is explored as a case study in the 2023 AAHMS Vision Report (P.70).
+
+
+
+                                                                                                                                        2
+Communication, misinformation and disinformation
+Improved communication of science and areas of uncertainty, which is targeted to different
+stakeholders - scientists, practitioners, policy makers, government and most importantly, priority
+populations - is key, and must consider differences in culture, linguistics and health literacy.
+Importantly, strategies must also engender trust in governments and mitigate the spread of
+misinformation and disinformation. This is a long-term endeavour that goes beyond the pandemic
+setting and requires significant strategic investment. Despite positive examples of intra-pandemic
+communication and information sharing (e.g. the Department of Health and Aged Care’s regular
+webinars with clinicians and meetings to inform national media, and the Aboriginal Community
+Controlled Health Organisations’ capacity to inform First Nations peoples), public trust was
+compromised.
+
+Australia needs:
+• Research to better understand public communication and behaviour, which can enable maximal
+    compliance with relevant advice - it must involve the public to ensure their perspectives inform
+    policy development.
+• Targeted engagement with, and tailored communication strategies for, culturally and
+    linguistically diverse communities (CALD) and those with lower levels of health literacy - such
+    individuals had poorer understanding about COVID-19 symptoms, prevention and public health
+    measures, and were more likely to accept and endorse misinformation.8
+• To combat mis- and disinformation, which occurred at every level of the response and
+    threatened compliance with, and efficacy of, the emergency measures being enacted. Strategies
+    must be developed in anticipation of another global/national infectious diseases emergency and
+    for ongoing benefit.
+
+Collaboration and coordination
+Collaboration is essential for coordinated and cohesive action towards pandemic preparedness and
+response. Stakeholders at every level must work together closely for the best outcomes.
+Opportunities for improved collaboration include:
+• Federal and jurisdictional governments - barriers resulting from Australia’s federated system,
+    prevented a more cohesive response to the pandemic. Some are highlighted above. We encourage
+    this Inquiry to consider how these governments can better work together.
+• Research and innovation - in a pandemic, top-down large collaborative research is needed.
+    Australia prioritised open calls to fund research during COVID-19, creating sometimes
+    unproductive competition, delays in initiating research and achieving timely impact and multiple
+    small clinical trials that were underpowered. In addition, inter-and multi-disciplinary research
+    was not well supported despite being key to pandemic preparedness and response.
+• The health-academia-industry interface - addressing patient needs and improving healthcare
+    through cutting-edge research is best achieved by integrated research teams that incorporate
+    multidisciplinary insights and expertise. A robust health-academia-industry interface that
+    facilitates the work of integrated teams is needed. AAHMS’ 2022 report on embedding research
+    and innovation in health sets out ways to advance this interface for better outcomes in health.6
+• Stakeholder engagement - planning and preparedness conversations and decision-making
+    should include all relevant stakeholders from the outset. This includes aged care representatives,
+    healthcare professionals, consumers, healthcare administrators, Aboriginal and Torres Strait
+    Islander communities and experts, and culturally and linguistically diverse communities.
+• International collaboration - building domestic capacity and strengthening long-term
+    international relationships will ensure that Australia can lead in the global response to future
+    pandemics.
+
+
+                                                                                                       3
+We are grateful for the contributions of our Fellows, Associate Members and other networks in
+developing this submission. For questions about our response, or to arrange a consultation with the
+Academy, please contact Lanika Mylvaganam, Head of Policy (policy(S)aahms.org) at the Australian
+Academy of Health and Medical Sciences.
+
+www.aahms.org
+
+
+
+
+References
+1 Thorne L. (2023). How did Australia’s COVIDstrategy compare to other countries? New data paints a striking
+picture, https://www.abc.net.au/news/2023-ll-29/australia-covid-data-on-masks-tests-deaths-
+spenoing/103160238. Accessed 7 December 2023.
+2 Australian Academy of Health and Medical Sciences (2022). Australia’s Data-Enabled Research Future: Health
+and Medical Sciences. AAF   website, accessed 7 December 2023.
+3 Australian Academy of Health and Medical Sciences (2023). Experts deliver evidence in long COVID
+parliamentary hearing, https://aahms.org/news/long-covid-parliamentarv-roundtable-february/
+4 Australian Academy of Science (2020). Early- and -mid career researchers fear their careers are at risk due to
+pandemic, https://www.science.org.au/news-and-events/news-and-media-releases/early-and-mid-career-
+ isearch      Ba   lej   eers-.       . Accessed 7 December 2023.
+5 Australian Academy of Health and Medical Science (2021). COVID-19 Rapid Research Information Forum.
+https://aahms.org/policv/covid-19-rapid-research-information-forum/
+6 Australian Academyof Health and Medical Sciences (2022). Research and Innovation as Core Functions in
+Transforming the HealthSystem: A Vision for the Future of Health in Australia, http 7aahms.org/on.
+Accessed 7 December 2023.
+7 Crooks K, Law C, Taylor K, et al. Embedding Aboriginal cultural governance, capacity, perspectives and
+leadership into a local Public Health Unit Incident Command System during COVI D-19 in New South Wales,
+Australia. BMJ Glob Health 2O23;8:eO127O9. doi:10.1136/ bmjgh-2023-012709.
+8 McCaffery K, Dodd R, Cvejic E et al. (2020) Health literacy and disparities in COVID-19-related knowledge,
+attitudes, beliefs and behaviours in Australia, Public Health Research & Practice, 2020;30(4):e3034201 2.
+https://doi.org/10.17061/phrp30342012
+
+
+
+
+                                                                                                               4
+

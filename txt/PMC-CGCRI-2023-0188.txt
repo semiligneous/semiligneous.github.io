@@ -1,0 +1,150 @@
+As a quick introduction, I’m Justin, a researcher and former public servant with a strong
+interest in protecting Australia’s economic stability and national security. I have tertiary
+education and/or research experience in public health, molecular biology and artificial
+intelligence. I’m also a resident of Melbourne, and was directly affected by various mishaps
+during the COVID-19 response (e.g. outbreaks from quarantine facilities).
+
+
+
+
+“As the Ebola and Zika crises showed, managing pandemics is a global responsibility, but
+too much planning is still national, and little attention is paid to worst-case scenarios. ”
+    - A 2017 quote from Oxford researcher Sebastian Farquar
+
+I’ve long been concerned by such calls from experts for Governments to be more proactive
+in addressing risks from pandemics. I believe we have been relatively lucky in avoiding
+catastrophic pandemics - as damaging as COVID-19 turned out to be, it is nevertheless still
+considered to have been a “dress-rehearsal” for more serious pandemics1.
+
+To illustrate this point, the recent pandemic was mild enough that civilian populations were
+ordered to stay home, and threatened with punishments for not doing so. As experts have
+warned2, a more serious pandemic would be characterised by essential workers refusing to
+leave their homes, causing a widespread breakdown of supply chains and essential services
+- these are the scenarios that the Inquiry must be cognisant of.
+
+There are tangible of examples of how this might arise: the H5N1 avian influenza is over
+50% lethal in humans3, and mutations that increase its transmissibility (which have been
+shown in laboratory settings4) would have grave consequences for public safety. Another
+horror-story example is the naturally occurring Calicivirus in rabbits, with a fatality rate of
+90% in adults, and the ability to spread extremely easily through populations, especially
+because of lower death rates in younger rabbits.
+
+I’ve often heard professionals in the biotechnology industry joke that they could bring
+civilisation to its knees by engineering a super-virus of this kind and releasing it at an airport.
+The fact that this hasn’t occurred yet is pure luck; the scientifically advanced terrorist group
+Aum Shinrikyo, active in the 80’s and 90’s, narrowly missed out on having access to the
+technology necessary to do this. Their best option at the time was to release anthrax
+aerosols over a large city, or capture a live sample of ebola from Africa - both of which they
+invested resources into doing.
+
+As an Australian citizen, the risk from extreme pandemics is the #1 factor that makes me
+fear for the safety of myself and of loved ones. It’s also the reason I am very excited about
+the move to establish the new CDC, and this focus of this inquiry on preventing the next
+pandemic. Accordingly, there are 3 key priorities that l‘d like to raise for consideration:
+
+
+1 Early Thoughts on the Pandemic (2020). Sam Harris and Amesh Adalja
+2 Gopal et al. Securing Civilisation Against Catastrophic Pandemics
+3 Situation Report: Highly Pathogenic Avian Influenza A(H5N1) (2023). National Emerging Special
+Pathogens Training and Education Center
+4 Fouchier study reveals changes enabling airborne spread ofH5N1. (2012) University of Minnesota
+Priority 1: Detection of novel pathogens with pandemic potential
+
+The CDC should prioritise research into the most scalable and targeted methods for
+assessing novel pathogens in circulation, including methods such metagenomics (both
+clinical and wastewater), CRISPR-based diagnostics, and improvements to and multiplexing
+of PCR and LAMP. In particular, monitoring the wastewater of international arrival
+aeroplanes is considered to be a low-hanging opportunity for detecting novel pathogens.
+
+The inquiry should also take into consideration the analysis undertaken by the Geneva
+Centre for Security Policy, titled “Securing Civilisation Against Catastrophic Pandemics"5.
+The authors highlight the realistic dangers from “stealth pandemics” - those arising from
+highly virulent pathogens whose worst effects become present after a significant delay. For
+any advanced terrorist group that wishes to inflict atrocious casualties on an enemy, a
+pathogen of this kind is the best option.
+
+Currently, there is no systematic process for detecting this kind of threat; with the cost of
+biotechnology tools decreasing rapidly, we need to begin deploying these capabilities
+defensively in order to counteract potential offensive uses. Australian biosecurity researcher
+Chelsea Liang outlined some of the relevant policy considerations for implementing this kind
+of a monitoring program6.
+
+It goes without saying that these early detection systems wouldn’t be exclusively useful for
+engineered pandemics - they would also assist in responding to other sources of pandemics,
+such a zoonotic transmission or laboratory leaks. Relatively small-scale programs were
+shown to be effective in the later stages of the COVID-pandemic7.
+
+Priority 2: Development and deployment of far-UVC light for indoor quality
+
+I’m sure the Inquiry will already be aware of the rationale behind far-UVC light (it’s ability to
+inactivate airborne pathogens but leave humans unharmed) - as a formality I will provide a
+relevant citation if further background reading is desirable8.
+
+Suffice to say, there is a significant opportunity to reduce air-born transmission of pathogens
+by mandating the deployment of far-UVC lighting in high-risk indoor settings. With current
+technology, this isn’t yet cost-effective, but with additional R&D investment this may become
+our best line of defence against the spread of infectious diseases.
+
+
+
+
+5 https://www.gcsp.ch/publications/securing-civilisation-against-catastrophic-pandemics
+6 Managing the Transition to Widespread Metagenomic Monitoring: Policy Considerations for Future
+Biosurveillance, Health Security. (2023) Chelsea Liang et al.
+7 Wegryzyn et al (2022) Early Detection of Severe Acute Respiratory Syndrome Coronavirus 2
+Variants Using Traveler-based Genomic Surveillance at 4 US Airports, September 2021-January
+2022, Clinical Infectious Diseases
+8 Far-UVC (222 nm) efficiently inactivates an airborne pathogen in a room-sized chamber. (2022)
+Eadie et al.
+As a matter of priority, the Australian Government should be investigating ways to support
+R&D in far-UVC-lighting, and the CDC should begin drafting a strategy for it being rolled-iout
+across Australia in anticipation of it becoming a scalable solution.
+
+    •   As pointed out in the Terms of Reference, at-risk populations are an important
+        consideration during pandemics, and these devices should be installed ASAP in
+        settings as hospitals and nursing homes.
+    •   In the medium term, there will be benefits to economic security by installing them in
+        transmission sites such as public transport, schools, and airports.
+    •   As a long-term strategy, building codes should incorporate requirements for
+        installation of far UVC lighting; Governments should also incentivise workplaces to
+        install them by reimbursing a proportion of the costs (this is relevant to the ToR point
+        of “Support for industry and businesses”).
+
+Priority 3: Take measures to protect critical infrastructure workers during pandemics
+
+The Inquiry should familiarise itself with a paper called “Electric Power Grids Under High-
+Absenteeism Pandemics: History, Context, Response, and Opportunities” (Wormuth et al.),
+which explains how the energy sector is the critical failure-point for interdependent essential
+services, such as water systems, communication networks, transportation systems and
+health services9.
+
+The paper points out that COVID-19 was unlike many other historic pandemics because a
+majority of deaths occurred in people over 65, while the majority of employees essential to
+the continued operation of the power grid are under 65. An extreme pandemic that affects
+working-age civilians could precipitate cascading failures of critical infrastructure; this risk is
+a feature of our modern infrastructure, which is highly optimised for efficiency and therefore
+extremely brittle. For the inquiry to succeed in addressing Terms of Reference one, two and
+six, it must secure Australia against this challenge.
+
+In terms of solutions, both Wormuth et al. and Gopal et al. advise that power generators,
+transmission providers and distribution providers should have the capability to provide high-
+quality PRE to their workers during a crisis. Experts recommend that powered air-purifying
+respirators with HEPA filters should be required - asking critical infrastructure workers to
+leave their homes during a >20% fatality pandemic with an inferior level of protection would
+be wishful thinking.
+
+Conclusion:
+
+I believe that if this Inquiry makes the right recommendations, Australia will be a safer, more
+prosperous place for generations to come.
+
+Investments that improve indoor air quality will reduce the baseline level of transmission,
+giving society a better chance to “keep the lights on” during mild pandemics such as COVID.
+Early detection will allow us to respond more quickly and with greater confidence; and next­
+
+
+9 Electric Power Grids Under High-Absenteeism Pandemics: History, Context, Response,
+and Opportunities
+generation PPE in critical infrastructure will ensure that even in the worst case scenarios,
+Australia will be able to sustain itself and bounce back.
+

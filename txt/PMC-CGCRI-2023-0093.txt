@@ -1,0 +1,2713 @@
+     Submission to the
+ Commonwealth Government
+  COVID-19 Response Inquiry
+ABS Australian mortality data review (1 January 2021- 30 July 2023)
+
+
+
+
+Peter Paradice
+
+
+Phone
+                                               231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+                Peter Paradice Document Control
+
+Project code:          20231215
+
+Issued by:             Peter Paradice
+
+Date of Final Doc:     15 December 2023
+
+File Name:             PFParadice_CofA_COVID19_lnquiry_20231215_Rev0
+
+
+
+
+                                                                               Page 2 of 51
+                                                               231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+Executive summary
+
+The past 4 years (2020-2023) stand as a salutary background against which future trust in public
+health should be considered. In 2020 most governments around the world subscribed to the story of
+an existential health crisis and a one size fits all final defence solution for the masses in the form of
+patented, novel inoculation drugs. One group of drugs was based on mRNA and the other on
+adenovirus technology.
+
+Australia's initial isolationism during the early COVID scare provided the opportunity later to obtain
+an insight not available to most other nations. The key to achieving this insight is the published ABS
+mortality metadata for points in time prior to 2020, through the period prior to the commencement
+of inoculant rollouts, to the period after the commencement of rollouts, and beyond. When the ABS
+data is examined using techniques of identification by exclusion, it shows unintended shortening of
+life by a "cause unknown". Metadata from global COVID, Australian COVID and the Australian
+inoculation program lends itself to posing some reasonable hypotheses relating to excess deaths.
+For those hypotheses to be further substantiated they must be tested against unadulterated micro­
+data. This submission urges the Commonwealth of Australia COVID-19 Inquiry (the Inquiry hereon)
+to secure and release the raw microdata of mortality for analysis from January 2020 until the
+present time.
+
+Facts
+
+    1.   Significant excess deaths appeared in the ABS records as soon as use of the novel inoculants
+         began in early 2021.
+    2.   COVID attributed deaths were immaterial to excess deaths until (6 months later) in July
+         2021.
+    3.   5,125 excess deaths were experienced prior to significant COVID death attribution began.
+    4.   Ongoing excess deaths against pre-pandemic baselines continue to be reported by the ABS.
+    5.   Excess unexplained deaths for the 30months since the start of the vaccine rollout have now
+         exceeded 40,000 people.
+    6.   The WA Government has published evidence of a large increase in reported vaccine injury
+         since the start of the COVID vaccine roll out.
+    7.   The British Medical Journal quotes research indicating that no more than 10% of serious
+         vaccine injuries are officially reported when reporting is left to the dead and injured.
+    8.       Infection with the virus confers superior immunity to COVID than the novel inoculants.
+    9.       No novel COVID inoculants have moved beyond provisional approval by the TGA.
+
+Observations
+
+    1.   Based on the WA injury data (and research, noted above in point 7, indicating
+         underreporting) it can be extrapolated that between 1 and 5m Australians experienced
+         COVID inoculation injury.
+    2.   Many of those experiencing inoculation injury will be the vulnerable with compromised
+         immune systems. It is possible that some vulnerable (and healthy) people when faced with
+         the shock of the inoculant, died.
+    3.   Some excess deaths were caused by COVID however many COVID attributed deaths were
+         from co-morbidities other than COVID.
+    4.   2023 COVID Inquiries in England and Scotland have heard that older patients testing positive
+         for COVID were in many cases "written off" and treated with "end-of-life" programs or
+         "euthanasia-type" interventions (or had lifesaving interventions withheld) that contributed
+         to their demise. This response increased the number of COVID attributed deaths.
+
+
+
+                                                                                               Page 3 of 51
+                                                               231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+    5.   Statistics indicate that many people with death attributed to COVID did not have their lives
+         shortened.
+    6.   Excess deaths in the meta-data are temporally correlated to novel "vaccine" use. The
+         relationship between "cause unknown" and "COVID vaccines" should be analysed, and
+         causation ruled out.
+    7.   Marketing imperatives may have driven the "COVID vaccine" narrative and thus the possible
+         overuse of high-risk drugs with possible catastrophic injuries and death for some people for
+         whom the knowable benefit-cost ratio was negative (particularly for those who had acquired
+         natural immunity through viral infection). A novel technology was pushed that was a radical
+         departure from the technologies people thought they knew and understood and was then
+         promoted under false pretences to cohorts of the population who stood to gain little or no
+         benefit from the technology.
+
+Loss of trust
+
+During the COVID panic and in the period of heavy coercion (at the release of the novel COVID
+inoculants), young people were told they would be responsible for killing their grandparents if they
+did not have the inoculation. It became a "pandemic of the unvaccinated". Australians were also told
+that natural infection did not confer immunity and that inoculation was the only mechanism to avoid
+hospitalisation and almost certain death.
+
+It now transpires that the novel drugs neither stopped transmission or infection in the inoculated
+cohort. It is also established that natural infection confers better immunity than the manmade
+inoculants. Australians now know that this claim and other important claims were misinformation
+from their health authorities. Tellingly, against the orthodox narrative of the day, as a general
+principle, vaccines are deployed as a protection for the individual receiving the drug - not for the
+protection of others. In addition to these revelations Australians are becoming aware that the
+ongoing excess death rate is more highly correlated with the use of the novel drugs than the virus.
+
+The consequence of advice from authorities turning out to be misinformation is likely to become
+manifest in active distrust of the Australian health authorities and the profession.
+
+Private manufacturers striving for business success (profitability) and protected by government
+indemnity are more able to take risks with human lives than businesses liable for product failure
+affecting human health. An awareness that provisionally approved products are indemnified by the
+user themselves (taxpayer) may cause scepticism (loss of trust) in the products.
+
+Restoring trust
+
+The restoration of lost trust in Australian health authorities is an important challenge to be resolved.
+
+As matters stand, there is a significant danger that if a real national health emergency arose the level
+of trust in Government is so low that reasonable people might actively resist and thwart genuinely
+sensible health measures. This not an ideal situation for Australia. The author knows of people (pro-
+vaxxers pre-2021) who refuse to take a vaccine of any sort as long as the current incongruous COVID
+narrative remains unaddressed.
+
+Several initiatives will be required to address the trust issue. Implementing a full cost recovery user
+pays system for the people choosing to use the novel COVID drugs will be helpful to testing the
+commitment of Australians to these provisionally approved drug interventions.
+
+
+
+
+                                                                                               Page 4 of 51
+                                                               231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+Discussing and taking action to stop the excess deaths will be crucial to restoration of trust.
+
+Removal of indemnity protection for "COVID vaccine" manufacturers will be "but a small step" in a
+long stairway to Australian Government redemption and restoration of trust. Perhaps it is better for
+democracy and more appropriate that Australians remain highly vigilant and more sceptical of
+government and public health leadership than in the past. The format of the 2023 Albanese COVID
+Inquiry will certainly assist in sustaining low levels of trust.
+
+A further suggested action that could be deployed to build trust would be to place all information
+submitted to the Kruk Inquiry before an international panel of eminent persons (chaired by a
+respected Australian) for review. This parallel international panel of review could be commissioned
+to deliver a report addressing the same elements as the Kruk Inquiry with the trust that comes with
+"no past connection" to the management of the Australian COVID event.
+
+Appropriate people to sit on such an international panel of review could include:
+
+                                  (past Deputy PM of Australia) Chair
+                                  ^^^^■(USA)
+                           (UK)
+                                  ^■(UK)
+                                  (Belgium)
+
+The partial remedy
+
+The long road to restoring trust includes reassurance that in the case of vaccine injury proper
+avenues of redress are available. An absolute and unqualified blanket ban on Commonwealth-
+backed indemnities is totally justified and will help with that process.
+
+The material in the body of this advisory submission demonstrates some of the authors research,
+and perceptions regarding the extent of the hurt Australians have experienced from the Australian
+government's (State and Federal) responses and management of the COVID-19 event.
+
+This material should assist in managing expectations regarding public health and provide some
+insights into, and resources for, the restoration of trust in a manner that is nuanced, responsible and
+sensitive.
+
+
+
+
+                                                                                                  Page 5 of 51
+                                                                                           231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+                                                       Table of contents
+1      Background................................................................................................................................... 8
+
+2     Government responsibility......................................................................................................... 9
+
+    2.1           Inoculant ("vaccine") safety indicators................................................................................ 9
+
+    2.2           Responsible action............................................................................................................. 11
+
+    2.3           Vaccine advisory guidance changes...................................................................................11
+
+3     A personal COVID story............................................................................................................. 12
+
+    3.1           Preamble - early exposure to COVID19............................................................................. 12
+
+    3.2           Family matters - the dead andinjured............................................................................... 13
+
+    3.3           Personal and private wreckage - microcosm of a nation.................................................. 14
+
+4     Excess deaths and injuries......................................................................................................... 15
+
+    4.1          Excess deaths, cause unknown!......................................................................................... 15
+
+    4.2          ABS changes to the baseline for comparisons, present to past - 2023.............................16
+
+    4.3          Rare injuries....................................................................................................................... 17
+
+    4.4          COVID death misappropriation.......................................................................................... 17
+
+    4.5          Trust and confidence......................................................................................................... 19
+
+    4.6          Motivations of proponents of novel COVID inoculants..................................................... 19
+
+5     Conclusions................................................................................................................................. 19
+
+6     Bibliography................................................................................................................................ 20
+
+7     Appendices.................................................................................................................................. 21
+
+    7.1           Appendix A. Australian ABS mortality data.......................................................................22
+
+    7.2           Appendix B. The "Cause Unknown" and Virus Activity Hypotheses................................. 28
+
+    7.3           Appendix C. The Logical COVID Conclusions......................................................................29
+
+    7.4           Appendix D: Graphs of Australian excess death rates by key affected age groupings January
+    2020 thru July 2023........................................................................................................................... 30
+
+8     Attachments................................................................................................................................ 36
+
+    8.1           Attachment 1: Global, Australian and comparative nation Covid Vaccines 2021/23....... 36
+
+    8.2           Attachment 2: Inquiry of Health letter re COVID vaccine adverse events 30 July2022 ... 38
+
+    8.3           Attachment3: Dept, of Health letter re COVID vaccine adverse events 23 May 2022..... 41
+
+    8.4           Attachment4: Dept, of Health TGA advice re adverse events 24 December 2021........... 43
+
+    8.5           Attachment5: Dept, of Health letter re COVID vaccine justification 13 October 2021.... 45
+
+    8.6           Attachment6: Sydney Morning Herald article 22 September, 2022................................. 47
+
+    8.7           Attachment7: Covering letter to the P.F. Paradice submission to the CofA COVID lnquiry.48
+
+    8.8           Attachment 8: Commonwealth Government COVID-19 Response Inquiry TOR.............. 50
+
+
+
+                                                                                                                                         Page 6 of 51
+                                                                                               231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+                                                               List of figures
+
+Figure 1: Section 3.1 of the WA VSS Annual Report "Summary ofAEFI reports, Figure 2"..................... 9
+Figure 2: Australian weekly vaccines and excess deaths 2020 thru July 2023...................................... 10
+Figure 3 Field of sorrow silently informing of rare vaccine injuries at Shoalhaven Heads.................... 17
+Figure 4 COVID attributed deaths \/S adjusted expected deficit deaths for Cerebrovascular,
+Respiratory, Isch-Heart......................................................................................................................... 18
+Figure 5: Weekly excess deaths Jan2020/2021/2022/2023 vs Syear benchmark background -ABS
+release 30 July 2023.............................................................................................................................. 22
+Figure 6 Weekly excess death% Jan 2020 thru July 2023 (against Syear average) - ABS release 30 July
+2023...................................................................................................................................................... 24
+Figure 7 Weekly COVID vaccines applied and excess deaths Jan 2021 thru July 2023 (against Syear
+average) -ABS...................................................................................................................................... 24
+Figure 8 Extrapolated NET ""Cause Unknown"" deaths* from rollout commencement 7 February
+2021 to 30 July 2023............................................................................................................................. 26
+Figure 9 COVID attributed deaths \/S adjusted expected deficit deaths for Cerebrovascular,
+Respiratory, Isch-Heart......................................................................................................................... 26
+Figure 10: Australian excess deaths%. All persons. January 2020 thru July 2023................................ 30
+Figure 11: Australian excess deaths%. Persons 65-74. January 2020 thru July 2023........................... 30
+Figure 12: Australian excess deaths%. Persons 75-84. January 2020 thru July 2023........................... 31
+Figure 13: Australian excess deaths%. Persons over 84. January 2020 thru July 2023........................ 31
+Figure 14: Australian excess deaths%. All Males. January 2020 thru July 2023................................... 32
+Figure 15: Australian excess deaths%. Males 65-74. January 2020 thru July 2023.............................. 32
+Figure 16: Australian excess deaths%. Males 74-84. January 2020 thru July 2023.............................. 33
+Figure 17: Australian excess deaths%. Males over 84. January 2020 thru July 2023........................... 33
+Figure 18: Australian excess deaths%. All Females. January 2020 thru July 2023................................ 34
+Figure 19: Australian excess deaths%. Females 65-74. January 2020 thru July 2023.......................... 34
+Figure 20: Australian excess deaths%. Females 75-84. January 2020 thru July 2023.......................... 35
+Figure 21: Australian excess deaths%. Females over 84. January 2020 thru July 2023........................ 35
+Figure 22: Global vaccination rates to 20/11/23 = 8,077 (1 in 4000 continue to use the products) ....36
+Figure 23: Australia, Denmark, Switzerland, Ireland vaccination rates................................................ 37
+
+
+
+
+                                                                                                                                              Page 7 of 51
+                                                                 231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+1     Background
+
+This advisory submission to the Commonwealth of Australia COVID-19 Response Inquiry (Inquiry
+hereon) has been prepared and presented by Peter Paradice of
+
+This submission includes an analysis and interpretation of ABS mortality metadata and provides details
+of personal experience and research to gain an understanding of the issues that lie behind the data as
+they relate to the response of Australian governments during the COVID-19 event. This paper is the
+authors personal work and is founded only on the official Government numbers. It does not rely on
+the data, interpretation, or information of others.
+
+The sources from which data and comments have been acquired for inclusion in this SUBMISSION
+include the following:
+
+            •   Australian Bureau of Statistics
+            •   Australian Federal Dept of Health
+            •   Personal experience
+
+Things have changed since January 2020. Many people have lost all trust in the integrity of
+Government, the medical establishment, the pharmaceutical industry, and the medical profession.
+While still living in a democracy, individuals are able, to express these sentiments without fear. This
+process is democracy at work.
+
+The so called "vaccines" for COVID referred to throughout this advisory are the mRNA and
+adenovirus vector inoculants purported to improve immunity and health outcomes (over all other
+options) against the now benign COVID-virus.
+
+The data examined in the past SOmonths contests the underlying premise, continually propagated
+by government, in respect of these novel "vaccines", that:
+
+        ............ COVID-19 vaccines are safe and effective.
+
+In respect of the novel COVID inoculants, the ongoing confidence of Australian authorities in this
+underlying premise is remarkable. With so much that seems unknown (and with data withheld) in
+current assessments of the untested (over time) mRNA and adenovirus vector drugs, it seems
+logically less risky at this juncture for Government to suspend the use of the novel inoculants.
+
+Unlike the Swiss, it seems unlikely that the Australian Government has the integrity, fortitude or will
+to suspend the novel COVID inoculation drugs. This being the case the acid test to ensure the drugs
+are truly safe and beneficial is for manufacturers (currently hiding behind the taxpayer warranty) to
+be made liable for compensation if the products are proven to cause injury or death.
+
+The charts in Attachment 1 indicate that the project is effectively over. The proponents of ongoing
+inoculation have lost the argument (using the wall of silence technique) against the Australian
+people.
+
+
+
+
+                                                                                                 Page 8 of 51
+                                                                               231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+2          Government responsibility
+
+2.1 Inoculant ("vaccine") safety indicators
+
+COVID news in recent months includes the release of an important report from the Western
+Australian Government. The report is titled "WA Vaccine Safety Surveillance - Annual Report 2021".
+
+Please consider Section 3.1 of the report "Summary ofAEFI reports, Figure 2". See Figure 1 below.
+
+In 2020 the rate of reported vaccine injury per vaccine (pre-COVID inoculants) was 13 per 100,000
+vaccines administered. In 2021 the rate of reported vaccine injury was 264 per 100,000 for the
+novel COVID immunisation drugs. This did not include a full year of the novel inoculants.
+
+The chart below from the WA report illustrates in graphic form the change in total vaccine injury in
+WA in the period 2017 thru 2021.
+
+    1600
+
+
+
+    1400
+
+
+
+    1200
+
+
+
+    1000
+
+
+
+     800
+
+
+
+     600
+
+
+
+     400
+
+
+
+     200
+
+
+
+       0                                                  .nn                         la
+            J FMAMJ JASONDJ FMAMJ JASONDJ FMAMJ JASONDJ FMAMJ JASONDJ FMAMJ JASOND
+                  2017                  2018                     2019            |         2020              2021
+                                                     Month and year of vaccination
+
+
+Figure 1: Section 3.1 of the WA VSS Annual Report "Summary ofAEFI reports, Figure 2".
+
+Does the Inquiry consider these rates of injury from the novel inoculants to be acceptable? Is it also
+possible some deaths passed unreported associated with inoculation. Prima facie, as explored later
+in this advisory, the adverse events system appears to be set up to ensure the injured and the dead
+are required to lodge their own reports. Does such a system lead to effective levels of reporting?
+
+The deaths metadata in Figure 2 (from ABS data) indicate that much worse is yet to be revealed in
+the 2022 vaccine injury data. The author suggests the Inquiry focus on injuries in January/February
+2022. The author recommends the Inquiry gain access to the "as yet unpublished" 2022 WA data to
+assist in deliberations for the suspension of the COVID inoculation program. The meta-statistical
+implications highlighted in Figure 2 should be enough to motivate the Inquiry to establish the facts.
+After the Inquiry has established the facts from the 2022 WA report, this will assist frame the
+imperative (or otherwise) for the novel drug manufacturers to be exposed to normal avenues of
+litigation and compensation for the supply of products that injure and kill recipients in the future.
+
+
+
+
+                                                                                                                Page 9 of 51
+                                                                             231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+                                  Australian Weekly Vaccines & Excess Deaths
+ 2500
+
+
+
+
+ 2000
+
+
+
+
+ 1500
+
+
+
+
+ 1000
+
+
+
+
+  500
+
+
+
+
+                                                                                                                            18-Jun-23
+ -500
+
+                                                        VaxlOOO's   ■ Excess deaths
+
+
+Figure 2: Australian weekly vaccines and excess deaths 2020 thru July 2023
+
+
+
+The British Medical Journal has reported research indicating that in respect of "serious vaccine
+injury", only 1 in 10 (10%) of the serious inoculant injuries are likely to be reported and recorded.
+(Recently published research papers indicate this reporting number could be as low as 2%.)
+
+If 90% underreporting is indeed the case, then the total serious injuries from the application of these
+COVID drugs in WA is 2,640 per 100,000 which, if extrapolated to the nation, (65m doses claimed
+administered) would indicate that as many as 1,716,000 Australians suffered a serious novel
+"vaccine" injury or death.
+
+This number begins to tally with a personal family statistical experience tabled later in this
+submission.
+
+The WA data and extrapolation is also consistent with the metadata and derivative hypotheses
+advised monthly by the author to the Minister for Health for each of the past 15 months.
+
+In the week-ending 24 March 2023, "Our World in Data" reports that a great many Australians were
+still being inoculated with these COVID drugs. Does that correlate with government information?
+Listed below are the latest reports of daily jabs for Australia and some other nations.
+
+                        -    Australia          36,214
+                        -    Denmark            4
+                        -    Ireland            10
+                        -    Switzerland        18
+
+The Swiss Government suspended use of the COVID "vaccines" in March 2023. The most recently
+reported inoculation rate is 18 Swiss people per day. Will the Inquiry please examine why the
+
+
+
+                                                                                                            Page 10 of 51
+                                                                231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+Australian Government continues to spend taxpayer money on a program that some other
+responsible nations have apparently abandoned?
+
+2.2 Responsible action
+
+The author encourages the Inquiry to urge the Minister for Health to take the Western Australian
+injury data and re-run the COVID risk assessments and associated benefit-cost of the ongoing
+promotion of the novel mRNA and adenovirus vector inoculants to the Australian population. Surely
+this information is a central element of informed consent. If the Department of Health has data at
+this time, that is in future proven to show that the risk of injury from the vaccine is now greater than
+the benefit, then is the behaviour of the health professors and doctors involved in perpetuating this
+drug experiment in keeping with key tenants of the Hippocratic Oath?
+
+Once the Minister for Health has conducted this risk/benefit/cost assessment it should be provided
+to the Australian people as the basis for "informed consent" to the current and ongoing promotion
+of the COVID inoculation program.
+
+The author also requests the Inquiry to recommend that the Minister release the microdata for
+deaths in the past 3.5 years including vaccine status of all people dying. Earlier advice is that the
+Dept does not have the data. (Attachment 3.)
+
+When this microdata is finally released Australian analysts will be wary to avoid the "gaslighting"
+problems identified in the UK when the data was made available, (see Footnote 1)
+
+Footnote 1: UK ONS vaccine microdata data analysis shortcomings 21/02/2023
+
+https://www.youtube.com/watch?v=FSLlfRRhJXO
+
+2.3 Vaccine advisory guidance changes
+
+On 5 September 2023 the UK Government updated a decision summary report in respect of the
+Public Assessment Report for COVID-19 Vaccine Pfizer/BioNTech. The words used advise:
+
+
+
+
+This official UK decision to change vaccine advice for pregnant and breastfeeding women (previously
+categorised as vulnerable and therefore prioritised to be inoculated) is significant.
+
+On 23 September 2023 the UK Government updated a decision summary report in respect of the
+Pfizer inoculant. The words used advise (and do not include the word "rare" or "unusual"):
+
+
+
+
+                                                                                               Page 11 of 51
+                                                               231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+The author encourages the Inquiry to ask the Department of Health if it has examined the rate of
+Australian neonatal deaths in 2021 and 2022 against historical expectations, while accounting for the
+drug status of mothers? If the Dept, has examined this important mortality indicator, could the
+public be advised of the findings? If this mortality has not been investigated, does the Inquiry
+consider that it warrants enquiry?
+
+Pfizer themselves stated in a press release on 27/01/23 (link below) in respect of important safety
+information for their COVID inoculant products that potential recipients should (among other things)
+tell their vaccine provider if they:
+
+        -             "Are pregnant, plan to become pregnant, or are breastfeeding."
+        -   "Have had myocarditis (inflammation of the heart muscle) or pericarditis (inflammation
+            of the lining outside the heart)"
+
+https://www.pfizer.com/news/announcements/pfizer-responds-research-claims
+
+The unanswered question remains. How does the Inquiry interpret the inclusion by Pfizer of
+pregnancy as a risk factor in the safe use of the listed drugs? Does the Inquiry believe Pfizer could be
+blame shifting natural responsibility to Governments (providers) in the use of these words?
+
+As the parents of 3 daughters of current childbearing potential the authors' family are actively
+seeking an answer from Australian Govt, as to whether advice is under review to determine the
+ongoing designation of Australian pregnant women as vulnerable and therefore of high priority for
+having these novel drugs? Is the Inquiry able to assist with an answer to this question?
+
+
+
+3     A personal COVID story
+
+3.1 Preamble - early exposure to C0VID19
+
+The author and the authors wife are a classic case study of the development of negative inoculant
+sentiment. Following is the story in more detail (written in the first person).
+
+In January 2020 my wife and I, while visiting our daughter in       contracted a "disease" from our
+son-in-law                                      On reflection and based on the symptoms, by March
+2020 (back in Australia) we hypothesised it was the COVID Wuhan strain. We had a story to tell. We
+wanted to help assist the Government to gain understanding of this "killer disease", however we
+were outlawed from antibody testing for confirmation by Australian emergency legislation designed
+to control the medical profession. (Refer                                  I) There was apparently no
+interest in our case! From then-on I developed deep distrust. The more I learn the more I distrusted
+the Government, experts, the medical profession and MSM.
+
+The issue was not that we claimed to have had COVID (which may or may not have been correct).
+The issue was that we were outlawed from establishing the fact and no one wanted to know.
+
+
+
+
+                                                                                              Page 12 of 51
+                                                                 231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+The narrative propagated at the time was that infection with the virus did not confer improved
+immunity for the subject person against serious disease, hospitalisation, or death compared to a
+person who was uninoculated and naive to the disease. This narrative never really made sense to
+people with the most rudimentary understanding of science who viewed such claims with deep
+scepticism. It turned out to be an incorrect hypothesis. In the current lexicon it was misinformation.
+
+Peer reviewed research has since supported the hypothesis that viral infection confers immunity
+superior to that which is derived from a manmade spike protein inoculant.
+
+An Israeli trial, (follow the link) involving the Delta variant and the Pfizer vaccine concluded that
+"individuals who have had the SARS-CoV-2 infection are unlikely to benefit from covid-19
+vaccination" and "naturally acquired immunity confers stronger protection against infection and
+symptomatic disease caused by the Delta variant of SARS-CoV-2, compared to the BNT162b2 2-dose
+vaccine-indued immunity".
+
+The grave implications for this narrative and the consequent unnecessary application of high-risk
+drugs to those who had been exposed to the virus are discussed elsewhere in this submission.
+
+3.2 Family matters - the dead and injured
+
+In my immediate family (the total group is about 16) the following people had the following
+coincidental events after having the inoculant. The author has been widely advised that correlation
+is not causation, and the author gathers now, from other "experts", the author is most likely
+suffering from a mental condition known as "causal hunger" in trying to understand these afflictions.
+
+        Mother           - 2 weeks following 2nd inoculation -                - hospitalized
+        stent fitted. (Correlation does not mean causation!)
+
+        Sister -     - Following 2nd inoculation            - hospitalized
+        undertaken to stabiliz,            Correlation does not mean causation!)
+
+    •       Wife              for several days following first inoculant. Bedridden for several days.
+                                 :or 36 months (ongoing) following inoculations. Hands and wrists in
+        pain and powerless. Only accepted 2nd inoculant for possibility of travelling to see
+        granddaughter in         Refuses any further inoculations. She has aged significantly in this
+        time. (Correlation does not mean causation!)
+
+        Daughter ■                             after having 2nd mRNA inoculant. Diagnosed by
+        doctor wit               Refuses further inoculation. (Correlation does not mean causation!)
+
+Peripheral to the authors immediate family the author is aware of the following reaction.
+
+    •       Nephew            Developed intense^^^^^| after first mRNA inoculant. He hid from
+        further inoculations and remains in hiding. (Correlation does not mean causation!)
+
+These people (names can be supplied) were previously robust and healthy. What they think
+happened to them is irrelevant. None of these issues were logged as adverse events. Why would
+doctors not get involved with the patient to log these officially as temporal relational adverse
+events?
+
+Two fit, work associates              ) were both given a Pfizer booster from the same batch at
+in January 2022. (Please examine the chart in Figure 2 for excess deaths in that period.) Within a
+week they were both hospitalised i                          one with a^^^Bepisode requiring
+
+
+
+                                                                                                Page 13 of 51
+                                                               231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+          the other with                  other^^^^^^^^^^^^^^^that required treatment
+over many months. Those hospitalised and the person who insisted on them taking the booster to
+retain employment, now believe or suspect it was the vaccine. Neither episode was logged as an
+adverse event. (We all now know that correlation does not mean causation!)
+
+I can also refer you to others in my immediate circle who suffered long term injury and continue to
+suffer. My sister-in-law recounted a story recently of her sister-in-law (who worked as a US hospital
+chaplain until the end) who died of                 2022 (cause unknown) in her sixties. Her name
+was^^^The author was told about six (6) causal options proffered by experts as possible
+explanations however the conclusion was "cause unknown". (Again, correlation does not mean
+causation!)
+
+A person very close to me is a senior nursing sister and helps run a nursing home of about 20
+residents. She is in her mid-sixties and has seen many people die in her time in nursing. She
+considers she knows when the time is up in aged people. I believe she is competent.
+
+One Saturday afternoon in 2021 they "rounded up" (her words) all the residents in the home and
+inoculated them for COVID. In the morning two of the residents were dead. Her comment was that
+both these women were happy and well on Saturday night and "it was not their time". The author
+was advised that ALL the staff in that nursing facility believe the inoculation immediately killed 2 out
+of 20 of their residents in the application of the drug.
+
+When I encouraged her to speak out and log the events, she said they were all fearful of losing their
+jobs. That fear remains. They will not speak. I believe these deaths were not logged as adverse
+events. How could these events not be logged? Had the residents tested positive for COVID - would
+they NOT have been certified as COVID deaths?
+
+Many people do not want to discuss COVID "vax" issues for fear of ridicule and vilification. Why?
+
+The question is not that these people believe (or not) that these "rare" events were related to
+inoculation, the question is how could they not be officially logged with the temporal association?
+
+
+
+3.3 Personal and private wreckage - microcosm of a nation
+
+If this experience is a microcosm of the Australian population, then by extrapolation 1 in 4 people
+had an adverse event to the inoculants. If 20m people have been inoculated then extrapolating from
+the microcosm, 5m people will have had some form of adverse event. Even if the ratio is 1 in 20,
+then Im people will have had adverse events.
+
+It seems inconceivable that if between Im and 5m people in Australia had adverse events, then
+some significant proportion, who are old and/or with relatively weak immune systems, would not
+have died from adverse side-effects.
+
+The Minister for Health (July 2022 Attachment 2) advised personally in a response letter that no
+more than 13 deaths (it is understood the TGA has since conceded 14) throughout Australia have
+been linked to the "vaccines". In light of the fact that there were net excess deaths (ie excess deaths
+less those attributed death with COVID) of more than 40,000 people in the 30months after the
+rollout began, is it possible the Ministerial advice could be inconsistent with the statistics?
+
+
+
+
+                                                                                              Page 14 of 51
+                                                             231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+What may appear complicated could be simplified if the Dept, released for public scrutiny the
+inoculation history micro-data for all deaths since the rollout began. Some pre-rollout micro-data
+would also be necessary. Age adjustment can be done. Smart analysts could run regressions to test
+the significance of the inoculants as an independent variable in the mix leading to death. Perhaps
+the models have already been built and for that reason the data will never be released. The Inquiry
+should ask the Dept, to supply the micro-data for the Inquiry to analyse. If the data supported the
+orthodox narrative, why would it not be out and about? (The statistics the author has personally
+derived from ABS metadata should be distressing. Why is no one distressed?)
+
+Based on ABS figures, in the 30 months following the mRNA vaccine rollout more than 40,000 excess
+deaths have occurred in Australia against the pre-COVID five (5) year benchmark expectation.
+
+It is now widely propagated by IVISM that excess deaths have been caused only by "missed GP
+appointments" due to lockdown and the myopic industry focus on COVID cases.
+
+Is it possible that the cause unknown underlying 40,000+ excess deaths is the same cause unknown
+driving injuries some claim (rarely) from the inoculants?
+
+Because people must remain silent about the unknown cause/s the author attaches a surrogate
+Australian "public trust" chart in Attachment 1 for your consideration.
+
+The "trust chart" indicates that at the end of March 2023 only a fraction the Australian population
+were up to date and effectively "PROTECTED" from COVID by the novel, man-made inoculant drugs.
+
+If we ruminate for a moment on the unspeakable "Cause Unknown" and the population trust chart,
+then perhaps we might understand the insight of the many sceptical Australians into this
+government sponsored experiment. They are resisting ongoing coercion. Why might that be?
+
+Even in the absence of leadership, the public seem to have made a decision that is not in alignment
+with the business ambitions of the drug makers, the WHO, the Government, and other elite
+beneficiaries of the pandemic.
+
+It is accepted that COVID was widespread before Christmas 2022. In fact, the authors parents (both
+in their 90's) were labelled with COVID in November 2022 and the side effects of the anti-viral drugs
+they were given seemed worse than the disease. (The orthodox narrative premise is it's a deadly
+disease vs the now known real world reality.)
+
+If inoculant damage is "rare" then the Paradice family and friends have been extremely unlucky to
+experience such a high incidence of "rare" coincidences of illness and injury in temporal proximity
+following inoculation.
+
+Some see COVID inoculation as an ongoing experiment using taxpayer money to pay for high-risk
+drugs that are ineffective against an irrelevant virus.
+
+
+4     Excess deaths and injuries
+
+4.1 Excess deaths, cause unknown!
+
+A significantly greater number of Australians died in the 30month period to July 2023 than could
+have been expected to die. Of the 52,519 excess deaths in the period more than 42,712 died of a
+
+
+
+                                                                                            Page 15 of 51
+                                                                   231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+"cause unknown". The author understands the Government currently acknowledges 14 of these
+deaths were related to COVID vaccine injury. We look forward to the Inquiry proposing a credible
+explanation for the underlying cause of death for the other 42,698 people.
+
+Appendix A details the statistics accumulated from the ABS mortality data releases that have
+supplied data back to early 2020. Appendix D graphically details excess deaths by age and sex for the
+most affected cohorts. While many females and males over the age of 84 died from a "cause
+unknown" between January 2021 and May 2023, in the month leading up to end July 2023 the
+excess deaths in this cohort have returned to the Syr baseline. However, both females and males
+between the age of 65 and 84 are the groups that currently continue to die at a remarkably higher
+rate than expected. (Figures 11 & 12.)
+
+
+4.2 ABS changes to the baseline for comparisons, present to past - 2023
+
+In the ABS provisional mortality statistics (release 26/05/23) the ABS made the following statement
+under the heading "Baseline comparison". (Baselines are based on calendar years.)
+
+"The purpose of a baseline is to provide a typical year (or combination of years) to compare the
+current year to. Deaths for 2023 will have two comparisons points - they will be compared to both
+deaths occurring in 2022 and a baseline period consisting of the average number of deaths occurring
+in the years of 2017-2019, 2021."
+
+While the reported death rates meandered along in the 5 years until December 2019 (2015-2019)
+there was effectively:
+
+                     -   no change in Australian death rates in 2020 (virus but no vaxx),
+                     -   a significant increase in 2021 (virus and vaxx), and
+                     -   an extraordinary significant increase in 2022 (virus, vaxx and boosters).
+
+The effect of comparing deaths to baseline (2017-2019, 2021) for 2023 was to:
+
+                     -   change the weighting of the baseline from 5 to 4 years,
+                     -   drop off two average years (2015-2016),
+                     -   replace two average years with one spike year thereby dragging up the
+                         baseline mortality rates significantly,
+                     -   normalise excess deaths.
+
+The effect of comparing deaths to baseline (2022) for 2023 was to:
+
+                     -   compare a year with highest excess deaths on record (most from cause
+                         unknown) with a year when things were expected to settle back,
+                     -   make the present (2023) look much better than the past, and
+                     -   indicate that excess deaths were on retreat (not true from 2015-2019).
+
+The Inquiry should consider why the ABS would change the baseline in this way. There were other
+options open to ensure excess deaths against baseline were more effectively assessed.
+
+One theory is that if the "cause unknown" excess deaths are normalised into the baseline then
+difficult questions are less likely to arise. The Inquiry should advise Australians if ABS were given
+
+
+
+                                                                                                  Page 16 of 51
+                                                                            231215 - PFParadice COVID KrukJnquiry 2023
+
+
+
+
+advice or input from the Dept, of Health or others in establishing the new baselines as the numbers
+arising in 2023 were compared to the past.
+
+
+4.3 Rare injuries
+
+To maintain the national underlying premise (of vaccine infallibility) we must all discount people
+claiming "rare" injuries attributed to the novel inoculants and consider that most people
+apportioning blame to the novel drugs do so because of a "causal hunger" or conspiracy theory.
+
+The author continues to seek to understand "rare" as it is used in the context as reported by MSM
+and Governments in respect of this matter. Figure 3 depicts one of many Australian fields of sorrow.
+Passersby may wonder what is going on. The author invites the Inquiry to apportion meaning to the
+photo and keep it in mind when formulating advice.
+
+
+
+
+Figure 3 Field of sorrow silently informing of rare vaccine injuries at Shoalhaven Heads
+
+
+4.4 COVID death misappropriation
+
+In August 2023 an explanatory model was developed by the author to test the hypothesis that
+"many COVID attributed mortalities are a misappropriation from other causes of death".
+
+The model compares the net expected increase in deaths for the "unusual" deficit mortality
+categories with actual mortalities logged to create a negative mirror image to the COVID deaths. In
+past Ministerial advisories this element has been one of the least explored points in the analysis. The
+
+
+
+                                                                                                          Page 17 of 51
+                                                                            231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+alignment of these calculations fortifies the view that COVID as a viral agent is less remarkable than
+flu/pneumonia. There were 1,536 flu deaths in the same period.
+
+The "missing deaths" graph in Figure 4 below indicates that "as a rule, for each COVID attributed
+death there is an equal and opposite (missing, predicted) death from the combined background
+morbidity classes of respiratory, ischaemic heart disease, and cerebrovascular issues."
+
+In the model the "missing deaths" will logically be understated as the multiplier derived from the
+average changed in doctor certified deaths (DCD) includes the supressing influence of the
+cerebrovascular, respiratory and isch. heart classifications which have generally been negative in the
+study period.
+
+Once the reader grasps this concept then other hypotheses and conclusions logically follow.
+
+
+
+                        Australian COVID Deaths vs Missing Deaths - Per week
+  600
+
+
+
+
+ •1OO
+
+
+  200
+
+
+  300
+
+
+
+
+                                                              COVID Death
+
+
+Figure 4 COVID attributed deaths VS adjusted expected deficit deaths for Cerebrovascular, Respiratory, Isch-Heart
+
+        *   Missing Deaths = (Deficit deaths from cerebrov., resp., isch. heart (as a positive #) +
+            expected increase in deaths in the cerebrov., resp., isch. heart group, based on weekly
+            average increase in other co-morbidity groups) See - Footnote 2
+
+
+Footnote 2: Mathematical model for missing deaths
+
+        D = (A x (1+B)) + (-IxC)
+        Where:
+A = Syear pre-covid vaccine baseline for cerebrov.+resp.+isch. heart for the week in question
+B = % average increase in all DCD mortality classes across the board for the week in question
+C = Number of actual deaths over/under 5 year baseline for cerebrov.+resp.+isch. heart for the
+week in question
+D = Missing (deficit) expected deaths for the week in question
+
+
+
+
+                                                                                                              Page 18 of 51
+                                                              231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+4.5 Trust and confidence
+
+When indemnity protection is removed for manufacturers of the COVID inoculant drugs, only if
+product safety is reasonably defensible, will the manufacturers of these drugs continue to supply the
+COVID "vaccines" from use in the Australian market. Based on the decision by Pfizer to not supply
+India with these novel drugs without Government indemnity in 2021, it seems plausible that some of
+these novel drug products will be withdrawn from supply in Australia if indemnity is removed.
+
+The author prefers to label the novel mRNA and adenovirus vector drugs as inoculants rather than
+vaccines. One view is they should not be confused with, or compared to, the old tried and trusted
+vaccines. The author considers that to do so could be counterproductive in the long run. The Inquiry
+should consider if it is possible that such comparisons are fostering unreasonable negative sentiment
+against all vaccines? Is this happening now in Australia? What does the data indicate?
+
+4.6 Motivations of proponents of novel COVID inoculants
+
+The author has become aware that many claiming "known" current and future safety of the novel
+inoculates have received research funding from the World Health Organisation and/or have material
+relationships (sometimes thru many distant intermediaries) with manufacturers of novel mRNA or
+adenovirus vector "vaccines". Personal research indicates that many promoters have little idea of
+the science and are motivated primarily by funding.
+
+The clip below with immunologist Professor^^^Jeads the author to believe that most Australian
+proponents of the novel inoculants do not know what they are talking about. The author encourages
+the Inquiry to consult Professor^^^Jin person in its search for the truth.
+
+https://youtu.be/ylVlyERFBdB4E (YouTube^|& Professo^^^H discuss mRNA
+technology.)
+
+Based on their public prognostications, the author encourages the Inquiry to examine the underlying
+financing arrangements of key proponents from the TGA, the Gavan Institute, the Kirby Institute, the
+University of Sydney, the Melbourne University, Monash University and The Australian Actuaries
+Institute.
+
+As more excess deaths data is revealed, less noise is heard from individuals working at the
+institutions listed above as the emerging scale of the problem becomes apparent.
+
+
+5     Conclusions
+
+The Inquisitors should set aside all the earlier information tabled and focus on just two questions.
+
+There were ten (10) people mentioned in the story above (Section 3.2) who were injured of died
+soon after being jabbed with the novel drugs. There was a strong temporal connection to the
+"vaccine". What they believe is irrelevant. What the writer believes is irrelevant. Many people
+around them considered that they were vaccine injured or killed. The doctors involved appear to
+have ignored the temporal association and left the injured and dead to report events themselves.
+Without these sorts of events being logged there is no possibility of establishing the true frequency
+of vaccine injury and death. Distrust reigns among the associated living. Doctors become suspects.
+
+To the best of the authors' knowledge, not even one of these 10 cases were logged as an adverse
+event. Why would the system be designed against it?
+
+
+
+                                                                                              Page 19 of 51
+                                                            231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+The calculations (attached spreadsheet) from ABS data estimate that in the first SOmonths following
+rollout (Feb 2021 to 30/07/23) the most supportable number of unexpected (unexplained)
+Australian deaths in all cohorts was 42,712. We know the Government has now recognised 14
+deaths linked to COVID vaccine injury. Is the Inquiry able to discover and reveal to the Australian
+people what caused the other 42,698 deaths?
+
+
+
+
+6      Bibliography
+
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 30/03/22
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 28/04/22
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 25/05/22
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 23/06/22
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 29/07/22
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 26/08/22
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 30/09/22
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 27/10/22
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 25/11/22
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 22/12/22
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 24/02/23
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 31/03/23
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 28/04/23
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 26/05/23
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 28/06/23
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 28/07/23
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 25/08/23
+    AUSTRALIAN BUREAU OF STATISTICS Provisiona mortality data release 27/10/23
+
+    Government of Western Australian Department of Health (2022) "WA Vaccine Safety
+    Surveillance - Annual Report 2021".
+
+
+
+
+                                                                                           Page 20 of 51
+                 231215 - PFParadice COVID Kruk lnquiry 2023
+
+
+
+
+7   Appendices
+
+
+
+
+                                                Page 21 of 51
+7.1 Appendix A. Australian ABS mortality data
+
+On T1 October 2023, the ABS released the 2021/23 (YTD) death statistics which reported data until
+30 July 2023.
+
+Tabled below are the headline numbers from the ABS metadata since January 2020 by periodic
+release by calendar year. (ABS releases referenced are listed in the Bibliography.)
+
+         Expected total deaths for 2020 (Syr average 2015-19)                                      160,372
+         Actual total deaths for 2020 (52 weeks)                                                   161,777
+         Difference in DCD deaths (Syr av)                                                  1,405 more than expected
+         Death's with Covid attribution (Calendar YR 2020)                                         854
+
+         Expected total deaths for 2021 (Syr average)                                              160,372
+         Actual total deaths for 2021                                                              170,960
+         Difference in deaths (above Syr av)                                                10,588 = (excess deaths)
+         Difference in deaths (above 2020)                                                   9,683 = (excess deaths)
+         Death's with Covid attribution (Calendar YR 2021)                                         1,212
+
+         2020 excess deaths LESS Covid deaths (no vaccines applied)                         551 more than expected
+         2021 excess deaths LESS Covid deaths during vax rollout                            9,378 more than expected
+         Difference in excess deaths 2021 vs 2020                                           9,183 more in 2021
+
+
+                  Australia - Excess deaths 2020/2021/2022/2023 against 5 year baseline 2015/19
+
+
+
+
+  800
+
+
+  600
+
+
+  400
+
+
+  200
+
+
+
+                                                                                    32 3;                            44 45 46 47 48 49 50 5152
+  ■200
+
+
+  -400
+
+                      ^^—2020 over baseline   ^^—2021 over baseline   ^^—2022 over baseline      ^^—2023 over baseline
+
+
+
+Figure 5: Weekly excess deaths Jan2020/2021/2022/2023 vs Syear benchmark background -ABS release 30 July 2023
+
+
+
+While calendar year 2021 excess weekly total deaths increases were a significant cause for concern,
+since January 2022, another larger rise in "unexplained" deaths occurred. (See Figure 5 and Figure 6)
+From 2022 the ABS changed the comparison baseline from the Syear average to 2019 (used until the
+end of 2021) to a hybrid baseline, the consequences of which are discussed in Section 4.2 in the
+SUBMISSION above. However, when the Syear average baseline to 2019 is used for total deaths, the
+following numbers appear for the period January 2022 thru July 2023 and are represented in the
+graphs in Figure 5 and Figure 6. The numbers are remarkable in their magnitude.
+
+
+
+
+                                                          22
+        Expected total deaths for Jan22/July23 (Syr baseline)              251,950
+        Actual total deaths for Jan22/July23                               294,662
+        Difference in total deaths Jan22/July23 (above Syr averages)        42,712 = Excess deaths
+        COVID attributed deaths Jan22/July23                                12,971
+        Unexplained excess deaths Jan22/July23 (minimum)                    29,741
+
+        Excess total deaths, vax rollout day 1 thru 30 July23 (120 wks)   52,519
+        COVID attributed deaths during vax rollout period (120 wks)       13,473
+        Excess deaths LESS COVID deaths (all attributed)                  39,046 > than expected
+        Excess deaths LESS COVID deaths (5% of DCD attributed)            51,820 > than expected
+
+The ABS indicate that people certified as having died of COVID, on average, had 3 additional chronic
+comorbidities and only 5% of those dying of COVID had COVID19 recorded as the sole cause of
+death. It is not unreasonable to assume that other COVID attributed mortalities may have been
+caused by co-morbidities or THE "Cause Unknown".
+
+The data indicate that since the start of the vaccine rollout (to 30 July 2023), approx. 42,519 more
+total deaths occurred than were expected.
+
+The non-COVID excess DCD deaths were statistically attributed to, cancer, dementia, diabetes, and
+other disease classes with death rates generating "overs and unders" against expected rates in
+different mortality classes.
+
+Data from commencement of vaccine rollout (7 February 2021 thru 30 July 2023)
+
+Attached is a spreadsheet with ABS deaths data for the 30month period from 7 February 2021 thru
+30 July 2023. The ABS also report deaths broken down by some mortality classifications. "Old age" is
+not included as a mortality class. In July 2023 the ABS commenced reporting an additional class
+being "Other cardiac". It has not been introduced into this report, however preliminary and there
+are ongoing indications (+14% increase in the past 30 weeks against the hybrid baseline) that the
+data supports the hypotheses postulated in this report. The specific "death by morbidity"
+classifications are listed below.
+
+        MORTALITY LIST A
+        -         Cancer
+        -         Cerebrovascular
+        -         Respiratory
+        -         Dementia
+        -         Diabetes
+        -         Ischaemic heart disease
+
+When the past 30months ABS data is processed (7 Feb 2021 thru 30 July 2023) by total deaths and
+the primary morbidity-mortality classes against the Syear baseline average the following insights
+emerge:
+
+    A. Expected total deaths (30months) from all causes + old age         401,032
+    B. Actual total deaths (30months) from all causes + old age           453,551
+    C. Excess deaths from cancer, dementia & diabetes                     19,249 -more than expected
+    D. Excess deaths from cerebrov., resp., isch. heart                   (4,808) - less than expected
+    E. Deaths attributed to COVID-19 (for 130 wks)                         13,975
+    F. Actual deaths from COVID-19 no comorbidity (5% of E above)             699
+
+
+
+                                                  23
+                               Australian Weekly Vaccines & Excess Deaths
+ 1200
+
+
+
+
+ 1000
+
+
+
+
+ 600
+
+
+
+
+ 400
+
+
+
+
+ -200
+
+
+
+
+ ■400
+
+                                                           'Excess deaths
+
+
+Figure 6 Weekly excess death% Jan 2020 thru July 2023 (against Syear average) -ABS release 30 July 2023
+
+
+                               Australian Weekly Vaccines & Excess Deaths
+ 2500
+
+
+
+
+ 2000
+
+
+
+
+ 1500
+
+
+
+
+ 1000
+
+
+
+
+  500
+
+
+
+
+    0
+
+
+
+
+ -500
+
+                                                    VaxlOOO's     — Excess deaths
+
+
+Figure 7 Weekly COVID vaccines applied and excess deaths Jan 2021 thru July 2023 (against Syear average) -ABS
+
+Data from the 2021 COVID "attributed" deaths resurgence (5 July 2021) thru 30 July 2023
+
+Following Australia's isolation, COVID attributed deaths began appearing in the weekly data from the
+report dated EOW 11 July 2021. The data for the following 107week period until end July 2023
+revealed the following two numbers.
+
+
+
+                                                            24
+        Deaths attributed to COVID-19 (for 107weeks)                      13,971
+        Excess deaths from cerebrovasc., resp., influenza, isch. heart   (4,808) less than expected
+
+In other words, in the 107week period beginning 05/07/21 a partial inverse pattern to COVID deaths
+(negative actual against expected) emerges for the combined morbidity-mortality classifications of:
+
+        MORTALITY LIST B (Subset of LIST A)
+        -         Cerebrovascular
+        -         Respiratory
+        -         Ischaemic heart disease
+
+In the same "107week" time frame, deaths attributed to the morbidity-mortality classifications of
+cancer, dementia, and diabetes, increased by 16,698 people.
+
+So, what could it all mean?
+
+The Key Numbers
+
+The key takeaway numbers from the Australian deaths ABS metadata to 30/07/23 are:
+
+        -            52,519 excess deaths were reported from vax. rollout day-1 thru 30 July 2023 (Ref
+            Figure 6),
+        -            There were13,975COVID attributed deaths from vax. rollout day-1 thru 30 July 2023,
+        -            There were38,544excess deaths after deducting all those attributed to COVID-19,
+        -            There were51,820excess deaths after deducting NET1 COVID-19 deaths of those dying
+            without co-contributing comorbidities (Figure 8),
+        -   There were (4,414) LESS deaths from cerebrovascular, respiratory, and ischaemic heart
+            from 5 July 2021 thru 30 July 2023 (a negative inverse to COVID accounting directly for
+            approx. 32% of COVID appropriated deaths however if mortality is adjusted to account
+            for the missing anticipated increases in these groups, plus the observed deficit, a mirror
+            image to the COVID attributed deaths is revealed - see Figure 9),
+        -   Deducting deaths of those dying with contributory co-morbidity then far fewer COVID
+            attributed deaths could arguably be considered to have been from COVID as the
+            primary cause from 20 September 2021 thru 30 July 2023,
+        -   There were 19,249 more deaths than expected from 5 July 2021 thru 30 July 2023 from
+            cancer, dementia & diabetes, and
+        -   There were 21,734 more deaths than expected from 5 July 2021 thru 30 July 2023 from
+            the "cause unknown", old age or causes other than the primary ABS mortality
+            classifications discussed above.
+
+
+
+
+                                                  25
+                        Extrapolated "Cause Unknown" Deaths (weekly) after Deducting NET COVID deaths
+       800
+
+
+
+
+       400
+  "S
+   i
+   5
+  w    300
+
+
+  Q
+       200
+
+
+
+
+       100
+
+
+
+
+       ■100
+
+
+
+
+                                                       Date (vaccine rollout commenced WC 7/2/21
+
+                                        Covid deaths        EXCESS Less COVID       NET CauseUnknown Deaths
+
+
+Figure 8 Extrapolated NET ""Cause Unknown"" deaths
+                                            *      from rollout commencement 7 February 2021 to 30 July 2023
+
+        *      NET "Cause Unknown" deaths = (Total excess deaths) MINUS (NET COVID attributed
+              )deaths
+               **
+        *      NET COVID attributed deaths = (Total COVID Attributed deaths) PLUS (M_LISTB Attributed
+               **
+               deficit deaths)
+
+
+
+                          Australian COVID Deaths vs Missing Deaths - Per week
+
+
+
+
+  1OO
+
+
+
+
+                                                       Missing Deaths
+
+
+Figure 9 COVID attributed deaths IZS adjusted expected deficit deaths for Cerebrovascular, Respiratory, Isch-Heart
+
+        *     Missing Deaths = SYR baseline cerebrov., resp., isch. heart group + anticipated increase in
+              deaths in the C.R.I group (based on weekly average increase in all morbidity groups) +
+              (Deficit deaths from cerebrov., resp., isch. heart (as a positive #)) See - Footnote 3
+
+
+                                                                          26
+Footnote 3: Mathematical model for missing deaths
+
+        D = (Ax(l+B)) + (-lxC)
+
+        Where:
+
+A = 5year pre-covid vaccine baseline for cerebrov.+resp.+isch. heart for the week in question
+
+B = % average increase in all DCD mortality classes across the board for the week in question
+
+C = Number of actual deaths over/under 5 year baseline for cerebrov.+resp.+isch. heart for the week
+in question
+
+D = Missing (deficit) expected deaths for the week in question
+
+
+
+
+                                                 T1
+7.2 Appendix B. The "Cause Unknown" and Virus Activity Hypotheses
+
+
+Hypotheses, reasonably postulated from the ABS numbers for Australia (and that require testing by
+examination of the microdata) are:
+
+       -   The "Cause Unknown" shortened the lives of (killed) at least 38,544 and as many as
+           52,519 Australians since the start of the "vaccine" rollout (130 weeks),
+       -           44,512 is calculated to be the most likely estimate of Australian people in all cohorts
+           who had their lives shortened by THE "Cause Unknown" in the 130 weeks to 30 July
+           2023. (The ratio of total excess deaths is 1 excess death per 1,465 inoculants applied.
+           Remarkably this ratio has also been recorded for the UK and the USA.)
+       -   Ongoing "Cause Unknown" intervention continues to shorten the lives of people across
+           most age groups,
+       -           95% of deaths attributed to COVID had co-contributing comorbidities (ABS comorbidity
+           rates),
+       -           Attributed COVID deaths can be logically calculated to be lower than official claims,
+       -   Older patients testing positive for COVID were in many cases "written off" and treated
+           with "end-of-life" programs or euthanasia type interventions (or had lifesaving
+           interventions withheld) that contributed to their demise,
+       -   Novel COVID "vaccines" don't stop viral spread or infection (the antithesis of initial
+           Government coercion declaring "a pandemic of the unvaccinated"), and,
+       -   Temporal regression modelling of the extra 9,834 cancer deaths indicates a correlation
+           between mRNA "vaccine" application and increased cancer deaths (+9% and climbing)
+           which could indicate a possible causal relationship. The relationship is 30 deaths per Im
+           doses lagged 120days. (The association since the commencement of the experiment is
+           154 extra cancer deaths per Im doses. However, on the basis that 21m people were
+           inoculated with an average of 3 doses of "vaccine" then the direct correlation is an extra
+           462 cancer deaths per Im people given the 3dose course of COVID drug treatment.)
+
+
+
+
+                                                28
+7.3 Appendix C. The Logical COVID Conclusions
+
+
+If the hypotheses logically formulated on the metadata are supported by the microdata (unavailable
+to-date for independent examination), then the following conclusions might reasonably be drawn
+from the Australian COVID experience.
+
+        -   The Government unreasonably overstated the danger of the COVID virus (any variant).
+        -   With wilful ignorance and in the face of evolving facts, the Government, and mainstream
+            media unreasonably terrified and coerced the nation into accepting inoculation with the
+            novel vaccines.
+        -   Many older Australians testing positive for COVID were largely "written off" and left to
+            die from what now appears to have been an unremarkable and treatable illness. (This
+            boosted the statistics for the COVID death rates.)
+        -   A "Cause Unknown" shortened the lives of (and continues to shorten the lives of) many
+            vulnerable and healthy Australians. (Refer Figure 8)
+        -   Statistically, the virus as a sole agent in shorten the lives of people who died with COVID
+            attribution is questionable.
+        -            The novel COVID "vaccines" are implicated in significantly increased rates of cancer.
+
+Therefore, if these conclusions are eventually supported by the microdata, then the benefits will be
+seen to not outweigh the costs in applying these drugs (the misnamed novel COVID "vaccines") to
+any cohort of the Australian population.
+
+If the conclusions are eventually supported by the microdata could the Inquiry establish who will
+take responsibility for this awful human experiment?
+
+Some of the people in key positions who should be invited to take responsibility for the
+consequences of the Australian COVID management response are:
+
+    -       The 2021 Prime Minister Morrison (lost Govt.)
+    -       The 2021 Federal Minister for Health Hunt (Resigned)
+    -       The 2021 Secretary for Health Professor Murphy (Retired)
+    -       The 2021 Chief Medical Officer of Australia Professor Kelly
+    -       The 2021 Head of theTGA Adj. Professor Skerritt (Retired)
+    -       The 2021 Head of ATAGI Assoc. Professor Crawford
+    -       The 2021 NSW Minister for Health Hazzard (Retired)
+    -       The 2021 NSW Chief Medical Officer Dr Chant
+    -       The 2021 Victorian Minister for Health Andrew
+    -       The 2021 Victorian Chief Health Officer Professor Sutton (Resigned)
+
+
+
+
+                                                  29
+1A Appendix D: Graphs of Australian excess death rates by key affected age
+          groupings January 2020 thru July 2023
+
+                                                                     All Persons
+          40%
+
+
+
+
+    dj
+    cn
+    CO
+
+
+
+
+    co
+     (D
+    ■o
+    xp
+           0%                                     ~
+           _0/   1   3   5   7    9    11    13       15   17   19   21          :5     29 m 3^ 35            19         3 45 47 49 51
+
+
+                                                                           Calendar week
+
+
+                             ^—Baseline 5 year              ^—2020             ^—2021        ^—2022         ^—2023
+
+
+Figure 10: Australian excess deaths%. All persons. January 2020 thru July 2023
+
+
+
+
+                                                                 Persons 65-74
+          50%
+
+
+
+          40%
+
+
+
+
+     d)
+     GO
+     co
+    _Q
+
+
+
+
+    CO
+     dj
+    ■o
+    xp
+
+
+                     3   5    7   9     11   13       15   17   19                             '31   33     3X 39   41   43   45 47   49   51
+
+
+
+
+          -20%
+                                                                               Calendar week
+
+
+                                      Baseline 5 year                 2020            2021           2022   ^—2023
+
+
+Figure 11: Australian excess deaths%. Persons 65-74. January 2020 thru July 2023
+
+
+
+
+                                                                          30
+                                                 Persons 75-84
+         60%
+
+
+
+
+         40%
+
+    dj
+    tn
+    CO
+   _Q
+
+
+
+
+   CO
+    dj
+   ■o
+   xp
+
+
+                                                                             3'       .9   43 45 47 49 51
+
+
+
+
+                                                          Calendar week
+
+
+                      ^—Baseline 5 year       ^—2020        ^—2021       — 2022      ^—2023
+
+
+Figure 12: Australian excess deaths%. Persons 75-84. January 2020 thru July 2023
+
+
+
+
+                                                Persons over 84
+
+
+
+         40%
+
+
+
+
+    dj
+    tn
+    CO
+   _Q
+
+
+
+
+   CO
+    dj
+   ■o
+   xp
+
+                                                                                              45 47 49 51
+
+
+
+
+                                                          Calendar week
+
+
+                      ^—Baseline 5 year       ^—2020        ^—2021       — 2022      ^—2023
+
+
+Figure 13: Australian excess deaths%. Persons over 84. January 2020 thru July 2023
+
+
+
+                                                           31
+                                                        All Males
+         50%
+
+
+         40%
+
+    OJ
+         30%
+    OJ
+
+
+         20%
+
+
+         10%
+
+    OJ
+          0%
+                                9   11 13’15 17 19 21                          31 3i               43 45 47 49 51
+         -10%
+
+
+         -20%
+                                                               Calendar week
+
+
+                                Baseline 5 year         2020         2021          2022     2023
+
+
+Figure 14: Australian excess deaths%. All Males. January 2020 thru July 2023
+
+
+
+
+                                                       Males 65-74
+         50%
+
+
+
+         40%
+
+
+
+
+    dj
+    to
+    co
+   -O    20%
+
+
+
+
+   cu
+    dj
+   ■o
+   xp
+
+
+                                                                      127                              45 47
+
+
+
+
+         -20%
+                                                               Calendar week
+
+
+                          ^—Baseline 5 year       ^—2020         ^—2021        ^—2022     ^—2023
+
+
+Figure 15: Australian excess deaths%. Males 65-74. January 2020 thru July 2023
+
+
+
+
+                                                            32
+                                                     Males 75 -84
+         10%
+
+
+
+
+         40%
+    0J
+    GO
+    cu
+   _Q
+
+
+
+
+    cu
+    CD
+   ■O    10%
+    xp
+    o\
+
+
+
+
+                                                                             31 331       37V39
+
+
+
+
+                                                             Calendar week
+
+
+                           ^—Baseline 5 year     ^—2020         ^—2021             2022   ^—2023
+
+
+Figure 16: Australian excess deaths%. Males 74-84. January 2020 thru July 2023
+
+
+
+
+                                                     Males over 84
+         80%
+
+
+
+
+         60%
+
+
+    OJ
+    cn
+    ra
+   n     40%
+
+
+
+    cn
+   £     20%
+    ra
+    <D
+   ■o    10%
+    XO
+    o\
+
+
+          0%     T
+                13     5    7                                        Tl                       .9   43 45 47 49 51
+         10%
+
+         -20%
+                                                             Calendar week
+
+
+                           ^—Baseline 5 year      ^—2020        ^—2021       — 2022       ^—2023
+
+
+Figure 17: Australian excess deaths%. Males over 84. January 2020 thru July 2023
+
+
+
+
+                                                           33
+                                                                               All Females
+                                40%
+    % deaths vs Syr baseline
+
+
+
+
+                                                                                          75 XI 29       3 SS*37-39          45 47 49 51
+
+
+
+
+                                                                                       Calendar week\
+
+
+                                                        Baseline 5 year         2020          2021       2022         2023
+
+
+                               18: Australian excess deaths%. All Females. January 2020 thru July 2023
+       S
+
+
+
+
+                                                                             Females 65-74
+                                50%
+
+
+
+                                40%
+
+
+
+                                30%
+   % deaths vs Syr baseline
+
+
+
+
+                                20%
+
+
+
+                                10%
+
+
+
+                                 0%
+                                                                13   15 17 19                                   37 39 4:     45    49 51
+
+                               -10%
+
+
+
+                               -20%
+
+
+
+                               -30%
+                                                                                       Calendar week
+
+
+                                                        Baseline 5 year         2020          2021       2022         2023
+
+
+Figure 19: Australian excess deaths%. Females 65-74. January 2020 thru July 2023
+
+
+
+                                                                                    34
+                                                      Females 75-84
+
+
+         40%
+
+
+
+    OJ
+    GO
+    cu
+   _Q
+
+
+
+
+    cu
+    GJ
+   ■o
+                                                        21 23'                       l3      J B9 41   43 45 47 49 51
+    xp
+
+
+
+
+                                                               Calendar week
+
+
+                               Baseline 5 year          2020         2021            2022    ^—2023
+
+
+Figure 20: Australian excess deaths%. Females 75-84. January 2020 thru July 2023
+
+
+
+
+                                                      Females over 84
+         50%
+
+
+
+         40%
+
+
+
+         30%
+
+
+
+         20%
+
+
+
+         10%
+
+
+
+          0%
+                                9   11 13 15     17            23A25 XI        31                9 41.43 /5 47 49 51
+
+
+         -10%
+
+
+
+         -20%
+                                                               Calendar week
+
+
+                          ^—Baseline 5 year       ^—2020         ^—2021               2022   ^—2023
+
+
+Figure 21: Australian excess deaths%. Females over 84. January 2020 thru July 2023
+
+
+
+
+                                                           35
+8   Attachments
+
+8.1 Attachment 1: Global, Australian and comparative nation Covid Vaccines 2021/23
+
+                                                                                                                                                Our World
+                 Daily COVID-19 vaccine doses administered                                                                                       in Data
+                 7-day rolling average. All doses, including boosters, are counted individually.
+
+
+
+
+                 40 million
+
+
+
+
+                 30 million
+
+
+
+
+                 20 million
+
+
+
+
+                 10 million
+
+
+
+
+                                                                                                                            ~~-----     .   .   World
+                              Dec 2, 2020           Sep 12, 2021            Mar 31, 2022      Oct 17, 2022                  Nov 20, 2023
+                 Data source: Official data collated by Our World in Data                                                                          CC BY
+
+
+
+                                     Figure 22: Global vaccination rates to 20/11/23 = 8,077 (1 in 4000 continue to use the products)
+
+
+
+                                                                                     36
+Daily COVID-19 vaccine doses administered                                                                                     Our World
+                                                                                                                               in Data
+7-day rolling average. All doses, including boosters, are counted individually.
+
+
+
+
+250,000
+
+
+
+200,000
+
+
+
+150,000
+
+
+
+100,000
+
+
+
+ 50,000
+                                                                                                                             Australia
+                                                                                                                             Denmark
+                                                                                                                             Switzerland
+                                                                                                                             Ireland
+           Dec 19, 2020             Sep 12, 2021            Mar 31, 2022            Oct 17, 2022               Aug 3, 2023
+
+Source: Official data collated by Our World in Data                                                                               CC BY
+
+
+
+                                       Figure 23: Australia, Denmark, Switzerland, Ireland vaccination rates
+
+
+
+
+                                                                        37
+8.2 Attachment 2: Inquiry of Health letter re COVID vaccine adverse events
+    30 July 2022
+
+
+
+
+                                         The Hon                                       MP
+                                      Miniitir fur Health and Ayed Care
+
+                                                                                            RefNoi MC22-01MB
+
+          Dr
+
+
+
+
+          Thank you for your correspondence- of 3 May 2022 to the New south Wales M । r i■. ui r fo r h r j k i,
+          the                       IV!‘ r.n heNK of Mi ^eter Parac'icc rcgaidmg an                Puff, j nt
+          Si atistii s IARS| report on nr»ar’>5 in A.istra ia. ana t-'- conrcrns mot I.OV ':-in v.ironsj
+          This correspondence has bean rufeitw to me d>. Mim-,tcr                        Aged Ca-e, win
+          uurttalu rcsuotnibilily 'ir th rruHt’r.
+
+          I appreciate the time Mr Paradice has taken in writing to you- -ft cr .<iid mis rg reese
+          importaint questions. The Department of Health and Aged -Care is aware of the warious ABS
+          n'pcrtr-g ihU an:' lw. puw-rhi: ‘mrw BffirnMtin- refow fo- V- r'arac ce. Alsu, I nare Ii-ar
+          Air foai. id Ifo ih^rape.ifo Ouds A(?Tmirtr3t-3n ITCAi Adju-ict Plubu
+         wrote to Mr Paradice in December 2021 in response to similar concerns he-raised in
+         Nowmber Mil.
+
+          f fo f.OVIn ' 4 fci. inn^ r-rai rbh h A utrc >a were ci □v.s rna .y ccpriWLd fo If ><          and
+         ’rT.mrFgi 'mH an lb-ct re that they meet hir^ "a.ichfos fo- salwv, r; ahly. nd "du,icy
+         El ncul t- ak He-c J-Iev dud                 .uloiniri: u-’ ah.I<1 Ifo’ mfofo p- Hies c+ the C'JVIh r<
+         vaednes and Intensive post-market mr^irnmc of Hundren'. H mil ons ut H .ys wandWMe
+         'MS furll'Fr < fore rer       Hip s.-tr-ty of x-ere vcccirts Global real war Id re-H CW.1-19
+         varenes continue! to preaae reasSu'-fLc abuut ti-ul-                    te-m i-ahdy,
+
+         Wccinw. (ar IcaC tu            r. ertrerefo-am nxfoncF . Howpw. in the ov£rwl-.:lre':n
+         maprity ; fre w .re.-'-’s th-.t errer npre vnrr natio-’ are ret caused oy the vnccree in large
+         pup.; al'ctns here ere ceople wth undenting diseases wre ri-ay J e fnun !reu- diseases
+         shortly after the vaccine is administered. In such cases the II nk between the vaccine and
+         forth is Luir i Ji-ifo' b. i- u 'ir;u -.l. .-ruv^Hr, r ■ n-itfor>rei forth-, .inn coatbs nr«.>. i n। Ifo
+         vaccinej the TCA uses date from reports of death fa sweral ways.
+
+         Thc-TCA ulasc-ly reviewsall afoi'reuforU altfi COVID tQ -a;: i .rMlire where □ fatal
+          tutLUifo w-as ii-pcr.td Inr. Ti-w i- ricugrrefo ww. wfothpr rhe tcg ca wu.ti.ir
+         I"H' r -U--1 d fort I rrprr'urt <ri Fm=rging mfotv ccrtcr- with tre vtfoifo for i * report
+         thp IGA Tr,->w; a team nr'ifonE dolors ana rerscs {TnaT|, reru for fop slrenp+n tithe
+         folfol ce fo- : ’.re between vareire. ui     -d 11ir >_L:n.w ui । fort ’ I he Tejl11 T ic Tej-r
+         •ndv icqucrt mere'-for-rfo'cm Tut h-jHlth rtituritifo, independent panels of specialist
+         stottors and ceroners.
+
+
+
+                                              i Jl' JT <. H   L-rt   J •-!.   !r   ■
+
+
+
+
+                                                                     38
+                                                2
+
+l> riuu '.lun .c 'Pvit’wrj,       of          the TGfl Lies stat st<ca am ytii to iik-^ for
+ridtlprir. n rt'j- p f i vprl T^rts h ch incnatc : post o>c S3tet»J corwtr^ ’ hi-,
+indudis a I rcpada .ncludinp d csr •A-tth t^v uu'. pt s-.. H              <iKripf icev.ihea, the
+ FGA ive'.tijntei p. uetoni tie ' 'oete o, h . diAi* rehli':;i-,|--p w ’1 iwccinc.
+
+When theTGA detects a naw safety tnTorn it takes regulatory rctiso tn                 ess ih-
+issbo onrf ptonptly ptuv de it-i ur ri at !■ -i to Ibt- penliL fn>' reruga .^d feve-se eftcets d
+COVID-19 wettaej are inctaded In the approved Product linfcmatton (Pi) documents, used
+by vnu.ini' .nnrun ■.tratep and othe' health professionals Sir co t°c bcgii ■itud i/ ’.re vaenne
+rnilout ui-.' ■irde- 6h m Ilion doses of CGV1D-13 vaccines have Poor £ vi-i in A.Atrril a
+
+'he I LA has identihed 1J repcjib, whnn- Ifm : au,«- cf ifenth wrii linked to vaccination.
+hi ddiiUitr . theTCA has token 30 regulatory actions to include new safety informatfon in
+
+the Pl documentrforCOVlO-lS               Ail outccire- are pubastc-d ip Hu- iCiAS t tlVir-19
+vaccine satety report ava- aelc at www.t- a..-ov a j tuvid 19 vricunt'-.afe^-monitorM,, ard
+Sfiortinfi
+
+I । -r -nr-o ,ri!-T,^rrf ’.V -'Tach-: s^gere: fret ar di-iem'' < 1 Ji ?-<i- .fi , -st In-n, lern(
+averages ir the year 2021 tov nave □ ccr. elatiu- lu the jSl ul lUVID-'.1! w. : ri-s •-
+Austialiai c witl 1 cc nu-b'dilies. Bucjuvi- yrefA- ■* th p-v          ibranic cond ton: have a
+t-t-ate' ink to Ji Vi'lupn p M-vvri- illnew 'rrr 1 rOVIti-1'?, w ■ ration to1- been fwlicuiarty
+nirtnrent ir prnremne these groups from hospitalisatio-i, core pl I tati O' 'i and iff alb frem
+rrivip-i-i Tfert ri.
+
+Ivl• VdNdiLi! tren'toim 1,2911 draifr. w !• 1 OVID-i'l nr ’,1? (tenth reCihratc The IGA
+Ari1 irw-A tn'derudy the^rf rppn-rrn wr rh be is referr-np, butthc-AlfS rc-uOrt
+'dnV'O-l'i Vorre i'v re ai strelie 'tcares • cgutcred to 2 1 .an jsiv ^022' W.-uzt'i at
+ftww.dbi^jv.di, atodus, covic 19 ir Grteht. auctrelid ceotbs (<>(- ton'd-il- an.w, 2022
+iTatm ttot thm- wi t.: 2,(34 l-td to'TO feiihs ir 207: were pecpla diet: a tn cr iron
+(toVIJ to rnp hep ir! g-es on to wphir rtor tor- m.ijnrto (?.-".H nr-.Ttnj to thato 2,(3“
+d^rtfb Wi-re 1; te drecHy tc COVID .3'
+
+b -I'l.ailv, IV' Pa'adicu tiiL"iti'jri‘> 148,343 astu, dra'.ns f.i- .’to J, ।•-we,the ABS reptot
+Prcvr, cr,t Mentality to.toto: >■ wb 1 h is ■(,. mH on rei* a* ww* ,ib<. >ov □□ statFlkeJn'dlHi,
+ dy-. -di-toi.iruw nna -mivt-il I                                           .tate tout lb urt wir
+j49/8b doctor ce-M ed deaths k 2021 The- age stancaidisad cestb r,’1 fit 2(1 ’] w,i'
+431 p«r 100,000 people. While higher than 2020, this was lower than the average for
+2015-19 (453).
+
+I nt- ofu toil ■. 1 r .:t while tto’- tothtoticru ccr prpvidaan indication of where higher than
+-tfp.-rtrd ri-iTal ty may nave r.-ciirrec1 it net a- ct- c a Kt ma’i ot to-rv, mi toil'ty
+Using the number of deaths from the previous five years, as the predictor for the espected
+number ot dearm duei -i-.-'t tew- nto accrtoni < h-rpes in pop ihiIto '■■ re and ai?e stiuctjr-,
+of that poputatton. The analysis also does not include coroner-referred deaths, so any
+rhr.ngr- ir nnt-pm;. nt carene' rerc-ral ccu-d effect counts ot eketo- ce-1ihec Hnnth-,
+Theremre mortalit1,' data Imm tm- AUS .aririT be u'.r-d tu toto.m 're' -wfetv of a vxcinc or
+toternuik the rU uf death 'Ad'. :< (Term I van. 'ih'.
+
+
+
+
+                                                39
+                                              3
+
+In Australia, information on deaths from COVIC-19 Is collected through disease surveillance
+systems, such as the National interoperable Notifiable Disease*Surveillance System, and
+civil registration systems, such as the ABS COVID-19 mortality data. ABS data 1$ not directly
+comparable with data sourced from health surveillance systems, which are designed to
+release information rapidly on both Infections and mortality.
+
+The TGA continues to monitor the safety of COVID-19 vaccinations. The current evidence
+demonstrates that the benefits of the COVID-19 vaccines available In Australia continue to
+qverwhel m I ngly ou tweigh the rls ks.
+
+
+Thank you for writing on this matter.
+
+
+
+
+                                             40
+8.3 Attachment 3: Dept, of Health letter re COVID vaccine adverse events 23
+    May 2022
+
+
+
+
+         Australian Government
+
+           Department of Health
+
+
+
+                                                                       Acting Deputy Secretary
+
+
+
+
+         Peter Paractice
+
+
+
+
+         Dear Mr Paradice,
+
+         Australian vaccine adverse event reporting, compensation claims and ABS excess
+         moitalitv statistics
+
+         Thank you for your correspondence dated 30 March 2022, which was forwarded to
+         me as it relates to excess deaths, I note that you have expressed concern for, and
+         sought assistance with LUTderstanding, 2020-21 Australian Death Data published by
+         the Australian Bureau of Statistics (ABS).
+
+         We have been working with the ABS to understand then mortality' reports, and the
+         processes by which they have been compiled. We are also working with the ABS
+         mortalit’.- data to integrate and further analyse deaths over the COVID-19 period,
+         including understanding the range of potential contributors to mortality from
+         specific causes. We are currently developing and validating analysis methodologv
+         before we can produce findings that can be shared more widely.
+
+         Excess mortality as an epidemiological concept, is defined as the difference between
+         the observed and expected number of deaths in a specified time-period. Excess
+         mortality calculations are used to observe whether mortality rates have deviated
+         from trends seen in preceding years. In particular, this can be used to assess if deaths
+         from specific cattses (e g. C0VID-19), conditions or other circumstances (such as
+         environmental factors) have caused annual mortality rates to go beyond expected
+         levels.
+
+         It is important to note that excess mortality figures can be calculated in many ways,
+         arid the ABS have their' own specific methods. Dre ABS publishes two regular
+         reports covering excess deaths in Australia:
+                                  Ptwna:          ansa:
+                                                                              - ■mw.HBaltn.gcv.ai
+
+
+
+
+                                                   41
+                                              -2­
+   1. The first report., named' Provisional Mortality Statistics', appears to be the source of
+      the figures you analysed. Tlus publication utilises preliminary counts of doctor
+      certified deaths by date of occunence to calculate average mortality rates over a
+      specified time-period.
+   2. The second report, named 'Measuring Australia's excess mortality during the
+      COVID-19 pandemic', is based on the Serfling model. This model takes into account
+      seasonality and trends over the pas t three years,, and consequently presents
+      contrasting .figures to the Provisional Mortality Statistics report.
+
+
+I encourage you to analyse both reports to obtain, a more complete understanding of
+excess mortality in Australia.
+
+The ABS are currently your best point of contact to describe how data has been used
+to model excess deaths, as well as how to interpret deaths that are excess to their
+expected ranges. The ABS website provides some details of methodologies used (e.g.
+the Serfling model, seasonal averaging), or alternatively specific enquiries can be sent
+to |
+
+Unfortunately, we are unable to provide the unit record death data you requested, as
+this data can only be compiled through data linkage from various Commonwealth
+and state-based datasets which we do not have access to. We are continuously
+working to ensure relevant aggregate death statistics and research outputs are made
+accessible to the public.
+
+Thank you once again for your interest in this data.
+
+Yours sincerely
+
+
+
+
+23 May 2022
+
+
+
+
+                                        42
+8.4 Attachment 4: Dept, of Health TGA advice re adverse events 24 December
+    2021
+
+
+
+
+        AmtraliaiH.ou'rmik'n!
+          Ikpanmwit of llvuhh
+
+
+
+                                                                                                                                   Depth SevteUM
+
+
+
+
+        '/• i1..,- I' <i. dl< .
+
+
+
+
+        ( II,,' .1 , ■ i;           . HU . ■ 11, ■.'■■Mull              ■    > .1 ill ■"b :I ?, ?                  i. • tlo- '•/ A M,:!'          M- r< I
+
+        t> * V,,!.'..', ■ ’A .1,'                                             I ■ 'th-m > H i A D A .,1 u ,<                                          i, >’■
+          I.pn', '.'J-u 1D- K.'d t.' O'.                             ’ hl bip.'ua ■     d'- V.trup.ii   is . h ,
+
+
+        i ,.i< S'"C h> bwi: «in<- i< :,H1 .h I," 'H'» I • -      'f n ;■>>>■<. (h               tqth" I a •
+        ,, u-ntp 11                         . .ub I th....I .lu-rs              (1 >, J •,.( r, i ,1!
+                         ... . ■ I tj'PM vh -lui id... ■ h,.,-di -                             .‘i     b,. . . ."i . <f ' ■ hi I nvi'l
+        ' ' " -i h          • ■h''h ;•
+
+                    ih, "„i<.. a.'i! t .1. 'i-'i'.h- .Duui a ; i ■ P-. ',i. uni rl.v .                                m       ,i >-i
+        .uh i        ....i-m*. hull, n, >JP',               itiiK. M.itr,1 < ,< tin ■*. • l-t.                                   h.,.'. I>.. h
+        , ii'i, a. .-.t -.1 ,h •    ..Hi t             dn'dX D:1' ... in- s 'b.i! u-.r !| -
+                b '.I' i.-'1. > -u- .-I ' .i, -                      .........................I ,1 u       .uh,
+
+        I hh'ifim.ih'l’. t'-, i- p r. a . ...... :<i..-i <i. m > । .< '■•hei f ■■ at. t.i .-nAin
+        » li. .t>" ''    >‘h -i.-i, ,-D n ;, u-. \, ui -. n ■-h, i >• 'b, . ,f, t              'nA
+        He <i<h. j I.  "Ml-1< th r,> tH.iiu ".U'.b Hh. t; i.U’miu H- in r " I .dtp, H A^hh.-,.’
+        n:'..:, « mb1 •'-.n’l.' h. .dt!< I.      .it-• '..pt-i I       ..p, ,, P., u t-., m , il..-.., it-p
+        in.      ;M' 0 I        ul th,". >>'. •- h V. >■ du H- I Hulu ■». .                 iLr. th .           1”. - it   ID .r'l atld, i
+
+        l< ft               t        'll', .1 IV'I-.       < •,• f          .i!l, : < '    I; ' .■ > s a> , t t.t!I........ V.
+
+
+
+        V. In „     (hi (> ■ - m    •.. un   .t.h ,          < if .Is th,: I ax            tie ' l 'p. i-l. ,.l (•> If       I '»-‘u -n . >      I al r
+
+        , ■ -nl ,bt;■ that v..' .it. iv. i-i>. ne. a •. <                       -■ jiUt;i< .x pt            a I:- m ■ . tlive- .■. ja.i u v. hv h
+        !• J--f h     v. ‘ i-   .                      ।               is     -t ■ I h.   •..mH        ,   i-     ■> r I            .   I s ,.    ■       ■
+
+        ivh.is, ,.H pH1*
+
+
+
+
+                                                                                    43
+                                             -2-
+ln many cases they report conditions that have occurred following vaccination
+regardless of whether they suspect it was caused by vaccination. These reports are
+initially made to their state or territory health department, who then report them to
+the TGA.
+
+With this in mind, I agree with you that an extrapolation to 4.5 million unreported
+adverse events is just not possible. As you point out, this hypothesis is not supported
+by evidence of our health systems being overcome by requirements to treat that
+volume of vaccine injuries.
+
+The TGA comprehensively evaluated each of the provisionally registered COVID-19
+vaccines before approval. No element of the evaluation is rushed, and no data are
+overlooked. It is a similar process to that undertaken by other major regulators,
+including the European Medicines Agency and Health Canada.
+
+TGA staff with expertise in medicine, biostatistics and epidemiology undertake
+analysis of adverse event report data to detect signals for possible safety' concerns.
+Investigations of these safety' signals aim to distinguish between coincidental events
+and side effects that may be caused by the vaccines. When these investigations
+confirm a safety' issue, we take prompt action to address the issue and provide
+information to the public.
+
+To date no international regulator has identified any association between Vaxzevria
+and heart disease and it is not included in the Product Information which contains
+the most update to date safety information for a medicinal product.
+
+The TGA has been publishing a weekly COVID-19 vaccine safety' report for over 10
+months. Each report contains clear, accurate and up-to-date information about die
+TGA's safety monitoring activities, including details of its scientific and evidence­
+based evaluations of serious adverse events and deaths reported for COVID-19
+vaccines. The reports are available on our website at:
+www.tga.gov.au/periodic/covid-19-vaccine-weekly-safety-report .
+
+1 hope the above information helps to reassure you that the TGA's safety monitoring
+of COVID-19 vaccines is effectively protecting the Australian public.
+
+Yours sincerely
+
+
+
+
+Health Products Regulation Group
+
+24 December 2021
+
+
+CC                      Member for Wagga Wagga
+
+
+
+
+                                          44
+8.5 Attachment 5: Dept, of Health letter re COVID vaccine justification 13
+    October 2021
+
+
+
+
+                                           Australian Gmcrriinent
+                                             Department uf Health
+
+
+
+                                                                                         Ref No. MC21-032660
+
+
+
+         Mr Peter Para dice
+
+
+
+
+        Dear Mr Paradice
+
+        I refer to your correspondence of 16 September 2021 to the Deputy Prime Minister,
+        ■ 'e -: "                 :     ' :e • - 5 A.,st-al a’: -esc: - se r :■ erne-5    “ rias of SC V ~
+        As the Department of Health is responsible for Australia's COVID-19 health response, your
+        letter has been referred to the Minister for Health and Aged Care, the Hon^^^^^ MP'
+        The Minister has asked me to reply.
+
+        Evidence regarding variants is being closely monitored by experts, such as Communicable
+        Diseases Network Australia, Communicable Diseases Genomics Network, and the Australian
+        Health Protection Principal Committee (AHPPC) to inform our public health response and
+        protect the Australian population.
+
+
+        Australia's goal, as recommended by AHPPC, was suppression of COVID-19 with no
+        community transmission. This strategy recognised that outbreaks continued to remain a
+        risk. Maintaining that goal requires active case find Ing and contact tracing, targeted testing
+        □f the affected population, public health and social measures and personal measures.
+
+        Elimination was never a goal of Australia's COVID-19 pandemic response. In the absence of
+        high amounts of immunity in the population both in Australia and globally, elimination is not
+        a realistic short term goal, in the short term when there are outbreaks of the virus as
+        vaccination coverage is going up, it is still important to suppress transmission of the virus
+        where possible.
+
+        In the longer term, elimination at a global level will only be feasible if there is high
+        vaccination coverage across a majority of countries, in reality it might take a few rounds of
+        booster shots to get there but if not the more likely scenario remains that the virus is likely
+        to stay around for some time.
+
+        SARS-CoV-2 remains a Listed Human Disease under the Biosecurity Act 2015 and as
+        vaccination coverage increases the use of public health measures in lieu of using lockdown
+        will still be needed as outlined in the National Plan to Transition Australia's National COVID
+        Response (National Plan} informed by the Doherty modelling.
+
+
+
+
+                                      GPQ Box 9848 CANBERRA ACT 2601
+                                          Telephone: |
+
+
+
+
+                                                         45
+                                              2
+The National Plan provides a graduated pathway to transition Australia's COVID-19 response
+from its current pre-vaccination settings focused on continued suppression of community
+transmission, to post-vaccination settings focused on prevention of serious illness and
+fatalities, whereby the public health management of COVID-19 is consistent with other
+infectious diseases.
+
+The safety of the Australian population has always been the highest priority of the
+Government. For this reason, decisions regarding COVID-19 vaccines have been guided by
+the expert medical advice of the AustralianTechnical Advisory Group on Immunisation.
+
+
+The goal is to protect all people in Australia from the harm caused by COVID-19 infection,
+through preventing serious illness and death, and where possible, disease transmission. The
+Pfizer, AstraZeneca (Vaxzevria) and Modema vaccines have all been proven through
+approval and safety monitoring processes to be very effective at reducing severe illness,
+hospitalisation, and death.
+
+In addition, to better support Australians though the COVID-19 vaccination process, the
+Government is developing the COVID-19 Vaccine Claims Scheme (the Scheme). On
+28 August 2021, the Minister announced further details of the Scheme, which will provide
+Australians with an alternative, administrative option to seek compensation, rather than
+through a complex and costly court process. The Scheme will cover the costs of injuries
+$5,000 and above due to a proven adverse reaction to a COVID-19 vaccine or its
+administration.
+
+
+Furthermore, as part of the Government's Nst cr al Z desre u.     1Ist:^ •" ?  • CC V D--?
+serosurveillance is one of the key surveillance approaches adopted to inform understanding
+of population level immunity to SARS-CoV-2. To date, seroprevalence surveys have been
+undertaken by the Australian Partnership for Preparedness Research on Infectious Disease
+Emergencies and led by the National Centre for Immunisation Research and Surveillance in
+coIlla boration with the Kirby Institute.
+
+
+The Department of Health is considering future national level serosurvey requirements and
+appropriate timing. The role of future national serosurveys in understanding population
+level immunity will be an important surveillance tool, including with regarding to measuring
+vaccination coverage, to guide public health measures.
+
+I wish to assure you that the Australian, state and territory governments are working
+together to coordinate an evidence-based response to COVID-19, based on the latest
+medical advice. Together these actions have placed us in a good position globally.
+
+Thank you for writing on this matter.
+
+Yours sincerely
+
+
+
+
+Director
+Office of Health Protection and Response
+13 October 2021
+
+
+
+
+                                             46
+8.6 Attachment 6: Sydney Morning Herald article 22 September, 2022
+
+
+
+
+   THE SYDNEY MORNING HERALD         THURSDAY. SEPTEMBER 22. 2022
+
+
+
+          News
+
+  COVID COMPLICATIONS
+
+
+  Deaths hit highest number in 40 years
+  Dana Daniel                              Senate inquiry into long COVID,                                             likely to have been hastened by the     increase in deaths this year, she
+  Federal health reporter                  said he was “very concerned” about
+
+   The alarm has been sounded about
+                                           higher-than-normal deaths in the
+                                           pandemic and that more research
+                                                                                    46,200                             pandemic.
+                                                                                                                          The remaining 2500 people died
+                                                                                                                       from other causes. While it is un­
+                                                                                                                                                               said, was that vulnerable people
+                                                                                                                                                               who were shielded from influenza
+                                                                                                                                                               or RSV in the winters of 2020 and
+                                                                                    The number of deaths recorded
+   COVID-19’s hidden impact as new         was needed to ascertain why.             in the March quarter of 2022       clear what, if any role COVID-19        2021 due to COVTD-19 restrictions
+   data shows that the highest num­           While the inquiry was focused                                            may have played, a higher-than-         had succumbed to these respirat­
+   ber of people have died in the           on long COVID, he said, “there is a                                        usual number of deaths from stro­       ory illnesses.
+  March quarter of 2022 than in any
+  of the past 41 years.
+                                            concern that COVID itself in­
+                                           creases inflammatory responses,
+                                                                                    36,100                             kes, heart disease, dementia and
+                                                                                                                       diabetes makes the working group
+                                                                                                                                                                 Assistant Health Minister Ged
+                                                                                                                                                              Kearney yesterday announced
+     Australian Bureau of Statistics       predisposes people to stroke and         The number of deaths recorded      suspect that it could be a factor.     $6.3 million in funding for research
+                                           cardiovascular disease”.                 in the March quarter of 2021          “There are people who have had      led by Monash University to evalu­
+  population data published yester­
+  day shows an 18 per cent increase           “The other question is: are there                                        COVID and recovered, but it’s         ate the immune response in chil­
+  in deaths in the quarter compared        risk factors, is there anything that   Mortality Working Group, said        weakened their immune system          dren and high-risk populations, in­
+  with the same period a year earlier,     can be done to modify the risk?”       about 6000 more people died in the   [and] they’ve subsequently had a      cluding adults with chrome condi­
+  rising from 36,100 to 46,200             Freelander said.                       March quarter than could be ex­      heart attack or stroke that might     tions, to COVID-19.
+                                              The inquiry will collate data       plained by the ageing population.    not necessarily be directly linked       The project aims to improve the
+  deaths.
+                                           from scientific experts to gain in­       Half of these people died from    back to their COVID episode,” Cut­    care and outcomes for children
+     It is the first time that more than
+                                           sights into how COVID-19 affects       COVID-19, she said, with a further   ter said.                             and people with chronic diseases,
+ 40,000 deaths were recorded over                                                                                                                            including tailored treatments and
+                                           health after the initial infection.    500 dying “with COVID”, their           “Having COVID increases your
+ four consecutive quarters.                                                                                                                                  vaccination schedules appropriate
+                                              Karen Cutter, spokeswoman for       deaths from causes such as cancer,   risk of these sorts of things.”
+    South-western Sydney Labor MP                                                                                         Another possible reason for the    to children and high-risk groups.
+                                           the Actuaries Institute COVID-19       circulatory diseases and dementia
+ Dr Mike Freelander, Chair of the
+8.7 Attachment 7: Covering letter to the P.F. Paradice submission to the CofA
+    COVID Inquiry.
+
+
+
+
+15 December 2023
+
+
+
+
+Chair
+CofA COVID-19 Response Inquiry
+Department of Prime Minister and Cabinet
+Parliament House
+CANBERRA ACT
+
+
+Dear
+
+Re: Submission to the COVID-19 Response Inquiry (AKA Restoring Trust in Public Health Inquiry)
+
+Please find attached a submission to the Kruk COVID Inquiry.
+
+This submission seeks to support the Inquiry in the mission to restore trust in public health following
+the government performance/s in response to the COVID-19 challenge.
+
+It is my sincere hope that the "Prime Ministers team" will successfully restore the trust of a sceptical
+public in the Australian institutions of public health, doctors, and the broader medical profession.
+
+My understanding is that the people picked on the Prime Ministers panel were supportive, in fact
+complicit, in formulating and prosecuting the orthodox COVID response. These chosen people have
+continued to support novel inoculations for COVID beyond a point where others, without insider
+history, may have suspended the intervention and discontinued defending the indefensible.
+
+Appendices and attachments to this submission are "data focused" and were generated using the
+ABS mortality data releases up until T1 October 2023 to detail and analyse Australian mortality
+statistics since the beginning of the COVID event. There is no discussion herein of "The Science".
+
+I urge the Inquiry to recommend that the Commonwealth Government release the unadulterated
+micro-data to test (and hopefully refute) the fearsome hypotheses postulated in this submission.
+
+The data examined in this submission are solid grounds to advise the Government of Australia to
+follow the lead of the Swiss authorities in suspending the ongoing COVID inoculation program.
+
+My perception is that many Australians have subdued expectations of this Inquiry. It seems unlikely
+Australians will lower their reasonable barriers of distrust until the unbridled truth is revealed.
+Findings of the Inquiry, if perceived to be as illogical as the ongoing inoculation program, could
+perpetuate or exacerbate the well-founded distrust (scepticism) generated by government in the
+COVID years.
+There are powerful forces at work that I do not understand.
+
+I see self-censorship instead of open debate. I see "gaslighting" of the injured and supporters of the
+dead. I see apparent errors evincing incongruous denialist behaviour in a bureaucracy that simply
+doesn't make sense. I see "sacred text" in narratives that are unassailed by clear logic. I hear a
+reputable UK research Professor of Immunology warning that ongoing boosting with COVID shots
+can "down-regulate" the immune system. I read a Yale research pre-print describing Post-Vaccine
+Syndrome which is a euphemism to allow mainstream institutions to consider publishing the
+unthinkable.
+
+So, in closing, and in line with the narrative, I urge the Inquirers to "stay safe", trust in Big Pharma,
+and what-ever-else, stay up to date with your personal booster shots!
+
+In the annals of Australian history, those who effectively sort this mess out will be remembered as
+the heroines of our age.
+
+Good luck.
+
+Yours sincerely,
+
+
+
+
+Peter Paradice
+
+
+
+
+                                                    49
+8.8 Attachment 8: Commonwealth Government COVID-19 Response Inquiry
+    TOR
+
+Scope
+The Inquiry will review the Commonwealth Government’s response to the COVID-19
+pandemic and make recommendations to improve response measures in the event
+of future pandemics. It will consider opportunities for systems to more effectively
+anticipate, adapt and respond to pandemics in areas of Commonwealth Government
+responsibility.
+
+The Inquiry will adopt a whole-of-government view in recognition of the wide-ranging
+impacts of COVID-19 across portfolios and the community. Specific areas of review
+may include, but are not limited to:
+
+   •   Governance including the role of the Commonwealth Government,
+       responsibilities of state and territory governments, national governance
+       mechanisms (such as National Cabinet, the National Coordination Mechanism
+       and the Australian Health Protection Principal Committee) and advisory
+       bodies supporting responses to COVID-19.
+   •   Key health response measures (for example across COVID-19 vaccinations
+       and treatments, key medical supplies such as personal protective equipment,
+       quarantine facilities, and public health messaging).
+   •   Broader health supports for people impacted by COVID-19 and/or lockdowns
+       (for example mental health and suicide prevention supports, and access to
+       screening and other preventive health measures).
+   •   International policies to support Australians at home and abroad (including
+       with regard to international border closures, and securing vaccine supply
+       deals with international partners for domestic use in Australia).
+   •   Support for industry and businesses (for example responding to supply chain
+       and transport issues, addressing labour shortages, and support for specific
+       industries).
+   •       Financial support for individuals (including income support payments).
+   •   Community supports (across early childhood education and care, higher
+       education, housing and homelessness measures, family and domestic
+       violence measures in areas of Commonwealth Government responsibility).
+   •   Mechanisms to better target future responses to the needs of particular
+       populations (including across genders, age groups, socio-economic status,
+       geographic location, people with disability, First Nations peoples and
+       communities and people from culturally and linguistically diverse
+       communities).
+
+The Inquiry will consider the findings of previous relevant inquiries and reviews and
+identify knowledge gaps for further investigation. It will also consider the global
+experience and lessons learnt from other countries in order to improve response
+measures in the event of future global pandemics.
+
+The following areas are not in scope for the Inquiry:
+
+
+                                          50
+   •      Actions taken unilaterally by state and territory governments.
+   •      International programs and activities assisting foreign countries.
+
+Independent Panel
+The Prime Inquiry has appointed an Independent Panel of three eminent people to
+conduct the Inquiry. The Independent Panel will consult with relevant experts and
+people with a diverse range of backgrounds and lived experience.
+
+Taskforce
+A Taskforce within the Department of the Prime Inquiry and Cabinet will support the
+Independent Panel.
+
+Public consultation
+Public consultation will be completed during the Inquiry on the substance of the
+issues outlined in the Terms of Reference. The Independent Panel may invite and
+publish submissions and seek information from any persons or bodies. Consultation
+will take place across Australia with:
+
+   •      Key community and other stakeholders reflecting a diversity of backgrounds
+   •      Experts
+   •      Commonwealth Government and state and territory government agencies
+   •      Members of the public
+
+Final Report
+The Independent Panel will deliver a Final Report to Government including
+recommendations to the Commonwealth Government to improve Australia’s
+preparedness for future pandemics by the end of September 2024.
+
+
+
+
+                                          51
+

@@ -1,0 +1,298 @@
+COMMONWEALTH
+GOVERNMENT COVID-19
+RESPONSE INQUIRY^H
+Submission to an Independent Panel
+Contents
+Introduction............................................................................................................................................ 2
+
+Impacts and the Nursing Response to the COVID-19 Pandemic............................................................ 3
+
+   The personal impacts.......................................................................................................................... 3
+
+   Infection control and personal protective equipment....................................................................... 3
+
+   Aged Care............................................................................................................................................ 4
+
+   Undergraduate nursing programs...................................................................................................... 5
+
+Innovation and support.......................................................................................................................... 5
+
+   Nurse led models of care.................................................................................................................... 5
+
+         Support During the COVID-19 Pandemic...................................................................................... 6
+
+   Refresher program.............................................................................................................................. 6
+
+   Immunisation program....................................................................................................................... 7
+
+Recommendations.................................................................................................................................. 7
+Introduction
+
+
+
+
+There was a profound irony in 2020 being the Year of the Nurse and Midwife. The year that was
+meant to celebrate and elevate the nursing profession became one of the most difficult and
+demanding years in history. However, the response to the COVID-19 pandemic showed the world
+the value of nurses and highlighted the need to invest in and empower them for the future of
+health. The Australian nursing profession needs to be formally recognised and acknowledged for
+nursing's vital contribution in managing Australia's acute and complex health care needs during this
+challenging time.
+
+The COVID-19 pandemic continues to impact the nursing workforce, with many nurses still managing
+increased workloads and experiencing stress and burnout. The pandemic contributed to a rise in
+attrition rates among nurses, with many leaving the workforce due to stress, burnout, and early
+retirement.1 This has resulted in further increased workloads and inexperienced nurses being
+promoted to fill gaps, setting up a vicious cycle that impacts the mental health and wellbeing of the
+remaining nurses.
+
+In line with the terms of reference, this submission draws on national and international literature to
+reflect on the Commonwealth Government's response to COVID-19. The focus is on the nursing
+workforce, governance, key health responses, health support for people impacted by COVID-19, and
+support for the nursing profession.
+
+
+
+
+1 McGuinness, S. L., Johnson, J., Fades, 0., Cameron, P. A., Forbes, A., Fisher, J.,... & Leder, K. (2022). Mental health
+outcomes in Australian healthcare and aged-care workers during the second year of the COVID-19 pandemic. International
+Journal of Environmental Research and Public Health, 19(9), 4951.
+
+
+
+
+                                                         Page 2                     Commonwealth Government COVID-19
+                                                                                       Response Inquiry: December 2023
+Impacts and the Nursing Response to the
+COVID-19 Pandemic
+The personal impacts
+The COVID-19 pandemic exposed both the vulnerability and resilience of nurses, who were at the
+forefront of the response, providing care and comfort to patients and families, often at the risk of
+their own health and safety.2 Nurses faced unprecedented levels of stress, burnout, fatigue, and
+grief, as they witnessed the devastating effects of the virus on their patients and colleagues.3 Some
+nurses contracted the infection and died, while others suffered from psychological distress and
+trauma.4 The pandemic also highlighted the existing challenges and gaps in the nursing workforce,
+such as shortages, inadequate training, low wages, and poor working conditions.5
+
+Whilst the government was restricting the liberty of the community for their own protection, they
+were expecting nurses to continue to work and risk their own health and wellbeing, as well as that of
+their families. This was further impacted by constantly changing advice, guided by National Cabinet
+decisions, within what were often unrealistic time frames. This significantly impacted organisational,
+professional and personal decision making, increasing nurses' levels of stress. Nurses were often the
+ones who were expected to enforce changes at short notice that impacted patients and their loved
+ones. In addition the frequent need to furlough significant numbers of staff due to exposures led to
+increased pressure on those left to care for patients.
+
+
+Infection control and personal protective equipment
+The COVID-19 pandemic highlighted the lack of national readiness for a pandemic response in terms
+of direction, policy and procedures. There was inconsistent advice on infection control measures,
+which led to confusion in health care settings. This placed significant stress on nurses as they tried to
+provide appropriate care to their patients while facing rising concerns from the public. There was
+added pressure and confusion in healthcare services when areas were deemed 'high risk settings'
+particularly after local emergency declarations were stood down. Clear definitions, direction, and
+community awareness may have taken some of the pressure off nursing; better communication
+between the Commonwealth, State and Territory Governments would have benefited everyone.
+
+A significant challenge for health care workers was access to adequate personal protective
+equipment (PRE) to prevent infection and transmission. Some of the key issues that nurses faced
+were: inconsistent and unclear guidance on the appropriate use of PRE for different settings and
+
+
+
+
+2 Davidson, A. (2023). COVID-19 and How It's Changed Nursing: A Two Year Reflection. NurseJournal Oct 10, 2023
+3 Chan, G. K., Bitton, J. R., Allgeyer, R. L., Elliott, D., Hudson, L. R., & Burwell, P. M. (2021). The impact of COVID-19 on the
+nursing workforce: a national overview. Online Journal of Issues in Nursing, 26(2), 1-17.
+4 Ibid.
+5 Fernandez, R., Lord, H., Halcomb, E., Moxham, L., Middleton, R., Alananzeh, I., & Ellwood, L. (2020). Implications for
+COVID-19: A systematic review of nurses' experiences of working in acute care hospital settings during a respiratory
+pandemic. International journal of nursing studies, 111, 103637.
+
+
+
+
+                                                              Page 3                       Commonwealth Government COVID-19
+                                                                                              Response Inquiry: December 2023
+scenarios;6 shortages and delays in the supply and distribution of PRE, especially masks;7 lack of
+training and support on how to safely don and doff PRE;8 increased workload and stress due to the
+high demand and complexity of care for COVID-19 patients;9 fear of contracting and spreading the
+virus to their families and communities.10These issues had significant impacts on the physical and
+mental health and well-being of nurses. The Nursing and Midwifery Board of Australia recognised
+these challenges and provided guidance and support for nurses and midwives during the
+pandemic.11 They also advocated for the implementation of clinical supervision and infection control
+training for nurses and midwives.
+
+
+Aged Care
+The COVID-19 pandemic posed many challenges for nurses who worked in aged care facilities. Key
+challenges included: protecting the health and well-being of the elderly residents, who were more
+vulnerable to severe complications and death from the virus;12 maintaining adequate staffing levels,
+as many nurses contracted the virus or had to self-isolate due to exposure;13 coping with the
+emotional and physical stress of working in high-risk and demanding environments;14 providing
+compassionate and ethical care to residents who were isolated from their families and loved ones,
+especially those with dementia or other cognitive impairments.15*These challenges were heightened
+by the disconnect between the Commonwealth Government and State and Territory Government
+health services.
+
+
+                    ■. As the Commonwealth were unable to respond effectively, local health services
+were called on to assist. This put more pressure on an already over stretched workforce. The
+situation was not helped by the confusion around ‘highly recommended' approaches for aged care
+facilities following the stand down of emergency actions which were in contrast to the expectations
+of the Aged Care Quality and Safety Commission. Greater preparedness and closer collaboration and
+a consistent approach between Commonwealth and State and Territory Governments is required in
+future events.
+
+
+
+
+6 Desborough, J., Dykgraaf, S. H., Rankin, D., & Kidd, M. (2020). The importance of consistent advice during a pandemic:'An
+analysis of Australian advice regarding personal protective equipment in healthcare settings during COVID-19'. Australian
+Journal of General Practice, 49(6), 369-372.
+7 Safe Work Australia (2022). Accommodat : Services^ PE
+8 Department of Health an Aged Care (2022). Guidance on the use of personal protective equipment (PPE) for health care
+workers in the context of COVID-19
+9 Desborough, J., Dykgraaf, S. H., Rankin, D., & Kidd, M. (2020). The importance of consistent advice during a pandemic:'An
+analysis of Australian advice regarding personal protective equipment in healthcare settings during COVID-191. Australian
+Journal of General Practice, 49(6), 369-372.
+10 Nursing and Midwifery Board Ahpra (2023). COVID-19 guidance for nurses and midwives
+11 Ibid.
+12 HealthTimes (2023). ged Care in Australia: Challenges and Opportunities in the Wake of COVID-19
+13 Rathnayake, S., Dasanayake, D., Maithreepala, S. D., Ekanayake, R., & Basnayake, P. L. (2021). Nurses' perspectives of
+taking care of patients with Coronavirus disease 2019: A phenomenological study. Pios one, 16(9), e0257064.
+14 Denny-Brown, N., Stone, D., Hays, B., & Gallagher, D. (2020). COVID-19 intensifies nursing home workforce
+challenges. US Department of Health and Human Services Assistant Secretary for Planning and Evaluation Behavioral
+Health, Disability, and Aging Policy.
+
+
+
+
+                                                          Page 4                     Commonwealth Government COVID-19
+                                                                                        Response Inquiry: December 2023
+Undergraduate nursing programs
+The COVID-19 pandemic had a significant impact on undergraduate nursing clinical placements in
+Australia. Many placements were paused or cancelled due to public health restrictions and safety
+concerns.16 Students reported feeling stressed, uncertainty, and faced delays in their graduation and
+career plans.17 Students had to adapt to online learning, rescheduled placements, and frequently
+changing guidelines.18 Importantly, students missed out on valuable learning opportunities and
+experiences in rural and remote settings.19 This interruption to their education has impacted their
+confidence and transition to practice. These challenges highlight the need for more support,
+flexibility, and innovation in nursing education and practice during and after a pandemic.
+
+
+
+Innovation and support
+Despite the hardships and losses, nurses demonstrated remarkable courage, compassion, and
+innovation during the pandemic. Nurses adapted to new ways of working, such as telehealth, digital
+health, and mobile clinics, to reach and serve more people in need.20 Nurses also advocated for
+better policies and practices to protect themselves and their patients, such as infection prevention
+and control, personal protective equipment, and vaccination.21 Nurses also supported each other
+and their communities, sharing their knowledge, skills, and experiences, and offering emotional and
+social support.22 The circumstances of the pandemic and the impact on the nursing workforce over
+time has highlighted the need for ongoing support for nurses, such as clinical supervision. The
+Commonwealth Government is encouraged to support this by investing in a nationally consistent
+framework that provides all nurses with accessible and free clinical supervision.
+
+As the COVID-19 pandemic progressed, it was imperative that attention shifted focus from the
+immediate effects of COVID-19 to the broader, long-term impacts on the workforce. Nurses
+demonstrated significant resilience and professionalism during the pandemic response. Healthcare
+organisations instigated new initiatives, altered models of care delivery, and changes to practice
+during the pandemic to address the increased volume, demand, acuity, and complexity of patients
+requiring care.
+
+
+Nurse led models of care
+Nurse-led clinics played a significant role in providing healthcare during the COVID-19 pandemic. A
+prime example was the mass vaccination centres, such as the AIS Arena in Canberra and Sydney
+Olympic Park on Fig Tree Drive in Sydney. These large-scale sites delivered COVID-19 vaccines to a
+
+
+
+16 Ibid.
+17 Jessup, B., Bourke, L., Sheepway, L., Baillie, J., Heaney, S., Hoang, H., Obamiro, K., Podubinski, T., Brand, A., Rasiah, R.,
+Jatrana, S., Knight, S., Farthing, A., and Kitschbaum, M. (2023). The Ongoing Impact of the COVID-19 Pandemic on Student
+Placements facilitated by University Departments of Rural Health
+18 Ibid.
+
+
+
+20 Pearce, K., (2020). COVID-19 Ushers in Decades of Change for Nursing Profession. Hub, John Hopkins University
+21 Davidson, A. (2023). COVID-19 and How It's Changed Nursing: A Two Year Reflection. NurseJournal Oct 10, 2023
+22 Munro CL, Hope AA. Empowering Nurses in 2020, the Year of the Nurse. Am J Crit Care. 2020 May 1;29(3):165-167. doi:
+10.4037/ajcc2020234. PMID: 32355976
+high number of people in a short time.23 Similarly, nurse-led respiratory clinics provided assessment
+and testing for people with respiratory symptoms, such as fever, cough, sore throat, or shortness of
+breath. The vaccination centres helped to reduce the pressure on hospitals and general practices
+and prevent the spread of COVID-19 in the community.24 Some of these clinics were led by nurse
+practitioners, who prescribed medications and ordered investigations.
+
+In response to the COVID-19 pandemic, Aboriginal and Torres Strait Islander health services played a
+vital role in ensuring access and equity to health care for Indigenous Australians.25 These services
+provided culturally appropriate and holistic care to Indigenous Australians. The health services were
+often nurse-led clinics that addressed acute care needs and specific health priorities for their
+communities, such as chronic disease management, maternal and child health, mental health, and
+social and emotional well-being.26
+
+These examples highlight the benefit of having nurse-led clinics in all jurisdictions as they are flexible
+and adaptable to the needs of the community, as demonstrated during the pandemic.
+
+
+
+     Support During the COVID-19
+Pandemic
+
+
+
+
+      Refresher program
+      In March 2020, the Australian Government provided funding for registered nurses to undertake
+      the 'Refresher                                                                                           As the pandemic
+      was unfolding, it became evident that there could be an unprecedented demand on the health
+      care system and workforce. These registered nurses could become part of a national 'surge
+
+
+
+
+24 RACGP (n.d.). Independent nurse-led clinics in primary care - position statement
+25 Fol lent, D., Paulson, C., Orcher, P., O'Neill, B., Lee, D., Briscoe, K., & Dimopoulos-Bick, T. L. (2021). The indirect impacts of
+COVID-19 on Aboriginal communities across New South Wales. The Medical Journal of Australia, 214(5), 199.
+26 Ibid.
+
+
+
+29 Hunt, G. (2020) Boost to nursing greatly strengthens our response to pandemic - Media Release 7 December 2020
+     workforce' and allow the deployment of existing nurses to more intensive and critical care areas
+     if and as required. The initial funding was for 1000 scholarships, which was increased to 3000
+     scholarships as the course was oversubscribed within 24 hours. The online delivery mode
+     enabled enrolment from all states and territories. (Enrolment numbers available on request).
+
+
+     Immunisation program
+
+
+
+
+Recommendations
+COVID-19 impacted all care settings. It is now vital for governments and peak professional nursing
+organisations to collaboratively identify strategies and further enhancements to support nurses in
+
+
+30 Department of Health and Aged Care (2023). COVID-19 vaccination training and resources
+the currently stretched and overburdened healthcare system. Health and aged care require
+sustainable whole-of-system transition, retention, and support frameworks to sustain the healthcare
+workforce. Based on this submission, key recommendations are:
+
+
+        Invest in a National Clinical Supervision Framework that provides all nurses with accessible
+       and free clinical supervision.
+        Investigate nurse-led models of care and consider rolling out nationally.
+        Review current clinical placement models to sustain the existing workforce and meet
+       evolving demands of the future workforce.
+        Prioritise preparedness, connection and collaboration between Commonwealth and State
+       Governments in response to unexpected health events / pandemics.
+        Ensure proportionate nursing representation on key advisory boards and expert committees
+       charged with responding to unexpected health events / pandemics and the resultant effect
+       on workforce sustainability, care models, service delivery, and treatment modalities for the
+       future.
+

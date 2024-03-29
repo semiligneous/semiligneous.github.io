@@ -1,0 +1,161 @@
+Submission to the COVID-19 Response Inquiry
+This submission addresses the term of reference regarding 'Governance including the role of the
+Commonwealth Government', specifically procedures and decisions of the Therapeutic Goods
+Administration (TGA) and the Office of the Australian Information Commissioner (OAIC). It will also
+provide information for recommendations to improve Australia's future preparedness.
+
+I am a medical practitioner with 40 years' experience in public and private health care, subspecialising
+in reproductive health care. I am the Medical Director                                                  As
+a primary health provider, I have had several peer-reviewed papers published in the British Medical
+Journal (Case Histories 2012 and the BMJ Journal of Evidence Based Medicine 2019), The Journal of
+Investigative Medicine (High Impact Case Reports), Brighton Collaboration Vaccine Safety Quarterly
+magazine (2/2014), and two peer-reviewed poster presentations at the Royal Australian and New
+Zealand College of Obstetricians and Gynaecologists (RANZCOG) Annual Scientific Meeting (2017) and
+RANZCOG Sydney Symposium July 2023.
+
+The research I present hereto was published in the Journal of Clinical Toxicology in 20221 (see
+Attachment 1) and its summary was presented as poster at the most recent RANZCOG Sydney
+Symposium on July 25th 20232 (see Attachment 2).
+
+I am happy to appear in person or provide any further information to assist the inquiry.
+
+Key Issues:
+
+ 1.   Failure of the TGA to require accessible organ histology reports in pre-clinical studies for
+      COVID-19 vaccines. Pre-clinical histology reports are particularly relevant to reproductive
+      >rgans as clinical trials did not include reproductive health parameters;
+ 2.   Failure   f the TGA to extract ovary and testis histology reports when requested by a
+      reproductive health clinician under FOI 2565;
+ 3.   Failure of the OAIC to provide a result t a requested review of the TGA rejection of FOI 2565
+      in over two years since the original request for review was made;
+ 4.   The TGA agreement to withhold studies (or parts thereof) containing the ovary and testis
+      histology reports from the general public in accord with 'active steps' taken by pharmaceutical
+      companies 'to ensure the information contained within the documents is not disclosed to the
+      general public' (see TGA Internal Review Decision of 27 September 2021, a copy of which is
+      provided as Attachment 3);
+ 5.   Failure of the TGA to query the effect of rising nanoparticle concentration in mammalian
+      ovaries, which doubled from 24 to 48 hours post single 50mcg injection3 (after which
+      measurements ceased). In the context of ovarian accumulation of nanoparticles, the TGA failed
+      to consider prior research identifying rat ovarian and uterine toxicity known caused by a
+      nanoparticle constituent4 in COVID-19 vaccines which mimics diethylstilboestrol effects in rat
+      ovary and uterus.
+
+
+
+1 Little D. Abnormal Menstruation Following COVID-19 Vaccines: A Toxicologic Consideration. J Clin Toxicol.
+2022; 12(4):517. https://www.longdom.org/open-access/abnormal-menstruation-following-covidl9-vaccines-a-
+toxicologic-consideration-93970.html.
+2 Little D. COVID Vaccines, Abnormal Menses, PMB: Toxicologic Considerations. Poster presented at: RANZCOG
+Symposium; 25 July 2023; Sydney, Australia.
+3 Australian Government Department of Health. TGA Nonclinical Evaluation Report: BNT162b2[mRNA] COVID-
+19 vaccine (COMIRNATY™). January 2021. Accessed via TGA FOI disclosure log: FOI 2389.
+https://www.tga.gov.au/sites/default/files/foi-2389-06.pdf.
+4 Gajdova et al. Delayed Effects of Neonatal Exposure to Tween 80 on Female Reproductive Organs in Rats.
+FoodChem Toxicol. 1993;31(3):183-190. https://doi.org/10.1016/0278-6915(93)90092-D.
+Introduction:
+
+New onset menstrual abnormalities, post-menopausal bleeding and bleeding in women who do not
+normally menstruate have been notified and reported in medical literature.5,6 The European Medicines
+Agency has advised the Product Information of mRNA COVID-19 vaccines be updated to include 'heavy
+menstrual; bleeding' as a potential side effect.5
+                                                7 The cause of this signal remains unknown to RANZCOG
+                                                6
+and to the Royal College of Obstetricians and Gynaecologists (RCOG), since no clinical trials recorded
+or observed reproductive health markers or parameters.
+
+Expansion of Key Issues:
+
+ 1.   Adverse reproductive health events necessitate review of pre-clinical COVID-19 reproductive
+      organ histology - specifically of rat ovary and uterus microscopy - to further future research, to
+      establish safety, and to facilitate public vaccine confidence in women of reproductive age.
+      Reproductive organ histology (microscopy) reports in COVID-19 vaccine pre-clinical studies
+      cannot be accessed by reproductive health clinicians. They are allegedly not presented in readily
+      identifiable, accessible format to the TGA. As stated in the TGA Internal Review Decision of T1
+      September 2021, 'the histopathology in relation to reproductive tissues...is dispersed throughout
+      each of the studies', requiring review of 3,667 pages (para 28).
+ 2.   On 29th July 20211 made an FOI request for reproductive organ histology reports from COVID-19
+      vaccines' Developmental and Reproductive Toxicity Studies (FOI 2565). As a reproductive health
+      clinician, this was a reasonable and relevant request.
+      On 21st August 2021 this FOI request was reduced, as I was asked to do, to:
+             "histopathology/microscopic evaluation of gonads (ovaries/testis) of vaccinated animals in
+             relation to Pfizer and AstraZeneca COVID-19 vaccines".
+
+      On 26th August 2021 FOI 2565 request was rejected on grounds the ovary and testis organ
+      microscopy reports were 'too voluminous'. I was provided with numerous references to other
+      research papers which did not present the histology reports required.
+      On 4th September 2021, I requested an Internal Review of the decision in relation to FOI 2565.
+      On 16th September I was asked to reduce my FOI application to exclude raw data, annexures and
+      appendices. This I declined to do as the histology reports were most likely therein. Indeed a later
+      FOI request (FOI 3093) by another applicant on terms excluding raw data, annexures and
+      appendices failed to yield histology reports.
+      On 27th September 2021 FOI 2565 with its reduced scope was rejected at Internal Review.
+      Reasons provided for this rejection included:
+         -    the rat ovary and testis microscopy reports after vaccination likely 'contain information
+              that is commercially sensitive' (para 30).
+         -    both pharmaceutical companies 'have taken active steps to ensure the information
+              contained within the documents is not disclosed to the general public' (para 31).
+ 3.   The rejected FOI 2565 was then submitted for review to the OAIC (OAIC Reference:
+      MR21/01138).
+
+
+5 Blix K et al. Unexpected Vaginal Bleeding and COVID-19 Vaccination in Nonmenstruating Women. Sci. Adv.
+2023;9(38). https://www.science.org/doi/10.1126/sciadv.adgl391.
+6 Medicines and Healthcare products Regulatory Agency. Coronavirus Vaccine-Weekly Summary of Yellow Card
+Reporting. Last updated 8 March 2023. https://www.gov.uk/government/publications/coronavirus-covid-19-
+vaccine-adverse-reactions/coronavirus-vaccine-summary-of-yellow-card-reporting .
+7 European Medicines Agency. Meeting Highlights from the Pharmacovigilance Risk Assessment Committee
+(PRAC). 24-27 October 2022. https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-
+risk-assessment-committee-prac-24-27-october-2022 .
+       On 26th October 2021 receipt was acknowledged by the Intake and Early Resolution Team.
+       On 9th May 2022 the OAIC notified the TGA of my application for Information Commissioner
+           review. My submission supporting this application was forwarded as requested and received 27th
+       July 2022. I also replied to the TGA submission. Despite two subsequent enquiries, including a
+           letter to the Minister for Home Affairs Clare O'Neil requesting a response I have had no result in
+       over two years since my original request for OAIC review was made.
+ 4.    The TGA has acknowledged agreed arrangements whereby pharmaceutical companies may 'take
+       active steps' to ensure pre-clinical study data (including data relevant to women's health
+           requested in FOI 2565) 'not be disclosed to the general public' (para 31 of the 27th September
+           2021 Internal Review Decision). This is an obstruction to women's health. It hampers
+           reproductive health research of unexpected safety signals and undermines public vaccine
+       confidence. Such arrangements require further investigation and clarification.
+ 5.    Disregarding the documented high and rising concentration of nanoparticles in the mammalian
+       ovary, doubling in the 24 hours preceding measurement discontinuation, raises questions about
+       the competency of the TGA to recognize anomalies. The TGA did not subsequently require
+       coherent gonad organ microscopy reports,                permitting reproductive organ microscopy
+       descriptions to be dispersed across 3,000 pages, rendering the time required to extract them
+       excessive, expensive, and not feasible. The TGA further failed to appreciate the need for coherent
+           reproductive organ histology review even after the appearance of unexpected safety signals in
+           both pre- and postmenopausal women suggestive of oestrogenic effects. Vaccines' nanoparticle
+       constituents (polyoxyethylene sorbitan monooleate in AstraZeneca vaccine and closely related
+           polyethylene glycol in mRNA vaccines) injected into rats cause decreased ovarian weights,
+       ovarian cystic cavities, prolonged oestrous cycle, persistent vaginal oestrous, and piano cellular
+           metaplasia in uterine endothelium and endometrial glands mimicking effects of di­
+       ethylstilboestrol.8
+
+Conclusion:
+
+The TGA has thus far failed to meet the expectations of the Freedom of Information Act of 1982. This
+compounds a failure of the TGA to comply with a reasonable request from a health care provider. It
+highlights other significant systemic failures of the TGA relating to scientific and clinical competency,
+arrangements with pharmaceutical companies, and the lack of safety data transparency of taxpayer
+funded vaccines.
+
+Recommendations:
+
+      1.     No arrangements should be agreed between the TGA and pharmaceutical companies to
+             withhold organ microscopy reports of pre-clinical safety studies.
+      2.     More reasonable efforts should be made to comply with FOI requests by reproductive health
+             clinicians in the context of a) new and unexpected reproductive health safety signals; b)
+             absence of reproductive health data in clinical trials.
+      3.     The OAlC's failure to provide a result to a formal and reasonable request for FOI decision
+             review should be examined.
+
+Dr Deirdre Little MBBS DRANZCOG FACRRM
+Medical Director^^^^^^^^^^^^^^H
+
+
+
+
+8 Gajdova et al. Delayed Effects of Neonatal Exposure to Tween 80 on Female Reproductive Organs in Rats.
+FoodChem Toxicol. 1993;31(3):183-190. https://doi.org/10.1016/0278-6915(93)90092-D.
+

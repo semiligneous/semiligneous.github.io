@@ -1,0 +1,206 @@
+Introduction
+I am an engineer and a parent. As far as I know my household has so far avoided contracting COVID-19, and thereby also
+avoided passing it on. Since “National Cabinet” decided to let it rip, my success in avoiding infection has largely been down to
+privilege, information obtained from scientific literature and shared on social media by like-minded individuals, diligent effort,
+but very much in spite of the deficient and misleading public health information provided by government.
+
+The SARS-CoV-2 pandemic has not finished.
+Using the past tense in the terms of reference is problematic. The present wave of infections seems to be one of the largest
+since the start of the pandemic in number of infections, and we have as yet no reliable method of preventing infections from
+turning into “long-COVID”, which often causes disability, very likely permanent in many cases. This will have enormous
+impact, not least to the economy. More waves will come, unless we do something different.
+
+We still have not taken the known, necessary actions to bring COVID-19
+under control.
+In spite of wishful thinking (e.g. by^^^^^^^^^^vho called infections “necessary”), repeatedly catching SARS-CoV-2
+does not bring about long-term immunity to infection, and subsequent infections still carry a substantial risk of disability and
+elevate the risk of death. Relying on infection to prevent infection will not bring success.
+
+SARS-CoV-2 is airborne, and infection can be prevented by breathing only clean air. (This how I have avoided COVID.) We
+could greatly reduce the rate of infections by ventilating buildings properly to prevent people from inhaling the infectious
+aerosols that may be in the air that other people have exhaled. Unfortunately we have not done this yet.
+
+Schools are unsafe, they know it, and they do not intend to fix it.
+A major hub of SARS-CoV-2 transmission is the school system, (as recently admitted by Boris Johnson in the UK COVID
+inquiry). The amount of exhaled breath in a room is one factor that affects the risk that one will contract COVID-19.
+
+Whilst it is presently impractical directly to detect the individual viral particles in the air, exhaled breath can be detected and
+measured easily, because it contains carbon dioxide (CO2). Outdoor air has about 420 ppm (parts per million) of CO2. Air
+containing 1% exhaled breath has about 800 ppm CO2, and Safe Work Australia recommends adjusting ventilation to stay
+below this concentration1. At my daughter’s school, the air often contains above 2500 ppm CO2, meaning more than 5% of
+every breath has been inside someone else already.
+                                                                                       ----- 2023-02-24   ----- 2023-05-23
+                                                                                       ----- 2023-02-28   ----- 2023-05-24
+                                                                                             2023-03-01   ----- 2023-05-25
+                                                                                             2023-03-02   ----- 2023-05-30
+                                                                                             2023-03-03   ----- 2023-05-31
+                                                                                             2023-03-06   ----- 2023-06-01
+                                                                                             2023-03-07   ----- 2023-06-02
+        Measured CO2 concentration experienced by a student at an ACT primary School         2023-03-08   ----- 2023-06-05
+                                                                                             2023-03-10   ----- 2023-06-06
+                                                                                             2023-03-14   ----- 2023-06-07
+                                                                                             2023-03-15   ----- 2023-06-08
+                                                                                             2023-03-16   ----- 2023-06-09
+                                                                                             2023-03-17   ----- 2023-06-13
+                                                                                             2023-03-20   ----- 2023-06-14
+                                                                                             2023-03-21   ----- 2023-06-15
+                                                                                             2023-03-22   ----- 2023-06-16
+                                                                                             2023-03-23   ----- 2023-06-19
+ ?onc
+                                                                                             2023-03-24   ----- 2023-06-20
+                                                                                             2023-03-27   ----- 2023-06-21
+                                                                                             2023-03-30   ----- 2023-06-22
+                                                                                             2023-03-31   ----- 2023-06-23
+                                                                                             2023-04-03   ----- 2023-06-26
+                                                                                             2023-04-04   ----- 2023-06-27
+                                                                                             2023-04-24   ----- 2023-06-28
+                                                                                             2023-04-26   ----- 2023-06-29
+                                                                                             2023-04-27   ----- 2023-06-30
+                                                                                             2023-04-28   ----- 2023-07-17
+                                                                                             2023-05-01   ----- 2023-07-18
+                                                                                             2023-05-02   ----- 2023-07-19
+                                                                                             2023-05-03   ----- 2023-07-20
+                                                                                             2023-05-04   ----- 2023-07-21
+                                                                                             2023-05-05   ----- 2023-07-24
+                                                                                             2023-05-08   ----- 2023-07-25
+                                                                                             2023-05-09   ----- 2023-07-26
+                                                                                             2023-05-10   ----- 2023-07-27
+                                                                                             2023-05-11   ----- 2023-07-28
+                                                                                             2023-05-12   ----- 2023-07-31
+                                         lime or Day                                         2023-05-15   ----- 2023-08-01
+                                                                                             2023-05-16   ----- 2023-08-02
+                                                                                             2023-05-17   ----- 2023-08-03
+                                                                                             2023-05-18   ----- 2023-08-04
+                                                                                             2023-05-19   ----- 2023-08-09
+                                                                                             2023-05-22   ----- 2023-08-10
+
+
+In terms of the quantity of each other’s breath they inhale, this is just as bad as making the children take turns to be the
+mannequin for the rest of the class to practice mouth-to-mouth expired air resuscitation, every day.
+
+Obviously this situation presents a high risk of infection. This is why Safe Work Australia says that it should not occur: the CO2
+level should be below 800ppm.
+
+When I presented these results to the school and offered them a CO2 monitor, the principal asked the Education Directorate
+about whether he could or should stop me from measuring it. To this day, the ventilation is still awful. You can read about it of
+you look on the ACT Education Directorate’s FOI disclosure log for the disclosure EDU_2022_0392.
+Health and Safety regulators are ignoring the problem.
+I sent the CO2 measurements to Worksafe ACT and pointed out that the school was not fulfilling its obligations under health
+and safety law, to ensure that people are not exposed to preventable risks that may result in illness in a workplace. Worksafe
+ACT declined to send an inspector, “noting the sensitivities of sending inspectors to a school and the likelihood of external
+attention”.
+ From:                                     ■     .                                         igownrltsatp art gnv ai i>
+ Sent:                                     08/05/2023 8:59 AM
+ To:                                                                                   ““ 5)worksafe.act.gov.au>
+ Cc:                                                                                      rorksafe. a ct .gov.a u>
+ Subject:                                  FW: ACT education |                       |Schooi
+
+
+
+                                                                                OFFICIAL
+
+ Good morning r                        L
+
+ Noting your availability for work, 1 have the below case which is in a bit of a backlog unfortunate
+ look into the case and out together a proposed response and/or plan to address the concerns? If a v
+[(noting the sensitivities of sending inspectors to a school and the likelihood of external attention]
+ with i^-*1 | Io lind you someone to take with you.
+
+ If you think a response via e-mail is sufficient, please put together a draft for me to review and sei
+ agreed.
+
+
+It is unfortunate that children cannot have safe air because of “sensitivities”, and I hope that “sensitivities” will not prevent
+regulators from mitigating other hazards in the workplace. You can read more about this if you look for 2023-192 on the ACT
+Chief Minister, Treasury and Economic Development Directorate FOI disclosure Log3.
+
+COVID is airborne
+We could have had a lot less death and disease than we did, and also a better economy and more personal freedom, had the
+known airborne nature of SARS-CoV-2 been used and shared by authorities instead of disinformation. Whilst there have been
+numerous cases of proven airborne transmission and to the best of my knowledge no proven cases of transmission via the
+hands, government training material emphasised hand washing and droplet precautions at the expense of anything that actually
+helps against SARS-CoV-2, and these incorrect materials remained in use in official Australian Government training courses
+until at least December 2022:
+
+
+
+InfecUon Control Training - COVID 19
+                                                                                                                               Protect yourself & others
+
+
+
+                                                         Handwashing
+
+                                                         The most important thing you can do to protect yourself is to WASH
+                                                         YOUR HANDS REGULARLY with soap and water or rubbing an alcohol-
+                                                         based sanitiser onto your hands.
+                                                         • This is important because washing your hands kills viruses that may be on your hands.
+
+
+
+
+Public Health has surrendered completely
+People who are known to be infectious should be required, and supported, to stay away from public places. The infectious
+period is frequently longer than 5 days, and isolation should only end after consecutive negative RATs. Sending infectious
+people to work or school is harmful.
+
+Everybody who is able to wear a respirator should be required to do so in healthcare facilities. The fatality rate for COVID-19
+infections acquired in hospital seems to be as high as 10%, and so anyone who does not take reasonable steps to avoid causing
+these has failed in their duty of care.
+
+Secretive deliberation on vaccine eligibility is harmful.
+Decision-making should be done in public. Highly - credentialled experts have often made statements that appeared false at
+the time and were proven false in hindsight. If we don’t want to allow a few rogue individuals to cause thousands of deaths for
+no benefit, then in public policy we need a mechanism for independent verification that reasoning is sound, and based on all
+available evidence, and with goals that are aligned with community values.
+As an example, the USA (and many other countries) allow children from the age of 6 months to be vaccinated against SARS-
+CoV-2, and allows them to receive booster vaccinations. Australia does not, and this is based on the advice of ATAGI. The
+reasoning behind this is secret, but we can enumerate the possible reasons:
+1. Maybe ATAGI know of some excessive risk of vaccine injury in infants that other countries such as the USA are unaware of,
+and ATAGI are keeping this evidence secret. This is a ridiculous suggestion, especially because Australia has vaccinated very
+few infants, whereas the USA has vaccinated many, so Australia’s position can only be based on much less data that that of the
+USA.
+2. Maybe ATAGTs terms of reference are not aligned with community values. Perhaps they only consider the risk of children
+dying of acute disease, but long term health problems are outside the scope of their considerations. Vaccinating children
+probably doesn’t prevent very many from dying in the short term because children usually don’t die from the acute effects of
+COVID-19. Nor do they die as children if they smoke, work in an asbestos mine or play with x-ray machines, but they may
+well have problems later. We should consider long-term health.
+3. Maybe ATAGI is deliberately seeking to cause children to spread SARS-CoV-2 infection as a means of repeatedly exposing
+adults. This might seems like a far-fetched hypothesis, but it has historical precedent in the UK with chickenpox vaccination.
+4. Maybe ATAGI is made up of highly-incompetent individuals devoid of reasoning abilities. This seems unlikely given their
+qualifications, but if their deliberations are secret, who knows?
+5. Maybe ATAGI are told by the government of the day what they must write in the advice they are expected to provide, and
+made to understand that their personal advancement depends upon them giving the advice which is most pleasing to the
+minister, regardless of scientific or ethical considerations. At the very least it would certainly seem that the timing of their
+recommendations to allow various vaccinations has always conveniently aligned with the time when the government of the day
+has belatedly managed to procure a shipment of the vaccine in question, sometimes on the second-hand market.
+
+All of these are rather depressing and insulting possibilities, but they are what comes to mind in the absence of a better
+explanation provided by a transparent deliberation process.
+
+Future Pandemics
+There is no guarantee that the next pandemic will have the same properties as COVID, and ruling out in advance the future use
+of certain public health measures will set us up for failure. Many submissions will probably argue that school closures, border
+closures, mask/respirator mandates or lockdowns should never again be used. If the next pandemic virus happens to have the
+transmissibility of COVID but the lethality of Ebola or rabies, then we may well need any and all of these measures.
+
+We could have kept SARS-CoV-2 out of Australia to the present day, with less economic cost than our present burden of
+infection, if we had a sensibly designed quarantine system with sufficient capacity to prevent frustration. Lockdowns were
+mostly caused by quarantine failures and quarantine failures were caused by inability to accept that SARS-CoV-2 is airborne.
+Air-gapped cabins should have been used instead of hotels, (even if the Hotels Association is a generous donor to both main
+political parties). Quarantine workers, like FIFO mine workers, should have lived on site rather than going home every night,
+and been paid accordingly. The capacity of the quarantine system should have been expanded to meet demand, rather than
+restricted to foment frustration and support for let-it-rip.
+
+This inquiry has the appearance of being far from independent.
+Using the word “independent” to describe the inquiry or its panel does not make it so. If a panel member had in the past made
+comments that were used as justification for government policies that might have resulted in a number of people dying for no
+benefit, then it would take an extraordinary degree of humility (and perhaps indifference to criminal liability) to admit that the
+policies were wrong, (and by implication the advice on which those policies were based, was also wrong), especially when
+faults in the advice were pointed out at the time it was given. Even were it not demonstrable that such advice has in fact been
+very harmful, the mere possibility of this situation means that the inquiry will not be seen as independent, and the calls for a
+future Royal Commission will continue.
+1 https://covidl9.swa.gov.au/doc/improving-ventilation-indoor-workplaces-covid-19
+2 https://www.education.act.gov.au/about-us/freedom_of_information/disclosure-log/_nocache
+3 https://www.cmtedd.act.gov.au/___data/assets/pdf_file/0003/2254593/2023-192.pdf
+

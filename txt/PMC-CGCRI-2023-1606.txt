@@ -1,0 +1,159 @@
+The Public Health Association of Australia (PHAA)
+Submission on the COVID-19 Response Inquiry
+Compared to many other high-income countries, Australia fared very well in terms of a lower excess
+mortality rate and excess health sector spending during the COVID-19 pandemic. During the pandemic
+there were certainly many efforts made by Australia's public health advisors, and the ministers who
+operationalised their advice, that are well worth positive recognition. One specific effort was engaging with
+the Aboriginal Community Controlled Health Organisation (ACCHO) sector early, resulting in successful
+COVID-19 management in First Nations communities.1 Another was the vaccine program, which vaccinated
+(two doses)                         ans over the age of 16 in one year.
+This submission focuses solely on three key basics of public health practice, and addresses the TOR related
+to broader community support and future national coordination of major events that must be addressed to
+ensure greater pandemic preparedness in the future.
+
+Maintaining a Healthy Population
+
+The interface between COVID-19 and non-communicable diseases (NCDs) has been stark. People with a
+NCD and who become infected with COVID-19 are more likely to experience severe illness, be admitted to
+intensive care units (ICUs), receive mechanical ventilation, and die.2'3,4'5
+For instance, of patients admitted to ICUs, 72% had a co-morbidity;34mortality risk in patients with coronary
+heart disease was three times that of those without heart disease;3 people who are obese were seven
+times more likely to receive mechanical intubation than those not obese;5 and the mortality rate for those
+with diabetes was almost twice that of people without diabetes.2 Other NCDs that often lead to worse
+COVID-19 outcomes are hypertension, chronic obstructive pulmonary disorder (CORD),2-5 chronic renal
+disease, chronic liver disease, and hyperglycaemia.5 All of these conditions are largely preventable.
+COVID-19 also interrupted the management of NCDs due to appointment cancellations, or delays owing to
+safety protocols; resulting in unintended consequences, such as poorer health and increased mortality.
+A United Kingdom study found that cardiac-related emergency department presentations fell by 35%
+during the pandemic.5 The lack of immediate treatment potentially resulted in an estimated 84 to 232
+excess cardiac deaths per week.5 In Australia, precautions saw preventive health programmes suspended
+(e.g., cancer screening and immunisations), meaning potentially hundreds or thousands of cancers went
+undetected. The future resulting burden of disease is yet to be estimated.
+Additionally, people with low socioeconomic advantage are more likely to have vor;                        alth    tc    es
+than those with greater socioeconomic advantage, an inequitable and avoidable reality. Studies clearly
+show that people who have a NCD and COVID-19 and are Indigenous and/or have a low income, are more
+likely to have severe COVID-19, be hospitalised and/or die.
+COVID-19 infection caused greater morbidity and mortality when experienced in conjunction with an NCD,
+an effect noted for many communicable diseases such as Middle East respiratory syndrome coronavirus
+
+
+
+1 Finlay, S., Wenitong, M. Aboriginal Community Controlled Health Organisations are taking a leading role in COVID-19 health
+communication https://doi.org/10.llll/1753-6405.1301Q
+2Gutierrez JR, Bertozzi SM. Non-communicable diseases and inequalities increase risk of death among COVID-19 patients in Mexico.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7544063/
+3 Nikoloski Z, et al. Covid-19 and non-communicable diseases: evidence from a systematic literature review.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8178653/
+4 Pal R, Bhadada SK. COVID-19 and non-communicable diseases. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10016830/
+5 Katsoulis M, et al. Estimating the Effect of Reduced Attendance at Emergency Departments for Suspected Cardiac Conditions on
+Cardiac Mortality During the COVID-19 Pandemic. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7819531/
+                             PHAA submission on the COVID-19 Response Inquiry
+
+(MERS-CoV) and MINI Influenza (awii            1u). Less chronic disease would probably mean less pressure on
+the health system and fewer avoidable deaths and injury.
+Yet Australia's NCD epidemic continues to grow, with almost I ilf of Aus                 n   fult (47%) having at least
+one chronic condition and L in               Ik        ts being obese. Many NCDs are represented inequitably in
+the population, for instance CORD is most prevalent amongst those in the lowest socioeconomic group and
+First Nations peoples are 2.3 times more likely to have CORD than non-lndigenous Australians.
+The Inquiry's recommendations must include an urgent call to prevent NCD and improve health for all. This
+way, Australians will have more resilience against future human pathogens and there will be less burden on
+our health system during future pandemics.
+To create a healthier population, the new Australian Centre for Disease Control (ACDC) must be established
+with the scope of addressing both communicable and non-communicable diseases in tandem. It is not a
+stretch of resources to address both as, 'many of the tools required for fighting a pandemic are also those
+required to fight NCDs: disease surveillance, a strong civil society, robust public health, clear
+communication, and equitable access to resilient universal health-care systems'.6
+The ACDC can be the single agency that works to prevent NCDs and ensure plans are in place to maintain
+preventive screening and chronic disease management programs during an emergency.
+COVID-19 must be seen as a catalyst for governments to invest in evidence-based policies that prevent
+NCDs in the first instance. Policies that we know pay for themselves many times over, including strict
+tobacco, vaping, alcohol, and sugar controls and supporting physical activity and healthy eating patterns to
+curb the rise of NCDs and create healthier more resilient Australians.
+The COVID-19 pandemic also highlighted the importance of preparedness. Understandably, normal NCD
+screening, treatment and management processes were restricted initially, but they remained restricted
+which resulted in preventable health consequences. Preparedness includes the ability to restore and
+maintain programs addressing NCDs as quickly as possible.
+
+
+A strong public health workforce:
+
+The non-accreditation of public health training programmes and non-regulation of the public health
+workforce is a major flaw in our preparedness for future pandemics and other major emergencies.
+In Australia people trained in public health and related disciplines are not specifically regulated for public
+health practice, and universities don't consistently maintain registers of public health graduates.
+The lack of regulation makes it difficult to identify workers trained and qualified in public health,
+necessitating crisis recruitment from the general health workforce, departmental staffing and defence
+force personnel. As a result, the public health workforce's critical expertise in health promotion, health
+determinants and evidence-informed communication is underutilised.
+With a World Health Organization Roadmap on professionalisation of the public health workforce
+imminent, the Government is well placed to use the guidance provided and ensure a stronger, expert and
+robust public health workforce is identified and can be called upon in times of emergency.
+A central role of the ACDC must be to build public health workforce capacity in Australia by leading and
+investing in advancement of the workforce through a range of national initiatives and programs, including
+an Australian Public Health Officer Training Program, national and regional pandemic exercises that also
+support upskilling of a surge workforce, and a public health credentialling initiative.
+
+
+
+
+6 The Lancet. COVID-19: a new lens for non-communicable diseases. The Lancet. 2020 Sep;396(10252):649.
+
+                    20 Napier Close Deakin ACT Australia, 2600 - PO Box 319 Curtin ACT Australia 2605                     2
+                           T: (02) 6285 2373      E: phaa@phaa.net.au      W: www.phaa.net.au
+                             PHAA submission on the COVID-19 Response Inquiry
+
+Given the likely increase of communicable zoonotic diseases due to climate change, the ACDC must expand
+and diversify the public health workforce to be pandemic prepared. This means including a breadth of
+professionals ranging from one health experts and immunologists to epidemiologists and health
+communicators. For further details, see our            <    or th              unctions
+
+A single and coordinated mechanism to monitor, communicate and respond
+
+In March 2020, as a part of the pandemic response a National Cabinet was established, consisting of the
+PM and State and Territory Premiers. It was critical in establishing some of the national pandemic response
+mechanisms, and showed how effective coordination of actions were in controlling the spread of the
+pandemic, particularly in the first wave.
+The largely State and Territory-based response highlighted the lack of a single and coordinated mechanism
+as a barrier to rapid action. To ensure readiness for future outbreaks, epidemics and pandemics, the ACDC
+must provide a national coordination r Ie through greater and more timely data sharing between
+jurisdictions, encouraging harmonisation in evidence based key performance indicators and training a
+larger, more specialised workforce ready for response.
+
+To support these new and improved abilities for pandemic preparedness and response there is a need to
+create strong public trust in the ACDC. Features such as expertise and competence, reliable capacity made
+possible through adequate funding, and independence from political considerations will all be essential in
+generating such trust. Securing public trust will ensure that the ACDC can successfully perform its
+functions in any crisis.
+
+In particular, the ACDC must build confidence amongst Aboriginal and Torres Strait Islander people by
+formalising the relationships between the Commonwealth and the ACCHO sector which were
+strengthened throughout the COVID-19 pandemic period.1 We also encourage that the ACDC ensure
+appropriate First Nations representation within its governance.
+Finally, the ACDC must seek to establish itself as a long-term cornerstone agency, a key and permanent part
+of the public health system in Australia. This includes establishing an ACDC with both domains of disease
+prevention accounted for, namely communicable and non-communicable diseases.
+
+From conception, the ACDC must be mandated to address NCDs. An achievable place to start would be to
+utilise the widely supported, evidence-based National Preventive Health Strategy as a framework.
+
+Conclusion
+PHAA welcomes the opportunity to provide input to the COVID-19 Response Inquiry and we are keen to
+ensure that future emergencies are better prepared for. We are particularly keen to highlight the following:
+    •   To give Australia a healthier underlying population, the ACDC must be established with preventing
+        non-communicable and communicable diseases as a core function from conception.
+    •        The ACDC must be tasked and resourced to grow, train, and diversify the public health workforce.
+    •   The ACDC must be established as quickly as possible, with the expertise and competence, reliable
+        capacity made possible through adequate funding, and independence from political considerations
+        that will be essential in generating the trust of the Australian people.
+             For a longer version of this submission with full references, please follow this link.
+
+Please do not hesitate to contact me should you require additional information or have any queries.
+Adj. Professor Terry Slevin
+PHAA Chief Executive Officer                                                                   15/12/2023
+
+
+
+
+                       spier Close Deakin ACT Australia, 2600 - PO Box 319 Curtin ACT Australia 2605         3
+                           T: (02) 6285 2373   E: phaa@phaa.net.au   W: www.phaa.net.au
+

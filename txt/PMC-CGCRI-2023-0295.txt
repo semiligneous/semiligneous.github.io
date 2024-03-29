@@ -1,0 +1,113 @@
+I am an NHMRC Leadership Fellow and Professor of Virology at the University of Sydney. I am
+a global expert in the evolution of viruses and the first person to release the genome sequence of
+SARS-CoV-2, enabling the rapid design of vaccines. In 2021 I received the Prime Minister’s
+prize for science. I am giving these comments in a personal capacity.
+
+
+I wish to comment on some scientific aspects of the Australian government’s response to
+COVID-19.
+
+
+Overall, the Australian government’s response to COVID was excellent and should be praised.
+The government listed to the science, generally provided a clear message, and acted to protect
+the public health. Clear evidence for this is that, for virtually every available metric, Australia
+performed better than the majority of developed nations during the pandemic.
+
+
+However, there is room for improvement in some areas. I make three specific recommendations:
+1. A broader set of pandemic plans.
+2. Wider expert advisory groups, with a broader skill base.
+3. Improved vaccine procurement, vaccination policy and vaccination advice.
+
+
+1. Pandemic Plans
+As in most developed nations, the pandemic plan in place in Australia was based on influenza.
+Hence, all the epidemiological models and strategies for disease control assumed that a pandemic
+virus would have characteristics like that of influenza. Although there are similarities, SARS-
+CoV-2 is not influenza. In particular, because of its high infectivity, pandemic plans for
+influenza assume that the virus can only be suppressed, not eliminated. However, this was not
+the case for early variants of SARS-CoV-2 that had relatively low infectivity relative to later
+variants. With sufficient control measures it was possible to fully eliminate SARS-CoV-2
+transmission, as demonstrated by New Zealand and some Australian jurisdictions for extended
+periods (until the emergence of Omicron). Hence, the epidemiological models utilized for SARS-
+CoV-2 were not necessarily the most appropriate and may have incorrectly shaped control
+policies in some instances. Moving forward, it will be important to have pandemic plans in place
+for pathogens with a broader range of epidemiological and biological properties.
+
+
+                                                   1
+2. Expert Advisory Groups
+One of the major wins for Australia was that the scientific advice provided to the government
+was generally good, timely, and acted upon. This sits in stark contrast to countries like the UK
+and the USA.
+
+
+While the science-government interface generally worked well in Australia, mistakes were made.
+Of most note, the government seemed to only rely on the advice provided by a particular set of
+clinicians and epidemiologists, largely ignoring the work of other groups with other skill sets.
+This was most stark with respect to the delay in accepting that SARS-CoV-2 was subject to
+airborne transmission. As 2020 wore on, a large body of data accumulated, particularly from
+ventilation and air flow studies, that the virus was airborne. Yet these crucial data were
+minimised by the expert groups advising the government, who focused on clinical and
+epidemiological data which better fit their expertise and hence frame of reference. The WHO fell
+into exactly the same trap. Randomised control trials were considered the evidential “gold
+standard”. While this is true for most therapeutic interventions, a broader set of data are of value
+when investigating such issues as airborne transmission. The effective denial of airborne
+transmission, in the face of mounting evidence for its occurrence, resulted in incorrect advice on
+PPE, especially for health care workers, and hence a larger number of COVID infections. This
+was undoubtedly a major misstep.
+
+
+As a consequence, there should clearly be a broader range of skill groups providing advice to
+government. These should include, for example, experts in virus transmission, ventilation
+systems and PPE design. In particular, it is crucial that the Chief Scientist of Australia and the
+Australian Academy of Science be given more prominent roles as they can draw on a wide range
+of scientific expertise. They seemed to be effectively side-lined during the CO VID-10 pandemic,
+yet should be a key part of any future pandemic plan.
+
+
+3. Vaccines and Vaccination
+Australia’s vaccination policy was generally a success. However, the vaccine roll-out was slow
+and there was a delay in the purchase of sufficient mRNA vaccines (although this likely did not
+
+
+                                                  2
+have a major impact on pandemic control in the long term). Thankfully, Australia is now
+investing in mRNA technology.
+
+
+One aspect of the initial delay in vaccine procurement was an over-emphasis by some in
+government on producing a “home grown” Australian vaccine, specifically that designed by
+researchers at the University of Queensland. While it was correct that this vaccine project was
+funded and supported, because of the untested nature of the technology and the complexity of the
+problem it would have been advisable to have invested earlier in a broader set of vaccine
+technologies developed in other localities. Indeed, it was clear from early clinical trials and data
+from other localities that the mRNA vaccines were efficacious and should have been procured.
+Again, a broader advisory group may have been able to provide better advice. In addition, in
+both Australia and globally there was a marked lack of surge capacity for vaccine production.
+Hopefully, the new investment in mRNA technology in Australia will be help address this issue.
+
+
+The clarity and timing of vaccine advice provided by ATAGI should also be improved. Although
+it is important that ATAGI provide guidance, this was often too late, confusing, and sometimes
+seemingly of little scientific basis given the data available in other localities (e.g., which age
+groups should be vaccinated using which vaccines and when). As a specific case in point, the
+decision to offer XBB vaccines to the broader adult population (i.e., aside from the elderly and
+immunocompromised) in Australia was made far too late. To achieve as wide an update as
+possible, vaccine advice (and vaccine categories) should be far simpler. The skill base of ATAGI
+may also need to be expanded.
+
+
+Finally, for future pandemics, it should be mandated that any vaccines not used in Australia
+should be automatically given to lower income countries.
+
+
+Prof. Edward C. Holmes FAA FRS
+NHMRC Investigator Fellow and Professor of Virology,
+The University of Sydney
+
+
+
+
+                                                   3
+

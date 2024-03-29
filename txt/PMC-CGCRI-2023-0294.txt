@@ -1,0 +1,334 @@
+I have taken the time to put together some thoughts and answers to some questions regarding the
+"pharmaceutical" that our government, industries and colleagues are currently "advising" us to
+receive.
+I've attempted to use where possible reputable links and factual data, all the while acquiring this
+from the world's most common internet search engine - Google.
+I call it a "pharmaceutical" as it is not actually a vaccine per se, such as those administered for Polio,
+Measles, Mumps, Rubella (MMR), Chickenpox etc. These traditional vaccines are attenuated or
+inactivated viruses, or proteins exhibited by the virus, which elicit a natural broad spectrum immune
+system response to the virus as a whole which exhibit many (dozens) of antigen proteins to the
+body. https://en.wikipedia.org/wiki/Antigen. Each of these proteins/antigens become recognisable
+to the immune system and result in a broad long-term immunological memory.
+The efficacy (ability to prevent the disease) of these traditional vaccines are recorded to be around
+the 95% range (with decades of lasting protection), see the official data from the Center for Disease
+Control & Prevention (known as the CDC)
+https://www.cdc.gov/vaccines/vpd/mmr/public/index.html ,
+https://www.cdc.gov/vaccines/vpd/varicella/hcp/about-vaccine.html &
+https://www.cdc.gov/vaccines/vpd/polio/hcp/effectiveness-duration-protection.html
+
+
+What is the pharmaceutical being administered for SARS-CoV-2?
+In Australia we currently have two types of pharmaceuticals being administered and they both act by
+physically entering our body's cells to produce just the SARS-CoV-2 spike protein antigen of a specific
+strain of the SARS-CoV-2 virus it's coded for. These spike proteins are then meant to be exhibited on
+the host cell's wall. Our immune system seeing the spike antigen then mounts a response to the host
+cells, which are attacked and destroyed by our immune system as a normal virus would be. This
+results in a temporary (months to a year) immunity through antibody and memory B & T-cell
+production to that form (strain) of spike protein as encoded in the mRNA.
+What are Memory B & T cells https://www.cancercenter.com/community/blog/2017/05/whats-the-
+difference-b-cells-and-t-cells
+Synthetic Messenger Ribonucleic Acid (mRNA) used by Pfizer
+https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html
+
+
+
+
+Viral Vector (carrier) used by AstraZeneca (aka Vaxzevria) https://www.health.gov.au/initiatives-
+and-programs/covid-19-vaccines/is-it-true/is-it-true-does-the-vaxzevria-astrazeneca-vaccine-
+contain-animal-dna
+
+
+
+https://www.allfunctionalhealth.com/bloq/what-you-need-to-know-astra-zeneca-oxford-vaccine
+See also https://www.thainapci.org/2021/wp-content/uploads/2021/05/How-the-Oxford-
+AstraZenica-Vaccine-Works.pdf
+https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/learn-about-covid-19-
+vaccines/how-do-covid-19-vaccines-work & https://www.yalemedicine.org/news/covid-19-
+vaccine-comparison.
+
+
+How long does the currently administer pharmaceuticals in the fight against SARS-CoV-
+2provide immunity?
+The studies are ongoing as the pharmaceutical is still in the experimental phase, and detailed studies
+are difficult to find on Google based search engines which I've chosen to use for this exercise. The
+current research has shown that the durability of the antibodies produced wanes significantly over
+time. See the Time Course of SARS-CoV-2 Antibody Binding and Neutralization Responses after
+mRNA-1273 Vaccination https://www.nejm.org/doi/full/10.1056/nejmc2103916. This short lived
+immunity is in stark contrast to the classical vaccines for Mumps, Measles, Rubella, Polio and the
+like.
+
+
+How successful is the jab? - a real world example from the source of global disease
+studies and guidance.
+Straight from the Center for Disease Control (CDC)
+Outbreak of SARS-CoV-2 Infections, Including COVID-19 Vaccine Breakthrough Infections,
+Associated with Large Public Gatherings — Barnstable County, Massachusetts, July 2021
+Outbreak of SARS-CoV-2 Infections, Including COVID-19 Vaccine Breakthrough Infections, Associated
+with Large Public Gatherings — Barnstable County, Massachusetts, July 2021 | MMWR (cdc.gov)
+This states that of the 469 people that were infected at the fair 74% were fully 'vaxed', no one died
+and only 5 people ended up in ICU of which 4 of the 5 were fully vaxed.
+It's quite the possibility that the pharmaceutical don't work as promised and possibly could make
+future infections worse in due course as a result of a phenomenon known as Antibody Dependant
+Enhancement, see Antibody-dependent enhancement and SARS-CoV-2 vaccines and therapies |
+Nature Microbiology,
+Additionally if no one died out of 469 then the virus doesn't appear that deadly, 89% of the cases
+were the "Delta" variant.
+
+
+What's happening in the most vaccinated nation in the world?
+https://theconversation.com/covid-cases-are-rising-in-highly-vaccinated-israel-but-it-doesnt-mean-
+australia-should-give-up-and-live-with-the-virus-166404
+
+
+
+https://www.news.com.au/world/coronavirus/global/israel-fighting-record-breaking-surge-in-
+covidl9-cases-despite-high-levels-of-vaccination/news-
+Story/3445287a9c46e8712574da2316bd3eel
+Has Antibody Dependent Enhancement (ADE) occurred recently?
+Yes, sadly in the Philippines 2017.
+https://www.nytimes.com/2017/12/17/health/sanofi-dengue-vaccine-philippines.html
+https://www.npr.org/sections/goatsandsoda/2019/05/03/719037789/botched-vaccine-launch-has-
+deadly-repercussions |
+                               ■Yes it was approved by the FDA, the same organisation at approved
+the SARS-CoV-2 pharmaceutical under Emergency Use Authorisation.
+
+
+
+
+https://medicalxpress.com/news/2019-03-philippines-sanofi-dengue-vaccination-deaths.html
+https://www.pharmaceutical-technology.com/features/dangvaxia-philippines/
+Personally I'm deeply concerned that ADE might occur in future mutations of the SARS CoV-2 virus.
+Those that received the Dengvaxia whose immune system hadn't seen Dengue Fever before were
+those at risk of ADE.
+
+                            | Antibody-dependent enhancement and SARS-CoV-2 vaccines and
+therapies | Nature Microbiology
+
+See also the Historical Vaccine Safety Concerns Historical Safety Concerns | Vaccine Safety | CDC.
+The tragedy of Thalidomide a prime case of where pharmaceutical companies, regulating bodies
+down to family general practitioners got it very wrong. After 60 years, scientists uncover how
+thalidomide produced birth defects - Dana-Farber Cancer Institute | Boston, MA
+
+
+Is the Pharmaceutical potentially dangerous?
+See this very interesting video pod cast with the inventor of the mRNA technology Dr Robert Malone
+https://www.youtube.com/watch?v=Du2wm5nhTXY who concludes yes.
+Here are two prominent cases of vaccine injuries to Australian media related personnel that could
+not be hidden, https://www.news.com.au/entertainment/tv/radio/jackie-o-reveals-ex-experienced-
+adverse-reaction-to-pfizer-vaccine/news-story/0a734cde4b7cf42f3717elb96fd9adel
+Dr Geert Vanden Bosch believes the consequences could dire.
+https://www.geertvandenbossche.org/post/c-19-pandemia-quo-vadis-homo-sapiens
+
+
+How deadly is the virus in the most vaccinated nation in the world?
+https://www.worldometers.info/coronavirus/country/israel/ 7205 deaths to 1117596 cases = 0.6%,
+and out of the entire populace of 9.45M equates to 0.076% and Israel has medium density living
+with the land mass of Israel being 22,145 square km. The land mass of NSW is 801,150 square km (36
+times Israel's) with a population of 8.16M (which is commensurate (1.3M less people in fact) to
+Israel's population). Likely spread of the disease would therefore be less given the greater natural
+social distancing. As of 16:30pm 07Sept21 NSW has 193 deaths to 36267 cases., that's 0.5% death
+rate, not dissimilar to Israel's 0.6%. When assessed across the entire population of NSW that's
+0.0023%.
+
+
+How did countries with a lax approach to the disease fair?
+Sweden is a prime example of a 1st world country and it's density of living is 25 people/km whereas
+Australia's is 3 people/km
+https://www.statista.com/statistics/525530/sweden-death-rate/The mean death rate in 2020 was
+9.6/1000 people and was beaten by 2012 @ 9.7/1000 people.
+
+
+
+
+How reliable are the tests?
+The RT-PCR test used for diagnosing the disease has the following rates of efficacy
+https://www.cochrane.org/CD013705/INFECTN how-accurate-are-rapid-tests-diagnosing-covid-19
+
+
+
+
+Furthermore, see the attached video with the statement from the inventor of the PCR test Nobel
+Prize winning (1993) Dr Kary Mullis
+https://m.facebook.com/story.php?story_fbid=392865632367729&id=100049328857525&sfnsn=m
+o . Dr Kary Mullis died in Aug 2019 https://www.nytimes.com/2019/08/15/science/kary-b-mullis-
+dead.html
+NY Times put out an article regarding the number of cycles and the false positives that result from
+turning up the number of amplification cycles.
+https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html
+The PCR test can also be picking up dead virus fragments https://www.bbc.com/news/health-
+54000629
+
+
+Do masks really work to reduce infection?
+A Randomized controlled trial (DANMASK-19 [Danish Study to Assess Face Masks for the Protection
+Against COVID-19 Infection]). (ClinicalTrials.gov: NCT04337541)
+https://www.acpjournals.org/doi/10.7326/m20-6817 A total of 3030 participants were randomly
+assigned to the recommendation to wear masks, and 2994 were assigned to control (no mask); 4862
+completed the study. Infection with SARS-CoV-2 occurred in 42 participants recommended masks
+(1.8%) and 53 control participants (2.1%).
+The CDC cites dubious "real-world" information regarding the effectiveness of the masks, with no
+"control" groups in any of the cited reports. While the DANMASK-19 study is not the pinnacle of
+epidemiological studies it has significantly more scientific merit than that cited by the CDC where the
+first cited report is based on hair salon in Springfield MO in the USA.
+
+
+Is it wise to vaccinate the entire population?
+The graph below is taken from https://www.health.gov.au/resources/covid-19-deaths-by-age-group-
+and-sex
+
+
+
+
+                  13-19
+
+
+
+
+uwty'cwi
+
+
+
+
+Surely a wise approach would be to allow those in the higher risk 50+ age brackets to voluntarily
+take the 'vaccine', not the entire populace including teenagers and children who statistically have no
+chance of dying from the disease, but the available data has shown there is a real possibility of
+suffering adverse effects from the 'vaccine', even death. The CDC itself reported on the 1st of Sept
+2021 https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines.htmlB
+
+
+
+
+The inventor of the mRNA technology Dr Robert Malone had something to say about administering it
+to young people, see mRNA vaccine inventor speaks out on ’Tucker1 after YouTube deletes video of
+him discussing risks | Fox News
+
+See the attached report from the Australia Therapeutic Goods Administration (TGA) Database of
+Adverse Avent Notifications (DAEN) report generated on the 21st of August 2021
+      •     Number of reports (cases): 46438
+      •     Number of cases with a single suspected medicine was the cause: 45778,
+      •     Number of cases where death was a reported outcome: 448
+Since the virus entered our nation, there has been 1167 deaths with SARS-CoV-2 over the last
+ISmths https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-
+alert/coronavirus-covid-19-case-numbers-and-statistics. The pharmaceutical has been readily
+available for 6mths now and there has been 448 cases where death was a reported outcome from
+receiving it. You can see that if the pharmaceutical had been administered for ISmths (3 x 6mths),
+the same length of time the virus existed in Australia, that the number of reported deaths arising
+from it would likely equate to 3 x 448 = 1344. This is 117 more people than what the virus has
+reportedly resulted/influenced the death of. Obviously there has not been millions of Australians
+exposed to the virus that we know of but it's still food for thought. I suspect that the number of
+people that were exposed to the virus would be 4 times the case rate, but they didn't develop
+symptoms, were immune or didn't bother getting tested.
+
+Also see the death/injury rate from the pharmaceutical administered in the USA: La      \ A RS )ata
+Show: 5,165 Deaths Reported Hollowing COVID Vaccines • Children's Health Defense
+(childrenshealthdefense.org)
+
+
+How long do clinical trials typically take?
+https://www.antidote.me/blog/how-long-do-clinical-trial-phases-take
+
+
+
+
+https://www.gavi.org/vaccineswork/how-covid-19-leading-innovation-clinical-trials "On average,
+vaccine development can take 10-15 years."
+https://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation
+
+
+Are there other readily available drugs that can help reduce the infection rate and if the
+disease is contracted its severity?
+Since the outbreak of SARS-CoV-2 cheap and readily available drugs have been trialed throughout
+the world, particularly in countries with lower economic capacities.
+
+
+Ivermectin is a well-known, FDA-approved anti-parasite drug that has been used successfully for
+more than four decades to treat onchocerciasis "river blindness" and other parasitic diseases. It is
+one of the safest drugs known. It is on the WHO's list of essential medicines, has been given 3.7
+billion times around the globe, and has won the Nobel prize for its global and historic impacts in
+eradicating endemic parasitic infections in many parts of the world. Our medical discovery of a
+rapidly growing published medical evidence base, demonstrating ivermectin's unique and highly
+potent ability to inhibit SARS-CoV-2 replication and to suppress inflammation. Ivermectin in COVID-
+19 - FLCCC | Front Line COVID-19 Critical Care Alliance (covidl9criticalcare.com)
+The following peer reviewed and published report also shows that Ivermectin is highly effective in
+reducing the likelihood of infection and severity of SARS-CoV-2.
+Review of the Emerging Evidence Demonstrating the Efficacy o... : American Journal of Therapeutics
+(lww.com)
+Nobel Prize multi-use for IVERMECTIN: Ivermectin: a multifaceted drug of Nobel prize-honoured
+distinction with indicated efficacy against a new global scourge, COVID-19 (nih.gov)
+Enigmatic multifaceted 'wonder' drug continues to surprise and exceed expectations - The Journal
+of Antibiotics: https://www.nature.com/articles/ja201711
+IVERMECTIN for SARS-CoV-2£https://pubmed.ncbi.nlm.nih.gov/33278625/_and
+https://www.monash.edu/discovery-institute/news-and-events/news/2020-articles/Lab-
+experiments-show-anti-parasitic-drug,-Ivermectin,-eliminates-SARS-CoV-2-in-cells-in-48-hours
+Anti-viral action: https://pubmed.ncbi.nlm.nih.gov/32462282/
+Ionophore: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5835698/
+Stopping viral replication: https://www.sciencedaily.com/releases/2020/04/200403115115.htm/
+Extremely safe: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043740/
+Works when distributed: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8088823/
+Works when administered: https://www.biznews.com/health/2021/07/29/ivermectin-treatment
+India WHO white paper: https://www.financialexpress.com/iifestyle/health/covid-19-states-ignore-
+who-recommendation-on-ivermectin-heres-what-doctor-who-wrote-white-paper-on-the-drug-has-
+to-say/2231596/
+2019 CDC Memo m Ivermectin Resurfaces After Media Blasted The Drug as 'Horse Treatment':
+https://resistthemainstream.org/2019-cdc-memo-on-ivermectin-resurfaces-blows-a-hole-in-medias-
+narrative/
+For those who do not wish to take a rushed inoculation that is only provisionally approved by the
+TGA (a process which |
+                                                   M), Ivermectin was the option for treatment.
+Now this option has been taken away from GPs to prescribe it for SARS-Cov-2.
+
+
+Monoclonal antibody Treatment Monoclonal antibodies are '
+
+   |   according to the U.S. Food and Drug Administration (FDA). In this case, these antibodies
+replicate your body's immune response to COVID-19, blocking or neutralizing the SARS-CoV-2 virus
+before it can make you severely ill. https://www.prevention.com/health/a36464562/what-are-
+monoclonal-antibodies-covid-19/
+
+
+
+
+                                                                          https://au.gsk.com/en-
+au/media/press-releases/2021/first-monoclonal-antibody-treatment-approved-for-covid-19-in-
+australia/
+Australians are set to have access to a new treatment for COVID-19, in addition to the continuously
+expanding vaccine rollout https://www.health.gov.au/ministers/the-hon-greg-hunt-
+mp/media/additional-covid-19-treatment-for-australia
+https://www.nwahomepage.com/news/local-doctor-encourages-monoclonal-antibody-treatment-
+against-covid-19/
+
+
+Closing statement:
+If you feel you should take the pharmaceutical based on your physiology, age, health concerns and
+are comfortable with it, you are rightfully entitled to do so. If you consider your innate immune
+system to be strong or are uncomfortable with the pharmaceutical and are unsure about it all, don't
+submit to it. I note that taking a vaccine is irrevocable, you can't just stop its impact on your health
+such as a course of antibiotics, oral medicines, topical medicines or intravenous drugs should you
+begin to see side effects. It's for this reason that much caution and extensive research should be
+done by the pharmaceutical companies, governing bodies, medical practitioners and even the
+individual. We MUST NOT be driven by fear.
+
+Forcing others to believe as you do, regardless of your fears, either way, I find that to be
+unacceptable.
+Implementing a vaccine passport and restrictions in our society based upon the receipt of ANY
+pharmaceutical is abhorrent and discriminatory.
+The following pivotal documents aim to prevent such measures:
+
+
+
+
+The Nuremburg Code (1947)
+https://media.tghn.org/medialibrary/2011/04/BMJ_No_7070_Volume_313_The_Nuremberg_Code.
+pdf
+Australian Constitution Section 51 XXIIIA
+file:///C:/Users/dfoster/Downloads/2012 Australian Constitution.pdf
+
+
+
+
+Yours sincerely,
+Dave.
+
+
+"res ipsa loquitur"
+

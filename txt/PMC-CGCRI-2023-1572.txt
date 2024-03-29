@@ -1,0 +1,722 @@
+Aigroup
+
+Submission to the Commonwealth
+Government COVID-19 Response Inquiry
+
+Australian Industry Group
+December 2023
+   Aigroup
+
+
+   ntroduction
+The Australian Industry Group (Ai Group®) is a peak national employer organisation representing
+traditional, innovative and emerging industry sectors. We have been acting on behalf of businesses
+across Australia for 150 years.
+
+Ai Group and partner organisations represent the interests of more than 60,000 businesses employing
+more than one million staff. Our membership includes businesses of all sizes, from large international
+companies operating in Australia and iconic Australian brands to family-run SMEs. Our members
+operate across a wide cross-section of the Australian economy and are linked to the broader
+economy through national and international supply chains.
+
+Ai Group welcomes the opportunity to contribute to the Commonwealth Government COVID-19
+Response Inquiry.
+
+This submission focuses on the experience of Australian businesses - particularly the approximately
+one million businesses with employees1 - during the acute phases of the Covid pandemic in 2020
+and 2021.
+
+These businesses were forced to contend with the most challenging operational environment in living
+memory, managing both the impacts of the pandemic and the public health measures put in place to
+contain it.
+
+At a time of extreme social and economic stress, business played a critical role in keeping Australian
+supply chains open, ensuring continuity in essential services and infrastructure, and protecting the
+jobs of the 11 million Australians2 employed in the private sector.
+
+Australia ability to successfully navigate the acute phases of the pandemic, and then emerge into a
+strong post-pandemic recovery, depended on the resilience and adaptability of our businesses.
+
+The challenges of the COVID-19 pandemic were extraordinary and will hopefully not be faced again.
+However, it is crucial that if we face a similar disruptive event in future - whether that be of a public
+health or other cause - that we have learnt lessons from the experience of 2020 and 2021.
+
+Of particular importance are lessons for how governments can support business to flexibly maintain
+operations, and preserve employment relationships, during a period of abnormal and unexpected
+societal disruptions.
+
+
+
+
+1 In the June quarter of 2020, there were 2.31 million operating businesses in Australia, of which 873,343 were employing. By
+the December quarter of 2021, the number of businesses had increased to 2.45 million, and employing businesses to
+1,013,714. See Australian Bureau of Statistics, Counts of Australian Businesses, including Entries and Exits, Datacube 12,
+https://www.abs.gov.au/statistics/economy/business-indicators/counts-australian-businesses-including-entries-and-
+exits/latest-release
+2 In February 2020, there were 11.1 million employed people whose main job was in the private sector. This has subsequently
+risen to 12.1 million by August 2023. See Australian Bureau of Statistics, Labour Force Australia Detailed, Table 26b,
+https://www.abs.qov.au/statistics/labour/emplovment-and-unemplovment/labour-force-australia-detailed/latest-release
+
+
+
+
+www.aigroup.com.au                                                                                                       2
+   Aigroup
+
+
+Ai Group recommendations to assist businesses to better manage future responses to major
+disruptive events, including pandemics:
+
+    1.   The importance of a nationally consistent approach to communication. Businesses,
+         employees and the public require clear and consistent communication. This must be
+         coordinated between different levels of government to avoid competing messages or
+         contradictory approaches, single portal/source of information and workplace guidelines
+
+    2.   Consider business continuity in policy. Responses to major societal disruptions should take
+         business continuity considerations into account and involve consultation with business to
+         ensure policy is designed in a way that minimises continuity impacts.
+
+    3.   The importance of open borders. Closures to international and/or domestic borders disrupt
+         the flow of goods, services and workforce in complex and damaging ways. Border closures
+         should be a measure of last resort, and maintained for only as long as strictly necessary.
+
+    4.   Provision of financial support. During mid-2020, the JobKeeper program was instrumental in
+         supporting businesses' operational and workforce continuity. Suitably-calibrated financial
+         support programs are an essential component of policy responses to societal disruptions.
+
+    5.   Focus on supply chain resilience. Interruptions to national and global supply chains at times
+         had as much of a negative impact as public health measures. Providing support to business
+         for supply chain diversity before, and resilience during, societal disruptions is essential.
+
+
+    1.       The COVID-19 pandemic in Australia
+The COVID-19 pandemic emerged in Wuhan, China, in December 2019 and began to spread to other
+countries from January 2020. Australia experienced several waves of COVID-19 infections and control
+measures. The first wave (March to May 2020) saw small numbers of infections and strict activity
+restrictions in all states. In the second wave (July to October 2020), almost all COVID-19 infections
+were in Melbourne, Victoria. A third wave associated with the Delta variant occurred during winter
+2021, with infections and public health measures concentrated in NSW and Victoria.
+
+However, international and interstate border closures, travel restrictions and various activity
+restrictions affected businesses and communities between March 2020 and February 2022.
+
+The COVID pandemic resulted in Australia's first recession for almost 30 years. Core macroeconomic
+measures in Figure 1 below show the pandemic had two periods of acute impact on the Australian
+economy:
+
+    •    An initial downturn in early-2020, associated with the first adoption of public health measures
+         at the national level. This saw employment, industry value-add and real GDP each fall by
+         approximately 6 percent in the June quarter, followed by a recovery phase through early 2021.
+
+    •    A second downturn in winter 2021 associated with the adoption of public health measures in
+         NSW and VIC in response to the Delta wave. This saw a smaller (~2%) decline in economic
+         activity in the September quarter, also followed by a recovery phase.
+
+Australia's closed international border also impacted the aggregate size of Australia's labour force.
+The closure of the international border from March 2020 reduced the supply of new migrants,
+resulting in Australia's working age population declining by 100,000 people (or 0.6%) by the third
+
+
+
+
+www.aigroup.com.au                                                                                 3
+   Aigroup
+
+quarter of 2021. Normal growth in the working age population would only return following the
+reopening of the international border in early 2022.
+
+                      Figure 1: Australia's economic performance during COVID
+
+
+         112                                                                                            Real industry
+                                                                                                      1 value added
+
+         110                                                                                           Employed
+                                                                                                       persons
+         108
+                                                                                                       Real GDP
+
+         106
+
+                                                                                             Working age
+         104                                                                                 population
+
+         102
+
+
+         100
+
+
+          98
+
+
+          96
+                                                                        Population
+                                 Initial COVID           Winter 2021    growth returns
+          94
+                                 impact 2020             lockdowns      positive 2022
+
+
+                                                      rj®                  cj^
+
+
+                                          Source: ABS National Accounts, ABS LFS, ABS NSTP ■ Ai Group Research & Economics
+
+
+
+
+    2.         Ai Group business data on business experiences during the pandemic
+During the acute phases of the pandemic in 2020 and 2021, Ai Group worked intensely to support our
+members to manage and adjust to changing business and social conditions. As part of this work, we
+conducted research to understand, in real time, the impact of the pandemic and its associated public
+health measures on our members.
+
+Ai Group Research & Economics collected information on the business impacts of the pandemic as
+part of our regular survey research and business liaison programs. Between March 2020 and October
+2021, we collected a dataset of 4193 pieces of qualitative data from Australian businesses on their
+experiences during the pandemic.
+
+The data describes: (a) the impact of both the pandemic and its associated public health measures
+on businesses; (b) the changes to operations implemented in response by businesses; and (c) the
+forms of support required by businesses to implement these operational changes.
+
+Monthly data collection means this Ai Group dataset provides fine-grained resolution on how
+business experiences of the pandemic changed month-to-month during the acute phase of the
+pandemic. The following sections use this data to examine how business impacts, responses and
+support needs evolved during this twenty-month period.
+
+
+
+
+www.aigroup.com.au                                                                                                   4
+   Aigroup
+
+    3.         The impact of pandemic and activity restrictions on business operations
+The effect of the pandemic on businesses was initially overwhelming, and it had an adverse effect on
+operations throughout the following two years. As the first public health measures were put in place,
+some 90% of businesses reported to Ai Group a negative operational impact of some kind in April
+2020. Negative business impacts attributed to the pandemic were reported throughout the remainder
+of 2020 and 2021, with spikes in reporting rates associated with the second (Q3 2020) and third (Q3
+2021) COVID waves.
+
+
+
+                   Figure 2: Negative impacts of pandemic on Australian business operations
+
+
+              Psychosocial impact (including anxiety)                          Reduced demand
+
+                                                                                        2nd                                     3rd
+                                                                                /wa64^\wave                                     wave
+                                                                               56             V
+                                                                                              52 50
+
+
+                                                                                                      37
+
+
+         20   23
+                                                                                                               \/21<
+                                                                                                               13   1214
+                   2 3                                                                                                     11
+                                                                                                                                       6 7
+                                                                                                               jv a
+                                                                                                                       #
+              Restrictions on activity                                         Supply chain disruptions
+         70
+                   1 st     2nd                                3rd                  1st       2nd                               3rd
+         60        wave     wave                               wave                 wave      wave                              wave
+
+
+         50
+
+         40
+
+         30                    33                                   .34
+
+                                    26\
+         20                                                               24
+                                     22,
+                                                               20
+                                                                               16.         ^x/isk                               ------ <16
+                                                                                    \5     10lz10          ?   3 4 4^ 13121212
+                                                          40
+                                                                                     7                         —--------- 6
+
+                                                                                                 c?            70 ,n> jO
+
+     Source: Ai Group business liaison data • Data is collated from comments received in various Ai Group business surveys (n=4193) conducted
+       between March 2020 and October 2021. Values present share of businesses referencing the identified impact during the surveyed month.
+
+
+The four most commomly reported negative impacts on business were:
+
+    1.   Psychosocial impact and anxiety. This initially had a major impact on business, particularly the
+         challenge of managing high levels of anxiety within workforce as public information rapidly
+         changed. In March 2020, 23% of businesses reported uncertainty and staff anxiety was
+         adversely affecting business operations. The announcement of the JobKeeper wage subsidy
+         in April 2020 went some way to relieving these pressures, and levels of reported
+
+
+
+
+www.aigroup.com.au                                                                                                                      5
+   Aigroup
+
+         uncertainty/anxiety decreased thereafter. However, a small number of businesses (~2-4%)
+         continued to report this factor as an issue each month for the remainder of the pandemic, with
+         spikes occurring during each of the various Covid waves.
+
+    2.   Reduction in customer demand. Most businesses reported sales and orders dropped in the
+         early stages of the pandemic as uncertainty about death, illness and ongoing conditions
+         dominated concerns. In April 2020, 68% of businesses reported declining demand conditions,
+         which fell to 43% of businesses per month by the end of the year. Business continued to report
+         lowered demand throughout the rest of the pandemic, albeit at lower incidence rates (6% to
+         21% per month) in 2021.
+
+    3.   Activity restrictions. Periodic lockdowns at a city- or state-level had a major impact on
+         business operations throughout the pandemic. Restrictions on conditions, particularly
+         regarding workforce capacity - the proportion of the workforce allowed on site at one time -
+         hindered business operations. The number of businesses whose operations were impacted by
+         activity restrictions was normally a few percent per month across the pandemic, but surged to
+         around one-in-three during the second and third waves.
+
+    4.   Supply chain disruptions. These began impacting businesses very early in the pandemic, with
+         one in six businesses affected per month at peaks during the first and second waves. The
+         incident of supply chain disruptions declined over the summer of 2020-21, before increasing
+         again during the third wave in winter 2021. In 2020, business reported that supply chain
+         disruptions were mostly associated with activity restrictions preventing normal logistics
+         operations. By 2021, international factors associated with shortages in total supply (rather than
+         domestic logistical interruptions) were being reported as the leading factor.
+
+
+    4.       Business responses to COVID-19 and subsequent activity restrictions
+To adjust to the impacts of both the pandemic and its related public health measures, Australian
+businesses implemented a number of operational changes (Fig 3):
+
+    1.   Mandatory working from home for some or all staff was introduced as an initial response by
+         55% of businesses in March 2020. This reflected the high degree of uncertainty in the early
+         stages of the pandemic. For the remainder of 2020, around a quarter of businesses introduced
+         or reintroduced work from home (WFH) practices each month. By the 3rd wave in mid-2021,
+         WFH had become an established business practice, and did not have to be reintroduced.
+
+    2.   Home schooling mandates added unpredictability and complexity to the working environment
+         and reduced the separation of work and homelife. Some but not all employees were required
+         to take on additional caring responsibilities during various restriction periods. Employers were
+         faced with difficult choices in accommodating reduced productivity while supporting their
+         employees during a period of high stress and competing priorities.
+
+    3.   Reduction in employee hours and/or headcount. As activity restrictions were introduced in
+         early 2020, a large share of Australian businesses were forced to reduce employment - as
+         many as 48% of respondents in April 2020. The introduction of the JobKeeper program from
+         the second quarter of 2020 reduced the number of businesses reporting employment
+         reductions throughout the rest of the year. A small uptick in employment reduction (to 14% of
+         businesses in August 2021) occurred during the third wave.
+
+
+
+
+www.aigroup.com.au                                                                                  6
+   Aigroup
+
+       4.                    Increased investment in technology. Businesses adopted basic technology practices (such as
+                             video conferencing) within weeks of the pandemic. However, more substantive technology
+                             investments were made during the second wave, as businesses recognised the need to make
+                             broader technological changes to their operational processes to facilitate WFH. Ai Group data
+                             shows that this phase of deeper technology change occurred in late 2020/early 2021.
+
+        5.                   Seek new suppliers. During the initial supply chain disruptions in 2020 caused by domestic
+                             activity restrictions, businesses had few options to diversify their supply chains. However,
+                             during the second phase of supply chain disruptions in 2021 - which was associated with
+                             international logistics interruptions - businesses more actively sought to diversify their supply
+                             base. Throughout the middle of 2021, around one-in-six businesses per month reported active
+                             efforts to find new supply partners.
+
+                                                           Figure 3: Australian business responses to the pandemic
+
+                                  Introduced (or reintroduced) mandatory WFH practices                  Reduce employee hours/headcount
+                             55
+                                  551 st wave 2nd wave                                       3rd wave        1st wave 2nd wave                           3rd wave
+                             50
+                                                                                                             48
+   Share of businesses (%)
+
+
+
+
+                                    39                                                                            V3933
+                             35
+                                                                                                                  35   1
+                             25          \           A                                                                        '   27.
+                                         25, /25               / |                                      26                 2424   I 1
+                             20
+                                                                           21
+                                                19
+                             15
+                             10                            13
+
+                                                                                     1   1    0 0 0 0                                    \y5\>
+                                         .'Si        nSi        pR)
+                                                                                                                                        jC- .d>
+
+
+                                  Increase use of technology                                            Seek new suppliers
+                             55
+                                    1st wave 2nd wa\54i                                      3rd wave        1st wave 2nd wave                           3rd wave
+                             50
+                             45
+   Share of businesses (%)
+
+
+
+
+                             40
+                             35
+                                                                      36
+                             30
+                             25                                                 29
+
+                             20
+                             15                                                                                                                  ______ /18t
+                                                                                                                                                P^3
+                             10                                 .12
+                                                4 4                                                                               4
+                                                                                                                                         2 1/
+                                                           5                                       6                                                               5
+
+                                                                                             <0   ri>
+                                                           ,<S
+                    Source: Ai Group business liaison data • Data is collated from comments received in various Ai Group business surveys (n=4193) conducted
+                    between March 2020 and October 2021. Values present share of businesses referencing the identified response during the surveyed month.
+
+
+
+
+www.aigroup.com.au                                                                                                                                             7
+   Aigroup
+
+    6.         Business assistance requirements during 2020
+At the start of the pandemic, the goodwill from businesses in reducing infection rates, keeping staff,
+suppliers and customers safe, and calming their workforces cannot be understated. During 2020,
+businesses indicated to Ai Group they had three primary requests for Government assistance:
+
+    •    Clear and consistent information. The lack of clear and consistent information from various
+         Government agencies, often contradictory, contributed to uncertainty. 60% of businesses in
+         March 2020 reported to Ai Group they needed clearer instructions and rules. By the second
+         wave in mid-2020, improved government messaging ensured that the number of businesses
+         requesting clearer instructions per month had fallen to single digit percentages.
+
+    •    Financial assistance to ease cash flow pressures. By April 2020 cash flow became a major
+         business concern, with 50% of businesses reporting they needed financial assistance. The
+         number of businesses reporting they required financial assistance decreased following the
+         introduction of JobKeeper in April 2020, but remained significant - around a quarter to a third
+         of businesses per month - for the remainder of 2020.
+
+    •    Easing restrictions. Strict activity restrictions, particularly the limits imposed in Victoria, greatly
+         inhibited trade, movement of staff, and the ability for businesses to operate efficiently. During
+         the first half of 2020, around one-third of businesses needed restrictions to ease to operate
+         effectively. This rose to around three quarters in October 2020, as activity restrictions which
+         had been in place for several months made it difficult for many businesses to continue trading.
+
+              Figure 4: Pandemic-associated business assistance requirements during 2020
+
+              Clear and certain instructions/rules                             Financial assistance (incl JobKeeper)
+         80
+                  1st wave                   2nd wave                                 1 st wave                  2nd wave
+         70
+         60
+         50
+                                                                                  / 50
+         40                                                                                            46
+                                                                                 39                         38
+         30                                                                                       36
+                                                                                                                   32
+         20
+         10           14     16
+                                                                                                                                11
+          0
+
+
+
+
+              PRE & hygiene products                                           Easing restrictions
+         80
+                  1st wave                   2nd wave                                 1 st wave                  2nd wave .     77
+         70
+         60                                                                                                             768
+                                                                                                                                      61
+         50
+         40
+                                                                                         40
+         30
+                                                                                                  33   31   32
+         20
+         10                  2
+          0
+
+
+
+     Source: Ai Group business liaison data • Data is collated from comments received in various Al Group business surveys (n=1899) conducted
+    between March and November 2020. Values present share of businesses referencing the identified assistance requirement during the month.
+
+
+
+
+www.aigroup.com.au                                                                                                                     8
+   Aigroup
+
+One area where business indicated they required lower assistance was the provision of Personal
+Protection Equipment (PPE) and hygiene products. There was considerable government effort -
+particularly from state governments - oriented towards the supply of PPE during the early phase of
+the pandemic. While this was certainly critical for the health system and continuity in other public
+infrastructure, it was of relatively less importance for business continuity. Only 9% of businesses
+reported a need for PPE support in March 2020, a figure which declined to negligible levels thereafter.
+
+
+     7.        The JobKeeper Payment scheme
+Many businesses were affected by the sudden onset of the pandemic. Some were unable or greatly
+constrained in their ability to trade due to activity restrictions. Others faced sharp falls in revenue due
+to restrictions affecting their suppliers or customers. Very high levels of social and economic anxiety
+saw general economic conditions decline precipitously, evident in the 6% fall in real GDP in the June
+quarter of 2020.
+
+As a result of these dynamics, many businesses began shedding labour in the early phases of the
+pandemic. During the month of April 2020, some 48% of businesses reported to Ai Group they were
+reducing either employee headcount and/or hours.
+
+The Commonwealth introduced the JobKeeper Payment scheme on 30 March 2020. The scheme
+offered a wage subsidy of $1500 per fortnight per employee to businesses and not-for-profits to
+maintain employment relationships. A set of eligibility criteria based on an actual or anticipated fall in
+turnover determined which enterprises could qualify for the wage subsidy; alongside rules for
+employee eligibility and the handling of other employment-related payments (such as paid parental
+leave and workers compensation).
+
+The JobKeeper Payment Scheme was critical in ensuring businesses could continue normal trading
+during the first acute phase of the pandemic. At its peak in the third quarter of 2020, JobKeeper was
+supporting an estimated 900,000 businesses and 3.5 million workers3.
+
+Ai Group data shows that JobKeeper was correlated with positive improvements in business
+resilience:
+
+     •    50% of surveyed businesses reported a need for financial assistance in April 2020. The number
+          reporting this need began to decline from June, and had fallen to only 11% by October 2020.
+          (Figure 4)
+
+     •    48% of surveyed businesses reported reducing employment in April 2020. The number
+          reporting this response also began to decline from June, and had fallen to 5% by October.
+          (Figure 3).
+
+Consistent with the findings of several macroeconomic studies4, this business-level Ai Group data
+indicates that JobKeeper was critical in supporting businesses to maintain their employment
+relationships with their workforces throughout 2020.
+
+
+
+
+3 James Bishop and Iris Day (2020), 'How Many Jobs Did JobKeeper Keep?’, Reserve Bank of Australia, RDP 2020-07,
+https://www.rba.gov.au/publications/rdp/2020/2020-07/
+4 Official studies include Treasury (2021), Insights from the First Six Months of JobKeeper,
+https://treasury.gov.au/sites/default/files/2021 -10/p2021 -211978 0.pdf: and James Bishop and Iris Day (2020), 'How Many
+Jobs Did JobKeeper Keep?’, Reserve Bank of Australia, RDP 2020-07, https://www.rba.gov.au/publications/rdp/2020/2020-07/.
+Several academic studies finding similar effects on employment reduction, albeit with different magnitudes, are review in Jeff
+Borland and Jennifer Hunt (2023), 'JobKeeper: An Initial Assessment’, Australian Economic Review, 56(1): 109-123.
+
+
+
+
+www.aigroup.com.au                                                                                                     9
+   Aigroup
+
+Nonetheless, the JobKeeper scheme was complex in its design, and implemented on a much shorter
+timescale than normal for a policy intervention of its complexity and magnitude. Many businesses
+struggled to understand whether their business or workforce was eligible for the scheme.
+
+These businesses requested assistance from Ai Group to determine their JobKeeper eligibility. The
+requests they made to us provide an illustrative outline of the complexities involved in administering
+the scheme, and point towards factors to consider if a similar scheme is needed again.
+
+
+
+                    Figure 5: Business queries regarding JobKeeper program, April 2020
+
+
+
+ Specific employee eligibility cases                                                                                                  39
+
+        General program information                                                              24
+          Annual/long service leave
+                       interactions                                                18
+
+                     Payroll matters                                      15
+                                                                   12^
+                 Business eligibility
+
+
+                     Internal friction                             12
+
+              Stand down directions
+                                                              10|           '
+
+                  Casual employees
+
+
+            Staff earning <$1500 p/f                 61
+
+                                                                                Share of businesses (%)
+
+               Source: Ai Group business liaison data • Data is collated from emails sent to Ai Group "JobKeeper query" inbox during April 2020.
+
+
+
+JobKeeper administration queries included the following:
+
+    •     Employee eligibility: with respect to casual employees, newly-hired permanent staff,
+          employees on distinct types of leave (including parental), eligibility dates, length of service, and
+          if recent redundancies could be reversed. There was some confusion about the eligibility of
+          staff on temporary and permanent migration visas.
+
+    •     Accessing information, including where to find government information (from which
+          government department), how to find out who qualifies, how to communicate to employees,
+          where to apply, when to apply, when payments would start, and which time periods were
+          covered.
+
+    •     Leave: how to treat annual leave and long service leave, how to apply JobKeeper Payments to
+          employees on leave, and whether employees could be directed to take leave.
+
+    •     Incorporation into payrolls. Was it a top-up or increase to normal wages? Should salaries be
+          cut to JobKeeper? How to include JobKeeper in payroll on-costs and deductions? How to
+          integrate JobKeeper in superannuation calculations.
+
+
+
+
+www.aigroup.com.au                                                                                                                       10
+   Aigroup
+
+    •    Clarification on business eligibility: Businesses that were part of a larger corporate entity
+         sought clarification about whether all of the company group needed to qualify, or whether each
+         company within a group was assessed separately.
+
+    •    Stand down directions: Whether a business needed to confirm its eligibility for JobKeeper
+         before resorting to stand down directions; whether employees that had already been stood
+         down (before JobKeeper commenced) were eligible for JobKeeper; how to manage the
+         intersection of stand downs, leave entitlements and Jobkeeper.
+
+    •    Employees not following directions to work once they qualified and were receiving the
+         JobKeeper Payment. These businesses asked if: failure to attend work was grounds to
+         terminate employment; how to manage unexplained absences; eligibility for JobKeeper during
+         periods of unexplained absences.
+
+    •        Internal friction within businesses was an unexpected outcome. Businesses found:
+
+             o   Tensions between JobKeeper recipients who didn't want to attend work in person (or
+                 at all) due to health concerns and those who were still coming into workplaces.
+
+             o   Tension caused by the JobKeeper's ‘flat-rate’ structure, requiring a minimum of $1,500
+                 per fortnight for all workers, including part-time, casual, and lower-paid staff. Some
+                 long-term casual workers had salary increases during the JobKeeper payment period
+                 despite the actual hours they worked, that were not available to other workers.
+
+             o   In other cases, employees with varied pay rates received the same ‘flat rate’. For
+                 companies with traditional pay grade and seniority practices (as in certain industrial
+                 awards), this was a concern and disincentive to utilising JobKeeper.
+
+These queries reflect the challenges that Australian businesses - particularly SMEs without sizeable
+human resources or payroll functions - faced in accessing and implementing JobKeeper. They do not
+necessarily reflect requirements to change the design of the scheme itself; but point to the difficulties
+in administering such a complex wage subsidy scheme across a very large number of SMEs in a very
+short time.
+
+As JobKeeper's success depended on a rapid uptake by businesses, they emphasise the importance
+of clarity, consistency and effective communication for similar emergency measure transfer
+payments that may be required in future.
+
+
+    8.       Recommendations
+The COVID pandemic was borne of unforeseen circumstances, and carried extraordinary
+consequences for all aspects of the Australian economy and society. It is unlikely that a similar set of
+public health circumstances will occur again in the near- or medium-term.
+
+However, the experience of the pandemic offers important lessons for how broader situations of
+societal disruption may be managed. Similar disruptions happen on a smaller and localised scale with
+relative frequency in Australia - such as natural disasters involving fire, flood and weather - and are
+likely to become more frequent with climate change.
+
+The challenge of supply chain disruptions, which extended well beyond the acute phase of the
+pandemic into 2022, shows that similar events occurring abroad can still have economic
+consequences for Australia, that we need to manage.
+
+
+
+
+www.aigroup.com.au                                                                                11
+   Aigroup
+
+The business experience of the pandemic documented above, provides important insights for how
+Australian governments - at the federal and state levels - should calibrate their responses to other
+periods of societal disruption.
+
+Ai Group suggest there are five principles - national-consistency, business continuity, openness,
+financial support and supply chain resilience - that should inform policy approaches to analogous
+disruptions in future.
+
+    1.       The importance of a nationally consistent approach to communication.
+
+The history of Australia as a nation has been centred around finding common ground across the
+country, particularly around business rules and cross-border relationships. It is a rare Australian
+business that is able to operate without weekly, if not daily, interaction with customers, suppliers or in­
+house entities in other Australian jurisdictions. An inordinate amount of time and energy was
+dedicated to uncovering and understanding different rules on movement of people and business
+operations at a national, regional and sub-regional level. Businesses, employees and the public
+require clear and consistent communication.
+
+    2.      Consider business continuity in policy
+
+Businesses play a vital role in social cohesion, the supply of critical services and infrastructure to deal
+with disruption and ensure economic resilience. The psychosocial and productivity impact of the
+uncertainty and restrictions continues to influence the workplace today. Responses to major societal
+disruptions should be designed in a way that minimises continuity impacts.
+
+    3.      The importance of open borders
+
+As a mid-sized economy, Australia has become a globally-connected nation, confident in its role on
+the world stage. Closing our borders shook that confidence. It also had a practical impact on the
+movement of goods and people and business operations. Most damaging was sense of permanence
+to the decision and the inability for businesses to develop strategies to mitigate the impact. Border
+closures should be a measure of last resort and maintained for only as long as strictly necessary.
+
+    4.      Provision of financial support
+
+Depending on the cause of the disruptions, businesses may require short, sharp and targeted
+financial support for the duration of the event, or to assist in rebuilding post crisis. Governments
+should be alive to the risk of unintended consequences of rushed responses. Suitably-calibrated
+financial support programs are an essential component of policy responses to societal disruptions.
+
+    5.      Focus on supply chain resilience
+
+The experience of Covid demonstrated that many businesses and governments took the security of
+critical supply chains for granted. Providing support to business for supply chain diversity before, and
+resilience during, societal disruptions is essential.
+
+As disruptive as the Covid Pandemic was to Australia there many lessons for governments and
+businesses to ensure that we are prepared for the next major societal disruption. We learnt that
+Australian businesses are resilient, cooperative and an essential component in societal cohesion. Our
+workplaces and employment relationships have been forever changed by this event.
+
+
+
+
+www.aigroup.com.au                                                                                  12
+Aigroup
+
+Australian Industry Group contacts for this report
+Louise McGrath - Head, Industry Development and Policy
+
+
+
+
+© The Australian Industry Group, 2023
+The copyright in this work is owned by the publisher, The Australian Industry Group, 51 Walker Street, North Sydney NSW 2060.
+All rights reserved. No part of this work may be reproduced or copied in any form or by any means (graphic, electronic or
+mechanical) without the written permission of the publisher.
+

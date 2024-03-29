@@ -1,0 +1,135 @@
+COVID-19 Response Inquiry Submission
+Sear; L-wrer;. <       Hi''
+
+Thank you for the opportunity to make a submission and share my views and experiences about
+the Government’s COVID-19 response. My key message is the overriding importance of efforts
+to prevent future pandemics. Perhaps more than any other kind of catastrophic risk, it’s within
+our power to prevent novel pathogens from emerging and to quickly identify, contain and
+eliminate them if they do. Given the enormity of human and economic costs of pandemics - and
+that pandemics much worse than COVID-19 are possible - prevention should be our primary
+goal.
+
+I think preventing pathogens from emerging and controlling them if they do should be top
+priorities for the new Australian Centre for Disease Control. Bernstein et al make the economic
+case for this in their paper “The costs and benefits of primary prevention of zoonotic
+pandemics”. They show that, even on pessimistic assumptions and without considering the
+potential impact of promising emerging technologies, significant investment in pandemic
+prevention is overwhelmingly justified.
+
+My submission focuses on a small number of key issues related to Terms of Reference 2 and 5
+but my overall view is that pandemic prevention should be a key priority of the CDC and that our
+institutions and leaders should not simply concede that pandemics are inevitable.
+
+Indoor air quality could make a big difference
+The vast majority of Australians can access clean, safe, and pathogen-free drinking water.
+Further to Terms of Reference 2,1 want to see Australians have comparable access to clean,
+safe and pathogen-free air. This would be helpful for the ongoing COVID pandemic and for any
+future pandemic - while also providing co-benefits for individual health and the national
+economy.
+
+Cholera, a water-borne bacterial disease, caused more than 127,000 deaths in Great Britain in
+the mid-1800s. Radical improvements in sanitising drinking water as a public health measure
+have effectively ended waterborne disease in industrialised countries.
+
+The reduction of airborne diseases through clean indoor air is yet to receive the same
+systematic attention, despite the health and economic burden this class of disease places on
+Australia. Every winter, seasonal influenza-like illness (ILI) burdens the Australian healthcare
+system as Australians present with symptoms such as fever, cough, sore throat, and fatigue. In
+2022, there were 9,440 reported COVID-19 and 308 influenza-associated deaths. It is my hope
+that improving indoor air quality (IAQ) can reduce the transmission of airborne pathogens, thus
+reducing the occurrence of ILI and its associated death toll. Reduced infection rates will also
+result in an increase in the productivity of Australia’s workforce through reducing the number of
+days that Australians take sick-leave to care for themselves and their loved ones. This will also
+reduce the burden on Australia’s healthcare system, specifically on GPs and hospitals who
+would otherwise have to treat patients with ILI.
+Despite the obvious benefits, I worry that clean indoor air suffers from a “tragedy of the
+commons” as it is a public good that requires widespread adoption to yield substantial benefits.
+Just like clean drinking water, coordinated action is required. As such, I believe this Inquiry is
+well placed to recommend that Australian governments do more to encourage and accelerate
+the improvement of indoor air quality. Higher-risk indoor environments - such as education
+facilities, aged care facilities, healthcare facilities and hospitals, food service, public assembly
+spaces, shopping centres, offices and places of worship - can be incentivised and supported to
+improve their indoor air quality through building standards, rebates, tax deductions, or other
+financial mechanisms. This would allow Australians to enjoy the benefits of these facilities and
+services with a significantly lower risk of exposing themselves to pathogens.
+
+Unlike disease-specific vaccinations, delivering safe air is pathogen agnostic and can reduce
+the speed at which future novel pathogens infect communities. Kleinwaks et al’s report “Air
+Safety t Combat Global Catastrophic Bicdsk” provides modelling for a scenario involving
+another pandemic of RO = 3, similar to the first wave of the COVID-19 pandemic in a city of 2
+million people. Without any behaviour changes or IAQ improvements, there would be 365,000
+infections after 3 weeks. With indoor air quality interventions reducing respiratory disease
+infections by just 30% to an RO of 2.1, after 3 weeks there would only be 9,797 infections. This
+modelling shows that even modest reductions can flatten curves and buy time for medical
+countermeasures and healthcare systems. As such, IAQ interventions could shorten lockdowns,
+lower the likelihood of quarantine leaks and perhaps be able to contain and eliminate a novel
+pathogen before a pandemic begins. IAQ interventions also don’t require behaviour change -
+like mask wearing - which can be challenging to achieve.
+
+I think the inquiry should recommend that Australia pursue policies to make indoor air as free
+from pathogens as drinking water. With simple practices like ventilation, existing filtration
+technologies, and emerging pathogen inactivation technologies, like far-UVC, this goal is within
+reach.
+
+
+In a worse pandemic, next-generation PPE may be essential to keep
+critical infrastructure functioning
+In the context of Terms of Reference 5, support for industry, including in the context of labour
+shortages, I recommend that the Inquiry consider the paper by Gopal et al from the Geneva
+Centre for Security Policy titled “Securing Civilisation Against Catastrophic Pandemics”.
+
+The paper begins by unpacking ways that pandemic risk is increasing - in particular the
+possibility of engineered pandemics. The paper also makes a useful distinction between
+“stealth” and “wildfire” pandemics, which has deep implications for our policy response.
+
+Importantly, the paper goes on to explain that in a pandemic worse than COVID-19, workers
+who operate critical infrastructure may die or refuse to attend the workplace. If that happens, a
+modern interconnected society would rapidly collapse. The second-order consequences from a
+lack of electricity causing cascading failures in other critical sectors would far exceed the
+immediate consequences of the virus.
+
+When the Inquiry thinks about support for industry, the primary goal of that support should be
+keeping the lights on during a future, worse, pandemic. If critical infrastructure fails, other
+questions like financial support or community support rapidly become irrelevant or impossible.
+
+Among the various recommendations, Gopal et al argue that “pandemic-proof personal
+protective equipment” (P4E) is essential to dealing with the risk of failing critical infrastructure.
+The argument for P4E is that essential workers (such as those critical to providing food, water,
+power and law enforcement) need the confidence that they can continue to work without
+endangering themselves and their loved ones. The paper provides requirements for what this
+kind of equipment would need to look like. The paper also includes discussions about definitions
+of essential workers, ways of preparing the workforce and supply chain, and a discussion of
+social and technological approaches to slowing the spread of future pandemics.
+
+I recommend that the inquiry read Securing Civilisation Against Catastrophic Pandemics and
+treat it as a foundation for other recommendations. That is, our first priority has to be actions
+that take these worst-case scenarios off the table. Action against other elements of the terms of
+reference are only possible and impactful if we can be confident that we’re in a position to
+prevent a social collapse.
+
+
+Closing
+The notable public health challenges of history have been solved by innovative people bringing
+new ideas and perspectives to the challenge of health. As the scope of public health has grown,
+so has its ability to improve longevity and quality of life.
+
+The terms of reference of this inquiry are fundamentally about doing better in the future. Given
+how terrible future pandemics could be - the best thing the Inquiry could do for the future is to
+prioritise pandemic prevention, including the novel ways pandemics could occur in the future.
+While that will require uncomfortable thinking about unexpected topics and emerging
+technologies, these are the issues that could have the biggest impact towards securing a
+healthier future.
+
+Sean Lawrence
+PhD (Mechanical and Aerospace Engineering), BMechEng(Hons), BCom
+Go-Founder, High Impact Engineers
+
+
+
+References
+Australian Government, Department of Health and Aged Care, ‘National 2022 Influenza Season
+Summary’ (2022)
+Air Safety to Combat Global Catastrophic Biorisk, 1Day Sooner & Rethink Priorities
+Securing Civilisation Against Catastrophic Pandemics | Geneva Centre for Security Policy
+(October 2023)
+

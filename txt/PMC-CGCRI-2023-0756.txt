@@ -1,0 +1,133 @@
+Dear Independent Panel,
+
+Thank you for the opportunity to make a submission and raise my views and experiences
+about the Government’s COVID-19 response. My name is                         and I am an
+Effective Altruist who believes in using reason and data to promote good. I am a
+second-year economics and computer science student                My joy is learning, sport
+and people.
+
+I hope that the inquiry focuses on pandemic prevention. More than any other global
+catastrophic risk, we can prevent novel pathogens from emerging and identify and eliminate
+them if they do. Given the huge human and economic costs of pandemics - and that
+pandemics worse than COVID-19 are possible - prevention should be our top priority.
+
+The paper “The costs and benefits of primary prevention of zoonotic pandemics” (Bertstein
+2022) makes the economic case for focusing on pandemic prevention. The paper shows that
+- even on pessimistic assumptions and without considering the potential impact of emerging
+technologies - significant investment in pandemic prevention is overwhelmingly justified.
+
+In light of that analysis, the new Australian Centre for Disease Control should focus on
+efforts to prevent novel pathogens from emerging and being able to control them if they do.
+
+
+My submission goes primarily to ‘preventive health measures’ in terms of reference 3.
+
+
+
+Lab Leaks
+
+Public commentary has focused on the possible origins of COVID-19, including whether it
+was a “lab leak”. Regardless of the specifics of COVID-19 specifically, I’ve been shocked to
+learn about the high rate of safety incidents at labs handling dangerous pathogens. A
+publication from Manheim and Lewis found that from 1975-2016 there were 71 reported
+high-risk human-caused pathogen exposure events - as well as evidence of underreporting.
+An anonymous survey on biosecurity and accidents in Belgium reported almost 100
+laboratory-acquired infections in a 5 year study period. A lab leak also likely began the 1977
+flu pandemic.
+
+Given pandemics can cost millions of lives and trillions of dollars, it seems clear that safety
+standards (or adherence to standards) fall far short of what is appropriate. While I’m firmly in
+favour of science, and think that science is a force for good in fighting pandemics, it has to
+be done responsibly.
+
+As an outsider, there is little transparency about how physical containment facilities in
+Australia are regulated. The Office of the Gene Technology Regulator seems to focus mostly
+on GMOs and provides little information about its functions regarding physical containment
+facilities.
+
+To the extent that information is available, OGTR’s 2022-23 annual report is proud that it
+certified a record 132 physical containment facilities last year, meaning that there are now
+1,874 “high-level” facilities operating in Australia. It also reports that it only conducted 49
+inspections in the same period, including no inspections of the highest-level PC4 facilities.
+
+Reviewing older reports, no PC4 facilities were inspected in 2021-22 either, and only 1
+inspection occurred in 2020-21. Despite only conducting 49 inspections in 2022-23, 26
+certified physical containment facilities were found to be non-compliant. In this context, the
+report noted that OGTR takes a “cooperative approach” to compliance and that no culpability
+was found in any of these cases.
+
+In addition to seeming shortcomings in oversight, the guidelines themselves are troubling.
+The rules for PC4 facilities were last updated in 2007 and reference standards like AS1324.1
+on air filters and AS/NZS 2243.3 on lab safety, which don’t appear to have been updated
+since 2001 and 2002 respectively. AS1324.1 specifically has been criticised by the HVAC
+industry for being based on inaccurate research from the 1950s and has now been
+superseded by ISO 16890.
+
+While this is a grim picture on multiple fronts, it’s not necessarily a criticism of OGTR. OGTR
+only has 51 employees and has wide-ranging regulatory functions apart from these topics.
+
+Overall, this snapshot paints a grim picture of the state of regulation in Australia, and one
+that I think falls far short of public expectations about how seriously these issues would be
+taken. Before reading into this, I would have guessed that PC4 facilities comply with
+cutting-edge global standards that account for emerging technology, and would each be
+inspected several times per year.
+
+I think that this Inquiry should recommend a thorough review of biosafety - including the
+suitability of requirements, degree of adherence, and adequacy of oversight - for all
+research that involves human or animal pathogens. The review should include a risk
+assessment that takes into account the potentially catastrophic global consequences of
+errors, and ensures that our approach to mitigation is proportionate to that risk.
+
+
+
+
+Engineered pandemics and Al
+
+One of the aspects of pandemic prevention that I think Australia should take much more
+seriously is the increasing possibility of engineered pandemics. The terms of reference for
+the Inquiry focus on anticipating future pandemics - and the evidence shows that doing that
+effectively requires thinking about this possibility.
+
+Experts, including                            assess that the technologies necessary to
+design, create an                             bl pathogens may become widely available by
+2025. This is elaborated in the Geneva Security “Delay, Detect, Defend: Preparing for a
+future in which thousands can release new pandemics” (see Figure 1)
+
+In 2021, Professor Brian Schmidt AC, Vice-Chancellor of the Australian National University,
+said that this “democratisation” of biotechnology is his single biggest fear:
+
+
+
+
+Subsequent to Professor Schmidt’s comments, the market for synthetic DNA, speciality
+reagents, and Al tools that can support lay people to use this technology has continued to
+accelerate.
+
+A large group of people - malicious or not - having access to a technology that could kill
+millions of people is clearly an unacceptable risk.
+In recognition of this risk, on 30 October 2023, President Biden made an executive order
+setting a 180-day timeline for the development of a framework that ensures effective
+screening for risky DNA sequences, best practices for access controls, technical guidances
+for effective screening, and robust oversight mechanisms. Currently, about 20% of DNA
+orders go without any screening. The executive order also threatens to cut funding to any
+provider that does not adhere to best practice screening after that 180-day timeline.
+
+Australia already has a permitting regime to regulate the importation of synthetic DNA. The
+Inquiry should recommend that the Commonwealth urgently update this regime to act with
+the US in requiring labs importing DNA into Australia to apply these new screening
+procedures to all orders.
+
+Urgent action to follow the US on the regulation of synthetic DNA will largely address the
+most pressing risks that Professors Esvelt and Schmidt highlight, but it’s not an enduring
+solution. Steady advances in biotechnology and increasingly advanced Al are likely to be
+able to help nefarious users work around these kinds of regulations unless regulation keeps
+up and steps are taken to make Al safe.
+
+With that in mind, the Inquiry should recommend that the Department of Industry work with
+the Department of Health and the CDC to develop minimum safety standards for frontier
+models that are deployed in Australia - specifically to ensure that models that pose biosafety
+risks are identified and restricted. We should set clear expectations for developers and
+deployers that Ais with “dual-use” capabilities that could pose catastrophic risks are not
+welcome in Australia. Finally, we need to keep close tabs on advances in biotechnology to
+ensure the ability to engineer pathogens never becomes widely available.
+

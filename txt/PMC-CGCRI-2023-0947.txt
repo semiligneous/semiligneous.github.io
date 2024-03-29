@@ -1,0 +1,165 @@
+                                                          UNSW
+                                          CSRH Centre for Social
+                                               Research in Health UNSW
+                                                                                      SYDNEY
+
+
+
+
+ Submission to the Department of Prime Minister and Cabinet Commonwealth Government COVID-
+                                       19 Response Inquiry
+
+                     Professor Deborah Lupton MPH PhD and Dr Kerryn Drysdale PhD
+                        UNSW Centre for Social Research in Health, UNSW Sydney
+
+
+
+Summary
+
+This submission addresses the following Inquiry Terms of Reference: governance; key health response
+measures; broader health supports; community supports; and mechanisms to better target future
+responses to the needs of particular populations. It outlines the key relevant findings from the ‘Diverse
+Experiences and Understandings of Immunity in the Pandemic Age’ project conducted in 2022-23 and
+makes recommendations based on this research.
+
+Overview of project
+
+The aim of the ‘Diverse Experiences and Understandings of Immunity in the Pandemic Age’ project was to
+identify how Australians from specific at-risk social and community groups experience and understand the
+relationship between immunity and good health in an era in which the risks posed by existing viral
+infections and diseases are now joined by those from novel diseases such as COVID-19 and mpox. It is is a
+targeted qualitative study the captured insights from 30 participants from four key sub-groups of the
+Australian population: people identifying as LGBTIQA+, people living with HIV, people living with
+hepatitis B (HBV), and/or people with lived experience of hepatitis C (HCV)1. Identifying the different
+experiences, impacts, causes and effects among these more marginalised, targeted and ‘hidden’ or ‘hard to
+reach’ populations is vital for a more comprehensive account of how public health and community
+responses to emerging infectious diseases are currently operating in Australia, and for identifying what
+improvements could be made in the future.
+        Participants were eligible to participate if they self-identified as belonging to one or more of the
+target groups and were aged 18+ years of age and living in Australia. Purposive sampling and screening
+ensured participant diversity in age, gender, ethnicity/race and geographical location.
+
+The project’s research questions are as follows:
+
+    > What does the concept of ‘immunity’ mean for the participants?
+    > Has this changed for them over their life course, and what experiences have contributed to this
+      change?
+    >    How does the concept of ‘immunity’ fit into their broader understandings of health or ill-health?
+    > What practices do they engage in to strengthen or protect their immune systems? (e.g. vaccination,
+      medication, infection prevention practices, general good health practices)
+
+
+1 People living with HIV, hepatitis B, and/or hepatitis C have unique experiences owing to the biomedical and social natures of
+these blood-borne viruses, and therefore should not be collapsed or conflated into one group. However, they may share
+intersecting characteristics, and have crossovers with broader LGBTIQA+ communities.
+
+                                                                1
+    > How have health communication, public health and community support initiatives helped or
+      hindered participants’ efforts to keep well?
+
+The participants took part in a semi-structured interview, which was recorded and transcribed for analysis.
+Analysis is currently in progress, with an open access research briefing paper already published (available to
+download at https://papers.ssrn.com/sol3/papers.cfm7abstract id=4660103). The relevant key findings from
+this briefing paper are outlined below, followed by recommendations.
+
+Key findings relevant to the Inquiry
+
+Overall, participants responded favourably to government initiatives and responses to the COVID
+pandemic, particularly those that were offered in the early stages to prevent the spread of the virus. There
+was broad support of mask wearing mandates, temporary lock downs, and vaccination rollouts. Free access
+to COVID-related supports were also considered beneficial to maintaining good health. These included
+ready access to respiratory clinics and vaccinations as well as the temporary expansion of allied health
+services, such as increased sessions under Medicare-subsidised mental health plans, as well as improved
+avenues for accessing healthcare, including services that did not require Medicare cards.
+         For some participants, however, public health orders did not go far enough, especially for those who
+perceived themselves as immunocompromised or vulnerable to respiratory infection. For instance, some
+participants believed that the mask mandates were lifted too soon or were not uniformly enforced, and so
+Australia missed the opportunity to develop a strong mask-wearing culture such as that evident in some East
+Asian countries. Other participants felt that government may have capitulated too early, or have been too
+reactive, to negative press around mask mandates. While lockdowns were, on the whole, viewed favourably
+as necessary to prevent the spread of infection, criticism of made of the lack of wrap around supports, such
+as housing provision and financial support, that were perceived to be absent during periods of lockdowns.
+Two participants were also highly critical of state government decisions to reopen schools, highlighting the
+risk of infection faced by teachers and students.
+         The relative visibility and use of the Australian Immunisation Register during the COVID
+vaccination rollout was viewed as ensuring easy access to vaccination information. However, several
+participants wished that all information on individuals’ vaccinations from birth should be as easily
+accessible. The difficulty of recollection was also exacerbated by different ‘service app’ requirements and
+availability in different state jurisdictions (with different access to immunisation registers). Acknowledging
+the importance of strong personal data privacy and security protections, participants called for better tools to
+track/record and access health history, as well as automated reminder systems for upcoming vaccinations.
+The government’s electronic health record My Health Record rarely came up in interviews as a way of
+keeping health records that people could refer to throughout their lives, suggesting either that this initiative
+has not been well advertised to the community or is being actively shunned.
+         Participants noted that the improved accessibility of COVID-related supports was also accompanied
+by greater acceptability on the part of community members. This was especially the case where such
+supports were community-oriented and promoted a sense of collective responsibility for self and others’
+health. Respiratory clinics, for instance, were seen as helpful beyond the healthcare that they offered; they
+were also seen as a version of community support, and there was a demand for more of them. Participants
+were somewhat critical of the public health reliance on cultivating ‘personal responsibility’ for pandemic
+control measures, as this was seen as inadequate as a protection for more vulnerable Australians. This
+approach was perceived to create divisions between those who care about the health of others and so do the
+‘right thing’ compared to those who wanted a swift return to ‘normal’. Participants noted that this division
+exacerbated existing health inequities. They spoke of new divides between most Australians in good health
+versus those living with disabilities or chronic health conditions; between various states with differing
+public health orders, such as between Victoria and New South Wales; and between those who resided in
+‘fortressed’ states, such as Western Australia, compared with the rest of the nation.
+         Several participants spoke of continuing discrimination and marginalisation and called for more anti­
+stigma campaigns. Particularly for people living with HIV and those living with HBV, stigma about their
+conditions had continued during the COVID pandemic. It was common for people to emphasise that there
+                                                       2
+was an integral role for community organisations to play in relation to providing support and connection as
+well as providing services such as information and vaccinations. In particular, participants highlighted how
+community organisations promote and maintain a caring ‘ethos’ towards their community, evident by the
+numbers of people volunteering in these organisations. This extended to the support provided by community
+organisations, some of which kept open ‘drop in spaces’ which were perceived to be a great source of
+support and connection during COVID lockdowns. The perception of community support was amplified
+through the consistent social media presence (for example, their Instagram and Facebook accounts) that
+some community organisations maintained during the early phases of the pandemic.
+        While COVID-related public health orders and initiatives were generally perceived favourably, there
+was some criticism of public health communication from government and mainstream health services. For
+example, participants noted the need for better accessibility for health-related information to ensure that
+‘information gets out’. This lack of accessibility is also complicated by what was perceived to be a lack of
+consistent messaging regarding COVID risk and precautions that could be taken. This was especially the
+case for participants from culturally and linguistically diverse backgrounds, who commented on the
+‘muddled’ messaging around CO VID vaccination types and eligibility. While the provision of COVID
+information was initially detailed and frequent, participants noted that there was an increasingly lack of
+availability of details such as case numbers over time, leading to the perception of declining public interest
+in COVID safe precautions Some participants felt that this was due to a lack of visible respect in public
+forums for ‘scientists’.
+        In response, some participants felt that government and public health should ‘hand over’ complex
+health information and messaging to community organisations, as they are able to ‘properly tailor’ such
+messages. Targeted, non-stigmatising advice that builds on LGBTIQA+ strengths was seen to be a role for
+community organisations. Such advice extends beyond the provision of COVID-related information to
+sharing details about good experiences with allied healthcare, such as the circulation of information on
+LGBTIQA+ friendly services. The idea was that health information should be ‘marketed by community’ but
+‘funded by government’. Participants noted that using community or social events to distribute health
+information was a key strength of community organisations’ communication strategies. Community-led
+campaigns resonate because ACON, especially, uses ‘real people’ in their campaigns and depend on the role
+of peers to disseminate information effectively.
+
+Recommendations
+
+The members of the LGBTIQA+ community and people with lived experience of blood-borne viruses who
+participated in our study offered strong and helpful suggestions for how public health authorities and
+community organisations can work together to improve public health communication and services related to
+CO VID-19, mpox, hepatitis, HIV, AIDS and other infections and communicable diseases. Our participants’
+responses highlight how successful interactions between health communication strategies, inclusive health
+service delivery, social supports and public health protections, together with community organisations’
+services, education campaigns and other supports, can alleviate the impacts of these inequalities.
+         Health communication and healthcare services that recognise cultural and health diversity and offer
+clear, regular and updated advice that is non-judgemental and inclusive are highly important. Community
+organisations that recognise the diversity within their organisation membership and can focus on education
+and prevention related to the continuing COVID risks as well as the infectious diseases and other health
+risks with which they were more familiar offer the most helpful support. Finding ways for public health
+agencies and health communication campaign managers to work more closely and productively with trusted
+community organisations would strengthen prevention and education initiatives for COVID and other
+infectious disease prevention and treatment. Expanding free or low-cost healthcare for marginalised groups,
+including better information about and access to vaccines, would improve health promotion in these
+communities.
+
+
+
+
+                                                      3
+

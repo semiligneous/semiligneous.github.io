@@ -1,0 +1,354 @@
+  COUNCIL OF ACADEMIC PUBLIC HEALTH INSTITUTIONS AUSTRALALSIA | COVID-19 RESPONSE INQUIRY SUBMISSION | DEC 15, 2023
+
+
+CAPHIA Submission
+The Council of Academic Public Health Institutions Australia (CAPHIA) is the peak body representing universities and aligned
+organisations across the region who teach and research public health (refer to Appendix 1 for details). While there are many
+lessons to be learned from the COVID-19 pandemic, we recognise that no two eventswill be the same. Our submission focuses
+on our core expertise: public health education, research, and workforce development. Investing in our workforce, and in key
+enablers and their systems and infrastructure is the best way to protect current and future generations. Australia's public
+health workforce was instrumental to our nation's strong response to COVID-19. Many of the public health experts on whom
+we came to rely throughout the pandemic were educated by and/or work for the institutions CAPHIA represents and the
+education and training provided by CAPHIA member institutions has underpinned the Australasian response to COVID-19.
+We emphasise that the following recommendations can only be met by recognising the key role of public health institutions,
+and the imperative for governments to commit support through financial investment. We similarly assert that there should
+be a strong expectation of action from schools and programs of public health by the government, forming the basis of a
+collaborative and coordinated effort. CAPHIA welcomes this opportunity to share our recommendations to build our desired
+future state: a sustainable, scalable, appropriately resourced, and highly educated public health workforce to actively manage
+all hazards. See Appendix 2 for an Executive Summary and Appendix 3 for References.
+
+Foster cross-sector collaboration and transparent information-sharing for improved
+communication and decision-making.
+    1.      Systematically include diverse perspectives and expertise in decision-making.
+    2.   Enhance and standardise the collection, sharing and accessibility of qualitative and quantitative data;
+         connect and leverage the substantial health data sets that organisations and registers hold to better
+         inform decisi n making >r the benefit rf all Australians and;
+    3.   Establish partnerships between researchers, health departments and ethics c mmitteest enable timely
+         research to inform ongoing resp nse.
+The Covid-19 pandemic had a significant impact on every Australian and across every sector. Government needs to be able
+to call upon trusted experts across sectors and disciplines to enable policy and decision-making which effectively balances
+the intended or unintended social, ethical, economic, and other consequences of crises, emergencies and disasters (CEDs)
+and their policy responses. This requires systematic inclusion of diverse experts in decision-making including epidemiologists,
+disease experts, data scientists, health economists, ethicists, behavioral and social scientists, sociologists, anthropologists,
+and communication experts. Experience from other crises has highlighted that engaging with the sociocultural dimensions of
+CEDs is critical to mounting an effective outbreak response. In addition, consultation with non-health professionals who
+perform key functions during crises such as IT and data infrastructure experts, community and social workers, educators,
+emergency responders, sanitation etc. In any CED, rapid evidence synthesis is essential for ensuring accurate and informative
+communication. Evidence synthesis experts skilled at critically appraising evidence and communicating it in ways that can be
+readily understood and practically applied by policymakers, clinicians and the public are essential. Data is a key enablerto the
+success of our preparedness and a unified and transparent information-sharing approach is necessary. Standardised data
+protocols which bridge gaps, streamline communication within and between all levels of Government, and which ensure
+healthcare workers and the public receive consistent guidance is crucial. Shared and robust surveillance systems capable of
+undertaking the required volume of data collection and reporting of case and contact data during a pandemic is also essential
+to enable evidence-based decisions in a rapidly evolving environment, and pre-established partnerships and processes
+researchers, health departments and ethics committees could help ensure timely research to inform response.
+
+    4.   Establish advisory bodies with diverse community representation, build capacity for ethical deliberation
+         and dialogue, and develop and fund < -designed p licies and initiatives.
+    5.   Fund grants ft trusted local and community health organisations to develop Crisis, Emergency and
+         Disaster Response Plans
+The COVID-19 pandemic exposed a pre-existing gap in health communication and community engagement. Culturally and
+Linguistically Diverse (CALD) communities faced I    rier: (e.g. language, technological) to accessing culturally safe, relevant
+and timely information, while also being often at greater risk of contracting COVID-19. In August 2020, public health messages
+
+                                                               1
+    COUNCIL OF ACADEMIC PUBLIC HEALTH INSTITUTIONS AUSTRALALSIA | COVID-19 RESPONSE INQUIRY SUBMISSION | DEC 15, 2023
+
+
+were released with trai la          ror: which jeopardised trust and risked the safety of these communities, deepening
+inequities. Tailored, community-led health communication can be more effective in promoting health-protecting behaviours,
+and in understanding the determinants of spread during a pandemic. The success of Indigenous communities and health
+services in protecting Elders during the first COVID waves in Australia was widely reported. This success was in part due to
+proactive, culturally appropriate communication by Aboriginal-led organisations. Strengthened and ongoing engagement
+with community organisations and consultation with trusted community leaders, will ensure all Australians have access to
+accurate, timely and appropriate information from trusted, accessible sources. Targeted funding to develop CED Response
+Plans will enable local community organizations to build response capability, and more comprehensive plans with risk
+assessment and risk communication better embedded will help to improve alignment with national response plans.
+
+
+Invest in comprehensive public health training for effective policy guidance and address the
+leadership gap.
+     6.      Fund and Implement Public Health Officer Training Programs in each State and Territory
+Few public health experts are systematically trained in the depth and breadth of public health expertise required to lead large
+and complex portfolios - particularly during CEDs. Fellowships are a tried-and-tested method of developing and maintaining
+individual competence in a health or medical specialisation. To develop the desired future public health workforce,
+investment in Public Health specialisation needs to occur. State/territory-based Public Health Officer Training Programs
+should be immediately implemented to develop a pipeline of highly trained public health professionals. This program could
+be modelled on ongoing success in h        as well as pilot programs in WA and VIC, and include competencies such as ethical
+reasoning, reasoning with data (beyond data science competencies) and public engagement and communication which will
+be crucial to ensure the success of future responses. Further, diversified recruitment into these programs across educational
+backgrounds will help meet specific subspecialty needs, including Aboriginal and Torres Strait Islander health. The
+Health Associatcn of Australia (PHAA) recently est Tated that funding of $50 million per annum is sufficient for substantial
+impact. Given the investment into medical Fellowships is many times this figure, and that decisions and work of Public Health
+professionals impacts potentially millions of Australians, this is a sound leadership investment to address future challenges.
+
+7. Fund mici o credentials or short courses to upskill and re-skill workers in key skill gaps.
+Rapid education, training and upskilling are essential parts of pandemic preparedness and response. COVID-19 demonstrated
+a skill gap in the Australian workforce including:
+•    Ethical deliberation, decision-making and communication: Public compliance rests on trust and shared values. It is
+     essential that all public health responders are skilled in communicating effectively, responding to complexity and
+     uncertainty, and balancing the diversity of public abilities and views.
+•    Cultural competencies, and diversity and inclusion training: to promote greater understanding and consideration of
+     cultural differences and varying vulnerabilities during CEDs.
+•    Health economists and evidence synthesis experts: to guide pragmatic evidence-informed policy.
+•    Leadership: to equip public health professionals at all levels skilled at communicating risk and providing trusted advice.
+•    Applied systems thinking capacity for working in complex and evolving environments.
+•    Health and eHealth literaxy, advocacy and infodemic management;
+•    Genomics and bioinformatics, and increased awareness of Dual Use Research of Concern risks for informed advocacy;
+•    Expertise in big data and Al which will expand quickly as important tools for charting disease threats, and
+•    Essential training in basic infectious disease principles for prevention and control such as outbreak investigation,
+     contact tracing must be provided as a shared resource across all jurisdictions to improve readiness and reduce variation.
+
+8. Invest in < llaborative, interpr fessional and intersect ral training and partnerships.
+Collaborative, high-fidelity simulation training could help to identify experts, strengthen cross sectoral partnerships, and
+strengthen surge workforce capacity. This style of training enables real-world practice elements such as language and time
+zone barriers, infodemic risk, and rapid development of cross-disciplinary teams, while building cross-professional
+
+
+
+                                                                2
+      COUNCIL OF ACADEMIC PUBLIC HEALTH INSTITUTIONS AUSTRALALSIA | COVID-19 RESPONSE INQUIRY SUBMISSION | DEC 15, 2023
+
+
+ understanding, and providing the best opportunity to explore ethical and practical discussion and deliberation. This training
+ is needed before the next event to strengthen our response capabilities and infrastructure.
+
+9.    Provide government-funded training to equip decisi n makers, policymakers, and leaders with fundamental
+   public health skills.
+Public health decisions and the dissemination of public health information are not only made by those within public health,
+but also those working in adjacent fields. Supporting professionals from all sectors to respond to the heightened complexity
+and urgency of current and future public health challenges is an important mechanism for a coordinated, rapid response.
+Short courses and micro-credentials equip decision makers, policymakers, and leaders from all sectors, with the public health
+knowledge and skills required to enhance decision-making and support cross-sector collaboration.
+
+1i Invest in Infodemic management infrastructure, capacity and skills development.
+11. Devel a an awareness campaign t< build the profile f Public Health and drive trust, understanding and
+    uptake of initiatives.
+ An infoi    : is the overload of information, accurate or otherwise, that spreads in the physical or digital space during an
+ acute health event. During the COVID-19 pandemic, the infodemic emerged as a significant public health issue, impacting
+vaccine acceptance, adherence to preventative measures and trust in health authorities. Infodemic management is an
+emergent field, now integrated into global pandemic preparedness guidelines including the WHO HE                framework, the
+Pandemic influenza preparedness framework and the framework for vaccine demand promotion and is a new focus area in
+the 2nd edition of Managing epidemics. In Australia, we know that the social determinants of health, and mistrust in authorities
+impact infodemic and are driven by discrepancies in values. Urgent, targeted investment in research, infrastructure and
+capacity building is required to better understand, chart and respond to infodemics, build resilience to misinformation,
+actively address dis-information, develop social listening systems, and deliver innovative ways to connect communities with
+reliable and trusted health information. An awareness of what Public Health is and does builds trust and understanding, and
+uptake of initiatives. Establishing something akin to ' iis    Public He Ith' could increase public trust and health literacy in
+Australia, while highlighting the core values of public health which exists to improve health outcomes for all.
+
+
+ Urgently invest in prevention to minimise risk and reduce health inequities.
+12. Iring forward the 5% for preventive health commitment from 2030 to 2025 or pr vide interim funding to
+      address determinants of health inequities.
+13. Include Non-Communicable Diseases in Phase 1 of the Australian Centre for Disease * mtrol
+ Emergency events are "inequity amplifiers": populations who have been made vulnerable through determinants of health,
+ carry the greater burden of morbidity and mortality during and after a crisis. The COVID-19 pandemic highlighted the crucial
+ relationship between communicable and non-communicable disease (NCDs), and the high burden that NCDs place on health
+ and resources. Globally, individuals with underlying health conditions were at increased risk of severe COVID-19, if they
+ became infected. The pandemic also disproportionately impacted underserved populations (e.g. overseas-born individuals
+ and socially and economically disadvantaged populations), highlighting the need to bring an intersectional lens to infectious
+ preparedness and response. Long-term investment in health prevention and promotion now will help to best support the
+ promotion, and protection of the health of all Australians and ensure we are best prepared for future pandemics, health
+ emergencies and other public health threats. Re-orienting the health system towards prevention would deliver a significant
+ increase in return on investment, while also boosting community health and wellbeing and tackling inequality. Structural
+ change is needed to establish clear mechanisms which assess and recommend the best investments in disease prevention,
+ and to ensure they are sustainably and sufficiently funded. As recommended in our submission in response to the Roles and
+ Functions of an Australian Centre for Disease Control, the commitment to increase investment in preventive health should
+ be brought forward to 2025 or earlier. Further, investment in public health and preventative health should be significantly
+ increased and sustained outside of election and policy cycles to genuinely enhance our preparedness and improve our
+ biosecurity posture. Increasing the baseline health of Australians will reduce the severity and impact of health CEDs.
+
+     CAPHIA advises the government to adopt these recommendations and welcomes an invitation for further consultation.
+
+                                                               3
+                                                                        ABN: 58 408 229 415
+                                                                        caphia@caphia.com.au
+
+                                                                            caphia.com.au
+ COUNCIL OF ACADEMIC PUBLIC HEALTH
+     INSTITUTIONS AUSTRALASIA                                             +61 404 757 599
+
+
+
+
+                                                          Appendix 1: About CAPHIA
+
+
+Written submission in response to:
+
+
+          COMMONWEALTH GOVERNMENT
+           COVID-19 RESPONSE INQUIRY
+ABOUT CAPHIA
+
+The Council of Academic Public Health Institutions Australasia (CAPHIA) is the peak
+organisation that works to advance public health education, research and workforce
+development. CAPHIA leads and represents public health in universities throughout the
+Australasian region, and across our 39 member institutions, we represent thousands of
+public health educators, researchers, and students. CAPHIA acknowledges the Traditional
+Custodians of the country throughout Australia and their connections to land, sea and
+community, and recognise their past and ongoing contributions to generation of knowledge
+systems. We work in partnership with First Nations people across Australasia to promote
+quality, culturally safe education in public health.
+
+
+SUBMISSION FOCUS
+
+
+
+
+       Foster cross-sector         Invest in comprehensive        Urgently invest in prevention
+collaboration and transparent      public health training for     to minimise risk and reduce
+    information sharing for        effective policy guidance           health inequities
+ improved communication &         and address the leadership
+        decision-making                      gap
+
+
+   A PH TA              C0UNCIL0FACADEMIC PUBUC HEALTH INSTITUTIONS AUSTRALASIA
+     1 1 1 1/1.        Advancing Public Health Education, Research & Workforce Development
+                                                                                      ABN: 58 408 229 415
+                                                                                    caphia@caphia.com.au
+COUNCIL OF ACADEMIC PUBLIC HEALTH                                                       +61 404 757 599
+    INSTITUTIONS AUSTRALASIA
+
+
+                                                          Appendix 2: Executive Summary
+                                                        Summary of recommendations in response to:
+
+                    COMMONWEALTH GOVERNMENT COVID-19
+                                    RESPONSE INQUIRY
+          J    Foster cross-sector collaboration and transparent information-
+    nnn sharing for improved communication and decision-making.
+   O Systematically include diverse perspectives and expertise in decision-making
+   0 Enhance and standardise the collection, sharing and accessibility of qualitative and quantitative
+        data; connect and leverage the substantial health data sets that organisations and registers hold
+        to better inform decision making for the benefit of all Australians
+   0    Establish partnerships between researchers, health departments and ethics committees to
+        enable timely research to inform ongoing response
+    O   Establish advisory bodies with diverse community representation, build capacity for ethical
+        deliberation and dialogue, and develop and fund co-designed policies and initiatives
+    0   Fund grants for trusted local and community health organisations to develop Crisis, Emergency
+        and Disaster Response Plans
+
+
+              Invest in comprehensive public health training for effective policy
+              guidance and address the leadership gap.
+   0 Fund and implement Public Health Officer Training Programs in each State and Territory
+   O Fund micro credentials or short courses to upskill and re-skill workers in key skill gaps
+   0 Invest in collaborative, interprofessional and intersectoral training and partnerships
+   0 Provide government-funded training to equip decision makers, policymakers, and leaders with
+     fundamental public health skills.
+   O Invest in Infodemic management infrastructure, capacity, and skills development.
+   0 Develop an awareness campaign to build the profile Public Health and drive trust,
+     understanding and uptake of initiatives
+
+
+               Urgently invest in prevention to minimise risk and reduce health
+                iequ es.
+
+   0 Bring forward the 5% for preventive health commitment from 2030 to 2025 or provide interim
+     funding to address determinants of health inequities.
+   0 Include Non Communicable Diseases in Phase 1 of the Australian Centre for Disease Control
+
+     We urge the Government to urgently invest in the infrastructure of key
+    enablers to reduce risk and better prepare and respond to the next event.
+    These enablers include IT, data, education and training, preventive health,
+                       communications and the workforce.
+Appendix 3: References
+Gurnett, T., Prokopovich, K., Ivers, R., Cullerton, K., Stekelenburg, N. and Slevin, T. (2022), Government support and
+commitment to university-level public health education, research and workforce development is critical. Australian
+and New Zealand Journal of Public Health, 46: 417-418. https://doi.org/10.llll/1753-6405.13244
+
+Middleton, J., Biberman, D., Magana, L, Saenz, R., Low, W. Y., Adongo, R, Kolt, G. S., & Surenthirakumaran, R. (2021).
+Global Governance for Improved Human, Animal, and Planetary Health: The Essential Role of Schools and Programs
+of Public Health. Public health reviews, 42, 1604610. https://doi.org/10.3389/phrs.2021.1604610
+
+Venables, E., & Pellecchia, U. (2017). Engaging Anthropology in an Ebola Outbreak: Case Studies from West Africa.
+Anthropology in Action, 24(2), 1-8. Retrieved Dec 13, 2023, from https://doi.org/10.3167/aia.2017.240201
+
+Wilkinson, A., Parker, M., Martineau, F., & Leach, M. (2017). Engaging 'communities': anthropological insights from
+the West African Ebola epidemic. Philosophical transactions of the Royal Society of London. Series B, Biological
+sciences, 372(1721), 20160305. http5://doi.org/10.1098/rstb.2016.0305
+
+Carlson, S. J., Edwards, G., Blyth, C. C., Nattabi, B., & Attwell, K. (2022). 'Corona is coming': COVID-19 vaccination
+perspectives and experiences amongst Culturally and Linguistically Diverse West Australians. Health expectations : an
+international journal of public participation in health care and health policy, 25(6), 3062-3072.
+https://doi.org/10.llll/hex.13613
+
+Dalzell, S. (2020). Federal Government used Google Translate for COVID-19 messaging aimed at multicultural
+communities. ABC News, https://www.abc.net.au/news/2020-ll-19/government-used-google-translate-for-
+nonsensical-covid-19-tweet/12897200
+
+Haseltine, W. A. (2021). Protecting Indigenous Populations From Covid-19: The Australian Example. Forbes.
+https://www.forbes.com/sites/williamhaseltine/2021/05/05/protecting-indigenous-populations-from-covid-19-the-
+australian-example/?sh=13b3ab23801f
+
+Finlay, S., & Wenitong, M. (2020). Aboriginal Community Controlled Health Organisations are taking a leading role in
+COVID-19 health communication. Australian and New Zealand journal of public health, 44(4), 251-252.
+https://doi.org/10.llll/1753-6405.13010
+
+NSW Health. (2016). NSW Public Health Training Program. New South Wales Health Centre for Epidemiology and
+Evidence. Retrieved 13/12/2023 from https://www.health.nsw.gov.aU/training/phot/Pages/default.aspx#
+
+Government of Western Australia Department of Health. (2023). WA Public Health Officer Training Program.
+Retrieved 13/12/2023 from https://www.health.wa.gov.au/Articles/LJ Z/WA-Public-Health-Officer-Training-
+Program#:~:text=The%20three%2Dyear%20program%20will,by%20a%20certificate%20of%20completion .
+
+VicHealth. (2023). VicHealth Fellowship Program. Retrieved 13/12/2023 from
+https://www.vichealth.vic.gov.au/funding/vichealth-fellowship-program
+
+Public Health Association Australia (PHAA). (2023). 2023: the Year to Deliver on Public Health. PHAA.
+https://www.phaa.net.au/common/Uploaded%20files/Submissions%202023/PHAA%20Submisson%20-
+%20230131%20-%20Treasury%20-%20Pre%20Budget%202023.pdf
+
+Purnat, T. D., Nguyen, T, & Briand, S. (2023). Managing Infodemics in the 21st Century. Springer Nature.
+https://doi.org/10.1007/978-3-031-27789-4
+
+Islam, M. S., Sarkar, T, Khan, S. H., Mostofa Kamal, A., Hasan, S. M. M., Kabir, A., Yeasmin, D., Islam, M. A., Amin
+Chowdhury, K. I., Anwar, K. S., Chughtai, A. A., & Seale, H. (2020). COVID-19-Related Infodemic and Its Impact on
+Public Health: A Global Social Media Analysis. The American Journal of Tropical Medicine and Hygiene, 103(4), 1621­
+1629. Retrieved Dec 13, 2023, from https://doi.org/10.4269/ajtmh.20-0812
+
+Murphy, K., McCarthy, M., Sargeant, E., & Williamson, H. (2022). COVID-19 Conspiracies, Trust in Authorities, and
+Duty to Comply with Social Distancing Restrictions. International Criminology, 2(1), 44-58.
+https://doi.org/10.1007/s43576-021-00042-x
+World Health Organization (WHO). (2023). Pandemic influenza preparedness framework: partnership contribution
+high-level implementation plan III 2024-2030. https://www.who.int/publications/i/item/9789240070141
+
+UNICEF. (2023). Integration of COVID-19 vaccination into routine immunization and primary health care (Operational
+Framework for Demand Promotion - Integration, Issue. https://www.technet-
+21.org/en/resources/guidance/operational-framework-for-demand-promotion-integration
+
+World Health Organization (WHO). (2023a). Managing epidemics: key facts about major deadly diseases, 2nd edition
+https://www.who.int/publica tions/i/item/9789240083196
+
+Pickles, K., Cvejic, E., Nickel, B., Copp, T., Bonner, C., Leask, J., Ayre, J., Batcup, C., Cornell, S., Dakin, T., Dodd, R. H.,
+Isautier, J. M. J., & McCaffery, K. J. (2021). COVID-19 Misinformation Trends in Australia: Prospective Longitudinal
+National Survey. J Med Internet Res, 23(1), e23805. https://doi.org/10.2196/23805
+
+Fredericks, B., Bradfield, A., McAvoy, S., Ward, J., Spierings, S., Combo, T., & Toth-Peter, A. (2023). The Burden of the
+Beast: Countering Conspiracies and Misinformation within Indigenous Communities in Australia . M/C Journal, 25(1).
+https://doi.org/10.5204/mcj.2862 (Original work published March 16, 2022)
+
+Hooker, C., & Leask, J. (2020). Risk Communication Should be Explicit About Values. A Perspective on Early
+Communication During COVID-19. Journal of bioethical inquiry, 17(4), 581-589. https://doi.org/10.1007/sll673-020-
+   25
+
+World Health Organization (WHO). (2021). WHO public health research agenda for managing infodemics.
+https://www.who.int/publica tions/i/item/9789240019508
+
+Association of Schools and Programs of Public Health (ASPPH). (2023). This is Public Health. Retrieved 13/12/2023
+from https://thisispublichealth.aspph.org/
+
+The Lancet (2020). COVID-19: a new lens for non-communicable diseases. Lancet (London, England), 396(10252),
+649. https://doi.org/10.1016/S0140-6736(20)31856-0
+
+Masters, R., Anwar, E., Collins, B., Cookson, R., & Capewell, S. (2017). Return on investment of public health
+interventions: a systematic review. Journal of Epidemiology and Community Health, 71(8), 827.
+https://doi.org/10.1136/jech-2016-208141
+
+Council of Academic Public Health Institutions Australasia (CAPHIA). (2022). Written submission in response to the
+role and functions of an Australian Centre for Disease Control, https://caphia.com.au/wp-
+content/uploads/2022/12/FINAL-SIGNED-CAPHIA-Submission -Roles-and-Functions-of-an-Australian-CDC-2022.pdf
+

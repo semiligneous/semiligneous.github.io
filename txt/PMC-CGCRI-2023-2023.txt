@@ -1,0 +1,396 @@
+g
+     Australian Government
+     Department of Agriculture,
+     Fisheries and Forestry
+
+
+
+
+    Department of the Prime
+    Minister and Cabinet
+
+
+    Commonwealth Government COVID-
+    19 Response Inquiry
+
+
+
+
+    December 2023
+
+
+
+
+                                     i
+Introduction
+  1. The Department of Agriculture, Fisheries and Forestry (DAFF) welcomes the
+     opportunity to provide this submission to the Department of the Prime Minister and
+     Cabinet into the Commonwealth Government COVID-19 Response Inquiry.
+
+Overview of DAFF
+  2. DAFF’s vision is a more sustainable and prosperous Australia through biosecurity,
+     agricultural production, and trade. The department’s purpose is to work together to
+     safeguard and grow sustainable agriculture, fisheries, and forestry for all Australians.
+
+  3.       The key objectives are:
+
+       •   Industry growth - support industry to grow toward a $100 billion agriculture,
+           fisheries, and forestry industry by 2030 amid changing global market conditions.
+       •   Biosecurity - strengthen our national biosecurity system to provide an appropriate
+           level of protection to Australia’s people, our environment and economy from the
+           biosecurity threats of today and tomorrow.
+       •   Resilience and sustainability - Increase the contribution agriculture, fisheries and
+           forestry make to a healthy, sustainable and low emissions environment.
+
+  4. DAFF has a broad and diverse range of policy, program and legislative responsibilities
+     supporting agriculture, fisheries and forestry production and international trade and
+     market access, and significant regulatory responsibilities across exports, biosecurity,
+     illegal logging, and agricultural levies. It has a large operational footprint, including at
+     major airports and ports and in remote locations, and specific responsibilities in both
+     animal and human health.
+
+  5. We provide regulatory services for many parts of the economy through our activities
+     facilitating imports and exports of goods from and into Australia. Our staff work on
+     policy, on-ground programs, regulation, economics, science and research, international
+     negotiations, technical market access and operational programs. The department is a
+     critical part of Australia’s supply chain, facilitating economic growth, manufacturing and
+     trade and market access for both agricultural and non-agricultural products in Australia.
+     The department also advises on policies and helps farmers and rural communities in
+     relation to drought and agricultural land and water use.
+
+  6. Functioning as the Department of Agriculture, Water and the Environment (DAWE) at
+     the time of the COVID-19 pandemic, the department’s role intersected with all three
+     themes of this inquiry: health, governance and social and economic impacts. Drawing
+     on our experience and learnings, the submission will pay particular attention to the
+     following aspects of the Terms of Reference:
+
+       •   Key health response measures (for e.g. across COVID-19 vaccination and
+           treatments, key medical supplies such as Personal Protective Equipment,
+           quarantine facilities, and public health messaging).
+       •   Governance including the role of the Commonwealth Government, responsibilities
+           of state and territory governments, national governance mechanisms and advisory
+           bodies supporting responses to COVID-19.
+       •   Support for industry and businesses (for e.g. responding to supply chain and
+           transport issues, addressing labour shortages, and support for specific industries).
+
+
+
+                                                                                                    2
+PDR
+Health response measures
+
+  7. The department was prioritising three areas of focus: ensuring the safety of all staff
+     including those involved in critical front-line roles in high risk environments, directly
+     supporting the Department of Health through the Biosecurity Act 2015 to implement
+     health measures for travellers and to facilitate timely and efficient import of key
+     supplies such as vaccination supplies, RAT tests and Personal Protective Equipment
+     (PPE); and continuing to perform its regulatory functions in critical industries
+     (including food production and distribution).
+
+     •   The Secretary of the department is the Director of Biosecurity which is a legislated
+         function under the Biosecurity Act 2015 and shares responsibility with the Director
+         of Human Biosecurity in relation to the management of listed human diseases and
+         biosecurity risk.
+
+     Staff safety
+
+  8. The department monitored and followed Commonwealth, state and territory Health and
+     Government directions to ensure the health and safety of our staff. This was informed
+     by government advice (including from the Australian Health Protection Principal
+     Committee) and health directives (State and Territory Public Health Orders), risk
+     assessments, consideration of hazards and risks associated with our business and
+     undertaking appropriate risk mitigation activities against an evolving risk appetite.
+
+         a. The department has staff located around the country in key import/export
+            operations, such as airports, ports, meat processing facilities and other third-
+            party premises (TPPs). Some of these establishments were designated as both
+            high risk and critical for ongoing operations.
+
+  9. In line with state and territory health officials recommending people work from home,
+     managers were asked to review business continuity planning and enable workers to
+     work from home where possible, ensuring the continued safe and effective delivery of
+     critical services to the Australian public.
+
+  10. The biggest impact to DAFF’s day-to-day large-scale operations was experienced in
+      Sydney and Melbourne. This was due to high COVID case numbers and community
+      transmission in sites where our staff operate, the subsequent Public Health Orders
+      issued by the State or Territory, and the logistical and safety consequences thereof. On
+      a smaller scale, the department encountered significant impacts due to the nature of its
+      operations, including the need to move staff throughout Australia and overseas to
+      respond to staff shortages or critical regulatory issues. These impacts were
+      compounded by many of the department’s regulated entities setting ‘bespoke’
+      requirements in addition to those set by state and territory health regulators - including
+      only permitted vaccinate employees to enter facilities, invasive biometric scanning
+      requirements or limiting departmental employees to only be deployed to singular
+      establishments.
+
+  11. Overall, the flow of communication and impacts felt by the department improved as the
+      pandemic progressed and more and more businesses and Australians became
+      accustomed to COVID requirements imposed. It is recognised however that at times
+      the lack of availability of communication support meant agencies were duplicating effort
+      to support campaigns for matters like staff vaccination and PPE requirements. Differing
+      rules for each state/territory also led to confusion and significant delays in the delivery
+      of advice.
+
+  12. As an agency with a number of critical workers, including many directly supporting the
+      clearance of travellers and the provision of critical supplies, the requirement for
+                                                                                                 3
+   agencies to purchase RAT tests on an individual basis and not through a centralised
+   process also created issues and delays.
+
+13. The March 2020 international travel ban meant over 70 percent of biosecurity officers
+    based at international airports were redeployed to other areas of the department or the
+    broader public service (including in the States and Territories) following significant
+    reductions in passenger arrivals.
+
+14. While staffing was reduced, the role for biosecurity officers remaining at airports was
+    extended. For example, biosecurity officers:
+
+       a. boarded every flight and played the on-arrival Health COVID-19 announcement
+          and handed out the COVID factsheet to all arriving international travellers prior
+          to disembarkation
+
+       b. at Sydney, Melbourne, Brisbane and Darwin airports, played an announcement
+          which outlined the COVID testing and quarantine requirements for each
+          jurisdiction
+
+       c. at Brisbane international airport, undertook temperature testing for travellers
+          departing Australia to Pacific Island Countries
+
+       d. scanned and emailed the Health Declaration Card (paper version of the
+          electronic Australia Travel Declaration) to the jurisdictions for the purpose of
+          contact tracing.
+
+15. DAFF experienced increasing demand for services given border closures and
+    lockdowns impacting trade in 2020, especially for goods under $1,000 (which are
+    generally consumer household purchases).
+
+16. Isolation periods required by jurisdictions’ Public Health Orders also reduced the
+    availability of staff to attend premises to undertake inspections of both inbound and
+    outbound goods as required.
+
+17. Surge requests were coordinated through the APSC and at times there were issues
+    experienced with relevant information not being passed onto the gaining organisation
+    (e.g., preferred secondment start dates, employees’ locations, equipment provision,
+    etc). The notice period for the cessation of employees’ secondments was also often
+    quite short.
+
+18. To ensure an undisrupted supply of COVID-19 test kits, the Director of Biosecurity and
+    Director of Human Biosecurity made an instrument under subsection 174(1) of the
+    Biosecurity Act 2015 (Biosecurity Act), titled the Biosecurity (Conditionally Non­
+   prohibited Goods) Amendment (Test Kits) Determination 2021.
+
+19. This instrument amended the Biosecurity (Conditionally Non-prohibited Goods)
+    Determination 2021 to specify conditions that must be met before test kits could be
+    brought or imported into Australian territory. In many cases, COVID-19 test kits can
+    meet these specified conditions. Where test kits do not meet the import conditions, an
+    import permit is required. This legislative amendment addressed a supply chain
+    concern by streamlining the importation of these goods while still managing biosecurity
+    risk.
+
+20. To maintain export certification and regulatory responsibilities whilst also protecting our
+    staff, DAFF organised where possible to conduct remote regulatory auditing. This
+    ensured critical regulatory activities progressed whilst minimising the exposure of
+    DAFF officers, with these measures becoming more embedded in both regulatory
+    auditing undertaken by DAFF, but also with trading partners seeking to maintain the
+
+                                                                                              4
+   trading relationships through remote auditing of abattoirs. It is important to note though
+   that this was not always effective - with many international trading partners refusing to
+   accept agricultural exports unless verified, in person, by a departmental officer. The
+   department did also use the implications of COVID 19 in food inspections systems to
+   progress the development, through the Codex Alimentarius Commission of a new
+   international standard for remote audit and assurance in food inspection systems -
+   using our experiences of COVID-19 in food inspection systems as a base.
+
+27. Finally, and in understanding that whether to require mandatory staff vaccinations is a
+    complex issue, the department notes that it, like all operational government agencies,
+    struggled to develop a position on whether mandatory vaccination of frontline workers
+    was required. For context, mandatory vaccination against Q-fever is a requirement for
+    all departmental On-Plant Veterinarians and Food Safety Meat Assessors due to the
+    known links between adverse human health outcomes (Q-fever) and employment in
+    the meat processing sector. In the case of COVID-19, a direct linkage to place of
+    employment and an adverse human health outcome was less clear, and a formal
+    position on mandatory vaccination requirements within the Australian Public Service
+    was not reached. Disparate state and territory requirements surrounding placements of
+    vaccinated workers, compounded by industry or business specified access
+    arrangements required careful management to ensure staff availability - which
+    included understanding and confirming whether staff were vaccinated in order to
+    deploy them for certain tasks.
+
+Biosecurity Act 2015 and support for delivery of health measures
+
+22. The department performs human health regulatory functions under the Biosecurity Act
+    2015, both as part of the duties of biosecurity officers and on behalf of the Department
+    of Health and Aged Care, under a Memorandum of Understanding (MOU) between the
+    agencies.
+
+   •   Biosecurity officers undertake border measures including non-clinical screening
+       and assessing of travellers at international air and seaports. These functions are
+       aimed at mitigating the introduction, establishment and spread of listed human
+       diseases (LHDs) and some other infectious diseases in Australia.
+
+23. Decision support materials for biosecurity officers were amended to screen for
+    travellers with signs or symptoms of COVID, arriving in Australia via both air and
+    maritime pathways. Officers underwent training in new procedures, which was also
+    subject to regular verification processes.
+
+24. During the pandemic, and in the aftermath, the requirement to contact jurisdictional
+    authorities on all COVID diagnoses, in some cases under different reporting protocols,
+    caused some challenges and delays to traveller clearances. There is value in further
+    regular examination of processes at a holistic level to ensure they remain appropriately
+    risk based and minimise duplication.
+
+25. The arrival of the Ruby Princess cruise ship tested the protocols for the management
+    of sea travellers and the intersection of multiple Commonwealth and jurisdictional
+    processes. As this was the subject of a separate Special Commission of Inquiry, the
+    matter is not discussed at length in this submission.
+
+   •   A separate independent review by the Inspector General of Biosecurity was also
+       undertaken in 2021 which has prompted a number of refinements to border
+       clearance arrangements.
+
+26. These reviews and learnings from the pandemic more generally underpin a number of
+    continual improvements to both legislative settings and internal processes, many of
+
+
+                                                                                            5
+     which we continue to work closely with a number of agencies to refine and deliver,
+     including:
+
+     •   A strengthened biosecurity operating model introduced by the department and the
+         Department of Health and Aged Care for international cruise vessels, to enable the
+         appropriate sharing of information provided electronically in by vessel operators
+         with all relevant port and health authorities.
+
+     •   Implementation of an updated human health risk assessment process for
+         international commercial vessels including cruise ships, consistent with public
+         health requirements developed by the AHPPC.
+
+     •   A review of all maritime guidance material for staff undertaking human health
+         checks at the border.
+
+     •   A new biosecurity training program rolled out to all operational staff to ensure they
+         are well equipped to make robust operational decisions.
+
+     •   A refresh of the Memoranda of Understanding with the Australian Border Force and
+         the Department of Health.
+
+     •   Improvements to the human health digital software supporting air and sea traveller
+         clearance, including the Traveller with Illness Checklist.
+
+     •   Legislative amendments to refine human health clearance processes for travellers,
+         and annual reviews to optimise the legislative settings as required.
+
+     •   A series of exercises to confidence test at-border delivery of critical human
+         biosecurity functions for cruise vessels prior to cruise resumption, including all
+         relevant Commonwealth state and territory agencies.
+
+Governance
+  27. In undertaking operational activity related to COVID and other health-related issues,
+      the department relies on policy advice from Commonwealth health authorities,
+      including the AHPPC.
+
+  28. During the pandemic, the governance processes generally worked well. The
+      department was well engaged (often indirectly) in processes to inform the decision­
+      making by the AHPPC and National Cabinet and the decisions flowing from it.
+
+  29. With respect to our responsibilities for human health under the Biosecurity Act 2015,
+      the department continues to maintain close contact with the Department of Health to
+      ensure appropriate governance and accountability mechanisms are in place for agreed
+      areas of cooperation. Roles and responsibilities for these functions are set out in a
+      Human Biosecurity Services schedule to the MOU. This Schedule is currently under
+      revision and will incorporate emergency measures as an additional area of
+      cooperation.
+
+  30. The department and the Department of Health and Aged Care jointly chair the Human
+      Biosecurity Forum which meets at least quarterly and provides policy and operational
+      oversight to ensure relevant, responsive and appropriate management of human
+      biosecurity threats to Australia.
+
+  31. As an employer, the department found the experience of managing state vs federal
+      government requirements relating to vaccination status to access the workplace
+      challenging. For example, our post entry quarantine facility had both employees under
+
+                                                                                                 6
+     state government rulings such as contractors and staff employed under commonwealth
+     rulings and staff were not permitted to be based in some designated airport zones
+     unless they were vaccinated - even if they were not undertaking airport operations.
+     Inconsistencies were clear when managing access to both sites.
+
+Social and Economic
+  32. In addition to the direct role in human health management at the border, the
+      department played an active role to help manage critical supply chain issues.
+
+  33. The department was an active member of the Supermarkets Taskforce, established by
+      the Department of Home Affairs to allow supermarkets to work together in a non­
+      competitive manner to resolve supply chain issues to ensure that consumers were able
+      to access the goods that they needed.
+
+  34. Industry cooperation was a critical component in stabilising consumer confidence,
+      maintaining equitable access to food and minimising negative impacts, including health
+      risks, for supermarket staff and customers. To assist industry confidence and the rapid
+      sharing of information, the department appointed an ex-Deputy Secretary as an
+      industry engagement touchpoint - funnelling information to various Inter-departmental
+      and Ministerial Committee’s considering supply chain issues, food security and more.
+      This provided a vital conduit of information between industry, the department and the
+      broader government to assist targeted policy development and industry engagement.
+
+  35. Noting the effect of supply chain issues and the shortage of air and sea freight
+      capacity, in April 2020, the Australian Government established the International Freight
+     Assistance Mechanism (IFAM) to keep global air links open in response to the ongoing
+      effects of the COVID-19 pandemic. IFAM was a temporary, targeted, emergency
+      measure to help Australian businesses deal with the COVID-19 pandemic.
+
+  36. The purpose of IFAM was to help re-build and maintain key global supply chains,
+      protecting hard fought market share for Australian businesses and enable the import of
+      items critical to Australia’s national interest, including medical supplies, medicines and
+      equipment to support Australia’s health response.
+
+  37. A key feature of IFAM was the support it provided for international freight movements.
+      This includes aggregating cargo loads, negotiating with airlines, working with partner
+      governments to facilitate clearances, and improving transparency around freight costs
+      during the pandemic.
+
+  38. By keeping key airfreight routes open, IFAM provided Australian businesses
+      disproportionately affected by COVID-19 time to adapt their business models, adjust to
+      a new and tougher trading environment and preserve jobs. The total cost of the
+      program was $1.04 billion.
+
+  39. To ensure the continuation of export agricultural goods, particularly in relation to export
+      registered abattoirs where meat exports to key export markets are contingent on the
+      presence of department staff, veterinarians and food safety meat assessors were
+      required on premise and were provided essential worker status. Their continued effort
+      minimised the impact on this section of the Australian economy which was of particular
+      importance to the regional areas these abattoirs are often found.
+
+  40. The department also ensured ongoing regulatory compliance through auditing
+      undertaken by departmental auditors who were required to continue to travel across
+     Australia to meet legislative requirements underpinning certification of export
+      prescribed products.
+
+                                                                                               7
+  41. Labour shortages threatened ongoing supplies of horticultural produce, and the
+      department worked with the Northern Territory government and other Australian
+      Government agencies to trial opening the border for workers under the Seasonal
+     Worker Programme. The success of this trial enabled the restart of the Seasonal
+     Worker Programme and Pacific Labour Scheme to fill key agricultural and meat
+      processing jobs.
+
+Conclusion
+  42. In many ways, the department continues to recover from the impacts of the COVID
+      disruption, including re-building staff resources and capability. One of the positive step­
+      changes from the experience has been the flexibility of the introduction of remote and
+      new ways of working which for a large organisation with a wide range of responsibilities
+      and skill needs, has been beneficial in supporting more agile and innovative workforce
+      strategies and outcomes.
+
+  43. We welcome the Inquiry into the Commonwealth Government’s COVID-19 Response
+      and would be happy to provide further information and participate in discussions to
+      support this submission and assist the Panel with its deliberations.
+
+
+
+
+                                                                                                8
+

@@ -1,0 +1,136 @@
+Commonwealth Government COVID-19 Response Inquiry: Aboriginal and Torres Strait Islander
+COVID-19 Molecular Point-of-Care Testing Program
+
+Date: 4 December 2023
+
+
+Background:
+
+Aboriginal and Torres Strait Islander people living in remote areas of Australia have limited access to
+the array of healthcare, hospital and pathology services, along with limited housing infrastructure.
+Furthermore, Aboriginal and Torres Strait Islander people experience high rates of chronic disease,
+resulting from a range of social determinants of health, including a history of colonisation and
+institutional racism. All these factors contribute to infectious diseases having a disproportionately
+greater impact in these settings than in urban settings.
+
+In response to the COVID-19 pandemic, the Australian Government convened the National Aboriginal
+and Torres Strait Islander COVID-19 Advisory Group (hereafter referred to as the Advisory Group) to
+develop and deliver a National Management Plan to protect communities. Under the guidance of this
+group, the Aboriginal and Torres Strait Islander COVID-19 Molecular Point-of-Care (POC) Testing
+Program was initiated, with the aim to:
+     1. Provide rapid COVID-19 POC test results for Aboriginal and Torres Strait Islander peoples,
+        particularly those unable to physically isolate or at increased risk of severe illness and to
+        expedite hospitalisation and/or treatment.
+     2.      Identify new COVID-19 outbreaks and inform rapid public health responses.
+     3. Complement the pathology-led national testing frameworks to extend reach, increase
+        capacity and reduce time to COVID-19 results in high-risk settings where access to laboratory
+        testing was not readily available.
+
+The Aboriginal and Torres Strait Islander COVID-19 Molecular Point-of-Care Testing Program (hereafter
+referred to as the Program) utilised the GeneXpert assay for SARS-CoV-2 (Xpert® Xpress SARS-CoV-2)
+as it was the first qualitative molecular-based point of care (POC) test for SARS-CoV-2 approved by the
+Australian Therapeutic Goods Administration under emergency use only conditions. In addition, a
+network of 31 health services were already using GeneXpert devices for sexually transmitted infections
+(STI) POC testing.1 The SARS-CoV-2 assay enabled sensitive molecular (polymerase chain reaction or
+PCR) testing to be conducted by remote primary care clinicians within their health service, providing
+results in an hour, compared to an average six days through the routine laboratory based system.
+Compared to rapid antigen tests (RATs), molecular testing is considered more accurate and more likely
+to detect early infection compared to RATs which may only become positive some days following initial
+infection. Further, RATs only became widely used in Australia in November 2021.
+
+Here we describe two key aspects of the Commonwealth Governments COVID-19 response:
+   1.      The Aboriginal and Torres Strait Islander COVID-19 Point-of-Care testing Program.
+   2.      Aboriginal and Torres Strait Islander led governance.
+
+
+1. The Aboriginal and Torres Strait Islander COVID-19 Point-of-Care Testing Program
+Under the guidance of the Advisory Group, the Australian Government contracted the Kirby Institute,
+UNSW Sydney, in partnership with the Flinders University International Centre for Point of Care Testing,
+to implement the Program.2 The Program commenced in early 2020 and quickly became the world's
+largest decentralised SARS-CoV-2 molecular POC testing network. To date, over 100 health services
+in regional and remote Aboriginal and Torres Strait Islander communities, either Aboriginal Community
+Controlled or government health services, participate in the Program and over 80,000 patient tests
+have been conducted. The median distance from participating health services to the nearest
+laboratory performing COVID-19 testing was over 500 kms, with an average driving time of 8 hours.
+Further, many services were located in settings impacted by monsoonal conditions or were remote
+islands making them difficult to access. More detailed information about the Program implementation
+has been previously published.2
+
+Funding for the Program was announced on the 16th April 2020, with the first patient test performed
+within a remote community on 20 May 2020. Early initiation of funding for the Program by the
+Commonwealth meant that impacts were realised early in the pandemic when many remote
+communities were yet to experience an outbreak of COVID-19. In this setting, molecular POC testing
+averted unnecessary evacuations of suspect cases out of community to larger regional settings to
+isolate while waiting on the result, thereby saving health service costs, and decreasing anxiety for
+community members having to leave their families and country.
+
+Following the opening of state and territory borders in the second half of 2021, the first cases of
+COVID-19 in nearly all of the communities participating in the Program, were detected by molecular
+POC testing, prompting swift public health action with rapid response teams visiting within 0-1 day
+after the case was detected, compared to a six-day delay for routine laboratory-based testing. Delays
+in receiving results heightens the risk of ongoing transmission of infection, and delays initiation of
+therapeutic treatment if indicated.
+
+An external evaluation, commissioned by the Department of Health and Aged Care found that
+molecular POC testing supported by the Program averted between 23,000-122,000 COVID-19
+infections within 40 days of an outbreak, and saved between $337 million and $1.8 billion in health
+care costs within the first 40 days after an outbreak, further detail can be found here E      i of
+COVID-19 point-of-care testing in remote and First Nations communities | Australian Government
+Department of Health and Aged Care.
+
+The Program has established infrastructure that can be utilised for testing for other priority infections
+whist maintaining capacity for future pandemic responses. In mid-2022 the Program transitioned from
+testing for SARS-CoV-2 only to testing for four common respiratory viruses, SARS-CoV-2, influenza A
+and B and respiratory syncytial virus (RSV) in the one test.
+
+
+2. Impact of Aboriginal and Torres Strait Islander led governance.
+On 5 March 2020, the Aboriginal and Torres Strait Islander COVID-19 Advisory Group (the Advisory
+Group) was established, co-chaired by the National Aboriginal Community Controlled Health
+Organisation (NACCHO) and the Indigenous Health Branch, Australian Government. The Advisory
+Group supported early engagement, shared decision making and genuine partnerships between the
+National Aboriginal Community Controlled Health Organisation (NACCHO), state and territory ACCHOs
+and local, state and federal government. The Advisory Group members included NACCHO, Aboriginal
+and Torres Strait Islander communicable and infectious disease experts, state and territory
+government representatives, Public Health Medical Officers, ACCHO representatives, and Australian
+Government departments. This membership provided a foundation for an Aboriginal and Torres Strait
+Islander led COVID-19 response, aligning with key principles of the National Agreement on Closing the
+Gap.
+
+The Program reported regularly to the Advisory group and sought advice on site inclusion criteria, site
+selection, training, and other issues affecting the operations of the Program. Aboriginal and Torres
+Strait Islander led governance, through the mechanism of the Advisory Group, enabled a
+coordinated, rapid public health response following a COVID-19 POC positive result. This included
+governments and peak Aboriginal land councils and organisations working together to safely isolate
+COVID-19 positive people in the community, coordination of the Royal Flying Doctor Service to
+evacuate people from community where required, enactment of the Biosecurity Act 2015 at the
+communities' request, and deployment of additional workforce support.
+
+In the first 18 months of the COVID-19 pandemic (January 2020 to June 2021) COVID-19 cases among
+Aboriginal and Torres Strait Islander peoples represented less than 1% of all cases in Australia3. The
+successful COVID-19 response and low rate of cases among Aboriginal and Torres Strait Islander
+peoples can be attributed to Aboriginal and Torres Strait Islander led governance and the ongoing
+partnership between the Australian Government and the Aboriginal Community Controlled health
+sector.
+
+Lessons learnt through the COVID-19 response have extended beyond the COVID-19 pandemic. In late
+2022, the advisory group was transitioned to the National Aboriginal and Torres Strait Islander Health
+Protection (NATSIHP) AHPPC Sub-Committee, providing an ongoing mechanism for Aboriginal and
+Torres Strait Islander people to have a voice about the health issues that impact them. NATSIHP
+continues to provide advice and governance to the First Nations Molecular POC Testing Program
+(formerly the COVID-19 POC Testing Program), as well as the STI POC Program (TTANGO) and other
+emerging POC programs for priority infections such as Group A Strep and HPV.
+
+
+
+
+References:
+
+1.       Guy RJ, Ward J, Causer LM, et al. Molecular point-of-care testing for chlamydia and
+gonorrhoea in Indigenous Australians attending remote primary health services (TTANGO): a cluster-
+randomised, controlled, crossover trial. Lancet Infect Dis 2018; 18(10): 1117-26.
+2.       Hengel B, Causer L, Matthews S, et al. A decentralised point-of-care testing model to address
+inequities in the COVID-19 response. Lancet Infect Dis 2021; 21(7): el83-e90.
+3.       Australian Department of Health. COVID-19 Australia: Epidemiology Report 47.:
+Communicable Disease Intelligence 2021; 2021.
+

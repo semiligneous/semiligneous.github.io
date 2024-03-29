@@ -1,0 +1,862 @@
+                                       GRATTAN
+                                           Institute
+
+
+  How to prepare for the next pandemic
+Submission to the federal government’s COVID Response Inquiry
+                                 Peter Breadon and Anika Stobart
+How to prepare for the next pandemic
+
+
+
+Summary
+
+We welcome the opportunity to contribute to the federal government’s       There is no silver bullet, but our submission outlines three ways the
+COVID Response Inquiry.                                                    government should strengthen the health system to minimise the
+                                                                           burden in any future pandemic on the most disadvantaged.
+There are many important public health measures needed to prepare
+for the next pandemic, such as developing an advanced surveillance
+                                                                           First, chronic diseases need to be reduced, so people can better
+system, and preparing emergency management capabilities and the
+                                                                           withstand the health impacts of a novel pathogen. This will require
+tools needed to support decisions about public health restrictions.
+                                                                           governments investing more in prevention programs, particularly in
+However, this submission focuses on something that is just as
+                                                                           disadvantaged communities. The new Australian Centre for Disease
+important, but which is more likely to be overlooked: improving
+                                                                           Control (ACDC) should factor inequalities into its work and decisions.
+prevention and primary care systems to make Australia fairer and more
+resilient.
+                                                                           Second, the primary care system needs to better manage chronic
+While Australia’s overall health outcomes during the COVID pandemic        conditions. Reforms are underway, but more are needed. The funding
+were better than those in many other countries, there were still huge      model should be adjusted to patient need, and federal and state
+disparities. Disadvantaged Australians fell behind at every stage: they    governments should co-commission services in rural areas to ensure
+had lower vaccination rates, fewer antiviral treatments, and higher risk   patients can get the care they need.
+of death.
+
+Sadly, this didn’t come as a surprise. These health gaps existed before    Third, Australia’s vaccination system needs to be strengthened to
+the pandemic and remain today: poorer Australians, people living in        ensure that everyone can get rapid access to vaccines that reduce the
+regional and remote areas, and Indigenous Australians are more likely      risks of infection and illness before being infected, and any treatments
+to smoke and have a poor diet, suffer from chronic illness, miss out on    that reduce those risks after being infected.
+healthcare, and die younger.
+                                                                           Our recommendations draw on the analysis and recommendations of
+The federal government must urgently push to close these health gaps       three recent Grattan Institute’s reports (attached to this submission):
+before the next pandemic. Otherwise, Australia’s chronic disease
+burden will continue to grow, with some communities much sicker
+                                                                                 The Australian Centre for Disease Control (ACDC): Highway to
+than others. That will mean more sickness and death from a future                health (2022)
+pandemic, and greater risk of the health system being overwhelmed.
+
+If we wait for the next pandemic, it will be too late to ensure fair         •     A new Medicare: Strengthening general practice (2022)
+outcomes. Australia must build a strong and equitable health system
+now, and have systems ready to go when the next crisis comes.                •     A fair shot: How to close the vaccination gap (2023)
+
+Grattan Institute 2023                                                                                                                                2
+How to prepare for the next pandemic
+
+
+
+Recommendations
+Forge a national funding agreement on prevention
+
+    The federal government should boost investment in prevention
+    through a new national funding agreement.
+
+    The new Australian Centre for Disease Control (ACDC) should
+    have improving equity as a core goal.
+
+Reform primary care funding
+
+    The federal government should ensure the new funding model
+    for primary care is adjusted to patient need, taking account of
+    demographics and socio-economic factors.
+
+    The federal government - through Primary Health Networks -
+    should work with the states to co-commission services in areas
+    where there are few primary care services.
+
+Create a new national vaccination agreement
+
+    The federal and state governments should commit to a vaccine
+    equity strategy, as part of a new vaccination agreement.
+
+    The federal government should set targets to boost vaccination
+    coverage and equity.
+
+    The new national vaccination system should include three tiers
+    of measures - universal, targeted, and tailored - to ensure equal
+    access to vaccinations across communities.
+
+Build new information systems
+
+    Primary Health Networks should monitor antiviral uptake in their
+    catchments and across clinics.
+
+    Primary Health Networks should work with state governments to
+    improve supply of antivirals in harder-to-reach communities.
+
+Grattan Institute 2023                                                  3
+How to prepare for the next pandemic
+
+
+
+
+                                       Table of contents
+
+
+
+                                       Recommendations .................................................................................. 3
+
+                                       1   The pandemic highlighted Australia’s big health gaps.................... 5
+
+                                       2   Building a fairer and more resilient health system for the next
+                                           pandemic....................................................................................12
+
+
+
+
+Grattan Institute 2023                                                                                                                      4
+How to prepare for the next pandemic
+
+
+
+1       The pandemic highlighted Australia’s big health gaps
+                                                                           Figure 1.1: Disadvantaged groups often have multiple health challenges
+                                                                           Rate ratio of disease risk factors, health access, and health outcomes
+Disadvantaged Australians fell further behind other Australians at every
+                                                                                                       Indigenous             Regional and              Most dis­
+stage of the COVID-19 pandemic. They had lower vaccination rates,                                                                remote                advantaged
+fewer antiviral treatments, and higher death rates.
+
+Health gaps existed before the pandemic and remain today: poorer                A daily smoker
+Australians, people living in regional and remote areas, and Indigenous                                    Indigenous people are nearly three times
+                                                                                                            more likely than non-lndigenous people
+Australians are more likely to smoke and have a poor diet, suffer                                                     to be a daily smoker
+                                                                              Years of life lost
+from chronic illness, miss out on healthcare, and die younger (see           due to premature
+Figure 1.1).                                                                              death
+
+The federal government must urgently push to close these gaps before                Years lived
+the next pandemic. Otherwise, Australia’s chronic disease burden will           with disease or
+                                                                                       disability
+continue to grow, with some communities much sicker than others.
+That will mean more sickness and death from a future pandemic, and
+                                                                           Skip or delay dental
+greater risk of the health system being overwhelmed.
+                                                                               care due to cost
+
+1.1     Australia’s health gaps are big and likely to get bigger
+                                                                              Have 2 or more
+Disadvantaged Australians have more health risk factors, are sicker,        chronic conditions
+and find it harder to get the healthcare they need. As some health risk
+factors increase, and chronic conditions become more common, health
+gaps are likely to get wider.                                                          Is obese
+
+
+    Isadvantaged people have more health risks                                                    1x     2x    3x        1x      2x     3x        1x     2x   3x
+                                                                                                Equal to
+Australia has been successful in reducing some health risks, such as
+                                                                                               comparator
+smoking, and to a lesser degree, high alcohol consumption.1 But other
+                                                                           Notes: The most disadvantaged statistics are derived from comparing the lowest
+risk factors are either growing, or remain stubbornly high.                socioeconomic fifth to the highest.
+                                                                           Source: Grattan analysis of ABS (2022a), AIHW (2020), AIHW (2023a), AIHW (2023b),
+Rates of obesity have tripled, from less than 10 per cent of adults
+                                                                           AIHW (2023c), ABS (2022b), AIHW (2023d), ABS (2022c), ABS (2020), AIHW
+in 1980 to more than 30 per cent today. More than two thirds of            (2021a), AIHW (2021b) and AIHW (2022a).
+
+1.    Breadon et al (2023, p. 13).
+
+Grattan Institute 2023                                                                                                                                              5
+How to prepare for the next pandemic
+
+
+
+Australians are overweight or obese, and this figure has risen                            Indigenous Australians, poorer Australians, those with less education,
+consistently over the past decade.2                                                       and those living in rural parts of the country are far more likely to
+                                                                                          be diagnosed with multiple common chronic diseases.9 The most
+Most Australians have some health risks, but they are greater for
+                                                                                          disadvantaged fifth of Australians are nearly twice as likely to have two
+disadvantaged groups, who often lack the resources to change or
+                                                                                          or more chronic diseases as the least disadvantaged fifth of Australians
+avoid an unhealthy environment. For example, more disadvantaged
+                                                                                          (see Figure 1.1 on the preceding page). And chronic diseases account
+Australians have fewer healthy options that they can afford, and are
+                                                                                          for about 80 per cent of the life expectancy gap between Indigenous
+likely to be exposed to more advertising for unhealthy options.3
+                                                                                          and non-lndigenous Australians.10
+People living in outer regional and remote areas are more likely than
+people in cities to drink sugar-sweetened drinks daily.4 Aboriginal                       Many disadvantaged Australians miss out on needed care
+people are exposed to more health risks than other Australians.
+                                                                                          Many Australians - particularly those living in regional and remote
+And compared to the most advantaged fifth of Australians, the most
+                                                                                          areas and people on lower incomes - find it hard to get the healthcare
+disadvantaged fifth are more than three times as likely to be daily
+                                                                                          they need. They wait a long time to get an appointment or can’t afford
+smokers (see Figure 1.1 on the previous page).
+                                                                                          care or prescribed medicines when they do.11
+
+Chronic conditions are becoming more common                                               While rates of bulk-billing for GP services are high overall, particularly
+                                                                                          for patients with concession cards, disadvantaged Australians still face
+Today, almost half of Australians live with a chronic disease5 - long­
+                                                                                          barriers to care.12 For example, compared to those in the wealthiest
+term diseases such as cancer, cardio-vascular diseases, and diabetes
+                                                                                          areas, older Australians in the poorest areas are almost three times as
+- and they are becoming more common as our population ages and
+                                                                                          likely to not to see a GP at least once a year.13 When disadvantaged
+some risk factors, such as obesity, increase.6 The prevalence of chronic
+                                                                                          Australians do visit the GP, they are about 35 per cent more likely to
+disease has increased by 38 per cent over the past three decades.7
+                                                                                          report waiting too long for appointments.14
+Nearly 40 per cent of the burden of chronic disease is caused by
+                                                                                          Poorer Australians also struggle to afford prescribed medicines,
+modifiable risk factors, such as smoking, obesity, poor nutrition, or
+                                                                                          dental care, and specialist care. For example, compared to the most
+social isolation.8 Because disadvantaged people are more likely to face
+                                                                                          advantaged fifth of Australians, the most disadvantaged fifth are about
+these risks, they are more likely to have chronic disease.
+2.   AIHW (2022b).                                                                        9.  Grattan analysis of ABS (2018b) and AIHW (n.d.).
+3.   Baker (2014).                                                                        10. AIHW (2011).
+4.   ABS (2018a).                                                                         11. ABS (2022e).
+5.   AIHW (2022c).                                                                        12. Breadon et al (2022).
+6.   Treasury (2010, p. 8); Magliano et al (2009); Marquina et al (2022); and Savira et   13. About 0.8 per cent of people 65 or older living in the least disadvantaged decile of
+     al (2021).                                                                               areas did not see the GP over the course of a year, compared to 2.3 per cent in
+7.   OWID (n.d.).                                                                             the most disadvantaged decile: Grattan analysis of AIHW (2021 d).
+8.   AIHW (2021c).                                                                        14. ABS (2022e).
+
+Grattan Institute 2023                                                                                                                                                           6
+How to prepare for the next pandemic
+
+
+
+twice as likely to delay or skip taking prescribed medication because of
+cost.15
+
+Skipping needed care and/or medication is not only bad for those            Figure 1.2: Disadvantaged people were more likely to die from COVID
+individuals’ health, but also bad for taxpayers and the economy. It         Proportion of deaths due to COVID, by socio-economic group
+makes people sicker, widens health gaps, and puts further strain on
+the health system down the track.16
+
+Gaps in health outcomes
+
+The rising rates of health risk factors, increasing prevalence of chronic
+disease, and poor access to needed care for some, all compound to
+widen gaps in Australians’ health outcomes.
+
+Men and women who live in poorer areas can expect to die six
+years and four years earlier than those who live in wealthy areas.17
+Indigenous Australians, and Australians with little formal education,
+can expect to die about eight years younger than their fellow citizens.
+People who live in rural areas will die about two to three years earlier,
+on average, than people who live in cities.18
+
+And because chronic diseases contribute a lot to these gaps,
+disadvantaged people will spend more years living in ill health than
+other Australians, even though they die earlier.19
+
+1.2    Australia’s health gaps were highlighted during the COVID
+       pandemic
+
+COVID further exposed the gaps in Australians’ health. Australians with
+chronic diseases and disadvantaged backgrounds were more likely to           0% ----------- ,------------------- r
+                                                                               Most disadvantaged               2      3
+                                                                            Note: Data is up until September 2023.
+15. ABS (2023b).
+                                                                            Source: Grattan analysis of ABS (2022d).
+16. Duckett et al (2022, p. 8).
+17. Breadon (2023).
+18. Ibid.
+19. Breadon and Fox (2023).
+
+Grattan Institute 2023                                                                                                                            7
+How to prepare for the next pandemic
+
+
+
+be at risk of severe illness from COVID, and more likely to miss out on
+COVID vaccination and treatment.
+
+                                                                              Figure 1.3: Australians who were born overseas usually have higher
+COVID infections and deaths                                                   COVID death rates and lower COVID vaccination rates than people born
+People with chronic conditions were more likely to have severe illness        in Australia
+                                                                              COVID death rates per 100,000 people (age-adjusted), by place of birth
+from COVID, more complications, and a greater risk of death. For
+                                                                              40
+example, while about 50 per cent of Australians have one or more
+                                                                                    Middle East
+chronic conditions, pre-existing chronic conditions were recorded on
+the death certificates of about 80 per cent of Australians who died from
+COVID by September 2023.20                                                    30
+                                                                                             South-eastern Europe
+
+Disadvantaged Australians were also more likely to be infected,
+                                                                                                                        Eastern Europe
+hospitalised, and die from COVID (see Figure 1.2 on the previous
+                                                                              20                                         North Africa
+page).21 While the disparity in death rates has varied over time, it                                                                        Oceania and Antarctica
+                                                                                                  Southern Europe
+peaked in 2021, when people in the most disadvantaged fifth of the
+                                                                                                                                  • Asia^638'     Americas     Australia
+population were six times more likely to die than the most advantaged                                  Northeast Asia                                                          UK and
+fifth.22                                                                      10
+                                                                                                                                                                           •   Ireland
+
+                                                                                                         Southern and                                     North-western Europe
+                                                                                                                                         Sub-Saharan
+                                                                                                         Central Asia
+Australians who were born overseas - particularly those with Middle                                                                      Africa
+
+Eastern and South-eastern European origins - also had higher death
+rates and lower vaccination rates (see Figure 1.3).                                               0 —।------------------------- 1------------------------- 1------------------------- 1---------------------
+                                                                                   10%                20%                        30%                        40%
+The disparities in infection rates will probably have long-lasting effects,                          Per cent of high-risk people vaccinated
+with some people suffering from the consequences of the pandemic,             Notes: Death rates include all certified COVID deaths registered by 31 July 2023. For
+                                                                              further information on region of birth classifications see Appendix A in Breadon and
+such as long COVID, for years to come.23
+                                                                              Burford (2023). Data may vary slightly from results reported elsewhere due to data
+                                                                              permutations and data-matching methods.
+ ■isadvantaged Australians have lower rates of COVID vaccination              Source: Grattan analysis of ABS MADIP (2023) and ABS (2023a).
+
+COVID vaccinations, when they became available, slashed the risk of
+illness, hospitalisation, and death during the height of the pandemic,
+
+20. ABS (2023c).
+21. Haigh et al (2023, p. 20); and Berchet et al (2022).
+22. ABS (2023c).
+23. Haigh et al (2023, p. 20).
+
+Grattan Institute 2023                                                                                                                                                                   8
+How to prepare for the next pandemic
+
+
+
+and continue to provide valuable protection. Each COVID shot initially                  Figure 1.4: High-risk adults in disadvantaged groups have lower COVID
+provides about 70-to-85 per cent protection against hospitalisation                     vaccination rates
+and death, even for high-risk people aged 65 and older.24 And there                     Difference in COVID vaccination rates compared to average, 2023
+is emerging evidence that vaccinations reduce the risk of long COVID.25
+
+Despite these clear benefits, disadvantaged Australians - who are                              No bachelor's
+                                                                                                     degree
+typically at higher risk of severe illness and death from COVID - were
+less likely to get vaccinated.
+
+Even when COVID vaccination coverage was highest, disadvantaged                                  Low income
+Australians were far more likely to miss out. Analysis of first-dose
+vaccination rates by mid-January 2022 showed that Indigenous
+Australians, people who spoke a language other than English at home,
+                                                                                        Remote/very remote
+unemployed people, those less educated, and poorer Australians were
+significantly less likely to be vaccinated.26
+
+Uneven vaccination rates persist.27 Going into winter 2023, high-risk
+                                                                                                  Indigenous
+people who aren’t proficient in English were nearly 60 per cent less
+likely to have had a recent vaccination against COVID, compared to the
+average high-risk person (see Figure 1.4). Those living in very remote
+areas were about 35 per cent less likely to have had a recent COVID                         Does not speak
+                                                                                            English at home'
+vaccine as those in inner-regional areas.28
+
+Recent vaccination for the poorest people was nearly 40 per cent lower
+                                                                                                Not proficient
+than for the richest people. And people with multiple disadvantages                                In English
+were even less likely to be vaccinated (see Figure 1.5 on the following
+page).
+                                                                                                                 -60
+
+                                                                                        Notes: People are considered ‘vaccinated’ if they received: a COVID vaccine in the
+                                                                                        six months before June 2023. High-risk people include people aged 65 and older and
+24. Liu et al (2023).                                                                   people with two or more self-reported medical conditions that are high-risk for COVID.
+25. Byambasuren et al (2023), Tran et al (2023) and Vanichkachorn et al (2023).         For further information on group definitions see Breadon and Burford (2023, Appendix).
+26. Biddle et al (2022).                                                                Data may vary slightly from results reported elsewhere due to data permutations and
+27. Breadon and Burford (2023, p. 11).                                                  data-matching methods.
+28. Vaccination rates are about 40 per cent in inner-regional areas, and about 26 per
+                                                                                        Source: Grattan analysis of ABS MADIP (2023).
+    cent in very remote areas: Grattan analysis of ABS MADIP (2023).
+
+Grattan Institute 2023                                                                                                                                                      9
+How to prepare for the next pandemic
+
+
+
+Low COVID vaccination rates for high-risk adults have big conse­
+quences. They make Australia sicker overall, and entrench unfair gaps
+in health outcomes between different communities.
+                                                                                     Figure 1.5: The more disadvantages a person has, the less likely they are
+                                                                                     to be vaccinated against COVID
+COVID antiviral treatment                                                            Vaccination rates for COVID, 2023
+COVID antivirals reduce the severity of illness, minimising the risk of              60%
+hospitalisation and death.29
+
+antivirals, such as Paxlovid and Lagevrio, are recommended for people
+at higher risk of severe illness from COVID. This includes, for example,
+people older than 70, people older than 50 with additional risk factors,
+and Indigenous people older than SO.30
+
+Yet Grattan analysis shows that those most at risk of severe illness
+from COVID are less likely to get needed COVID antivirals (see
+Figure 1.6 on the next page).
+
+For example, high-risk people in the lowest socio-economic decile
+are 60 per cent less likely than high-risk people in the highest
+socio-economic decile to get antiviral treatment (see Figure 1.6 on the
+following page). High-risk people living in remote areas are 80 per cent
+less likely to get antiviral treatment than people living in major cities,                                       Number of vaccine access risks
+and Indigenous Australians are 45 per cent less likely to get treatment              Notes: Vaccine access risks include speaking a language other than English at home,
+                                                                                     not being proficient in English, being an Aboriginal or Torres Strait Islander, having
+than non-lndigenous Australians.
+                                                                                     a low income, and not having a bachelor’s degree. There are 4,041,980 high-risk
+                                                                                     adults included in this sample: 524,960 with no access risk factors; 1,925,100 with one
+                                                                                     access risk factor; 1,193,940 with two; 297,510 with three; and 100,470 with four or
+                                                                                     more. Results vary slightly from results reported elsewhere due to data permutations
+                                                                                     and data-matching methods.
+                                                                                     Source: Grattan analysis of ABS MADIP (2023).
+
+
+
+29. Bernal et al (2022); and Pfizer (2021).
+30. Department of Health and Aged Care (2023a). People aged 18 and older may also
+    be eligible if they are severely immuno-compromised or have previously been in
+    hospital with COVID.
+
+Grattan Institute 2023                                                                                                                                                   10
+How to prepare for the next pandemic
+
+
+
+
+Figure 1.6: People from low socio-economic backgrounds and people
+who live in regional and remote areas have low take-up of antivirals
+COVID antiviral dispensing rate per 1,000 people aged 65 years and over
+
+
+                     Highest
+  Socio­
+  economic
+  status
+                      Lowest
+
+
+
+
+                   Major city
+
+
+
+               Inner regional
+
+
+  Remote­
+  ness    Outer regional
+
+
+
+                     Remote
+
+
+
+                Very remote
+
+
+                                              60             120             180
+Notes: COVID antivirals include Paxlovid and Lagevrio. Dispensing rates up to June
+2023. Socio-economic groups include the highest and lowest deciles.
+Source: Grattan analysis of ABS MADIP (2023).
+
+
+
+
+Grattan Institute 2023                                                               11
+How to prepare for the next pandemic
+
+
+
+2      Building a fairer and more resilient health system for the next pandemic
+                                                                            Figure 2.1: Australia spends less of its health budget on prevention than
+Australia should be doing much more to close health gaps. This will         many other OECD countries
+not only improve the lives of many Australians, but make Australia          Government spending on preventative care as a percentage of total health
+more resilient to future pandemics, and stop future pandemics making        spending, OECD countries, 2019
+inequities worse.                                                                  Canada
+                                                                                       Italy
+                                                                                      Brazil -
+Minimising health gaps should be a core part of health system design,                   UK-
+including in monitoring, funding, and system management, with                    Germany
+                                                                                        US-
+
+additional programs to support those most in need.                             South Korea ■
+                                                                                    Mexico
+                                                                                  Lithuania
+                                                                                   Sweden -
+2.1   The new Australian Centre for Disease Control should drive                   Bulgaria-
+                                                                                    Croatia -
+      prevention policy and apply an equity lens                                    Finland
+                                                                                    Estonia
+A key way to build resilience to a health crisis is to have a healthy
+                                                                                      Latvia -
+community. More than 80 per cent of a person’s health is caused                 Netherlands
+                                                                                    Norway -
+by factors outside of health care, and most health risk factors are                 Iceland-
+                                                                                  Denmark
+preventable. There is ample evidence that commonsense prevention                       Spain.
+policies can make health outcomes fairer.                                             Japan-
+                                                                                   Slovenia
+                                                                                   Hungary
+Yet, as a share of health spending, Australia invests far less in                  Australia
+                                                                               Luxembourg.
+preventing illness than most other wealthy countries, and just a fraction            Ireland
+                                                                                   Belgium -
+of what Canada and the UK spend (see Figure 2.1).31 The federal                        Malta
+                                                                                    Austria ■
+government should boost investment in prevention through a new                     Romania
+national funding agreement.                                                          France
+                                                                                     Poland -
+                                                                                    Greece -
+The new Australian Centre for Disease Control (ACDC) - which has a                 Portugal -
+                                                                                Switzerland -
+goal of working ‘to prevent and control non-communicable (chronic) and                 Chile
+                                                                            Slovak Republic
+communicable (infectious) diseases’32 - will play a key role in driving             Cyprus -
+                                                                                 Costa Rica -
+investment in prevention programs. It should provide advice on focus                   Israel-|
+areas for funding, and report on progress against targets.                                  0%     1%       2%        3%         4%        5%
+                                                                            Source: OECD (2022).
+
+31. Breadon (2023).
+32. Department of Health and Aged Care (2023b).
+
+Grattan Institute 2023                                                                                                                             12
+How to prepare for the next pandemic
+
+
+
+But to ensure success, prevention must have an equity lens. The                         Even after those changes, some patients in rural areas won’t be
+ACDC should have closing health gaps as a core part of its respon­                      able to get primary care. The federal government - through Primary
+sibilities over the long-term. Prioritising investment in disadvantaged                 Health Networks - will need to work with the states to co-commission
+communities, where health risk factors are greater, will be a key part of               services in these areas, including by partnering with local hospitals.
+this.                                                                                   Co-commissing will require setting out what services are needed,
+                                                                                        paying for those services, measuring the results, and making sure
+A focus on health gaps would also better equip the ACDC to coordinate
+                                                                                        those results keep improving.36
+equitable responses in any future pandemics. A key finding from the
+2022 independent review into government responses to the COVID                          These reforms would make it easier for Australians, particularly
+pandemic was that policies ‘were too often designed and implemented                     disadvantaged Australians, to avoid and manage chronic health
+without proper regard for the inequalities in our society and the                       conditions, making them less vulnerable in a future pandemic.
+vulnerabilities of key communities’.33
+                                                                                        2.3    Australia needs a vaccine equity strategy
+2.2    Reforms to primary care are key to prevent and treat chronic
+                                                                                        The federal and state governments should commit to a vaccine equity
+       conditions
+                                                                                        strategy, as part of a new national vaccination agreement.37
+Investing in primary care, such as GPs, is the best way to manage
+                                                                                        If Australia builds a fairer vaccination program now, it would not only
+chronic disease and keep pressure off the rest of the health system.
+                                                                                        help improve access to COVID vaccinations in the short- and medium­
+While some important federal government reforms have begun,34 more
+                                                                                        term, but enable governments to effectively ramp up systems when a
+work is needed to ensure disadvantaged Australians aren’t left behind.
+                                                                                        new pandemic emerges.
+The federal government must ensure that GPs are resourced
+properly to better treat and manage complex diseases, particularly                      Targets to boost coverage and equity
+in disadvantaged communities. A new funding model is being
+                                                                                        Australia lacks targets for adult vaccinations. The federal government
+introduced,35 but it must be expanded to all patients over time, with
+                                                                                        should set vaccination targets for COVID to mobilise effort and clarify
+adjustments for patient need, including health, demographic, and
+                                                                                        the roles and responsibilities of federal and state governments. The
+socio-economic factors.
+                                                                                        targets should be ambitious, but also achievable and cost-effective.
+
+                                                                                        The federal government should also set targets for continual increases
+                                                                                        in COVID vaccination rates for Indigenous people,38 and for geographic
+33. Paul Ramsay Foundation (2022).
+34. Department of Health and Aged Care (2023c).
+35. The federal government has announced that it will introduce a blended funding       36. See more detail on this in Grattan’s primary care report: Breadon et al (2022).
+    model for some patients, as part of reforms called ‘My Medicare’. But the blended   37. See further in our vaccine equity report: Breadon and Burford (2023).
+    funding model seems to apply only to people in residential aged care and people     38. Given disparate starting points, these targets could be at regional level, for
+    who attend hospital frequently: DHAC (2023).                                            example Statistical Area Level 4 in the ABS Statistical Classification of Geography.
+
+Grattan Institute 2023                                                                                                                                                       13
+How to prepare for the next pandemic
+
+
+
+areas with the lowest levels of adult vaccination.39 These targets would                  Figure 2.2: A new national vaccination system should include universal,
+help ensure more equal access to vaccination across Australia, and are                    targeted, and tailored approaches
+similar to ones that have worked for child vaccination.
+
+Setting adult vaccination targets would ensure that effective reporting                   f
+                                                                                          c
+                                                                                          o
+infrastructure is in place for the next pandemic, enabling governments                    a
+to more quickly understand and respond to disparities in vaccination
+rates.                                                                                    o
+                                                                                          ra
+                                                                                          2
+                                                                                          O
+A tiered approach to ensuring equitable access to vaccines                                     Bigger barriers to vaccination
+                                                                                               Universal actions                Targeted actions             Tailored actions
+There are lots of reasons for low vaccine uptake, but many are not                             Actions to remove common,        More focused measures        Intensive programs to
+                                                                                               minimal barriers, such as low    to reduce moderate           address complex barriers
+about individual choice, and most can be overcome. That means there                            awareness or inconvenience.      barriers, such as cultural   such as distrust of the
+                                                                                                                                barriers or living in aged   health system, poverty and
+is no excuse for the vast vaccination gaps in Australia (see Section 1.2
+                                                                                                                                care.                        homelessness
+on page 8).
+                                                                                          Source: Grattan Institute.
+For some people, barriers to vaccination are easily overcome, while
+others face complex challenges and require intensive support. There                              supporting intensive, evidence-based, and well-coordinated
+is evidence that vaccination can be increased for people with low and                            communication campaigns.
+high barriers alike, but different solutions are needed.40
+                                                                                                 Targeted measures should include, for example, informing and
+A new national vaccination system should include three tiers of
+                                                                                                 educating patients, providing vaccines in settings patients can
+measures - universal, targeted, and tailored - to ensure that all
+                                                                                                 get to, and doing this in a culturally appropriate way. Primary
+Australians, including disadvantaged Australians, have the best chance
+                                                                                                 Health Networks should lead this, working with service providers,
+of getting needed vaccinations (see Figure 2.2).41
+                                                                                                 including GPs.
+     Universal measures should include, for example, public health
+                                                                                                 Tailored measures should include, for example, training and
+     campaigns and vaccination surges. The ACDC - working with
+                                                                                                 supporting ‘Community Champions’ to promote vaccination
+     the federal and state governments - should play a key role in
+                                                                                                 and counter misinformation, and working with communities to
+                                                                                                 provide vaccinations in community settings, or in people’s homes.
+39. Statistical Area Level 3 in the ABS Statistical Classification of Geography, as is           The ACDC should provide states with evidence on the types of
+    currently used for child vaccination equity targets.                                         initiatives that work well in low-vaccination communities, and
+40. The WHO uses the term ‘Population health management’: identifying communities
+                                                                                                 states should then adapt the programs to the needs of local
+    with similar characteristics and needs so providers can move from one-size-fits-all
+    to targeted and tailored interventions: WHO (2023).                                          communities, working with local organisations, including Primary
+41. See, for example: WHO (2023) and Marmot (2010).                                              Health Networks.
+
+Grattan Institute 2023                                                                                                                                                               14
+How to prepare for the next pandemic
+
+
+
+Getting a new national vaccination system in place now will put             up to get treatments to the people who need them most next time,
+Australia in a strong position for the next pandemic.                       avoiding the failures we have seen during the COVID pandemic.
+
+Reaching out and co-designing services in harder-to-reach
+communities is hard to do, and much harder in the midst of a crisis
+when fear and misinformation are at their peak. But if robust systems
+are in place come the next pandemic, it will be much easier to ensure
+all Australians get the best chance of receiving available vaccinations.
+
+
+2.4   Boosting access to COVID antivirals
+
+Reforms to primary care, as proposed in Section 2.2 on page 13, will
+help ensure people get COVID treatments more quickly.
+
+A new needs-based primary care funding model, with loadings
+for demographic and socio-economic factors, will improve care for
+disadvantaged Australians, and better enable them to get COVID
+antivirals. But these reforms to primary care will take time, so the
+federal government must urgently take other steps to improve
+Australians’ access to COVID antivirals.
+
+Primary Health Networks should monitor antiviral uptake in their
+catchments and across clinics. The federal Department of Health
+should support this by using de-identified individual-data from the
+Australian Bureau of Statistics, and the department should commission
+specific services in areas where prescription of antivirals are low.
+
+Primary Health Networks should also work with state governments
+to improve supply of antivirals in harder-to-reach communities (see
+Section 2.3).
+
+Like targets and tailored programs for vaccination, this will help get
+the system ready for future pandemics. Primary Health Networks, GP
+clinics, and pharmacies will have the data, tools, and skills to better
+serve groups that are missing out on antivirals today. That will set them
+
+Grattan Institute 2023                                                                                                                         15
+How to prepare for the next pandemic
+
+
+
+Bibliography
+
+ABS (2018a). Dietary behaviour. Australian Bureau of Statistics.                                     (2023a). COVID-19 Mortality in Australia: Deaths registered until 31 July
+                                                                                                     2023. Australian Bureau of Statistics.
+         (2018b). National Health Survey: First results. Australian Bureau of Statistics.            https://www.abs.gov.au/articles/covid-19-mortality-australia-deaths-
+         https://www.abs.gov.au/statistics/health/health-conditions-ancl-risks/national              registered-until-31 -july-2023#deaths-due-to-covid-19-country-of-birth.
+         health-survey-/ st-results/latest-release (visited on 31/01/2023).
+                                                                                                     (2023b). Patient Experiences in Australia: Summary of Findings. Australian
+         (2020). ‘Table 4.3 Selected health characteristics, by sex and Indigenous                   Bureau of Statistics, https://www.abs.gov.au/statistics/health/health-
+         status, 2017-18 and 2018-19, Proportion of persons’ [data set], National                    services/patient-experiences/latest-release.
+         Aboriginal and Torres Strait Islander Health Survey. Australian Bureau of
+         Statistics. Accessed 11 September 2023.                                                     (2023c). COVID-19 Mortality in Australia: Deaths registered until 30
+         https://www.abs.gov.au/statistics/people/aboriginal-and-torres-strait-islander-             September 2023. Australian Bureau of Statistics.
+         peoples/national-aboriginal-and-torres-strait-islander-health-survey/2018-1!?.              https://www.abs.gov.au/articies/covid-19-mortality-australia-death
+                                                                                                     registered-until-30-september-2023.
+         (2022a). ‘Table 3.3 Current smoker status(a) by population characteristics -
+         Persons aged 18 years and over, Proportion’ [data set], Insights into              ABS MADIP (2023). Multi-Agency Data Integration Project (MADIP) Modular Product,
+         Australian smokers, 2021-22. Australian Bureau of Statistics. Accessed 11                 ABS Datalab. Australian Bureau of Statistics.
+         September 2023.
+         https://www.abs.gov.au/articles/insights-australian-smokers-2021 -22.              AIHW (n.d.). Aboriginal and Torres Straight Islander Health Performance Framework:
+                                                                                                    Measures. Australian Institute of Health and Welfare.
+         (2022b). ‘Table 15.2 Persons 15 years and over, Experience of dental                       https://www.indigenoushpf.gov.au/measures.
+         services in the last 12 months by selected characteristics: Proportion of
+         persons and 95% Margin of Error of proportion’ [data set], Patient                          (2011). Contribution of chronic disease to the gap in mortality between
+         Experiences. Australian Bureau of Statistics. Accessed 11 September 2023.                   Aboriginal and Torres Strait Islander people and other Australians. Australian
+                                                                                                     Institute of Health and Welfare, https://www.aihw.gov.au/reports/indigenous-
+         https://www.abs.gov.au/statistics/health/health-services/patient-
+         experiences/2021 -22.                                                                       australians/contribution-of-chronic-disease-to-the-gap-in-mort/summary .
+
+         (2022c). ‘Table 12.3 Number of selected chronic conditions by population                    (2020). ‘Table D2.15.6: Rate ratios (Indigenous: non-lndigenous), by age
+                                                                                                     group, 2017-18 and 2018-19’ [data set], Aboriginal and Torres Strait Islander
+         characteristics by age - Allpersons, Proportion’ [data set], Health Conditions
+         Prevalence. Australian Bureau of Statistics. Accessed 11 September 2023.                    Health Performance Framework. Australian Institute of Health and Welfare.
+         https://www.abs.gov.au/statistics/health/health-conditions-and-risks/healtf'                Accessed 11 September 2023.
+                                                                                                     https://www.indigenoushpf.gov.au/measures/2-15-tobacco-us';.
+         conditions-prevalence/2020-21.
+
+         (2022d). COVID-19 Mortality in Australia: Deaths registered until 30                        (2021a). ‘1A. Number (deaths, YLL, YLD, DALY), crude rate and
+         September 2023. Australian Bureau of Statistics.                                            age-standardised rate (YLL, YLD, DALY) by socioeconomic group, sex and
+                                                                                                     year’ [data set], Australian Burden of Disease Study 2018: Interactive data on
+         (2022e). Patient Experiences in Australia: Summary of Findings. Australian                  disease burden. Australian Institute of Health and Welfare. Accessed 11
+         Bureau of Statistics, https://www.abs.gov.au/statistics/health/health-                      September 2023. https://www.aihw.gov.au/reports-data/health-conditions-
+         services/patient-experiences/latest-release.                                                disability-deaths/burden-of-disease.
+
+
+
+
+Grattan Institute 2023                                                                                                                                                            16
+How to prepare for the next pandemic
+
+
+
+AIHW (2021b). ‘1A. Number (deaths, YLL, YLD, DALY), crude rate and                                 (2023c). National Bowel Cancer Screening Program: monitoring report 2023.
+        age-standardised rate (YLL, YLD, DALY) by remoteness area, sex and year’                   Australian Institute of Health and Welfare.
+        [data set], Australian Burden of Disease Study 2018: Interactive data on                   https://www.aihw.gov.au/getmedia/d91f8937-09f0-49f6-8b76-
+        disease burden. Australian Institute of Health and Welfare. Accessed 11                    2649b7468de8/aihw-can- 154.pdf?inline=true.
+        September 2023. https://www.aihw.gov.au/reports-data/health-conditions-
+                                                                                                   (2023d). ‘Costs interactive 4: Financial barriers to dental care by selected
+        disability-deaths/burden-of-disease .
+                                                                                                   characteristics, 2017-18’ [data set], Oral health and dental care in Australia.
+        (2021c). One-third of disease burden caused by modifiable risk factors.                    Australian Institute of Health and Welfare. Accessed 11 September 2023.
+        Australian Institute of Health and Welfare.                                                https://www.aihw.gov.au/reports/dental-oral-health/oral-health-and-dental-
+        https://www.aihw.gov.au/news-media/media-releases/2021-1/august/one-                       care-in-australia/contents/cost:.
+        third-of-disease-burden-caused-by-modifiable-r.
+                                                                                          Baker, P. (2014). “Fat nation: why so many Australians are obese and how to fix it”. The
+         (2021 d). Medicare-subsidised GP, allied health and specialist health care                 Conversation, https://theconversation.com/fat-nation-wfhy-so-many-
+         across local areas: 2019-20 to 2020-21.                                                    australians-are-obese-and-how-to-fix-it-23783.
+         https://www.aihw.gov.au/reports/primary-health-care/medicare-subsidisec
+                                                                                          Berchet et al (2022). Berchet, C., Bijlholt, J. and Ando, M. Socio-economic and ethnic
+         health-local-areas-2020-21/data.
+                                                                                                   health inequalities in COVID-19 outcomes across OECD countries. Health
+        (2022a). ‘6B. Age-standardised rate (YLL, YLD, DALY), rate ratio, rate                     Working Papers No. 153. Organisation for Economic Co-operation and
+        difference and percent contribution to gap by sex, year and disease group’                 Development.
+        [data set], Australian Burden of Disease Study 2018: Interactive data on                   https://one.oecd.org/document/DELSA/HEA/WD/HWP(2023)5/en/pdf (visited
+        disease burden among Aboriginal and Torres Strait Islander people.                         on 19/11/2023).
+        Australian Institute of Health and Welfare. Accessed 11 September 2023.
+                                                                                          Bernal et al (2022). Bernal, A. J. et al. “Molnupiravir for Oral Treatment of Covid-19 in
+        https://www.aihw.gov.au/reports-data/health-conditions-disability-
+                                                                                                    Nonhospitalized Patients”. N Engl J Med 386, pp. 509-520.
+        deaths/burden-of-disease/overview.
+                                                                                                    https://www.nejm.Org/doi/full/10.1056/NEJMoa2116044.
+         (2022b). Overweight and obesity. Australian Institute of Health and Welfare.
+                                                                                          Biddle et al (2022). Biddle, N., Welsh, J., Butterworth, R, Edwards, B. and Korda, R.
+         https://www.aihw.gov.au/reports/australias-health/overweight-and-obesity.
+                                                                                                    “Socioeconomic determinants of vaccine uptake: July 2021 to January 2022”.
+         (2022c). Australia’s health 2022. Australian Institute of Health and Welfare.              Australian National University, https:
+         https://www.aihw.gov.au/reports-data/australias-healt-: \                                  //www.health.gov.au/sites/default/files/documents/2022/03/socioeconomic-
+                                                                                                    determinants-of-vaccine-uptake-july-2021 -to-january-2022.p< .
+        (2023a). ‘Table S5: Age-standardised and crude proportions of overweight
+        and obese persons aged 18 and over, by remoteness area, socioeconomic             Breadon, P. (2023). “Failure to invest in prevention increases health inequality”.
+        areas and sex, 2017-18’ [data set], Overweight and obesity. Australian                     Croakey. https://grattan.edu.au/news/failure-to-invest-in-preventic
+        Institute of Health and Welfare. Accessed 11 September 2023.                               increases-health-inequality .
+        https://www.aihw.gov.au/reports/overweight-obesity/overweight-and-
+        obesity/contents/about.                                                           Breadon et al (2022). Breadon, R, Romanes, D., Fox, L, Bolton, J. and Richardson, L.
+                                                                                                  A new Medicare: Strengthening general practice. Report No. 2022-14.
+        (2023b). ‘Table S7: Age-standardised proportion of overweight and obese                   Grattan Institute, https://grattan.edu.au/report/a-new-medicare-
+        adults aged 18 and over, by Indigenous status and sex, 2011-12 to 2018-19’                strengthening-general-practice/.
+        [data set], Overweight and obesity. Australian Institute of Health and Welfare.
+                                                                                          Breadon, P. and Burford, I. (2023). A fair shot: How to close the vaccination gap.
+        Accessed 11 September 2023. https://www.aihw.gov.au/reports/overweight-
+                                                                                                   Report No. 2023-12. Grattan Institute.
+        obesity/overweight-and-obesity/contents/about.
+
+
+Grattan Institute 2023                                                                                                                                                            17
+How to prepare for the next pandemic
+
+
+
+Breadon, P. and Fox, L. (2023). “On health, some Australians don’t get a fair go”. The     Magliano et al (2009). Magliano, D. J., Peeters, A., Vos, T., Sicree, R., Shaw, J.,
+         Conversation, https://grattan.edu.au/news/on-health-some-australians-dont-                 Sindall, C., Haby, M., Begg, S. J. and Zimmet, P. Z. “Projecting the burden of
+         get-a-fair-go/#:~:text=People%20who%20live%20in%20rural,ill%20health%                      diabetes in Australia - what is the size of the matter?” Australian and New
+         20than%20other%20Australians.                                                              Zealand Journal of Public Health 33 (6), pp. 540-543.
+                                                                                                    https://onlinelibrary.wiley.eom/doi/10.1111 /j. 1 753-6405.2009.00450.:..
+Breadon et al (2023). Breadon, R, Fox, L, Emslie, O. and Richardson, L. The
+        Australian Centre for Disease Control (ACDC): Highway to health. Report No.        Marmot, M. (2010). Fair society healthy lives : the Marmot Review : Strategic review of
+        2023-03. Grattan Institute.                                                                health inequalities in England post-2010. Institute of Health Equity.
+                                                                                                   https://www.parliament.uk/globalassets/documents/fair-society-healthy-lives-
+Byambasuren et al (2023). Byambasuren, O., Stehlik, R, Clark, J., Alcorn, K. and
+                                                                                                   full-report.pdf.
+       Glasziou, P. “Effect of covid-19 vaccination on long covid: systematic review”.
+       BMJ Medicine 2.1. https://bmjmedicine.bmj.eom/content/2/1/e000385 .                 Marquina et al (2022). Marquina, C. et al. “Future burden of cardiovascular disease in
+                                                                                                   Australia: impact on health and economic outcomes between 2020 and
+Department of Health and Aged Care (2023a). Updated eligibility for oral COVID-19
+                                                                                                   2029”. European Journal of Preventive Cardiology 29 (8), pp. 1212-1219.
+        treatments. Australian Government.                                                         https://pubmed.ncbi.nlm.nih.gov/33686414/.
+         (2023b). Australian Centre for Disease Control. Australian Government.
+                                                                                           OECD (2022). OECD.Stat. Accessed 31 October 2022. Organisation for Economic
+         (2023c). National Cabinet Statement on a better future for the federation.               Co-operation and Development, https://stats.oecd.org/.
+         Australian Government.                                                            OWID (n.d.). The disease burden by cause. Accessed 14 October 2022.
+DHAC (2023). Introducing MyMedicare. Department of Health and Aged Care.                           https://ourworldindata.Org/burden-of-disease#the-disease-burden-by-cause.
+       https://www.health.gov.au/sites/default/files/2023-09/introducing
+                                                                                           Paul Ramsay Foundation (2022). Fault Lines: an independent review into Australia’s
+       mymedicare-fact-sheet.pdf.                                                                  response to COVID-19.
+Duckett et al (2022). Duckett, S., Stobart, A. and Lin, L. Not so universal: Howto
+                                                                                           Pfizer (2021). Pfizer Announces Additional Phase 2/3 Study Results Confirming Robust
+         reduce out-of-pocket healthcare payments. Grattan Institute.
+                                                                                                     Efficacy of Novel COVID-19 Oral Antiviral Treatment Candidate in Reducing
+         https://grattan.edu.au/report/not-so-universal-how-to-reduce-out-of-pocket-                 Risk of Hospitalization or Death. Pfizer.
+         healthcare- payments/.
+                                                                                           Savira et al (2021). Savira, F, Ademi, Z., Wang, B. H., Kompa, A. R., Owen, A. J.,
+Haigh et al (2023). Haigh, F, Alloun, E., Standen, C., Olliek, M., Page, J. and Wise, M.
+                                                                                                     Liew, D. and Zomer, E. “The Preventable Productivity Burden of Kidney
+          Equity-focused health impact assessment of the COVID-19 pandemic in                        Disease in Australia”. Journal of the American Society of Nephrology 32 (4),
+          Sydney Local Health District: Summary Report. UNSW.
+                                                                                                     pp. 938-949. https://jasn.asnjournals.Org/content/32/4/938.
+Liu et al (2023). Liu, B. et al. “Effectiveness of COVID-19 vaccination against COVID-19
+                                                                                           Tran et al (2023). Tran, V-T., Perrodeau, E., Saldanha, J., Pane, I. and Ravaud, P.
+           specific and all-cause mortality in older Australians: a population based                  “Efficacy of first dose of covid-19 vaccine versus no vaccination on symptoms
+           study”. The Lancet Regional Health-Western Pacific 40.
+                                                                                                      of patients with long covid: target trial emulation based on ComPaRe
+           https ://www.thelancet.com/journals/lanwpc/article/PI 182666-6065(23)00246-
+                                                                                                      e-cohort”. BMJ Medicine 2.1.
+           8/fulltext.                                                                                https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9978748/.
+
+                                                                                           Treasury (2010). Australia to 2050: future challenges. 2010 intergenerational report
+                                                                                                    overview. Australian Government.
+                                                                                                    https://treasury.gov.au/sites/default/files/2019-03/IGR_2010_Overview.pdf.
+
+
+
+Grattan Institute 2023                                                                                                                                                            18
+How to prepare for the next pandemic
+
+
+
+Vanichkachorn et al (2023). Vanichkachorn, G., Gilman, E., Ganesh, R., Mueller, M.,
+        Swift, M., Breeher, L. and Murad, M. H. “Potential reduction of post-acute
+        sequelae of SARS-CoV-2 symptoms via vaccination”. Journal of Investigative
+        Medicine, p. 10815589231191812.
+        https://journals.sagepub.eom/doi/1 0.1177/10815589231191812.
+
+WHO (2023). “Population health management in primary health care: a proactive
+       approach to improve health and well-being”. Primary Heath Care Policy
+       Paper Series. https://www.who.int/europe/publications/i/item/WHO-EURO-
+       2023-7497-47264-69316.
+
+
+
+
+Grattan Institute 2023                                                                19
+

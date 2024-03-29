@@ -1,0 +1,153 @@
+                               Submission to the COVID-19 Response Inquiry
+                                                  A Introduction
+Please note, this submission does not reflect the opinion(s) of my employer(s), nor does it provide any
+reflection(s) upon my employer(s). I require my identity to remain confidential.
+
+
+In early-2020, I, like so many aviation colleagues, was stood down without pay from my otherwise full-time
+employment under the guise of a Covid-19 response.1 This occurred via email and was subject to a “rolling”
+end date. What began as a shock quickly turned into a fight for survival. As queues ran around the block at
+Centrelink offices nation-wide;2 rent, mortgages, grocery and other bills kept coming in while our lives and
+livelihoods ground to a halt. Not because of anything we (the individuals) did, but rather the unilateral
+actions of our employers. At the time, there was little reason to believe that our employment would resume.
+
+
+This submission is my own, and I wish to expose the improper use of stand down, far beyond any
+reasonable original intent. I also note the consequences of these decisions, as well as the discrepancy with
+the rest of the industry. I point out that stand down has a long history in Australian workplace law and it has
+never been used, nor should it be used, in scenarios such as these. This is particularly so given the objects
+of the Fair Work Act 2009 (Cth) (‘Fair Work Act)'.3 balance and fairness.4 I submit that Parliament must
+tighten Australian law to prevent the overly wide use of stand down; as the “indefinite” use of these
+provisions cannot reasonably replace well-established measures that are otherwise rendered moot.
+
+
+                                                   B Key Points
+1. While stand down clauses have a long history in Australian employment law, they should not be read
+     and executed in isolation, rendering the other operative clauses of a workplace instrument moot;
+2. Stand down provisions should not be used as a workforce planning/management tool as other existing,
+     and fairer/better options exist (such as surplus, and redundancy and re-employment);
+3. There are significant public interest implications for the standing down of employees in critical sectors
+     when those employees cannot be easily “stood up”; and
+4. Parliament should amend the Fair Work Act to limit the indefinite use of stand down.
+
+
+                          C The Improper Use of Stand Down; and its Consequences
+1   What does the Fair Work Act say?
+    Section 254 of the Fair Work Act governs stand down.5 Inter alia, it states:
+             (1) An employer may ... stand down an employee during a period in which the employee cannot
+                 usefully be employed because of one of the following circumstances:
+                    (a) industrial action (other than industrial action organised or engaged in by the
+                         employer);
+                    (b) a breakdown of machinery or equipment, if the employer cannot reasonably be held
+                         responsible for the breakdown;
+
+
+1 < https://www.theguardian.com/business/2020/mar/19/coronavirus-qantas-and-jetstar-to-suspend-international-
+flights-and-stand-down-20000-workers >.
+2 < https://www.abc.net.au/news/2020-03-24/centrelink-minister-stuart-robert-not-anticipate-coronavirus/12080612 >.
+3 Fair Work Act 2009 (Cth) (Fair Work Act).
+4 Ibid s 3.
+5 Ibid s 254 (emphasis added).
+                    (c) a stoppage of work for any cause for which the employer cannot reasonably be held
+                        responsible.
+            (2) However, an employer may not stand down an employee under subsection (1) during a period in
+                which the employee cannot usefully be employed because of a circumstance referred to in that
+                subsection if:
+                    (d) an enterprise agreement, or a contract of employment, applies to the employer and the
+                        employee; and
+                    (e) the agreement or contract provides for the employer to stand down the employee during that
+                        period if the employee cannot usefully be employed during that period because of that
+                        circumstance.
+
+   There is a wide uptake of enterprise agreements (‘EAs’) in my industry. As such, I was not stood down
+   under the Fair Work Act, rather my EA.6 The relevant clause is 15.6.
+
+
+   Critically, no temporal limit is prescribed. You will also note that, read together, ‘strikes’ and ‘stoppages’
+   are short-term events. Further, my EA has provisions for ‘agreed steps for managing a surplus’,7 and
+   ‘redundancy’ (including opportunities to work in other areas, as well as re-employment mandates).8
+   Clearly, the latter alternatives are fit for purpose. Instead, I submit that “blanket” stand down was used
+   as a convenient, workplace management excuse; whereas surplus and redundancy were more genuine,
+   yet expensive, alternatives. Otherwise, what is stopping the employer standing down an employee for
+   months or, in this case, years? Further, how could this be misused in other scenarios? Is this in-line with
+   the intentions of full-time employment; all the while surplus and redundancy provisions are otherwise
+   ignored? I submit that employers could use stand down as an “each way” bet; the employee sits at home
+   without pay, while the employer is guaranteed their workplace participation in the future. This is more in
+   line with casual employment, not full-time employment; and is materially (and foreseeably) harmful on
+   the individual. Without temporal limits, the potential for misuse is profound.
+
+
+2 What is the intent of stand down provisions?
+   As noted, stand down is not a new concept in Australia. Nevertheless, it was traditionally a contractual
+   right.9 Contracts should be read as a whole, and construction should avoid ‘commercial nonsense’.10
+   Traditional reasons for stand down were: ‘a strike or a work stoppage or another cause for which the
+   employer could not reasonably be held responsible’.11 Clearly, the intent is short-term. However, there
+   are obvious competing social and economic issues with stand down: continuity of employment versus
+   temporary reductions in labour costs.12 Covid exposed these in their rawest form. In the Explanatory
+   Memorandum to the Fair Work Bill 2008 (Cth), business closures such as ‘flash flood[s]’ were given as
+   examples.13 However, in 2020, some aviation employers envisioned parking aircraft for at least three
+
+
+
+6 < https://www.fwc.gov.au/document-
+search/view/3/aHR0cHM6Ly9zYXNyY2RhdGFwcmRhdWVhYS5ibG9iLmNvcmUud2luZG93cy5uZXQvZW50ZXJwcml
+zZWFncmVlbWVudHMvMjAyMC80L2FINTA3ODU1LnBkZg2? > (‘LHEA 10’).
+7 Ibid cl 15.9.
+8 Ibid ell 15.10, 15.10.15 and 15.10.19.
+9 < https://www.fwc.gov.au/documents/resources/covid-19-information/presidents-statement-fwc-covid-19-response-
+2020-08-07.pdf > (‘President’s Statement FWC Covid-19 Response’).
+10 Electricity Generation Corporation v Woodside Energy Ltd (2014) 251 CLR 640 [35],
+11 President’s Statement FWC Covid-19 Response (n 10).
+12 La Plume v Thomas Foods International Pty Ltd [2020] FWC 3690 (15 July 2020) [42] (Anderson DP).
+13 Explanatory Memorandum to the Fair Work Bill 2008 (Cth) [link].
+                                                         2
+   years.14 The ‘mere existence of [a] breakdown or work stoppage is not sufficient’ for stand down;15 it is
+   the lack of work, or the prevention of work. Indeed, ‘a mere reduction in available work can not constitute
+   a stoppage’.16 Even if ‘the demand for the level of work in a continuing business unit reduced in
+   response to an external event’,17 this is not a “stoppage”. In this light, employees can undertake training
+   instead of being stood down.18 Clearly, one can see that there are many, many options available to the
+   employer; particularly so in a training-intensive industry like aviation. Indeed, stand down itself is purely
+   discretionary. Notably, if an employer schedules events (e.g., parking/maintaining aircraft), the reasons
+   for the lack of work are within their control.19 Yet, given all of this, stand down was widely adopted by
+   aviation employers. There is clearly a mismatch between the intent of these provisions and their real-life
+   execution; with nothing in place to stop it happening again. As such, temporal limits are needed for stand
+   downs; but overwhelmingly, the provisions must actually fit the scenario. Aviation employees were never
+   “stopped” from performing simulator training, other training, or flying; except by the unilateral and blanket
+   actions of their employer. The “recovery” from the Covid era aptly demonstrates the longer-term effects
+   of these stand down decisions.20 Indeed, the public interest was worsened by the use of stand down.
+
+
+3 What did other employers do?
+   Furthering my submission is that stand down in aviation was a uniquely Australian event. Cargo prices
+   skyrocketed during the Covid era,21 so much so that overseas airlines rushed to take out passenger
+   seats to be replaced by cargo boxes.22 Further, foreign passenger airlines gladly filled the void in
+   Australia - indeed, a Middle Eastern carrier returned more Australians home than Australian airlines did.
+   Hence the question, no useful work; or no intent to perform work? Stoppage, or refusal? Australian
+   employers had JobKeeper which, undoubtedly, benefited employees early on. But how long after the
+   initial shock was JobKeeper used to justify not paying one’s employees? If stand down had short-term,
+   temporal limits (such as during flash flooding, etc.) then the other operative clauses in EAs would have
+   had to compete with minimum rates of pay. This is (comparatively) expensive when an employer refuses
+   to employ. This is clearly not the fault of the employee, nor in the wider public interest.
+
+
+   As such, and as awful as it was to live through (indeed, over years), this should never be allowed to
+   happen to another Australian worker again. If the stand down loopholes are fixed then an employee can
+   once again rely upon his or her EA to function the way it was supposed to - in good times and bad.
+   Otherwise, simply, what is the point of surplus, redundancy and re-employment clauses?
+
+   I thank the Inquiry.
+
+
+14 < https://australianaviation.com.au/2020/09/trip-to-boneyard-signals-last-qantas-a380-flight-for-years/ >.
+15 Australian Federation of Air Pilots v Bristow Helicopters Australia Pty Ltd [2016] FWC 8515 (2 December 2016).
+16 Marson v Coral Princess Cruises (N.Q.) Pty Ltd [2020] FWC 2721 (25 May 2020) (Lake DP).
+17 La Plume v Thomas Foods International Pty Ltd (n 13). See also Stelzer v The Trustee for The Ideal Acrylics Unit
+Trust [2020] FWC 4129 (7 August 2020) [60] (Anderson DP).
+18 Australian Workers' Union v Brockman Engineering Pty Ltd [2015] FWC 2077 (30 March 2015).
+19 Australian Federation of Air Pilots v Australian Helicopters Pty Ltd [2013] FWC 7863 (15 October 2013).
+20 See < https://australianaviation.com.au/2022/04/now-alan-joyce-blames-not-match-fit-passengers-for-queues/ >.
+21 < https://www.mckinsey.com/industries/travel-logistics-and-infrastructure/our-insights/taking-stock-of-the-
+pandemics-impact-on-global-aviation >.
+22 < https://www.flightglobal.com/fleets/emirates-converts-10-777-300ers-into-temporary-freighters/139001.article >.
+                                                             3
+

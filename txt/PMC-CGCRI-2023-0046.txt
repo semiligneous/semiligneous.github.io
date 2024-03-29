@@ -1,0 +1,117 @@
+Thank you for the opportunity to make a submission and share my views about the
+Commonwealth Government’s response to COVID-19.
+
+My key message is the overriding importance of prioritising efforts to prevent future pandemics.
+It seems to me that, perhaps more than any other kind of catastrophic risk, it’s within our power
+to prevent novel pathogens from emerging and to quickly identify, contain and eliminate them if
+they do. Given the enormity of human and economic costs of pandemics - and that pandemics
+much worse than COVID-19 are possible - prevention should be our primary goal.
+
+I think preventing pathogens from emerging and controlling them if they do should be top
+priorities for the new Australian Centre for Disease Control. Bernstein et al make the economic
+case for this in their paper “The costs and benefits of primary prevention of zoonotic
+pandemics”. They show that, even on pessimistic assumptions and without considering the
+potential impact of promising emerging technologies, significant investment in pandemic
+prevention is overwhelmingly justified.
+
+My comments go primarily to ‘preventive health measures’ in terms of reference 3.
+
+My first concern is that advancing technology is rapidly making it possible for a large number of
+people to create novel pathogens that are difficult to contain.
+
+Nature can produce pathogens that are extremely infectious like measles, with an estimated RO
+of 15-20. Nature can also produce pathogens that are extremely fatal like rabies, which has an
+almost 100% death rate. Nature, however, is not known to produce pathogens that have both
+high transmissibility and high mortality.
+
+Humans, driven by various motivations, could be on the verge of creating pathogens with both
+these features - risking pandemics much worse than COVID-19. The convergence of open
+science leading to the publication of dangerous knowledge, democratisation of synthetic biology,
+and Al-assisted research might mean that a small group of nefarious actors could cause
+catastrophic harm.
+
+The Unabomber, Theodore Kaczynski, and the Aum Shinrikyo cult both engaged in terrorism
+motivated by bringing the end of civilisation. If active in the year 2023, it is conceivable that
+COVID-19 would have inspired them to seek to engineer a pandemic pathogen. An Aum
+Shinrinkyo member had a virology PhD and obtained the pathogen B. anthracis which produces
+the toxin anthrax in an attempt to make it more lethal. Similarly, the Unabomber was a
+mathematics prodigy and professor, who had the capacity to leverage emerging technologies to
+further his goals.
+
+Preventing the next pandemic requires making sure that highly skilled bad actors never have
+the capability to engineer a novel pathogen. However, a variety of trends are making this a
+realistic possibility. Open science norms - while typically essential to modern science -
+sometimes allow the publication of dangerous material. While the scientists who published the
+genomic sequences of the smallpox virus perhaps didn’t foresee a future where the synthesised
+DNA was readily available, that information cannot be “unpublished”. I recommend that the
+inquiry read “Information Hazards in Biotechnology” (2018) by Lewis et al fora deeper
+understanding of this risk and more examples, including Mousepox and Botulinum toxin H.
+
+Similarly, Al models are on the cusp of being able to provide substantial assistance to people
+doing research and filling tacit knowledge gaps. Again, if action is not taken and models with
+these capabilities become widely available, we may not be able to “unpublish” them.
+
+Overall, I think the Inquiry should task the new CDC with responsibility for tracking the risk that a
+bad actor could create a pathogen with pandemic potential, and ensuring that safeguards
+remain one step ahead of that risk.
+
+My second concern is that our poorly regulated animal agriculture industries are exposing us to
+intolerable levels of biosecurity risks.
+
+In exchange for cheap meat from factory farms, people are dying of bacterial infections that
+were trivial to treat a few decades ago and facing escalating rates of pandemics that devastate
+lives and livelihoods. Simply put, factory farms are pressure cookers in which nature cooks up
+novel pathogens. According to the UN, there will be an estimated 10 billion people in 2050.
+Without paradigm shifts in industry or culture, I’m concerned that accelerating demands for meat
+will only increase and intensify these risks.
+
+Intensive farming practices produce inexpensive meat due to the supposed efficiencies of
+increasing animal farming density. Animals are being packed closer and closer together in
+factory farms, breathing and defecating on top of each other. This environment is a breeding
+ground for novel pathogens whose evolution is accelerated by the density of homogenous hosts
+and the abundance of transmission routes. These practices have a negative public health
+externality in both antimicrobial resistance and pandemic potential viruses. The Inquiry shouldn’t
+stand for industries that profit by endangering people in Australia and around the world.
+
+Antibiotics are fed to animals to reduce bacterial infections and boost growth - 70% of
+antibiotics produced globally are used in farmed animals, and estimates project that Australia
+will see a 16% increase in antibiotic usage in farming over the decade to 2030. This overuse is
+a driver of antibiotic-resistant infections globally. In 2020, antimicrobial resistance was attributed
+to 1,031 deaths, $439 million in costs of premature death and the loss of 27,705
+quality-adjusted life years in Australia (). I understand that the Australian Government has
+worked with industry so that its “livestock and seafood industries [have] ... little to no resistance
+to antimicrobials”, and these steps should be lauded. However, this same approach to ensuring
+intensive animal farming doesn’t risk human lives needs to be expanded to include viruses -
+they key cause of pandemics.
+
+Viruses with pandemic potential often originate in wildlife but can cross the species barrier and
+pose a catastrophic risk to Humans. Wildlife are natural hosts for viruses that can persist
+without causing significant harm to the animals. Occasionally, these viruses can spill over from
+wildlife to farmed animals. In these farms, the viruses encounter new environments and species,
+providing opportunities for genetic recombination and adaptation. This process can enhance the
+virus's ability to infect and transmit among different hosts, including humans. The proximity of
+wildlife, farmed animals, and humans in certain settings, such as live animal markets, live
+exports, slaughterhouses or factory farms, increases the likelihood of interspecies transmission
+events, potentially leading to the emergence of novel and more transmissible viruses with
+pandemic potential.
+
+We now know that the 2009 H1N1 flu pandemic which caused an estimated 284,000 excess
+deaths originated first in swine farms in central Mexico. This quote taken from peer reviewed
+paper “Origins of the 2009 H1N1 influenza pandemic in swine in Mexico”:
+
+        “ This highlights the critical role that animal trading plays in bringing together diverse
+        viruses from different continents, which can then combine and generate new pandemic
+        viruses. “
+
+Australia needs to drastically decrease the pathogen transmission risks from high animal
+densities in live legal or illegal animal trade, live animal exports and factory farming. Australia’s
+biosecurity strategies need to require the industry to take practical steps to reduce these risks.
+Where the risks remain too great or the prevention of pathogen transmission is too costly,
+Australia has a duty to end these practices to avert pandemics and our slow death from
+antimicrobial resistance.
+
+
+
+
+I think Australia can and needs to do better than                        prediction
+

@@ -1,0 +1,167 @@
+                                                 C Miller MAIES
+                          Australian Government COVID Inquiry Submission
+
+I am Christine (Chris) Miller, the current National President, Australasian Institute of Emergency Services (AIES). Our
+nearly 400 members represent all facets of emergency management in Australia, New Zealand and beyond including
+a recent member joining from Hong Kong. Over the AIES's 47-year history, our membership has been drawn from State
+Emergency Services, Police, Fire (volunteers and paid), Ambulance (also paid and volunteers like St John Ambulance in
+Australia), Aviation Fire and Rescue, Marine Rescue and so on. The AIES has partnership agreements with the
+International Association of Emergency Managers (IAEM), Oceania Division; Australasian Women in Emergencies
+(AWE); and other related services.
+
+Given the short timeline for submissions, I have been unable to consult my members, so this is my personal submission.
+
+My personal experience includes:
+• volunteer mountain rescue
+• nearly 17 years Queensland Police service as a sworn officer including responding to the 1974 Brisbane Floods as a
+  Police Cadet
+• counter terrorism exercises as a participant and planner for the Queensland Police, ACT, and the Commonwealth
+  Attorney-General's Department.
+• disaster planning and recovery work for the Australian Government Department of Social Services following the
+  Bali bombings, London bombings, Indian Ocean Tsunami, Eyre Peninsula Fire and more.
+• planning for the next pandemic by contributing to Australian Health Management Plan for Pandemic Influenza
+  (AHMPPI) and National Action Plan for Human Influenza Pandemic (NAPHIP) as well as participating in two national
+  exercises, Cumpston (2006) and SUSTAIN08. Those of us, who worked on various iterations of the AHMPPI, noticed
+  it was lightly edited and released as the Australian Health Sector Emergency Response Plan for Novel Coronavirus
+  (COVID-19) on 18 February 2020.
+
+
+
+
+Now to my responses to some of the items this Inquiry is reviewing:
+
+Governance, future planning, and simulation exercises
+• Infrequent National Public Health simulation exercises such as Cumpston 2006 and SUSTAIN08 resulted in Australian
+  Governments and their partners being less prepared and ready for the recent COVID-19 pandemic. A regular cycle
+  of national field simulation exercises needs to be funded and re-established to ensure Australia is in a better state
+  of preparedness and readiness than we were in November 2019.
+• Plans, such as AHMPPI and NAPHIP, or their successors, need to be subjected to biannual reviews - followed by at
+  least tabletop simulation exercises to challenge assumptions, test future preparedness and increase familiarity with
+  these plans for those, who may be using them in future pandemics.
+
+My recommendation matches the Senate Committee COVID Report delivered in April 2022 with Recommendation 3
+reading: 1.32 The committee recommends that the Australian Government report to the Parliament at least once every
+two years, commencing in 2024, on the state of Australian pandemic preparedness, including all relevant planning,
+policy, and simulation activities undertaken by government agencies during the reporting period.1
+
+
+
+
+1 Source: https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/COVID-
+19/COVID19/Report/section?id=committees%2Freportsen%2F024920%2F79432#:~:text=The%20committee%20recommends%2
+0that%20the%20Australian%20Government%20report%20to%20the,agencies%20during%20the%20reporting%20period.
+Delivery of COVID vaccinations in remote locations
+During the COVID pandemic, I worked with low- and middle-income countries' vaccine distributors in Indonesia, India,
+and the Middle East (although not for the World Bank) to quickly deliver COVID vaccines with low-cost solutions to
+turn vaccines into vaccinations as well as ensuring ultra-cold chain (UCC) systems (as low as -90°C) required for mRNA
+vaccines were reliably maintained.
+
+I referred my Indonesian colleagues, with more than 4,000 islands to supply with COVID vaccinations, to the coastal
+shipping and Unmanned Aerial Vehicles (UAV), Remotely Piloted Aerial Systems (RPAS), commonly referred to as
+"drones". During this pilot, measles, mumps and rubella (MMR) vaccines were delivered by drones throughout
+Vanuatu. The WHO, UNICEF and the Australian Department of Foreign Affairs and Trade's innovationXchange
+contracted an Australian company Swoop Aero to manage the drone vaccine deliveries to remote communities for this
+island nation.23
+
+Given this successful MMR vaccination pilot in Vanuatu in 2018, I was disappointed to learn that Australian
+Governments funded expensive helicopter delivery of COVID vaccines to remote communities in the Torres Strait and
+elsewhere in the top end of Australia, when using drones to distribute COVID vaccines would have generated significant
+savings for taxpayers. Perhaps future vaccination programs, including 6 monthly COVID boosters, could be delivered
+through a drone program.
+
+Lessons identified, but not learned.
+I noticed in the privacy notice for those lodging online submissions under the Privacy heading: "The goal of the inquiry
+is to identify lessons learned to improve Australia's preparedness for future pandemics." The Australian and other
+governments identified lessons from this pilot but did not apply these lessons during the COVID pandemic.
+
+NATO, British Army, Australian Army, and many Australian emergency managers use OILL methodology to capture
+learnings following incidents, near misses and simulation exercises. OILL stands for observations, insights, lessons
+identified, and lessons learned. OILL methodology is part of a Lessons Management Framework (LMF). Without an
+LMF, the Inquiry report will join many reports 'growing dust on bookshelves'. To move beyond that fate, this inquiry
+needs to ensure necessary governance and monitoring work follows up and ensures implementation of the Inquiry's
+recommendations and action items; noting that lessons are not learned until changes are made. The leading Australian
+practitioner in OILL and LMF                          If^^|has not already provided a submission or given evidence
+before this Inquiry, you might like to consider inviting him to do so as well as familiarising yourselves with the Australian
+Institute for Disaster Resilience (AIDR)4. These good practices continue to develop in the Australian military and
+emergency management thanks to AIDR's annual lessons management forums.
+
+Quarantine facilities
+For managing quarantine facilities during future pandemic: Are governments best placed to build expensive permanent
+facilities like Pinkenba, Brisbane; Mickleham, north of Melbourne; and Bullsbrook, Western Australia?5 Or would taking
+up offers such as the Wagner Corporation sooner have presented better value for money solutions for Australian
+taxpayers? "As|                  Chairman of the Toowoomba-based             Corporation, says 'While hotel quarantine
+had worked for returning overseas travellers to date, a better option was needed long-term.'"6 Of course, the
+Corporation is not the only Australian based company with experience in building "5 star" mining camps quickly.
+Eventually, the Wellcamp facility was built in Toowoomba with Queensland Government funding support, and only 700
+unvaccinated travellers were housed there rather than in inner city hotels.
+
+
+
+
+2 Sources: https://www.technet-21.org/en/communitv/discussions/vanuatu-launches-pacific-s-first-drone-trial-delivering-
+lifesaving-vaccines-and-health-supplies-to-remote-communities and http://website.swoop.aero.s3-website-ap-southeast-
+2.amazonaws.com/solutions/vanuatu/
+3 https://www.linkedin.com/in/markcuthbert2/
+4 https://knowledge.aidr.org.au/resources/lessons-management-handbook/.
+5 Source: https://www.dailvmail.co.uk/news/article-11011881/Australias-2BILLION-Covid-quarantine-facilitv-white-elephants-
+unlikely-used.html
+6 Reported in the AFR on 5 February 2021 Source: https://www.afr.com/politics/federal/wagners-pitch-1300-bed-quarantine-
+facility-in-toowoomba-20210205-p5701k
+Managing international and domestic border closures
+
+The NSW Health Influenza Pandemic Plan published T1 May 2016 referred to:
+13.3 International border surveillance
+The Australian Government is responsible for developing and implementing policies relating to international border
+control activities. Roles and responsibilities relating to airports are outlined in the National Pandemic Influenza Airport
+Border Operations Plan (FLUBORDERPLAN).7
+
+The FLUBORDERPLAN of 2009 is also mentioned in a House of Representatives Committee Report (April 2021).
+Specifically:
+   The AHMPPI and NAPHIP are discussed in more detail in Chapter 2. Other Commonwealth plans in place include,
+   but are not limited to, the following:
+   •      National Pandemic Influenza Airport Border Operations Plan (FLUBORDERPLAN 2009) - prepared by DoHA
+           [Australian Government Department of Health and Ageing]8
+
+On 8 December 2021, The Australian National Audit Office (ANAO) published its Report numbered 12 of 2021-22 on
+the Management of International Travel Restrictions during COVID-19 with these conclusions:
+   9.      Management of Australia's international travel restrictions during the COVID-19 pandemic has been largely
+   effective.
+   10.     Australia did not have a plan to implement international travel restrictions and mass guarantine in response to
+   a pandemic as health experts had concluded that such measures were not effective.9
+
+Despite repeated unsuccessful searches for the FLUBORDERPLAN of 2009 or subsequent years, many SES members
+were deployed to assist with domestic and international border restrictions during COVID without access to a plan,
+Standard Operating Procedures (SOPs), training, or simulation exercises prior to COVID to familiarize themselves with
+airport locations and other potential deployment sites.
+
+I personally worked at Brisbane International Airport during the 1988 Commonwealth Games. Prior to deployment, we
+were given detailed briefings on airport operations, such peak times for flights as well as taken on orientation tours of
+the inning workings of the airport to ensure our smooth deployment during the Games. I am told similar pre­
+deployment briefings and tours were not provided in advance or during COVID deployments for the SES, especially at
+major international hub airports like Sydney. They "had to learn on the job". This is despite plans made many years
+before anticipating their deployment:
+
+The NSW Health Influenza Pandemic Plan published 27 May 2016 reads at:
+10.3 NSW Ambulance and patient transport
+The State [State Health Services Functional Area Coordinator] HSFAC may reguest support from the State Emergency
+Operations Controller for moving large numbers of people to alternate accommodation (e.g. relocating people from
+the airport that have been exposed to the virus during a flight). NSW Ambulance personnel may be best placed to assist
+with moving smaller groups of people.10
+
+When other agencies, departments, governments, or partners, such as not for profit organizations like the Red Cross,
+Salvation Army and more, are included in future health plans, which may require their rapid and extended deployment,
+preparedness is the key and needs to include familiarity with the plans, locations, and regular simulation exercises to
+maintain response readiness. Learning on the job does happen, from time to time in emergency management.
+However, we do try to reduce such haphazard approaches, which were managed through domestic and international
+border closures during the COVID pandemic. The emergency services may do less well in future pandemics as SES and
+other volunteer emergency services have dwindling recruitment and an aging membership.
+
+
+
+7 Source: hittps://wwwl,healtfonsw.gov.au/pds/Activ&PDSDocuments/PD2016 Olfepdf
+8 Source:
+https://www.aph.gov.au/parliamentary_business/committees/house_of_representatives_committees2urhhaa/internationalheal
+thissues/report/chapterS.htm
+9 Source: https://www.anao.gov.au/work/performance-audit/management-international-travel-restrictions-during-covid-19
+10 Source: https://wwwl.health.nsw.gov.au/pds/ActivePDSDocuments/PD2016_016.pdf
+

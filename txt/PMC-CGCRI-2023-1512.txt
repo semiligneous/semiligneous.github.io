@@ -1,0 +1,188 @@
+PATHOLOGY
+TECHNOLOGY
+AUSTRALIA
+                         Please accept this response from Pathology Technology Australia. We remain ready to supply further
+                         information and data if deemed appropriate for us to participate in any face to face hearing.
+
+                         Executive Summary
+                         Pathology Technology Australia (PTA] is the peak body representing manufacturers and suppliers of the
+                         tests and technology used in pathology laboratories, hospitals, and in primary care. Increasingly pathology
+                         technology is being used in the home for self-testing.
+                         Australia imports about 97% of its pathology tests and technology requirements (1). About 30% of these
+                         devices travel through the Asia-Pacific region to get to Australia (1). Most of these tests come via airfreight,
+                         are very temperature sensitive, and have a relatively short shelf-life (1 to 2 years].
+                         The pandemic introduced Australians to pathology technology and its critical role in detecting and
+                         understanding the SARS COV-2 virus, responsible for COVID-19 disease. PCR - polymerase chain reaction -
+                         the method for detecting the viral genetic material - its RNA; Genomic Sequencing - determining the virus’s
+                         RNA subtype for epidemiological information, to inform the production of mRNA vaccines, and evolve
+                         detection strategies; and rapid antigen tests (called RATs in Australia] to detect the SARS COV-2 viral
+                         antigens.
+                         Members of PTA supplied and maintained over 95% of the PCR and genomic sequencing tests and technology
+                         used in public health and patient testing for COVID-19 disease.
+
+                         It is generally accepted that Australia performed well as a nation managing the pandemic (2], and the tests
+                         and technology described above were instrumental in providing critical individual and epidemiological
+                         information to drive decisions and support our response. Even so, the human and economic cost was
+                         substantial. It’s important to understand the barriers to adoption and opportunities in the pathology
+                         technology sector that underpin this nation’s preparedness for future similar challenges; be they contagion,
+                         other biosecurity threat, supply chain disruptions or climate-induced challenges.
+                         In this submission we respectfully summarise some perspectives on behalf of the manufacturers and
+                         suppliers of these vital pathology tests - not only for CO VID-19, but for all the tests and technology disrupted
+                         during the pandemic. In some cases, the pandemic threw up challenges that would have been difficult to
+                         prepare for. In other cases, there were some obvious missed opportunities to intervene well in advance.
+                         We would value an opportunity to expand on the learnings and recommendations in any face-to-face hearing
+                         that the enquiry holds.
+
+                         Supporting local pathology technology sector - Sovereign capability
+                         Australia was extremely fortunate to have a good supply of PCR devices installed in laboratories, legacy of
+                         several health screening programs, including for HPV (Human Papilloma Virus] testing - the precursor of
+                         Cervical Cancer. We also have a diligent and well organised pathology technology supply sector, which
+                         immediately took up the challenges of securing supply of vital PCR tests and consumables, even as countries
+                         around the world began limiting export and preserving their own inventories.
+                         Despite this excellent working base - Commonwealth and State health purchasing decisions largely ignored
+                         the fledgling local pathology test manufacturing sector. This is despite requests (by Government] and, in
+                         some cases, grants to local test manufacturers encouraging them to quickly tool up and manufacture COVID-
+                         19 tests.
+                         In one example, an Australian company invested $12 million (at Government request] to rapidly convert one
+                         of its manufacturing labs to supply a vital component of the PCR test (which was in global short supply].
+                         There were subsequently no Government orders.
+                         Another company received substantial Government grant to develop and manufacture a rapid COVID-19 test.
+                         The company produced a device that met all specifications in a very short time frame. Again, not a single
+                         government order.
+                         A Queensland company developed globally leading technology for rapid detection and monitoring of COVID-
+                         19 outbreaks. The company required a modest purchasing commitment from Government and some
+                         assistance navigating TGA registration, but instead it has gone into administration in Australia. This
+
+
+
+
+                                                                                                                             PATHOLOGY
+P P0 BOX 298 PARRAMATTA NSW2124         E INFO@PATHOLOGYTECHNOLOGY.ORG.AU
+                                                                                                                             TECHNOLOGY
+T +61 (0 )497 777 6 88    W WWW.PATH0L0GYTECHN0L0GY.0RG.AU                                                                   AUSTRALIA
+PATHOLOGY
+TECHNOLOGY
+AUSTRALIA
+                         particularly bleak outcome has sent a strong message to manufacturers that they are not welcome in
+                         Australia.
+
+                         Supply Chain Challenges
+                         Securing supply and transport under the specific storage conditions of vital pathology tests and technology
+                         was extraordinarily challenging when world freight services were severely disrupted. Temperature sensitive
+                         pathology test freight (requiring -20°C shipping and handling in many instances] cannot be held up for more
+                         than 24hrs without risking a temperature excursion thus voiding the product.
+                         Suppliers went to extraordinary lengths to secure supply of COVID-19 tests, including persuading their
+                         factories in Europe and North America to supply, in the face of home country pressure. For example, the USA
+                         Defence Production Act of 1950 was invoked during the pandemic and could have resulted in more than 30%
+                         of the world’s supply of PCR tests being reserved for US domestic use.
+
+                         The greatest challenge was the diminished availability of air freight capacity and the huge cost increases.
+                         Freight costs escalate to more than 500% of the pre-pandemic level. Freight costs remain 200% or more
+                         above the pre-pandemic even today. Suppliers have had to absorb these costs as government purchasing
+                         authorities refused to accept increases. This has had the effect of reducing supply confidence in Australia.
+                         Supply chain disruptions and global demand for pathology technology, also impacted sourcing of raw
+                         materials. Australian-based manufacturers import nearly 100% of the critical oligonucleotide building blocks
+                         required to manufacture PCR tests. These same oligonucleotides are required for an RNA manufacturing
+                         capability (such as in mRNA vaccines], PTA needs to be more closely involved in any initiatives to bolster
+                         local infrastructure and production in this space to ensure the pathology, R&D and manufacturing needs are
+                         met.
+
+                         Communicating Critical Information
+                         An effective pandemic response draws on the full diversity of pathology technology including large-scale
+                         centralised molecular testing (PCR], cost-effective rapid antigen testing (RATs], targeted rapid molecular
+                         testing (point-of-care PCR], and genome sequencing. Lack of communication with PTA, the sector peak body,
+                         and piecemeal public communication led to mass confusion as to where, when and what technology to utilise.
+                         This led to long queues and delays at PCR testing sites, and public distrust of RAT effectiveness.
+
+                         There are examples in Australia of where all these technologies were used in seamless partnership to great
+                         success. The Grampians Health Services effectively used a combination of Rapid Antigen Tests and PCR to
+                         quickly identify and manage COVID-19 outbreaks in the region’s aged care facilities. This meant that
+                         outbreaks were identified quickly and suppressed within weeks, with remarkably small loss of life.
+                         Had Australia adopted this combination of tests more broadly, educated people properly in the roles and
+                         limitations of each test and made rapid antigen tests more generally available sooner, we could have
+                         emulated the Grampians Health experience.
+                         The role out of point of care PCR COVID-19 testing in national aboriginal community-controlled health
+                         services was pivotal in reducing morbidity and mortality. We were fortunate that there were point of care
+                         PCR devices in the field performing a vital study on sexually transmitted infections in first nations
+                         communities that could pivot and expand testing for SARS-COV-2.
+
+                         A further aspect of communication involved demand signalling by the major commonwealth and state health
+                         authorities. Haphazard, fractured and sometimes non-existent communication on Australia’s testing strategy
+                         resulted in the supply sector not being able to plan and forecast effectively. In many cases PCR testing was
+                         cloistered within state public health networks who communicated poorly or not at all with the supply sector.
+                         Signalling on the demand for RATs was even more compromised, leading to virtual collapse of PCR and RAT
+                         testing in the summer of 2021.
+                         The chaos of 2021 could have been avoided if the industry had been more closely included in plans and
+                         discussions on testing strategy. PTA could have provided balance to the prevailing opinions on technology, its
+                         ideal applications, and the supply considerations. Some good examples of this include the purchase by the
+
+
+
+
+                                                                                                                         PATHOLOGY
+P P0 BOX 298 PARRAMATTA NSW2124         E INFO@PATHOLOGYTECHNOLOGY.ORG.AU
+                                                                                                                         TECHNOLOGY
+T +61 (0 )497 777 6 88    W WWW.PATH0L0GYTECHN0L0GY.0RG.AU                                                               AUSTRALIA
+PATHOLOGY
+TECHNOLOGY
+AUSTRALIA
+                       Commonwealth Government of COVID-19 rapid antibody tests. Any level of consultation on this purchase
+                       would have delivered counsel against it, as these tests are ineffective in detecting infectious cases. Similarly,
+                       the current write-offs State and Commonwealth government are experiencing with hundreds of millions of
+                       Rapid Antigen Tests might have been avoided with consultation on the limitation of shelf-life and storage
+                       conditions.
+
+                       Impact of the Pandemic on Our Overall Health
+                       It has become apparent that Australia is now facing a secondary pandemic of sorts - the consequences of
+                       delayed diagnosis and treatment or follow up of non-COVID-19 related health conditions. This has the most
+                       serious consequences for the incidence and severity of chronic diseases and cancers. We are yet to face the
+                       full impact of this new challenge.
+                       During the pandemic PTA joined with around 40 health supply, professional and consumer groups to form
+                       the Continuity of Care Collaboration [CCC], The sole aim of this group was to highlight the perilous state of
+                       non-COVID-19 related healthcare in Australia. One of the tactics of this group was to measure the decline in
+                       pathology testing as a surrogate for the decline in patients attending to their acute and chronic health issues.
+                       In addition, PTA has collected data on the supply of tests into Australian laboratories and has a continuous
+                       data set from 2018 to present. This is probably Australia’s most reliable source of testing numbers and could
+                       be used to provide better surveillance of testing during times of stress.
+
+                       Recommendations
+                       Our predominant recommendation is to include and involve the peak body for the manufacturers and
+                       suppliers of the tests and technology needed to manage future health challenges. We are currently calling on
+                       the Health Minister to create a Diagnostics Expert Advisory Group consisting of healthcare professionals and
+                       laboratory service providers, patient advocacy groups, industry bodies, and government representatives. If
+                       such an EAG existed, PTA could provide substantial information about the performance and capability of the
+                       technology, about testing capacity, manufacturing and supply. We can provide authoritative information on
+                       stockpiling, storage, stock rotation.
+                       Government needs to involve the peak body far more in testing strategy and demand management. We can’t
+                       have a repeat of the situation we faced in the summer of 2021. This could have been avoided or minimised
+                       with better management.
+                       PTA represents many of the local test and technology manufacturers and can advise and coordinate local
+                       solutions, identify barriers and broker better outcomes.
+                       Indeed, PTA partnered with MTPConnect to obtain a grant from the Commonwealth Department of Industry,
+                       Science and Resources, to complete a major study of Australia’s sovereign diagnostics manufacturing
+                       capability and our supply chain resilience. This study identified and described the barriers to successful
+                       manufacturing in Australia and made recommendations on how to remediate the current poor situation. The
+                       ADAPT Report [1] and its recommendations forms part of our response to this enquiry. Of relevance is:
+                           • Funding for a centralised concierge service that will guide local innovators through the challenges of
+                                commercialisation vital testing technology, thus shoring up local supply of critical tests and
+                                technology.
+                           • Recognition within government procurement contracts of economic multipliers for locally
+                                manufactured tests and technology
+
+                       While we recognise the efforts the commonwealth Department of Foreign Affairs and Trade and AusTrade
+                       went to in helping to identify air freight space to ship vital tests into Australia, the costs were prohibitive, and
+                       the services scant. A key recommendation is that in future supply chain and freight capacity challenges, the
+                       Commonwealth must provide reliable and low-cost air freight capacity for life saving medical imports.
+
+                           (1)      ADAPT Report
+                           (2)      New COVID data shows how Australia's pandemic strategy compares with other countries - ABC News
+                           (3)      Australian Institute of Health and Welfare - multiple references
+
+
+
+
+                                                                                                                                      PATHOLOGY
+P P0 BOX 298 PARRAMATTA NSW2124       E INFO@PATHOLOGYTECHNOLOGY.ORG.AU
+                                                                                                                                      TECHNOLOGY
+T +61 (0)497 777 688     W WWW.PATH0L0GYTECHN0L0GY.0R6.au                                                                             AUSTRALIA
+

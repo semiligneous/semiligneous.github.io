@@ -1,0 +1,132 @@
+Dear COVID-19 Inquiry Panel,
+
+Thank you for the opportunity to make a submission regarding Australia’s COVID-19 response.
+I have recently graduated from Medical school^^^^^^^^^^^ and will shortly commence
+working as a junior doctor. I became a doctor because I wanted to be there to support people in
+their most vulnerable times, and be able to improve the health of the Australian population.
+
+Throughout my degree, the world saw the dark consequences of a global pandemic, and this
+impacted my own education significantly, as well as the health and safety of many people I met
+through working in the COVID-19 Vaccination Clinics.
+
+I was excited to see Australia announce the creation of a Centre for Disease Control, and this
+seems like the next logical step in the wake of COVID-19.
+
+Throughout my course, our public health lecturers taught us the old proverb: “prevention is
+better than the cure”. This seems especially true in pandemics. Pike et al in “The Origin and
+Prevention of Pandemics” show that the “wait-and-respond approach is not sufficient and that
+the development of systems to prevent pandemics before they are established should be
+considered imperative to human health.”
+
+My submission is focused on a couple of key issues, but my overall view is that pandemic
+prevention should be a key priority of the CDC and that we should not simply concede that
+pandemics are inevitable.
+
+Nature can produce pathogens that are extremely infectious (eg measles: estimated RO of
+15-20) Nature can also produce pathogens that are extremely fatal (eg rabies: almost 100%
+death rate) Nature, however, is not known to produce pathogens that have both high
+transmissibility and high mortality.
+
+Humans, driven by various motivations, could be on the verge of creating pathogens with both
+these features - risking pandemics much worse than COVID-19. Past events unfortunately
+indicate that humans have indeed resorted to biological weapons to harm others. The
+convergence of open science leading to the publication of dangerous knowledge, as well as the
+democratisation of synthetic biology, and Al-assisted research might mean that a small group of
+nefarious actors could cause catastrophic harm.
+
+The Unabomber, Theodore Kaczynski, and the Aum Shinrikyo cult both engaged in terrorism
+motivated by bringing the end of civilisation. If active in the year 2023, it is conceivable that
+COVID-19 would have inspired them to seek to engineer a pandemic pathogen. An Aum
+Shinrikyo member who had a virology PhD attempted to make the anthrax pathogen more
+lethal. Similarly, the Unabomber was a mathematics prodigy and professor, who could leverage
+emerging technologies to further his goals.
+Preventing the next pandemic requires making sure that highly skilled bad actors never have
+the capability to engineer a novel pathogen. However, a variety of trends are making this a
+realistic possibility. Open science norms - while typically essential to modern science -
+sometimes allow the publication of dangerous material. While the scientists who published the
+genomic sequences of the smallpox virus perhaps didn’t foresee a future where the synthesised
+DMA was readily available, that information cannot be “unpublished”. I recommend that the
+inquiry read “Information Hazards in Biotechnology” (2018) by Lewis et al fora deeper
+understanding of this risk and more examples, including Mousepox and Botulinum toxin H.
+
+Public commentary has focused on the possible origins of COVID-19, including whether it was a
+“lab leak”. Regardless of the specifics of COVID-19 specifically, I’ve been shocked to learn
+about the high rate of safety incidents at labs handling dangerous pathogens. A publication from
+Manheim and Lewis found that from 1975-2016 there were 71 reported high-risk human-caused
+pathogen exposure events - as well as evidence of underreporting.1 A lab leak also likely began
+the 1977 flu pandemic.
+
+Given pandemics can cost millions of lives, it seems clear that safety standards (or adherence
+to standards) fall far short of what is appropriate. While I’m firmly in favour of science, and think
+that science is a force for good in fighting pandemics, it has to be done responsibly.
+
+As an outsider, there is little transparency about how physical containment facilities in Australia
+are regulated. The Office of the Gene Technology Regulator seems to focus mostly on GMOs
+and provides little information about its functions regarding physical containment facilities.
+
+To the extent that information is available, OGTR’s 2022-23 annual report is proud that it
+certified a record 132 physical containment facilities last year, meaning that there are now 1,874
+“high-level” facilities operating in Australia. It also reports that it only conducted 49 inspections in
+the same period, including no inspections of the highest-level PC4 facilities.
+
+Reviewing older reports, no PC4 facilities were inspected in 2021-22 either, and only 1
+inspection occurred in 2020-21. Despite only conducting 49 inspections in 2022-23, 26 certified
+physical containment facilities were found to be non-compliant. In this context, the report noted
+that OGTR takes a “cooperative approach” to compliance and that no culpability was found in
+any of these cases.
+
+In addition to seeming shortcomings in oversight, the guidelines themselves are troubling. The
+rules for PC4 facilities were last updated in 2007 and reference standards like AS1324.1 on air
+filters and AS/NZS 2243.3 on lab safety, which don’t appear to have been updated since 2001
+and 2002 respectively. AS1324.1 specifically has been criticised by the HVAC industry for being
+based on inaccurate research from the 1950s and has now been superseded by ISO 16890.
+
+
+
+
+1 David Manheim and Gregory Lewis, ‘High-Risk Human-Caused Pathogen Exposure Events from
+1975-2016’ (2022) 10 FWOOResearch 752.
+This is not necessarily a criticism of OGTR. OGTR only has 51 employees and has
+wide-ranging regulatory functions apart from these topics.
+
+Overall, this snapshot paints a grim picture of the state of regulation in Australia, and one that I
+think falls far short of public expectations about how seriously these issues would be taken.
+Before reading into this, I would have guessed that PC4 facilities comply with cutting-edge
+global standards that account for emerging technology, and would each be inspected several
+times per year.
+
+I think the Inquiry should also task the new CDC with responsibility for tracking the risk that a
+bad actor could create a pathogen with pandemic potential, and ensuring that safeguards
+remain one step ahead of that risk.
+
+I think that this Inquiry should recommend a thorough review of biosafety - including the
+suitability of requirements, degree of adherence, and adequacy of oversight - for all research
+that involves human or animal pathogens. The review should include a risk assessment that
+takes into account the potentially catastrophic global consequences of errors, and ensures that
+our approach to mitigation is proportionate to that risk.
+
+Since ancient times, the scope of public health has been increasing. Contemporaries would
+have thought that lenses in microscopes, the design of sewers, citrus on ships or a hundred
+other things had little to do with public health. However, expanding the scope of public health to
+include emerging issues and new technologies has directly led to substantially better outcomes.
+
+This inquiry is a chance to put new and emerging topics at the forefront of how we think about
+pandemics. Whether it's harnessing the benefits of metagenomic sequencing or addressing the
+risks of Al - I think it’s essential that this Inquiry look to the risks and opportunities of the future.
+
+Thank you for your consideration.
+Sarah Winthrope
+
+Citations:
+Revisiting Aum Shinrikyo: New Insights into the Most Extensive Non-State Biological Weapons
+Program to Date
+The Words of a Killer How the Unabomber’s writings helped lead investigators to his door 25
+years ago
+Information Hazards in Biotechnology - Lewis - 2019 - Risk Analysis - Wiley Online Library
+OGTR Annual Report 2 22-23
+Australian Government Department of Health and Aged Care, Office of the Gene Technology
+Regulator Annual Report 2021-22 (ogtr.gov.au)
+Guidelines for the certification of physical containment facilities | Office of the Gene Technology
+Regulator (ogtr.gov.au)
+ Bringing the Australian air filter standard up to speed - HVAC&R News (hvacrnews.com.au)
+

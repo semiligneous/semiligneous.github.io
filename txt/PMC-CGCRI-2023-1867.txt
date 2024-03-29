@@ -1,0 +1,150 @@
+              Submission to the COVID-19 Enquiry - Robert J Mathews
+
+
+1. Introduction
+
+As a brief word of introduction, I retired from Australia's Defence Science and Technology Group
+(DSTG) in 2017 after a 50 year career. While my major career activities were associated with
+supporting the Australian Government's chemical and biological disarmament objectives, I also
+spent a substantial part of my career working with Personal Protective Equipment (PPE), and a
+substantial part of my career supporting efforts aimed at the prevention of bioterrorism events, and
+the medical community's response to bioterrorism events. This included working closely with
+scientific and medical staff who are employed by relevant Australian government agencies and the
+Australian Defence Force, as well as other agencies including the World Health Organisation (WHO),
+INTERPOL, and the Centre for Disease Prevention and Control (CDC) in Atlanta (US).
+
+In this submission, I briefly describe my observations and reflections of some of the difficulties
+experienced by the Federal Department of Health (DoH) in the handling of the Health Response
+Measures, particularly during the early phase of the COVID-19 pandemic (Sections 2 and 3). Based
+on those difficulties, I recommend that the Enquiry Panel considers several proposals which I
+consider will improve Australia's preparedness for future pandemics (Section 4).
+
+
+
+2. Insufficient attention by Federal Department of Health to Future Health Challenges
+
+I had been working with officers in the Federal Department of Health (DoH) on a range of
+'biosecurity' issues since the early 2000s, in particular, since the 'reconstruction' of the Spanish Flu
+virus in a laboratory in 2004) and the more recent gain-of-function research on potential pandemic
+pathogens. This included my assisting the DoH in the development of the oversight procedures for
+Australian laboratories working with Security Sensitive Biological Agents (SSBAs). In 2010, I was
+invited by the US Government to participate in a US National Intelligence Council Workshop in
+Washington on future global challenges. The unclassified report from that workshop referred to the
+likelihood of a pandemic by 2030.1 The report expressed concern about rapid advances in genetic
+engineering of pathogens and noted that "An easily transmissible novel respiratory pathogen that
+kills or incapacitates more than one per cent of its victim is among the most disruptive events
+possible". There was interest in these future health challenges when I subsequently discussed them
+with DoH desk-level officers, but apparently less interest from senior DoH management, based on
+the limited preparedness within DoH to respond to a major disease outbreak.
+
+
+
+3. Apparent lack of appreciation within DoH of the Aerosol Transmission of Respiratory Viruses
+
+By way of background, it had been known for decades within the Biological Defence and
+Disarmament communities that airborne (aerosol) transmission is a major route for infection by
+respiratory viruses. And this information became very clear to the medical and other health experts
+working on the SARS-1 outbreak in 2003 and with more recent infections, including MERS. So I had
+no doubt that there would be substantial levels of aerosol transmission of SARS-CoV-2, which would
+
+
+1      "Global Trends 2030: Alternative Worlds, a publication of the National Intelligence Council",
+December 2012, p.13. [www.dni.gov/files/documents/GlobalTrends_2030.pdf ].
+result in large numbers of infections unless appropriate Health Response Measures were adopted
+taking the aerosol infection route fully into account.
+
+So I was very surprised when I first heard medical experts from DoH, including the DoH Infection
+Control Expert Group (ICEG), advising the public that there was no aerosol transmission of COVID-19
+(except during certain medical procedures, such as intubation). And I was horrified in April 2020
+when I first heard the DCMO of DoH advise the public not to wear facemasks as 'they are of no
+benefit and could be dangerous'.2
+
+This led to what turned into a letter writing campaign by me to Mr Hunt and the DoH (nine letters
+between April 2020 and September 2021) on various aspects of the aerosol transmission of SARS-
+CoV-2, the important role of facemasks as part of the overall Infection Minimisation Strategy, the
+impact of aerosol transmission of SARS-CoV-2 on the effectiveness of various types of facemasks in
+different risk settings, and the impact of aerosol transmission of SARS-CoV-2 on the city hotel based
+quarantine facilities established early in the pandemic.3
+
+For example, in a letter that I wrote to Mr Hunt in September 2020, I suggested that it would be
+useful for the DoH to recruit additional ICEG members with expertise in aerosol science and PPE, and
+for the ICEG to then review its recommendations with respect to aerosol transmission of SARS-CoV-
+2, the wearing of particular types of facemasks in different risk settings, and the aerosol precautions
+that would be necessary for a safe and effective quarantine facility. My suggestion was ignored by
+the DoH.
+
+Fortunately, when I wrote to the Victorian Department of Health and Human Services about these
+matters in late June 2020, the Victorian officials did listen to my views and also to the similar views
+that had been provided by a number of internationally recognised Australian academic scientists, as
+well as a recently published petition signed by 239 eminent international scientists. This led the
+Victorian Government to 'go beyond' the advice provided by the DoH and introduce the compulsory
+wearing of facemasks on 22 July 2022. Other State Governments subsequently followed the lead
+taken by Victoria by also going beyond the advice provided by the ICEG.
+
+However, the apparent lack of awareness or appreciation of the airborne (aerosol) transmission of
+SARS-CoV-2 by the ICEG resulted in the ICEG continuing to provide inappropriate advice, guidance
+and recommendations regarding the wearing of respirators and facemasks by the health-care
+workers, aged care workers, and the general community, which some experts have argued resulted
+in considerably greater numbers of infections within the various sectors, including in the hotel
+quarantine facilities.
+
+
+
+
+2         I was subsequently advised by a former Canberra colleague that in March 2020 there was a shortage
+of high quality P2/N95 facemasks in the National Medical Stockpile, as most of these masks had been used
+during the bushfires in late 2019/early 2020, and that this advice may have been intended to reduce the
+possibility that members of the public would try to obtain these high-quality facemasks leaving them in even
+shorter supply to front-line health care workers.
+3         The decision to use hotels in the central business districts as quarantine facilities was taken during the
+early phase of the pandemic before the State Governments had become aware that aerosol transmission is a
+major COVID-19 transmission/infection route. Had the Premiers and their advisors realised the importance of
+aerosol transmission as an infection route, at least some of the State Governments may have made additional
+or alternative arrangements to better meet their quarantine requirements.
+4. Lessons for the Future
+
+Based on the handling of the Health Response Measures by DoH during the early phase of the
+COVID-19 pandemic, as outlined in Sections 2 and 3 above, I recommend that the Enquiry Panel
+considers the following proposals:
+
+    •   The Australian Government to establish an inter-agency working group to keep abreast of
+        advances in 'cutting edge' biological sciences and other developments which may indicate a
+        future major disease outbreak.
+    •   The Australian government, under the management of the DoH, to establish and maintain
+        the capability to produce sufficient numbers of the various types of PPE (including N95/P2
+        quality facemasks) that would be necessary during a future major disease outbreak.
+    •   The DoH, in coordination with the States and Territories governments, to establish a
+        purpose-built quarantine facility in the vicinity of a major airport in each State and
+        Territory.4
+    •   A comprehensive review be undertaken of those parts of DoH which would have
+        responsibilities in the management of a future major disease outbreak. A key objective of
+        this review would be to make recommendations that would result in the development and
+        maintenance of in-house expertise within DoH of all aspects of the Health Response
+        Measures necessary to response to a major disease outbreak.
+    •   Review the operation of the DoH Infection Control Expert Group, with the objective of
+        achieving an ICEG with much broader range of expertise so that all relevant aspects of
+        Infection Control can be considered by the Expert Group.
+    •   Develop a formal process in which external experts (either academics or scientists working in
+        other government agencies) would be able to have input into DoH in-house decisions and
+        guidance provided either by the DoH in-house expertise or from the ICEG.
+
+
+
+I would be happy to discuss these proposals in more detail with the Enquiry Panel.
+
+
+With my best wishes,
+
+
+
+Robert Mathews OAM, MSc, DSc, FRACI, FlUPAC
+15 December 2023
+
+
+
+
+4        As suggested in a letter that I wrote to Premier Andrews in December 2020, these quarantine facilities
+could be designed in such a way, and be located close to public transport, so that they could be used as budget
+priced tourist accommodation when not required for quarantine purposes. They would not need to be 'white
+elephants'.
+

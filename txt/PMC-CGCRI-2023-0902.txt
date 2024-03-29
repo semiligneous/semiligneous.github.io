@@ -1,0 +1,228 @@
+Q   Actuaries
+    Institute.
+14 December 2023
+
+
+
+Department of the Prime Minister and Cabinet
+Commonwealth Government COVID-19 Response Inquiry
+
+
+PO Box 6500
+CANBERRA ACT 2600
+
+
+
+Dear Sir/Madam,
+
+Response to Commonwealth Government COVID-19 Response Inquiry
+
+The Actuaries Institute ('the Institute') welcomes the opportunity to provide feedback to the
+Commonwealth Government COVID-19 Response Inquiry. The Institute is the peak professional
+body for actuaries in Australia and our members have applied their risk and financial management
+expertise to analyse pandemic-related data to inform the actuarial profession, the industries they
+advise and policy discussions.
+
+Since mid-2020, the Institute's COVID-19 Mortality Working Group has published detailed
+estimates of excess mortality (the number of deaths above what would have been expected to occur
+without the pandemic). This ongoing work remains one of Australia's leading analyses of the
+ongoing effects of COVID-19 on Australia's mortality. The Institute's Research Paper "How
+COVID-19 has affected mortality in 2020 to 2022" (the Research Paper) published in July 2023
+contains extensive analysis of excess mortality in Australia and compares Australia's mortality
+experience with the rest of the world.
+
+Excess mortality is a key measure of the impact of a pandemic. It captures pandemic-related deaths
+not reported as such, as well as reflecting mortality savings from defence measures, such as
+occurred in Australia in 2020 when border closures and lockdowns reduced the incidence of flu
+and other respiratory diseases. We acknowledge, however, that it does not measure the impact on
+physical or mental health, or on services such as the provision of health care. Nor does it consider
+the wider economic impact of the pandemic.
+
+Governance and the health response
+
+Observation: Australia has experienced relatively low excess mortality during the pandemic,
+consistent with Its relatively high per capita Gross Domestic Product (GDP)
+
+•    Excess mortality in Australia over the three years 2020-2022 was 4%, which compares
+     favourably with the 14% population average of the countries we have analysed.
+
+                                                                                Actuaries Institute
+                                                                                                   Q   Actuaries
+                                                                                                       Institute.
+
+
+•   Australia compares favourably with most English-speaking countries. For example, Canada
+    (6% excess), UK (10%) and USA (14%) were higher, while NZ (0%) was lower.
+
+•   In our time-zone region, Japan (2%) and Taiwan (4%) had lower excess mortality, while
+    Malaysia (7%) and Singapore (9%) had higher excess.
+
+•   Excess mortality is correlated with the effective application of defence measures, intended to
+    restrict the spread of disease; reduce the severity of its impact; and protect the vulnerable.
+    This can be more readily achieved in a developed economy, where there is greater capacity to
+    compensate individuals for loss of income; to treat the sick; and to secure vaccines when
+    these become available.
+
+•   Compared with per capita GDP, global experience shows a strong reducing trend - that is,
+    higher GDP implies lower excess mortality1. Note that GDP is a good indicator of state
+    capacity, a concept described by Hanson & Sigman, which has other contributory factors,
+    including the ability to enforce compliance with defence measures (such as lockdowns) and
+    administrative capacity (such as quality of the health care system).
+
+•   Australia's excess mortality is consistent with the trend, suggesting that the response was no
+    more or less effective, in terms of lives lost, than would be expected, given our level of GDP.
+
+•   In comparison, NZ's response was far more effective, while the USA experienced much higher
+    excess mortality than its GDP would suggest. Most countries in our time-zone region had
+    substantially lower excess mortality than their GDP would suggest.
+
+Lessons and areas for improvement
+
+•   When considering how to mitigate the potential mortality impact of a future pandemic, we
+    recommend further analysis to understand why countries with broadly similar economic
+    capacities experienced divergent mortality outcomes.
+
+•   Communication and leadership from Government are critical during a public health
+    emergency, particularly when social media may be a key channel of information (and
+    disinformation) for many members of the community. Governments and their agencies must
+    provide transparent decision making during a public health emergency to effectively deliver
+    policy responses that may be unpopular with segments of the community. To avoid
+
+
+
+
+1 "World-wide experience", page 7, figure 4, How COVID-9 has affected mortality in 2020 to 2022.
+
+
+
+                                                                                                   Page 2 of 5
+                                                                                     Q     Actuaries
+                                                                                           Institute.
+
+
+    misinformation from other channels, Government information should be factual, timely, useful
+    and authoritative to engender confidence in the community.
+
+•   Recent comments by Sir^^^^^^Min his submission to the UK COVID-19 Inquiry highlight
+    the power of data dashboards. In Australia, unlike the UK where the government supplied
+    excellent data, useful data dashboards were generally supplied by volunteer data scientists,
+    such as                                    (both awarded OAM for this work), work which
+    was made difficult by inconsistent and challenging data presentation by State and Federal
+    governments and health bodies.
+
+•   Comprehensive, consistent and reliable data must be available for public access and analysis.
+    For example, misinformation about the risks and benefits of vaccinations was difficult to refute
+    in the absence of proper data. Equally, it is hard to construct a national view - or to compare
+    state outcomes - when state-provided data varies in timing and definition.
+
+•   The complexity of intersecting factors affecting mortality should be explained during a
+    pandemic. The mortality of a population is significantly affected by demographics (age, sex
+    and comorbidities), making comparisons of population mortality rates highly complex. This
+    was evidenced by widespread misinformation relating to the mortality of vaccinated versus
+    unvaccinated members of Australia's population. Assistance should be sought from experts in
+    such matters, including actuaries.
+
+•   While mitigated by innovative solutions such as wastewater testing, the lack of random testing
+    of the population (as was done in the UK for COVID-19 and Long COVID symptoms) is a
+    significant obstacle to policy formation and review.
+
+•   The Australian Government's commitment to establish the Australian Centre for Disease
+    Control in 2024 may solve some of the abovementioned problems by ensuring consistent
+    definitions and the national compilation and publication of pandemic related data.
+
+•   We encourage Government to invest in their data science and communications teams, with
+    the goal of improving accessibility, presentation and communication of complex data. There
+    have been some fantastic examples of innovative presentation of data over the pandemic,
+    including          Twitter account providing high quality outbreaks maps. We encourage
+    closer monitoring of social media, and correcting misinformation, by Governments and their
+    agencies (including Health Departments). The Australian Electoral Commission's social media
+    provides high quality examples of Government interaction with social media.
+
+
+
+
+                                                                                          Page 3 of 5
+                                                                                                               Q      Actuaries
+                                                                                                                      Institute.
+
+
+    Financial Support for Industry, Business and Individuals
+
+    Observation: Financial support reduces the disruption suffered by businesses and individuals
+    in a pandemic, but greater consideration should be given to managing the ongoing impact on
+    the economy
+
+    Experience around the world shows that economic activity reduces in the face of a severe
+    pandemic, whether or not governments mandate movement controls such as lockdowns. This has
+    direct and indirect impacts on the income of businesses and individuals. If Government does not
+    provide or facilitate financial support, there will be significant adverse consequences for social
+    cohesion and the capacity of the country to return to some degree of normality in due course.
+
+    Financial support initiatives for COVID-19 included JobKeeper and JobSeeker Coronavirus
+    Supplement payments, home rental caps and the Commonwealth Government's COVID-19 early
+    access to superannuation program. Other Government support measures may be considered for a
+future pandemic, depending on the circumstances at the time.
+
+    The significant financial supports had an impact on the Australian Actuaries Intergenerational Equity
+    Index (AAIEI), last updated in 2021 and incorporating data for most indicators up to the end of 2020.
+    In 2018, the intergenerational gap in wealth and wellbeing between 65-74-year-olds and 25-34-
+    year-olds was at its highest level since 2000 (the first year for which the index has been calculated).
+    The gap narrowed slightly during 2020 - its first reduction since 2012. Improvements in aspects
+    under the 'Economic' domain were key contributors to that narrowing of the gap, including
+    temporary government supports during 20202. These supports played a particularly substantive
+    role for young people: without them, we think it likely that intergenerational gaps would have
+    widened further.
+
+    We note that any financial support provided today has implications tomorrow:
+
+•      Payments from general revenue, such as JobKeeper, add to the national debt, which must be
+       repaid over time. The existence of the debt, plus the cost of interest payments, reduces the
+       capacity of the economy to fund other future initiatives. Therefore, it is incumbent on the
+
+
+
+
+    2 Since that time, the Institute has published a broader report on wealth and wellbeing and issues of equity in Not a level
+    playing field: Exploring issues of inequality. That report notes the global trend of widening income and wealth inequality,
+    discusses the drivers in Australia and potential policy responses. While it does not include a specific analysis of the impact
+    of the pandemic, it may be of background interest to the Inquiry.
+
+
+
+                                                                                                                     Page 4 of 5
+                                                                                     Q     Actuaries
+                                                                                           Institute.
+
+
+    Government of the day to build in safeguards to minimise wastage. This process can be
+    assisted by designing key elements and principles before the next pandemic (or another crisis)
+    arrives.
+
+•    Early release of savings held in superannuation funds has long-term consequences for
+     retirement incomes. We consider that future initiatives enabling individuals at scale to access
+    their superannuation in times of crisis would benefit from a clear decision framework that
+     ensures the integrity of the retirement income system. The proposed Superannuation
+     (Objective) Bill 2023 provides this framework, with the objective of superannuation defined as
+     "to preserve savings to deliver income for a dignified retirement, alongside government
+     support, in an equitable and sustainable way." The accompanying Explanatory Materials state
+     that "superannuation savings should not be accessed for purposes outside of retirement
+     income, apart from in exceptional circumstances^ and "members will maintain recourse for
+     early access for genuine and exceptional hardship." These would have been helpful guardrails
+     had they been in place at the time of the pandemic.
+
+
+
+If you would like further information or to arrange a meeting to discuss this submission, please
+contact me on                   or
+
+Yours sincerely
+
+(Signed) Elayne Grace
+
+CEO
+
+
+
+
+                                                                                          Page 5 of 5
+

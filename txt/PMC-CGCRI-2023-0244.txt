@@ -1,0 +1,160 @@
+I am a clinician and researcher, that worked for, but does not represent^^^^^|and I am commenting below
+relative to particular items from the Term ; c Refer ice.
+
+Governance:
+
+   > There was and continues to be a lack of consistency between the federal and state governments. For
+     example:
+         o Data reporting between states was inconsistent, with NSW Health being the only one to release a
+              more detailed (yet flawed) data report.
+         o Some state governments such as QLD, WA and TAS have removed all mandates for the COVID-19
+              vaccines but other state governments such as SA, NSW and VIC have not - despite all CPHO's from
+              each state sitting on the AHPPC and experts in some states saying they are no longer justified
+                       Solution: a nationally consistent approach should be used, incl federal laws and Policy
+   > There was, and continues to be, a lack of transparency from Commonwealth, state and territory
+     governments, national governance mechanisms and advisory bodies. For example:
+         o A number of Freedom of Information (FOI; or such) requests have had to be made to gain
+              information that should be publicly available. This includes FOI's showing the AHPPC knew there was
+              no realistic ability of the COVID-19 vaccines to achieve herd immunity and in fact that the vaccines
+              were not sterilising/neutralising (which they cannot be for a respiratory virus). This information was
+              not made available to the general public - in fact the public were told the vaccines would "stop the
+              spread" and to "protect your grandma" etc - which was never true or possible.
+         o FOI's to particular areas have also not been allowed as these areas have been considered as under
+              "Parliamentary Privilege" or such - this is not appropriate for transparency and creates mistrust.
+         o The contracts (paid for by tax payer's dollars) have not been made available.
+         o A FOI had to be made in SA to access vaccine safety surveillance data showing Chest Pain as the 2nd
+              most frequently reported symptom following vaccination - this is consistent with the WA annual
+              reports for 2021 (5th most frequently reported) and 2022 (1st most frequently reported) (which were
+              publicly available, again highlighting inconsistency). In another FOI, SA Health stated this data goes
+              automatically to the TGA. However, this high frequency of Chest Pain reporting was not disclosed to
+              the public, whereby only symptoms such as headache, fever, muscle pain, fatigue and nausea are
+              listed on any government site, including the TGA, as common. The Product Information Statements
+              of the vaccines include chest pain as an indicator of possible myo- or peri-carditis with information
+              further below relating to subclinical myocarditis and the potential for all people who are vaccinated
+              to sustain an increased troponin indicative of cardiac damage.
+         o There was no transparency of data, for example people admitted to hospital 'for' versus 'with' COVID
+              where NSW reporting acknowledged someone might be admitted following a car crash but be tested
+              and found to have COVID-19 despite the knowledge that you can test positive for at least 90days.
+              Further, once data was looking less favourable for vaccinated individuals, the data reporting changed
+              or was removed, or simply was not reported acutely by vaccination status in the first place. Issues
+              such as not classifying someone as vaccinated for 14 days were known, which influences the data
+              outcomes whereby there may be an increased risk in that early phase post-vaccination to people
+              either catching COVID-19 or requiring hospitalisation associated with the vaccine.
+                       Solution: ALL information and data should be publicly available and not require FOI (or other)
+                       to be able to ascertain information or be blocked/not permitted. More appropriate/accurate
+                       data collection should have been planned and completed.
+   > National governance mechanisms, such as National Cabinet and AHPPC, failed to review or appropriately
+     consider scientific information presented to them raising concerns, including that presented by experts in
+     their respective field. The Precautionary Principle was not applied to the COVID-19 vaccines (it was only
+     applied to the risk of COVID-19 itself). There was also no consultation with experts and clinicians outside of
+     the bureaucracies ^^^^|did not consult with clinical experts in immunology, vaccinology or other).
+                       Solution: ALL material sent to or alerted by any member of the public, or medical
+                       professional or scientist in their field should be appropriately reviewed, openly welcomed
+                       and considered with robust discussion to inform decision making by such bodies. Selection of
+                       material or persons should not be limited to government affiliated persons or sources only.
+                      The Precautionary Principle needs to be applied to proposed solutions, particularly where
+                      new and essentially untested (including for long-term issues).
+   > Under NO circumstances should AHPRA (position statement) be able to restrict any medical professional
+     from doing the role they are trained to do - that is reviewing scientific information independently and
+     making their own informed decisions with regards to their patients AND/OR informing the community more
+     broadly, as well as informing other regulatory bodies such as the government, AMA, RACGP, TGA, ATAGI or
+     state health organisations. Evaluation and reporting of information by medical professionals should be
+     encouraged and supported, not restricted or threatened. Many doctors stated they were "petrified" of being
+     reported but would comment they knew the "jab" was likely contributing. In early to mid-2021 hospital
+     medical documentation included statements like "stroke post COVID-19 vaccination" but with time this
+     documentation changed to avoid potential issues. Further to this, ATAGI and the CPHO's of each state or
+     territory should NOT be allowed to dictate the exclusions / exemptions for patients they have not personally
+     assessed - that should remain solely with the treating medical practitioner.
+                      Solution: The AHPRA Position Statement should be removed and/or amended, and no such
+                      statement applied in future. Regulatory bodies should welcome and encourage medical
+                      professionals to report and inform them about issues without potential retribution.
+                      Exemptions should sit solely with the treating medical practitioner.
+
+Key Health Response Measures:
+
+   > Public Health Messaging: Broadly speaking the response to COVID-19 was mis-guided and mis-informed, with
+     a failure to take into account relevant key scientific literature, leading to biased, unbalanced public health
+     messaging. A fear-based narrative was used to drive compliance with 'Health' response measures that were
+     not proportionate to the overall risk, and/or overstated the benefits of actions such as lockdowns, mask
+     wearing and vaccination. The infection fatality rate of COVID-19 has always been such that younger (<75yo)
+     and healthy people without significant co-morbidities were not at significant risk - this was not represented
+     in the Public Health Messaging, which wrongly also stated things such as "2 weeks to flatten the curve"
+     which was again unlikely in a respiratory virus situation.      Solution: Public messaging should create a sense
+     of trust and accuracy to available information.
+   >      COVID-19 Vaccination:
+          o The COVID-19 vaccines were 'sold' to the public as the way out of the pandemic, but they were never
+                    (or tested) to impact on infection or transmission (as the public were told) - to which health
+              authorities now admit. Scientifically, a 'blood-based' systemic injection was never going to be able to
+              stop a respiratory virus that enters via the respiratory mucosa. Vaccination via intramuscular
+              injection cannot induce IgA mucosal antibodies, whereas wild-type infection can, meaning
+              vaccination was never going to prevent infection and / or therefore transmission, but infection and
+              natural immunity can. This simple biological principle was ignored, and instead division was created
+              amongst the community between the have been vaccinated and have not, enhanced by fear and
+              threat that was over-represented. Further, the vaccines were only ever tested for an impact on
+              symptom severity (the outcomes of which are debatable) yet this is not consistent with the
+              information that was told to the public (again an issue with transparency). Discriminatory measures
+              were used against the unvaccinated to essentially force or coerce them into being vaccinated, and
+              the public were told this was justified, when in reality vaccination was never able to stop infection or
+              transmission and could only (possibly) reduce your own symptom severity which is a personal choice
+              and has no impact on others around you. Once this became evident (because transmission was
+              happening between vaccinated people), there was no further updates to the public or apologies for
+              the mis-information that actually came from the government on this - again highlighting the lack of
+              transparency.
+          o Research about the lack of effectiveness and safety issues of the vaccines, or potential of natural
+              immunity was ignored, including studies that showed (many more studies are available):
+                            - vaccinated people recover more slowly and remained infectious/contagious and able
+                                to transmit for longer than unvaccinated
+                            - cases and symptoms were higher among vaccinated individuals than those with
+                                 natural immunity and natural immunity limits reinfection and further severity
+                    -    the risk of serious adverse events from vaccination surpassed any risk reduction with
+                         the numbers needed to treat/vaccinate being excessively high in order to prevent
+                         any hospitalisation or death and a greater incidence of issues in the vaccinated
+                      - a range of adverse effects including autoimmune, cardiovascular, neurological,
+                         oncological and          effects associated with the vaccine spike protein
+                      - negative efficacy toward hospitalisation whereby vaccinated people are now mor
+                         likely to be hospitalised relative to newer variants (page 25)
+                      - higher rates of (re)infection in vaccinated individuals (a) (b) noting reinfections are
+                         associated with additional risk of death, hospitalisation and post-covid sequelae that
+                         is NOT reduced by vaccination
+                      - IgG class switch leading to immune tolerance
+                      - DNA fragments have been found in COVID-19 vaccine vials
+                      - Ribosomal frameshifting has been found to occur in 1 in 4 people meaning any
+                         random protein may be manufactured in the body
+                      - The potential for a significant number of fatalities associated with the COVID-19
+                               ni with evidence this was known early in interim reporting
+    o The Safety Tables in the TGA AusPAR documents (a), (b), (c) state that the long-term safety of these
+        vaccines remains unknown and that Vaccine Associated Enhanced Disease is a risk meaning the
+        COVID-19 vaccines should never have been allowed to be mandated.
+    o Subst        have used FOI's to analyse state government health data which indicates significant safety
+        concerns relating to cardiac and neurological illness that can only be attributed to the vaccines (as
+        described in the Substacks), and whereby the state health services, despite being alerted to their
+        own data, have failed to review this information.
+    o ATAGI themselves include the potential for long-term cardiac consequences with studies finding
+        impaired cardiac function 1 year later, a 1 in 35 incidence of myocarditis following vaccination, a
+        significant association with cardiac related death, and evidence that all age groups and all people
+        that are vaccinated suffer some extend of cardiac injury.
+    o I             ths             that may relate to COVID-19 vaccination are being ignored.
+    o Natural immunity was, and continues to be, ignored despite its superior protection where vaccine
+        mandates remain in workplaces despite most to all Australians having been infected or exposed
+    o An excessive amount has been spent on a large number of vaccine doses, including something like 7
+        doses per person - this was established early such that there was never an intention that people
+        would only need 2 doses, but that is again not what the public were told - again highlighting the lack
+        of transparency on these contracts. There was no support for a local protein-based vaccine created
+        by Vaxine and used internationally to give Australians a choice to take this vaccine.
+                 Solution: No vaccine should be mandated in the circumstances as above. All information
+                 should be welcomed and considered instead of censored and ignored.
+Personal Protective Equipment:
+    o Despite repeated evidence, including in the governments own previous pandemic preparedness
+        information, that masks are not effective for preventing COVID-19 they continued to be mandated. If
+        COVID-19 is aerosol generated (not droplet), there is no likelihood that a cloth mask or surgical mask
+        could have any impact whereby standard infection control measures for droplet precautions are
+        surgical masks, but beyond that a N95 is required. The use of these long-term pose other issues
+        relating to the persons health but also cost and environmentally.
+RAT Testing: When RAT testing had to be completed by ALL vaccinated SA Health staff and patients were
+being tested, unvaccinated staff were not allowed to work despite the use of this effective control measure
+further highlighting the discrimination against unvaccinated persons.
+Other potential treatments were ignored or worse they were attacked and censored including Ivermectin and
+Hydroxychloroquine despite copious studies presented to the contrary.
+                 Solution: Best practice scientific method needs to be applied to all information, not cherry
+                 picking or mis-representation of information to suit a desired outcome
+

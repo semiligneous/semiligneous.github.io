@@ -1,0 +1,264 @@
+                   Submission to COVID-19 Inquiry, particularly Re: Key health response measures (vaccines)
+
+
+I write as a clinical academic who chose informed non-consent to the first public use of new gene technologies for vaccination
+against COVID-19 (C19vaccines). I am not an 'anti-vaxxer' as I participated in a TGA recognised clinical trial of a proven vaccine
+technology - a recombinant protein vaccine (Spikogen by www.vaxine.net J1.
+
+
+A United States survey2 of 'vaccine hesitancy' found having a medical PhD correlated to higher rates of hesitancy regarding the
+'warp speed' C19vaccines incorporating genetic modified mRNA (modRNA) and viral-vectorDNA technology that was emergency
+use authorised amidst high pandemic fears in 2020. My PhD research alerted me to pharmaceutical industry capacity to disguise
+harms and spin positive efficacy results such that new products can pass drug regulatory agencies3,4. By mid-20211 knew
+colleagues suffering myo/pericarditis after C19vaccines and of a Pfizer rodent biodistribution study (released by FOI from the
+Japanese regulator) of the lipid-nanoparticle (LNP) carrier for modified mRNA (modRNA) transfecting all bodily organs. Another
+FOI revealed this study on p.45 of a January 2021 TGA document - before the public rollout in Australia5.
+
+
+The modRNA (Pfizer & Moderna) and DNA (AstraZeneca & Janssen) gene codes mean a foreign protein, in this case SARS-CoV-2
+spike protein, is made in cells transfected by the LNPs or adenovector capsules that ferry modRNA and DNA codes respectively.
+This explains widespread inflammation and cytosis by immune mechanisms and potential triggering of autoimmune reactions.
+Research has accumulated that the situation is worsened by inflammatory and toxic properties of the LNPs and the spike protein.
+We reviewed this research6 and have a second review covering reproductive toxicity and genomic effects under peer review.
+
+
+Our first review referenced 253 publications. A similar review by Swiss/German authors, with 448 references, concurred with
+ours and advocated for Post Covid Vaccine Syndrome (PCVS) to be adopted into the WHO's International Classification of
+Diseases to stop vaccine injuries being mis-coded as virus related7. A large and accelerating medical literature exists for the
+extensive harms of C19vaccines. One compilation of >3,500 studies and case reports is on the website www.reactl9.org -
+started by US teacher, Brianne Dressen, who acquired an inflammatory progressive polyneuropathy disorder from the
+AstraZeneca phase III clinical trial. Dressen, and Argentinian lawyer, Augusto Roux's, pericarditis adverse event in the Pfizer
+phase III clinical trial were not reported in The New England Journal of Medicine, where the 'safe and 95% effective' messaging
+originated. This is despite correspondence to the chief-editor of the NEJM to publish corrections to the articles8.
+
+
+Given that gene-based vaccines transfect human cells, we termed them 'synthetic viruses'6. There was no need (and even less
+need now) for this technology as traditional antigen-based C19vaccines with proven safety-tested technologies are now
+abundant, mostly in non-Western nations less influenced by 'Big Pharma' commercial interests9. I co-authored another
+publication on this commercial influence aspect10.
+
+
+There are several key peer-reviewed publications for the Inquiry to focus on:
+    •    Fraiman et al. (2022), published in the high impact vaccinology journal Vaccine, re-analysed the results of the Pfizer and
+         Moderna phase III trials posted to www.clinicaltrials.gov . These showed the vaccines caused serious adverse events
+         (SAEs) in excess of placebo at a rate of 1:800 doses across both modRNA vaccine trials11. This was even despite data not
+         including SAEs to Ms Dressen and Mr Roux, and further evidence of exclusions of hundreds vaccine trial recipients over
+         placebo recipients in the trials12.
+    •    Bardosh et al. (2022) in the British Medical Journal (B/WJ)-affil iated Journal of Medical Ethics, reported that for every US
+         college-aged recipient of the gene-based COVID-19 vaccines there would be 18 serious AEs and 98 severe AEs for every
+         COVID viral illness hospitalisation prevented13. The authors explain the vaccine mandates breached medical ethics for
+         this age group.
+    •    Graso et al. (2023) in the Journal of Medical Ethics, also concluded that vaccine mandates were unethical14. We have a
+         preprint manuscript of a survey of the serious psychosocial harms inflicted upon Qld Health workers who were
+         mandated out of employment15.
+    •    Schmeling et al. (2023) found stark discrepancies in all Danish Eudravigilance adverse event reports, depending on the
+         manufacturing batch of Pfizer modRNA16. In Denmark, 71% of serious adverse events were from 4% of batches, 31% of
+         batches produced almost zero serious adverse events and two-thirds of batches varied between these extremes.
+
+
+Batch variation should not happen. It appears due to a different manufacturing process employed (termed 'process 2') for mass
+production, compared to laboratory specific PCR-directed 'process 1' used in the phase III clinical trials17. 'Process 2' is the likely
+cause for several international laboratories finding plasmid DNA contamination at levels orders of magnitude above official safety
+levels18. Variability of contamination across vials suggests poor manufacturing quality control and the SAE batch variability which
+likely relates to this 'process 2' mass production technology that was not reported in The New England Journal of Medicine.
+
+
+Previous research has shown passive pharmacovigilance databases under-report true rates of SAEs by factors of 5- to 100-fold19,
+but perhaps about 20- to 30-fold would seem to apply in the case of the modRNA and DNA gene-code C19vaccines20. This is
+supported by active surveillance surveys in the USA (V-safe conducted by CDC) and Australia (AusVaxSafety conducted by NCIRS).
+Both surveys showed many more SAEs (people incapacitated for at least a day from work or normal activities) than reporting
+rates to the US Vaccine Adverse Event Reporting System (VAERS) passive event reporting system or the TGA's Australian
+Database of Adverse Events Notifications (DAEN) passive reporting system. Anecdotal reports suggest doctors were under­
+reporting due to AHPRA messaging that too many reports could jeopardise their medical registration, but under-reporting is the
+norm anyway. The Inquiry needs a transparent investigation into why the TGA recognises only 14 of the 1006 DAEN C19vaccine
+death reports.
+
+
+Two noteworthy graphs from VAERS data: Figure 1 shows rate of death reports proportional to vaccine doses (red bars) and
+number total doses (blue bars) since 2006 for all vaccines. Thus, red bars are an 'apples with apples comparison'. New modRNA
+and DNA spike protein producing gene code technologies are orders of magnitude higher than traditional vaccines. Figure 2
+shows notable drug/vaccine recalls after death reports to FAERS (FDA drug Adverse Event Reporting System) & VAERS.
+
+
+                                                                       Deaths Per Million Doses (US Only)
+                                                                       Traditional Vaccines (2006 - 2019),
+                                                                       Covid-19 Vaccines (2020-Present)
+                                                                    Data Obtained from CDCs VAERS ana NVICP data & statistics report
+                                                                             ■ Deaths/Million Doses              |    Doses (Millions)                                                     2593
+                                                                                                                                                                                                    2000
+                          25 -
+
+
+
+
+                          20 -
+                                                                                                                                                                                                  — 1500
+
+
+
+
+                          15 —
+
+                                                                                                                                                                                                  — 1000
+   Deaths/Million Doses
+
+
+
+
+       tn
+
+
+
+
+                                                                                                                                                                                                           Doses (M illions
+   Q                                                                                                                                                                                                           o
+                          10 —
+
+
+                                                                                                                                                                                                              v>
+                                                                                                                                                                                                  — 500
+
+                          5 -                  3.97
+                                                                                                                                                       3.53
+                                                                                 3 13                  2.90                                     2.94
+                                 2.52                               2.70
+                                                                                                              1 78
+                                        1.24                                                    1.01                                                                        1 30
+                                                             0.25          045          0.39]                        0.3
+                                                                                                                           11,1 oss-08!   062
+                                                                                                                                                              0 13_j 0 21
+                                                                                                                                                                                   0.73.
+                                                      ).00
+                          0
+
+                                                V
+
+
+
+
+Figure 1: VAERS death reports vaccines 2006 to 27/11/23. https://vaersanalysis.info/2023/ll/04/vaers-summary-for-covid-19-vaccines-through-10-27-2023/
+
+
+Previously, the anti-arthritis analgesic Vioxx, that roughly doubled risk of heart attacks, was calculated responsible for 88,000 to
+139,000 excess heart attacks in the USA alone had most reports (6,638). Despite published evidence of Vioxx harms and later
+evidence Merck, the manufacturer, suppressed harms data, the FDA took 5 years to recall Vioxx21. The COVID-19 vaccines
+appear to be following the example of Vioxx. A similar scenario to Vioxx is unfolding as AstraZeneca & Janssen DNA vaccines first
+withdrawn, now modRNA vaccines for most age groups and healthy people are being withdrawn in Nordic nations & Switzerland.
+                              Reported Deaths for Major Drug/Vaccine Recalls
+                                                                     (Data Obtained from VAERS and FAERS)
+       Polio Vaccine "Cutter Incident of 1955" {<1 yr) — I 10
+
+
+                  Swine Flu Vaccine of 1976 (<1 yr) — ■ 53
+
+
+                      Meridia (13 yrs. recalled 1997) —         94
+
+
+
+                        Posicor {1 yr, recalled 1998) —         118
+
+
+
+             Diethylstilbestrol (37 yrs, recalled 1975) —       214
+
+
+
+                     Seldane (13 yrs, recalled 1997) —          406
+
+
+
+                        Rezulin (1 yr, recalled 2000) —          649
+
+
+
+                        Baycol (4 yrs, recalled 2001) —          714
+
+
+
+                         Bextra (1 yr, recalled 2005) — I            1054
+
+
+
+                         Vioxx (5 yrs, recalled 2004) —                       6638
+
+
+
+        Covid-19 Vaccine (2+ yrs, yet to be recalled) —                                                             36501
+
+
+
+
+                                                            0                        10000         20000    30000           40000
+                                                                                                  Deaths
+
+
+
+Figure 2: Death reports to FAERS/VAERS associated with drugs/vaccines at year of product recall and number of years on the market.
+https://vaersanalvsis.info/2023/ll/04/vaers-summarv-for-covid-19-vaccines-through-10-27-2023/ data to 27/11/23.
+
+
+
+A Californian clinical-academic who has over 150 peer-reviewed papers in the medical literature, including in prestigious
+journals, and who I have corresponded with, provides excellent synopses of hundreds of published papers on the harms and
+pathophysiological mechanisms of harms, of the C19vaccines on his Twitter account: www.twitter.com/DrJohnB2 . These are worth
+perusing as he makes the science accessible to lay people.
+
+
+Hopefully the Australian Inquiry will hasten modRNA C19vaccine withdrawal in favour of safer, proven technology vaccines. The
+amount of information to properly consider, and the serious nature of the problems that have arisen, warrant a full Royal
+Commission and this should be expedited.
+
+
+REFERENCES
+
+(1)      Tabarsi et al. Evaluating the efficacy and safety of SpikoGen®, an Advax-CpG55.2-adjuvanted severe acute respiratory syndrome
+         coronavirus 2 spike protein vaccine: a phase 3 randomized placebo-controlled trial. Clin Microbiol Infect 2023, doi:
+         10.1016/j.cmi.2022.09.001
+(2)      King et al. COVID-19 vaccine hesitancy January-May 2021 among 18-64 year old US adults by employment and occupation. Prev Med
+         Rep, 2021, doi:10.1016/j.pmedr.2021.101569
+(3)      Parry P. ‘Paediatric bipolar disorder’: why did it occur, the iatrogenic consequences, and the implications for medical ethics and
+         psychiatric nosology. PhD. Flinders University; 2021. https://theses.flinders.edu.aU/view/e8c15152-a279-4e61-88ce-e96080a908da/1
+(4)      Spielmans & Parry. From Evidence-based Medicine to Marketing-based Medicine: Evidence from Internal Industry Documents. J
+         Bioethical Inquiry, 2010, doi:10.1007/s11673-010-9208-8
+(5)      TGA Nonclinical Evaluation Report: BNT162b2 [mRNA] COVID-19 vaccine (COMIRNATYtm), January 2021. TGA FOI reply 2389-06.
+         https://www.tga.gov.au/sites/default/files/foi-2389-06.pdf
+(6)      Parry et al. ‘Spikeopathy’: COVID-19 spike protein is pathogenic, from both virus and vaccine mRNA. Biomedicines, 2023,
+         https://doi.org/10.3390/biomedicines11082287
+(7)      Scholkmann & May. COVID-19, post-acute COVID-19 syndrome (PACS, “long COVID”) and post-COVID-19 vaccination syndrome
+         (PCVS, “post-COVIDvac-syndrome”): Similarities and differences. Pathol - Res Pract 246 (2023) 154497.
+         https://doi .org/10.1016/j .prp.2023.154497
+(8)      Healy et al. The coverage of medical injuries in company trial consent forms. Internat J Risk Safety Medicine, 2023.34(2): 121-128.
+         https://content.iospress.com/articles/international-journal-of-risk-and-safety-in-medicine/jrs220043
+(9)      Wikipedia. List of COVID-19 vaccine authorizations, en.wikipedia.org, 2023 https://en.wikipedia.org/wiki/List_of_COVID-
+         19_vaccine_authorizations
+(10)     Rhodes & Parry. Gene-based COVID-19 vaccines: Australian perspectives in a corporate and global context. Pathol-Res Pract, 2023 in
+         press.
+(11)     Fraiman et al. Serious adverse events of special interest following mRNA COVID-19 vaccination in randomized trials in adults. Vaccine
+         2022, 40 (40), 5798-5805. doi: 10.1016/j.vaccine.2022.08.036
+(12)     FDA-CBER-2021-5683-0002860 Table 49 “Subjects excluded ... due to important protocol deviations”, https://phmpt.org/wp-
+         content/uploads/2021/12/STN-125742_0_0-Section-2.7.3-Summary-of-Clinical-Efficacy.pdf
+(13)   Bardosh et al. COVID-19 vaccine boosters for young adults: a risk benefit assessment and ethical analysis of mandate policies at
+       universities. J Med Ethics, 2022, doi: 10.1136/jme-2022-108449
+(14)   Graso et al. Blaming the unvaccinated during the COVID-19 pandemic: the roles of political ideology and risk perceptions in the USA. J
+       Med Ethics, 2023, doi: 10.1136/jme-2022-108825
+(15)   McDonald et al. Economic and psychosocial impact of Covid-19 vaccine non-compliance amongst Australian healthcare workers,
+       [preprint] Researchsquare.com 2023, doi: https://doi.Org/10.21203/rs.3.rs-3138804/v1
+(16)   Schmeling et al. Batch-dependent safety of the BNT162b2 mRNA COVID-19 vaccine. EurJCIin Invest, 2023,
+       https://doi.org/10.1111/eci.13998
+(17)   Guetzkow & Levi. Covid-19: Researchers face wait for patient level data from Pfizer and Moderna vaccine trials. BMJ, 2022,
+       https://doi.org/10.1136/bmj.o1731
+(18)   Speicher et al. DNA fragments detected in monovalent and bivalent Pfizer/BioNTech and Moderna modRNA COVID-19 vaccines from
+       Ontario, Canada: Exploratory dose response relationship with serious adverse events. OSFPreprints, 2023,
+       https://doi.org/10.31219/osf.io/mjc97
+(19)   Lazarus et al. Electronic Support for Public Health: validated case finding and reporting for notifiable diseases using electronic medical
+       data. J Am Med Inform Assoc. Jan-Feb 2009; 16(1):18-24. doi: 10.1197/jamia.M2848.
+(20)   Miller et al. The reporting sensitivity of the Vaccine Adverse Event Reporting System (VAERS) for anaphylaxis and for Guillain-Barre
+       syndrome. Vaccine, 2020, doi: 10.1016/j.vaccine.2020.09.072
+
+
+
+Assoc Prof Peter Parry
+MBBS, PhD, FRANZCP, Cert Child Adoles Psychiatry
+Google Scholar profile: https://scholar.google.com/citations?user=3K1c3QkAAAAJ&hl=en&oi=sra
+

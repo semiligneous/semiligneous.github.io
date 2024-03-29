@@ -1,0 +1,143 @@
+To Whom It May Concern,
+
+Thank you for the opportunity to have my views about the Government's COVID-19 inquiry heard.
+My name is Bradley Tjandra, I am an actuary who saw the impact of the COVID-19 pandemic in terms
+of both human lives and economic impacts in my professional and personal life.
+
+More than any other global catastrophic risk, we can prevent novel pathogens and identify and
+eliminate them if they do. Given the cost of pandemics on Australia - and that pandemics worse
+than COVID-19 are possible - prevention should be our top priority. This is why I believe the inquiry
+should put a special focus on pandemic prevention.
+
+The paper "The costs and benefits of primary prevention of zoonotic pandemics"1 (Bertstein 2022)
+outlines the economic benefits of pandemic prevention. Even with conservative assumptions, and
+without accounting for the potential benefits of emerging technologies, there is strong justification
+for investing in pandemic prevention.
+
+Considering this, the new Australian "Centre for Disease Control" should be focussed on preventing
+novel pathogens from emerging and being able to control them if they do.
+
+My submission goes primarily to 'preventive health measures' in terms of reference 3.
+
+Research tells us that the likelihood of zoonotic pandemics is greater than we think and on the rise2.
+Land use change, travel and trade, and climate change are known drivers of the emergence of novel
+pathogens3. While we can't stop all these things, the Inquiry should recommend practical
+interventions that reduce their risk domestically as well as international approaches that encourage
+others to do the same.
+
+    1.   Land use change is a known driver of disease spillover from animals to humans4. E.g., the
+         spillover of the Hendra virus into horses and humans in Queensland was partially
+         attributable to increased nutritional stress and fragmentation of flying fox habitats vaused by
+         urbanisation5.
+    2.   Travel and trade can contribute to the spread of disease. There are concerns that activities
+         like the movement of live animals through legal (live animal exports) and illegal (smuggling)
+         trade may propagate spillover risks at each point. Coronaviruses carried by pangolins
+         confiscated from the illegal wildlife trade in Vietnam have been found to originate in Yunnan
+         and Guangxi, China. These are the provinces in which bats have been found to carry SARS-
+         related coronavirus most similar to SARS-CoV-2.
+    3.   Climate change will increase the spillover risks from anthropogenic land use. At least 10,000
+         virus species have the ability to infect humans but, at present, the vast majority are
+         circulating silently in wild mammals. Changes in climate and land use will lead to
+         opportunities for viral sharing among previously geographically isolated species. By 2070, it is
+         expected that there will be 300,000 novel animal pair encounters globally. In other words,
+
+
+1 The costs and benefits of primary prevention of zoonotic pandemics - PMC (nih.gov)
+2 Intensity and frequency of extreme novel epidemics - PubMed (nih.gov)
+3 The Need to Prioritize Prevention of Viral Spillover in the Anthropopandemicene: A Message to Global Health
+Researchers and Policymakers
+4 Land use-induced spillover: a call to action to safeguard environmental, animal, and human health - PubMed
+(nih.gov)
+5 The emergence of Hendra virus from flying foxes (Pteropus spp.)
+         climate change will double the opportunities for one of the estimated 10,000 viruses in
+         wildlife to move between species6.
+
+In all three of these cases, it's open to the Inquiry to recommend that Australia, including through
+national and jurisdictional biosecurity strategies, include practical interventions and programs to
+treat both the underlying trend and the risks it creates.
+
+Further, while I understand that assisting foreign governments is not in the terms of reference of this
+Inquiry, international policies to support Australians at home are in scope. In that context, the Inquiry
+should consider recommendations that leverage Australian international leadership to pursue global
+pandemic prevention that keeps Australians safe wherever they are.
+
+Given our special relationship with the Asia-Pacific, regional capacity building can be a key
+contribution to global public health. At least 4 out of 9 pandemics that have occurred since 1900
+originated from Asia, due to high population density and proximity of animals to the population7.
+Good work is already being done by the Indo-Pacific Centre for Health Security8. Given the growing
+importance of this work, the Inquiry should consider making recommendations about how it could
+be appropriately expanded and focused on pandemic prevention. This might include investments
+into projects relevant to mitigating risks due to land use change, trade and travel, and climate
+change, as well as thinking about how innovative approaches to pandemic prevention recommended
+by this Inquiry could be spread in our region.
+
+We can also build further our record of international leadership. Australia is a member of the
+International Experts Group of Biosafety and Biosecurity Regulators. Australia also advocates for
+chemical and biological weapons security and non-proliferation, including through the formation of
+the Australia Group to harmonise export controls for chemical and biological weapons9. We could
+build on this track record and help keep Australians safe by:
+
+Acting on the recommendation of Global Health Security Index's 2021 report on Advancing Collective
+Action and Accountability Amid Global Crisis by regularly reporting to the World Organisation for
+Animal Health (OIE) on incidence of human cases of zoonotic disease. This is a critical global norm
+and we should help establish it.
+
+Recommending that the Foreign Minister consider including in free trade agreements that relate to
+animals and animal products something akin to a "national treatment" obligation that requires the
+other trading partner to meet or exceed the standards and practices to prevent zoonoses. Through
+this mechanism, Australia could adopt best practices domestically, and then encourage our trading
+partners to adopt similar practices - ultimately making Australia and the world safer.
+
+Preventing future pandemics should pair efforts at stopping pathogens from emerging, with ensuring
+we have the plans and technologies to rapidly combat them if they do.
+
+Taking 17 November as the date of first human SARS-COV-2 infection, there were 44 days between
+first infection and first response (31 December 2019), 54 days between first infection and genome
+publication (10 January 2020), and 67 days between first infection and the lockdown of Wuhan (23
+January 2020). For SARS-CoV-2, this was enough time to spread across the world. Modelling shows
+
+
+
+6 Climate change increases cross-species viral transmission risk
+7 A visual history of pandemics | World Economic Forum (weforum.org)
+8 Homepage | indopacifichealthsecurity.dfat.gov.au
+9 The Australia Group — The Australia Group (dfat.gov.au)
+that if Wuhan had locked down one (16 Jan), two (9 Jan) or three weeks (2 Jan) earlier, cases of
+COVID-19 in Wuhan could have been reduced by 66%, 86% or 95% respectively.
+
+Despite this failure, we know that success is possible. We can stop an outbreak from turning into a
+pandemic if we can quickly enact the right response. During the first year of COVID-19, both Taiwan
+and New Zealand achieved 100 consecutive days free of community transmission. This was largely
+due to an understanding of the seriousness of SARS-CoV-2 while case numbers were low. The 2002­
+2004 SARS, ebola, and many other examples also demonstrate that containment is possible.
+
+I think everyone in the world would wish that Wuhan had the capability to detect a novel pathogen
+outbreak, disseminate information, and respond in a timely manner. Early detection and action could
+have lead to containment rather than a pandemic - saving millions of lives and trillions of dollars.
+
+However, in Australia, we are in no position to criticise China. We also don't have early detection
+capacity and we don't have plans to contain novel pathogens at jurisdictional or national levels.
+When a novel pathogen emerges here, we are also unlikely to be able to identify it and act early
+enough to prevent it from spreading beyond our shores.
+
+We can build such systems now and get ahead of the next pandemic.
+
+This Inquiry should recommend that the CDC write a white paper proposing options for a national
+system for the early detection of pathogens, including setting out the costs and benefits of such a
+system, and put it to the government before the end of 2024. The white paper should explore a mix
+of proven techniques and emerging technologies - including metagenomics. The goal should be an
+enduring system that can protect the lives and livelihoods of Australians from the next pandemic.
+
+I think pandemics are one of the most important issues of our time, and expert assessments that the
+risk of pandemics is increasing are alarming. I think this inquiry should carefully consider how future
+pandemics could start and ensure it makes specific recommendations to reduce their likelihood. This
+should include the known mechanisms that have been with humans since time immemorial, such as
+zoonoses, as well as more recent risks, such as lab leaks, and emerging threats, such as engineered
+pathogens.
+
+Warm regards,
+
+
+
+Bradley Tjandra
+

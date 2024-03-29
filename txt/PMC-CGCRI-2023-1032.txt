@@ -1,0 +1,130 @@
+I was excited to see Australia announce the creation of a Centre for Disease Control.
+COVID-19 made it clear that Australia needs an institution of this kind. I’m also glad that
+Australia has commissioned this Inquiry, including to inform the priorities of the CDC.
+
+There’s a long-standing public health adage that “prevention is better than a cure”. The
+same logic applies to pandemics. Pike et al in “The Origin and Prevention of Pandemics”
+show that the “wait-and-respond approach is not sufficient and that the development of
+systems to prevent pandemics before they are established should be considered imperative
+to human health.”
+
+I think this insight should be foundational to the direction of this Inquiry.
+
+My submission focuses on a select issues, but my overall view is that pandemic prevention
+should be a key priority of the CDC and that our institutions and leaders should never
+concede that pandemics are inevitable.
+
+Sources:
+
+The Origin and Prevention of Pandemics - PMC (nih.gov)
+
+
+
+
+I believe that the Australian government should create clear codes of practice and standards
+for Indoor Air Quality (IAQ) and introduce regulations for high-risk spaces. Every year,
+Australians fall ill as a result of exposure to airborne pathogens in indoor environments.
+Some of the most vulnerable members of our community, the elderly and
+immunocompromised, are particularly exposed to this risk. Better controls on IAQ would not
+only help protect us against current and future pandemics, but they can also reduce the
+negative health outcomes caused by other hazards like indoor smog, toxic materials,
+non-pandemic respiratory diseases, and other known airborne health hazards.
+
+Despite Australians spending at least 9C% of their time indoors, the Australian Department
+of Climate Change, Energy, the Environment and Water highlights that Australia has no
+specific controls on IAQ aside from the limited control specified by Work Safe Australia.
+Without nationalised standards and codes specifying minimum performance reguirements
+for infection control, I worry that the nation will default to ineffective interventions that provide
+little protection against pathogens.
+
+Clear and effective codes of practice and standards for IAQ Australia would provide clear
+metrics and targets for air guality with the goal to reduce pathogen transmission. Without
+clear metrics and targets, I worry that manufacturers and innovators will create products that
+are ineffective at cleaning indoor air to suitable levels to reduce pathogen transmission.
+Evidence-based standards for IAQ which are informed by the latest scientific research into
+respiratory disease, air filtration and sanitation, public health, and behavioural science would
+provide the correct regulatory environment to ensure effective IAQ interventions are
+available to the Australian public. Additionally, clear reguirements should be specified for
+high-risk environments in which airborne infections are potentially life threatening such as in
+aged care facilities, hospitals, healthcare facilities, and other facilities caring for the
+immunocompromised.
+The Lancet COVID-19 Commission Task Force has proposed Non-infectious Air Delivery
+Rates (NADR) so we now have measurable goals for ventilation and filtration targets that
+protect against infectious disease transmission. The Task Force highlights that, while there is
+ongoing scientific debate over what metrics and targets are optimal, there is agreement that
+current practices are insufficient. I recommend that the Inquiry read the report to gain a
+better understanding of the considerations in setting effective codes and standards for IAQ
+
+IAQ codes and standards could be defined by the Australian Building Codes Board (ABCB)
+in the National Construction Code. The ABCB could draw on the expertise of the Australian
+Commission on Safety and Quality in Health Care and the Australasian Health Infrastructure
+Alliance (AHIA), as well as the existing IAQ work done by the ABCB. ASHRAE Standard
+241, Control of Infectious Aerosols may also be helpful in informing codes and standards.
+
+I believe that clearer codes of practice and standards for IAQ can help safeguard all
+Australians against airborne pathogens in indoor environments. With the right regulatory
+environment we can reduce the spread of pathogens, reduce the burden on our public health
+system, and safeguard the most vulnerable members of our community.
+
+Citations:
+
+National Safety and Quality Health Service Standards (second edition) | Australian
+Commission on Safety and Quality in Health Care
+
+Handbook: Indoor air quality (abcb.gov.au)
+
+
+
+
+In the context of Terms of Reference 5, support for industry, including in the context of labour
+shortages, I recommend that the Inquiry consider the paper by Gopal et al from the Geneva
+Centre for Security Policy titled “Securing Civilisation Against Catastrophic Pandemics”.
+
+The paper begins by unpacking ways that pandemic risk is increasing - in particular the
+possibility of engineered pandemics. The paper also makes a useful distinction between
+“stealth” and “wildfire” pandemics, which has deep implications for our policy response.
+
+Importantly, the paper goes on to explain that in a pandemic worse than COVID-19, workers
+who operate critical infrastructure may die or refuse to attend the workplace. If that happens,
+a modern interconnected society would rapidly collapse. The second-order consequences
+from a lack of electricity causing cascading failures in other critical sectors would far exceed
+the immediate consequences of the virus.
+
+When the Inquiry thinks about support for industry, the primary goal of that support should be
+keeping the lights on during a future, worse, pandemic. If critical infrastructure fails, other
+questions like financial support or community support rapidly become irrelevant or
+impossible.
+
+Among the various recommendations, Gopal et al argue that “pandemic-proof personal
+protective equipment” (P4E) is essential to dealing with the risk of failing critical
+infrastructure. The argument for P4E is that essential workers (such as those critical to
+providing food, water, power and law enforcement) need the confidence that they can
+continue to work without endangering themselves and their loved ones. The paper provides
+requirements for what this kind of equipment would need to look like.
+
+The paper also includes discussions about definitions of essential workers, ways of
+preparing the workforce and supply chain, and a discussion of social and technological
+approaches to slowing the spread of future pandemics.
+
+I recommend that the inquiry read Securing Civilisation Against Catastrophic Pandemics and
+treat it as a foundation stone for other recommendations. That is, our first priority has to be
+actions that take these worst-case scenarios off the table. Action against other elements of
+the terms of reference are only possible and impactful if we can be confident that we’re in a
+position to prevent a social collapse.
+
+Citations
+    • Securing Civilisation Against Catastrophic Pandemics | Geneva Centre for Security
+        Policy (October 2023)
+
+
+The notable public health challenges of history have been solved by innovative people
+bringing new ideas and perspectives to the challenge of health. As the scope of public health
+has grown, so has its ability to improve longevity and quality of life.
+
+The terms of reference of this inquiry are fundamentally about doing better in the future.
+Given how terrible future pandemics could be - the best thing the Inquiry could do for the
+future is to prioritise pandemic prevention, including the novel ways pandemics could occur
+in the future. While that will require uncomfortable thinking about unexpected topics and
+emerging technologies, these are the issues that could have the biggest impact towards
+securing a healthier future.
+

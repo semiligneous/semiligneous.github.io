@@ -1,0 +1,191 @@
+                                                                                                      UNSW
+
+
+                                                                 UNSWSYDNEY
+                                                                                                 Kaldor Centre
+                                                                                                for International
+                                                                                                  Refugee Law
+
+
+                                                   Professor Jane McAdam AO BA (Ho ns) LLB (Hons) Sydney, DPhil Oxford, FASSA FAAL
+
+                                                   Scientia Professor of Law, Faculty of Law & Justice, UNSW Sydney
+                                                   Director, Andrew & Renata Kaldor Centre for International Refugee Law, UNSW Sydney
+                                                   Research Associate, Refugee Studies Centre, University of Oxford
+
+
+8 December 2023
+
+Dear Panel Members,
+
+The Andrew & Renata Kaldor Centre for International Refugee Law at UNSW Sydney welcomes the
+opportunity to provide a submission to the Commonwealth Government COVID-19 Response
+Inquiry. The Kaldor Centre is the world’s first and only research centre dedicated to the study of
+international refugee law. The Centre was established in October 2013 to undertake rigorous
+research to support the development of legal, sustainable, and humane solutions for displaced
+people, and to contribute to public policy involving the most pressing displacement issues in
+Australia, the Asia-Pacific region and the world.
+
+Since 2020, we have engaged in research concerning the legality of restrictions on human mobility
+during COVID-19, assessed against States’ obligations under international human rights law.
+Australian policies have been a particular focus of our research, and we are grateful for an Australian
+Research Council Special Research Initiative grant (SR200200683) which funded much of this work.
+
+This submission focuses on the human rights impacts and legality of Australia’s international border
+controls. It draws directly on some of our published work, to which we refer you for more detailed
+analysis. For copyright reasons, we cannot upload this material but can share it with you.
+
+   •   Restrictions on entry: Regina Jefferies, Jane McAdam and Sangeetha Pillai, ‘Can We Still
+       Call Australia Home? The Right to Return and the Legality of Australia’s COVID-19 Travel
+       Restrictions’   (2021)    27     Australian   Journal  of    Human       Rights  211-31
+       https://www.tandfonline.com/doi/fullZ10.1080/1323238X.2021.1996529
+
+   •   Restrictions on exit: Regina Jefferies and Jane McAdam, ‘Locked In: Australia’s COVID-19
+       Border Closures and the Right to Leave’ (2023) 41 Australian Year Book of International Law
+       185-231 https://brill.eom/view/journals/auso/41/1/article-p185 8.xml
+
+Introduction
+
+During the first two years of the COVID-19 pandemic, Australia went to extraordinary lengths to
+contain the spread of the virus through border controls. This entailed a near-blanket ban not only on
+travel to and from the country, but also on movement between the states and territories, and even
+between local government areas. The idea was that if people could not circulate, then nor could
+COVID-19. However, over time - and particularly when vaccines became widely available - this
+approach became increasingly disproportionate and unnecessary. The failure to consider or
+evaluate the non-COVID-19 related health and human impacts of the measures had significant,
+adverse impacts on people’s lives - and at times constituted violations of Australia’s obligations
+under international human rights law.
+
+The complex interplay between Commonwealth and state/territory responsibilities with respect to
+quarantine led to a situation in which internal policy settings aimed at curbing the spread of COVID-
+19 resulted in the functional exile of large numbers of people who call Australia home. Rather than
+a coordinated, holistic and proportionate response aimed at ensuring the health and well-being of
+Australian citizens at home and those seeking to return from overseas, the Commonwealth and
+
+         Kaldor Centre for InternationalRefuqeeLa^Faculty of Law & Justice, UNSW Sydney, NSW 2052 AUSTRALIA
+           T +61                 I E                      ABN 57 195 873 179 1 CRICOS Provider Code 00098G
+National Cabinet effectively endorsed arbitrary caps on the number of incoming travellers, placing
+an almost singular reliance on hotel quarantine that persisted long after the widespread availability
+of vaccines and policy alternatives.
+
+Restrictions on entry
+
+Australia recorded its first COVID-19 case in January 2020, and in March it closed its international
+borders to all but Australian citizens and permanent residents. Despite a formal legal entitlement to
+return, the practical effect of Australia’s travel and quarantine measures left tens of thousands of
+people stranded abroad.
+
+From 10 July 2020, Australia set a weekly cap on the number of people permitted to enter Australia,
+directly linked to the hotel quarantine capacity of the states and territories (even though they and the
+Commonwealth have concurrent powers for quarantine). This meant that Australia’s international
+border controls were effectively set by state/territory authorities - something that was ‘virtually
+unprecedented’.1
+
+The right to enter one’s country is articulated in the core international human rights instruments and
+is broadly recognized as a fundamental common law right. Under article 12(4) of the International
+Covenant on Civil and Political Rights (ICCPR), States must not arbitrarily deprive a person of their
+right to enter their own country (whether a citizen or permanent resident). The right to enter is not
+subject to any exceptions. The only constraining factor is that the right cannot be deprived ‘arbitrarily’.
+Although it is no longer apparent from the treaty’s text, the drafting records reveal that the notion of
+‘arbitrariness’ was intended to connote a sole exception—refusal of entry to an individual who had
+been lawfully exiled.2 It was considered that illness/health would not be inappropriate grounds for
+preventing return.3
+
+The UN Human Rights Committee has explained that ‘arbitrariness’ ‘guarantees that even
+interference provided for by law should be in accordance with the provisions, aims and objectives of
+the [ICCPR] and should be, in any event, reasonable in the particular circumstances’.4 Thus, at most,
+the right to enter could only be reasonably curtailed by brief, temporary restrictions that pursued a
+legitimate objective and were necessary, reasonable, proportionate and based on clear legal criteria.
+Importantly, Australia needed to show that there were no less restrictive measures that could be
+taken to safeguard public health—such as quarantine. In our view, Australia’s travel caps constituted
+an arbitrary restriction on Australians’ right to return home.
+
+Restrictions on exit
+
+During this same period, extraordinary border controls meant that most Australian citizens and
+permanent residents were barred from leaving the country. These settings remained in place for two
+years, despite significant public health developments over this period. They separated people from
+family and friends abroad; curtailed opportunities for work, education and travel overseas; and
+created ongoing uncertainty and anxiety about the future. While international law permits limitations
+on the right to leave a country ‘to protect national security, public order (ordre public), public health
+or morals or the rights and freedoms of others’,5 the limitations imposed must be necessary,
+proportionate, the least intrusive measure to achieve the desired result6 and ‘consistent with’ other
+human rights,7 including the right to be free from discrimination, the right to life, the right to family
+
+
+1 Jane McAdam and Ben Saul, ‘Under Human Rights Law, Australian Runs Out of Excuses for Leaving Citizens
+Stranded Overseas’, Sydney Morning Herald (10 December 2020) https://www.smh.com.au/national/under-human-
+rights-law-australia-runs-out-of-excuses-for-leaving-citizens-stranded-overseas-20201210-p56mc6.html.
+2 Stig Jagerskold, ‘The Freedom of Movement’ in Louis Henkin (ed), The International Bill of Rights: The Covenant on
+Civil and Political Rights (Columbia University Press, 1981) 182,
+3 See discussion in Regina Jefferies, Jane McAdam and Sangeetha Pillai, ‘Can We Still Call Australia Home? The Right
+to Return and the Legality of Australia’s COVID-19 Travel Restrictions’ (2021) 27 Australian Journal of Human Rights
+221.
+4 UN Human Rights Committee, General Comment No 27 (67): Freedom of Movement (Article 12), UN Doc
+CCPR/C/21/Rev.1/Add.9 (18 October 1999), para 21.
+5 ICCPR, art 12(3).
+6 Human Rights Committee (n 4) para 18.
+7 ICCPR, art 12(3).
+                                                                                                                       2
+reunification, the right to be free from cruel, inhuman or degrading treatment, and the right to health.
+Furthermore, the assessment of necessity should not be static but re-evaluated over time as
+circumstances change.
+
+Our analysis of recently released data regarding outbound travel exemptions reveals that, contrary
+to these requirements, the form and operation of the outbound travel restrictions bypassed analysis
+of the intrusiveness and proportionality of the measures themselves, instead shifting the burden to
+individuals to request an exemption on the basis that preventing their departure was overly intrusive
+or disproportionate in their particular circumstances. The data on discretionary exemption decision­
+making further cast doubt on whether the restrictions were implemented consistently with other
+human rights. Additionally, the measures were not adjusted as circumstances changed, even as
+vaccinations became widespread and other measures for controlling the spread of the virus became
+available.
+
+The Australian Border Force bore responsibility for administering discretionary exemption requests.
+It was also responsible for evaluating whether travellers met an automatic exemption category,
+although airlines were also tasked with determining whether such an exemption applied. The role of
+airlines here stretched beyond typical administrative checks and appears to have constituted a form
+of administrative decision-making. While the automatic and discretionary exemption categories
+changed over time, they were not clearly delineated and decision-making was characterized by a
+high-degree of discretion without meaningful access to administrative or judicial review. There were
+stark differences in approval rates between different categories and countries which raise serious
+questions of discrimination. For instance, ‘more than two-thirds of exemption requests for travel to
+the United Kingdom were approved during the period from 1 August 2020 through 25 April 2021,
+compared to just 46% for India and 59% for China’, during a period in which the UK was experiencing
+a significant outbreak of COVID-19.8
+
+The International Health Regulations direct that any measures to protect public health ‘shall not be
+more restrictive of international traffic and not more invasive or intrusive to persons than reasonably
+available alternatives that would achieve the appropriate level of health protection’ (art 2) and must
+be implemented with ‘full respect for the dignity, human rights and fundamental freedoms of persons’
+(art 3) and ‘applied in a transparent and non-discriminatory manner’ (art 42). Australia’s outbound
+travel restrictions do not appear to have met these criteria, given that quarantine and other health
+responses were already in place and additional protective measures became available over time.
+Numerous aspects of decision-making as to whether exemptions applied in individual cases were
+characterized by arbitrariness, including the involvement of airlines in deciding whether an automatic
+exemption was met, as well as inconsistent decisions, the absence of precise criteria, no detailed
+written reasons for refusal, a lack of review of negative determinations.
+
+Conclusion
+
+It is highly questionable whether Australia’s wide-ranging and blunt restrictions were necessary,
+reasonable or proportionate as time passed. The shifting balance of rights and restrictions should
+have been constantly re-evaluated - and justified - in light of changing circumstances. Furthermore,
+the failure to consider non-COVID-19 health and human rights impacts when evaluating these factors
+rendered the analysis incomplete. Finally, multijurisdictional fragmentation, inconsistency and a lack
+of interoperability between Commonwealth, state and territory systems were significant attendant
+problems. Had such systems been in place, some of the more extreme limitations on people’s
+movement may have been avoided.
+
+Please do not hesitate to contact us if we can be of further assistance.
+
+Yours sincerely,
+
+Professor Jane McAdam AO and Dr Regina Jefferies
+
+
+
+8 Regina Jefferies and Jane McAdam, ‘Locked In: Australia’s COVID-19 Border Closures and the Right to Leave’ (2023)
+41 Australian Year Book of International Law 185, 228.
+                                                                                                                      3
+

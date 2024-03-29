@@ -1,0 +1,1530 @@
+qnmu  I Queensland Nurses &
+        Midwives' Union
+
+
+
+
+                                      Submission to
+   Department of the Prime Minister and Cabinet
+
+
+
+
+              Commonwealth Government COVID-19
+                                Response Inquiry
+
+
+
+
+                                             December 2023
+
+
+
+
+El 106 Victoria St, West End Q 4101
+fSl GPO Box 1289, Brisbane Q 4001
+@ (07) 3840 1444
+® (07) 3844 9387
+m qnmu@qnmu.org.au
+Q www.qnmu.org.au
+Table of contents
+Introduction..........................................................................................................................................4
+Governance including the role of the Commonwealth Government, responsibilities of state
+and territory governments, national governance mechanisms (such as National Cabinet, the
+National Coordination Mechanism and the Australian Health Protection Principal
+Committee) and advisory bodies supporting responses to COVID-19..........................................7
+Key health response measures (for example across COVID-19 vaccinations and treatments,
+key medical supplies such as personal protective equipment, quarantine facilities, and public
+health messaging)................................................................................................................................. 8
+    Overview of the healthcare system............................................................................................. 9
+    Public health and preparedness.................................................................................................. 10
+    Public health messaging............................................................................................................... 10
+    Centre for Disease Control (CDC)................................................................................................ 11
+    Nurse-led models of care............................................................................................................. 11
+    Midwifery services and models of care..................................................................................... 12
+    Aged care........................................................................................................................................ 13
+    Elective surgery and screenings.................................................................................................. 14
+    Telehealth services........................................................................................................................ 14
+    Vaccine rollout.............................................................................................................................. 15
+    Rapid antigen tests (RATs)........................................................................................................... 16
+    Contact tracing technology..........................................................................................................16
+    Personal protection equipment (PPE) access and supply....................................................... 16
+    Guidelines on PPE usage.............................................................................................................. 18
+    PPE training and fit testing........................................................................................................... 19
+    Quarantine..................................................................................................................................... 19
+Broader health supports for people impacted by COVID-19 and/or lockdowns (for example
+mental health and suicide prevention supports, and access to screening and other
+preventive health measures)............................................................................................................ 19
+    Mental health and suicide prevention supports..................................................................... 20
+    Long COVID..................................................................................................................................... 21
+International policies to support Australians at home and abroad (including with regard to
+international border closures, and securing vaccine supply deals with international partners
+for domestic use in Australia)........................................................................................................... 22
+Support for industry and businesses (for example responding to supply chain and transport
+issues, addressing labour shortages, and support for specific industries)................................. 22
+    Role of unions................................................................................................................................ 22
+    Pink collar industries.................................................................................................................... 24
+    Supply chain issues........................................................................................................................ 24
+
+
+                                                                          2
+Financial support for individuals (including income support payments)................................... 25
+Community supports (across early childhood education and care, higher education, housing
+and homelessness measures, family and domestic violence measures in areas of
+Commonwealth Government responsibility)................................................................................. 26
+Mechanisms to better target future responses to the needs of particular populations
+(including across genders, age groups, socio-economic status, geographic location, people
+with disability, First Nations peoples and communities and people from culturally and
+linguistically diverse communities).................................................................................................. T1
+    First Nations peoples needs during the pandemic.................................................................. T1
+    Culturally and linguistically diverse communities needs during the pandemic.................. T1
+    The needs of people with a disability during the pandemic.................................................. 28
+    Gendered impacts......................................................................................................................... 28
+References.......................................................................................................................................... 29
+
+
+
+
+                                                                          3
+Introduction
+The Queensland Nurses and Midwives' Union (QNMU) thanks the Department of the Prime
+Minister and Cabinet (the Department) for the opportunity to provide feedback on the
+Commonwealth Government's COVID-19 Response Inquiry (the Inquiry).
+
+
+Nursing and midwifery is the largest occupational group in Queensland Health and one of the
+largest across the Queensland government. The QNMU is the principal health union in
+Queensland covering all classifications of workers that make up the nursing and midwifery
+workforce including registered nurses (RN), registered midwives, enrolled nurses (EN) and
+assistants in nursing (AIN) and students who are employed in the public, private and not-for-
+profit health sectors including aged care.
+
+
+Our more than 71,000 members work across a variety of settings from single person
+operations to large health and non-health institutions, and in a full range of classifications
+from entry level trainees to senior management. The vast majority of nurses and midwives
+in Queensland are members of the QNMU. As the Queensland state branch of the Australian
+Nursing and Midwifery Federation (ANMF), the QNMU is the peak professional body for
+nurses and midwives in Queensland.
+
+
+Through our submissions and other initiatives, the QNMU expresses our commitment to
+working in partnership with Aboriginal and Torres Strait Islander peoples to achieve health
+equity and ensure the voices of Aboriginal and Torres Strait Islander nurses and midwives are
+heard. The QNMU supports the Uluru Statement from the Heart and the call for a First
+Nations Voice enshrined in our Constitution. The QNMU acknowledges the lands on which
+we work and meet always was, and always will be, Aboriginal and Torres Strait Islander land.
+
+
+The QNMU supports the Inquiry's lessons learned approach in examining Australia's response
+to the pandemic, and the pervasive impact of COVID-19. We recognise that some issues
+identified through the Inquiry, such as the functioning of the healthcare system and aged
+care sector, are not new and must not be identified as though they are new problems rather
+than recurrent and predictable ones (Smith & Upshur, 2020). It is important to note that the
+COVID-19 outbreak highlighted fragilities of existing systems, made visible issues that were
+already established and has provided the impetus for change that may otherwise not have
+occurred.
+
+
+This Inquiry provides the opportunity to consider the lessons learned from the pandemic and
+then take the next big step - how to effectively implement the lessons, for the present and
+the future.
+
+
+The impact of the COVID-19 pandemic on the nursing and midwifery workforce has been
+unprecedented and will be felt for many years to come. The QNMU takes the opportunity to
+
+
+                                              4
+acknowledge our colleagues working in other countries around the world - nurses and
+midwives who have experienced greater infection and death rates due to COVID-19.
+
+
+The QNMU will respond to each of the terms of reference and have taken the perspective of
+our membership which are the nurses, midwives, and assistants in nursing or personal carers
+(however titled) of Queensland.
+
+
+We acknowledge that in looking for opportunities to be more effective and increase the
+nations' preparedness in the event of future pandemics, the health sector is but one
+component, although an extremely important part, which is a significant focus for this
+submission.
+
+
+Recommendations
+
+
+ The QNMU recommends the Commonwealth government make recommendations to
+ improve response measures in the event of future pandemics in these areas:
+ Governance
+    •         A review of the impact on human rights.
+
+ Healthcare system and workforce capacity
+    •   Consider alternative funding models to activity-based funding that focus on greater
+        access, responsiveness to individual needs, and ensure best-practice service
+        provision.
+    •   Ensure adequate funding of the health system and health infrastructures to meet
+        growing demands.
+    •   Reduce the burden on hospital-based services, including emergency departments,
+        by increasing infrastructure and resources.
+    •   Support nurses and midwives to lead and incorporate the use of digital health
+        technologies to assist (but not substitute) in the delivery of quality patient care.
+    •   Build and sustain an adequately skilled and qualified health workforce that has the
+        capacity to respond to future pandemics and emergencies.
+    •   Support workforce development that encourages retention and allows for
+        scalability of nursing and midwifery-led models of care.
+    •   Explore and utilise nurse-led models of care including the Nurse Practitioner (NP)
+        role in providing primary, acute, and aged care.
+    •         Explore, utilise, and invest in midwifery-led models of care.
+    •   Develop a national workforce plan for health and aged care that addresses short,
+        medium, and long-term needs and forecasted demands.
+    •   Commit to minimum nurse-to-patient ratios and skill mix in the private and private
+        aged care sectors.
+
+
+
+                                               5
+   •   Develop more robust aged care regulations and standards of care that can be
+       monitored and regularly evaluated.
+   •       Address increasing demands for elective surgery and screening.
+   •   Maintain the health practitioner sub-register to maximise the capabilities of the
+       healthcare workforce to respond to future emergencies.
+
+
+Vaccine development and procurement strategy
+   •   Invest in Australia's biotechnology infrastructure to build our onshore capacity to
+       develop and produce vaccines.
+
+Rapid antigen tests (RATs)
+   •   Investigate     public health   measures, such as     RATs and their accessibility,
+       affordability, and availability for all.
+
+Contact tracing technology and national quarantine principles
+   •       Evaluate the effectiveness and approach to contact tracing technologies.
+   •   Develop a quarantine plan that is regularly updated, tested, validated and evidence
+       based.
+   •   Develop a strategy and resources to assist and support Australians overseas during
+       a future pandemic and their ability to return home.
+
+
+PPE supply chain reform
+   •   Develop and maintain industry support mechanisms to build the capacity of local
+       supply chains to manufacture medicines and personal protective equipment (PPE).
+   •       Coordinate a consistent and contemporary approach to the use and fit of PPE.
+
+
+Mental health
+   •   Urgently invest in the provision of existing mental health services and expand
+       community-focused mental health services.
+   •   Evaluate federally funded mental health clinics like those funded during Victoria's
+       second lockdown to determine effectiveness for future pandemics.
+
+
+Long COVID
+   •       Coordinate a national plan to address long COVID as a critical priority.
+   •   Utilise the establishment of an Australian Centre for Disease Control (CDC) to report
+       on and learn about the signs and symptoms of long COVID and short-and long-term
+       effects of long COVID.
+
+Industrial relations
+   •       Legislate paid pandemic leave entitlements for all workers.
+   •       Improve secure working arrangements for all workers.
+
+
+
+
+                                                  6
+    •   Review the impact that increasing reliance on casualisation of the workforce has
+        had on our financial and economic response to COVID-19.
+
+ Impact on specific population groups
+    •        Continue to work to advance gender equality.
+    •        Prevention and responses to domestic violence.
+    •   Recognise that Aboriginal and Torres Strait Islander communities are diverse, and a
+        one-size-fits-all approach is likely to place constraints on responses to a pandemic.
+    •   Ensure that any approach to future pandemics allow for First Nations and culturally
+        and linguistically diverse communities (CALD) communities to self-determine their
+        needs and approaches.
+    •        Develop a specific initiative for future pandemics for people with a disability.
+
+
+
+
+Governance including the role of the Commonwealth Government, responsibilities of state
+and territory governments, national governance mechanisms (such as National Cabinet, the
+National Coordination Mechanism and the Australian Health                Protection Principal
+Committee) and advisory bodies supporting responses to COVID-19.
+As Australians faced the initial stages of COVID-19 in early 2020, the then Prime Minister,
+Scott Morrison, announced the formation of the National Cabinet, replacing the Council of
+Australian Governments (COAG). National Cabinet was created to enable a quick and
+consistent national approach in responding to the outbreak of COVID-19 (Australian
+Government, 2020). While decisions were to be made collectively by National Cabinet, in
+truth, agreement was not always reached, and this failed decision-making capacity did not
+create a cohesive and consistent approach. While it allowed each state and territory to
+address local concerns and manage and respond to local conditions while under the oversight
+of National Cabinet, states and territories did not always align in their approach, creating a
+disparate and separate national management strategy for COVID-19. As the Senate Select
+Committee on COVID-19 (the Committee) aptly stated "the Australian Government's failure
+to lead through the National Cabinet meant local responses were often inconsistent and failed
+to complement one another" (Commonwealth of Australia, 2022, p. 73).
+
+
+The QNMU strongly supports that in the event of a future pandemic, National Cabinet must
+operate within clear rules. Responsibilities and management that fall within the remit of
+states and territories must be made clearer, to avoid confusion and mixed messaging.
+
+
+The QNMU considers the Commonwealth Government's decision-making processes,
+particularly at the start of the pandemic and around the vaccine rollout were not always clear
+or transparent. At times it felt very much as though decisions were made on the run without
+processes in place to support the actions. Decision making must be evidence-based, consider
+social determinants of health and be culturally safe. As part of this Inquiry, we see the need
+
+
+                                              7
+to re-assess the best methods to communicate to the population that create trust and
+cooperation in the message.
+
+
+Additionally, the balance between public health advice, protecting the health of citizens,
+reducing the burden on healthcare systems and staff with that of civil liberties must be
+investigated and considered. Extraordinary measures implemented during the pandemic
+must be examined through a human rights lens as many Australians were forced to live with
+some of the harshest and restrictive measures in the world. These restrictions included
+lockdowns, international and interstate border closures, curfews, quarantine, vaccine
+mandates and proof of vaccination status. For many, these measures limited their human
+rights.
+
+
+The Commonwealth Government's initial Health Sector Emergency Response for COVID-19
+Plan did not overtly embed human rights and referred only to 'individual liberty' as a value
+suggested to be considered when planning and implementing actions under the Plan
+(Commonwealth of Australia as represented by the Department of Health, 2020, p. 9). This
+shortfall sees COVID-19 response measures not considered against a human rights approach.
+This coincided with National Cabinet making decisions, not in parliament, which saw the
+responsibility of implementing those decisions split between federal, state and territory
+governments, thereby diluting responsibility, accountability and transparency (Australian
+Human Rights Commission, n.d.). Equally, it complicated the ability to ensure proper human
+rights scrutiny of these decisions.
+
+
+The QNMU supports a review of the impact on human rights during the pandemic and that
+future emergency planning incorporates human rights so that the national imperative to act
+decisively and comprehensively is balanced with the human rights of citizens at the individual
+and group levels.
+
+
+
+Key health response measures (for example across COVID-19 vaccinations and treatments,
+key medical supplies such as personal protective equipment, quarantine facilities, and
+public health messaging).
+In responding to this term of reference, the QNMU will provide an overview of the healthcare
+system and discuss public health and preparedness, public health messaging, the Centre for
+Disease Control (CDC), the aged care sector, nurse-led models of care, midwifery services and
+models of care, elective surgery and screenings, telehealth services, vaccine rollout, rapid
+antigen tests (RATs), contact tracing technology, PPE access and supply, guidelines on PPE
+usage, PPE training and fit testing, quarantine, mental health and suicide prevention supports,
+and long COVID.
+
+
+
+
+                                              8
+Overview of the healthcare system
+The COVID-19 pandemic placed a substantial stress on Australia's healthcare system, which
+has resulted in increased health spending particularly in public health and public hospitals
+(Australian Institute of Health and Welfare [AIWH], 2023b). At the start of the outbreak in
+2020, the initial burden in Australia was modest, ranking 135th in the leading cause of burden.
+However, by 2022 COVID-19 became the Sth leading cause of fatal burden (contributing to
+4.1% of total burden) and 21st leading cause of non-fatal burden (contributing 1.4% of total
+burden) (AIHW, 2023b). While COVID-19 had a major impact on the healthcare system and
+health system spending in Australia, there has been less morbidity and mortality than many
+other countries.
+
+
+The national response to the COVID-19 pandemic necessitated the introduction of several
+measures to manage the increase in healthcare provision and highlighted the ongoing need
+for proactive healthcare investment by the government. The QNMU believes that one of the
+lessons to emerge from the Commonwealth government's response to the COVID-19
+pandemic is that the funding of the healthcare system, and the way such funding models
+shape healthcare priorities, requires significant change. The retrospective approach of
+activity-based funding for hospitals is incompatible with modern demands for a proactive
+approach to national health and wellbeing. While activity-based funding encourages hospitals
+to operate more efficiently, it does not consider whether the service provided is the most
+effective way to deliver care (KPMG, 2019). Consideration should be given to different funding
+approaches that may be more appropriate to ensure greater access, responsiveness to
+individual needs, and ensuring best-practice service provision. Imbuing an efficiency-at-all-
+cost mentality for health services challenges the capacity to plan for contingencies, such as a
+pandemic.
+
+
+Another key response to COVID-19 was the cooperation between private and public hospitals.
+They worked together to develop and implement strategies to address the expected demand
+for services and resources, sharing equipment, and freeing up resources to be able to deal
+with the expected surge in demand due to the COVID-19 pandemic (Nayna Schwerdtle et al.,
+2020). We acknowledge however that significant aspects of these contracts were not invoked
+due to the successful flattening of the COVID-19 curve and containment of demand on the
+public health system. The ability of the greater healthcare system to adapt and act together
+points to opportunities for redefining many aspects of healthcare delivery for the future.
+
+
+The pandemic has also shown the accessibility of healthcare services and the need for further
+reform. Access to affordable and timely care must be a guiding principle for future pandemic
+preparedness. The QNMU continues to advocate for the reduction of burden on hospital­
+based services and continue to support greater infrastructure and resources available in the
+community. This must be a continued long-term commitment that extends beyond COVID-19
+to bolster health services against future crises.
+
+
+                                                9
+The capacity and capability of the healthcare workforce to respond to a pandemic is critical.
+Professional boundaries and scope of practice for all health practitioners, but particularly
+nurses and midwives, must be reviewed as part of standard practices and preparedness plans.
+We see the work being undertaken by the Commonwealth Government's inquiry into
+Developing the national nursing workforce strategy as critical to inform nursing policy and
+workforce planning in the short, medium, and long-term future.
+
+
+What remains clear is that the government must not return to the status quo but continue to
+support innovations in healthcare delivery. We have seen from the pandemic that the
+provision of healthcare can be flexible and agile, and this must be developed into the
+healthcare system.
+
+
+Public health and preparedness
+If anything can be learnt from the COVID-19 pandemic it is that with any pursuit of efficiencies
+in our public health system there must be built-in, sufficient excess capacity to cope with any
+surges in demand and the capability to cope with crises. Just as "just in time" supply chains
+were shown to be exceptionally vulnerable to a disruption like a pandemic, similar "false
+economy" approaches to workforce management, where there is little capacity to respond to
+unexpected demand situations, must be avoided particularly in critical sectors of society.
+
+
+In planning the recovery phase post COVID-19, governments must view the funding of public
+services such as health and education as vital investments and not an expenditure
+(Productivity Commission, 2017). Proper funding of universal health services underpins a
+vibrant and productive economy and is essential to ensuring social cohesion and fairness.
+
+
+Public health messaging
+The pandemic saw government and public health officials trying to understand, convey and
+adjust to the immediate threat of COVID-19 and the evolving evidence and research.
+Coordinating and communicating a clear and consistent message during this crisis was not
+always successful with states and territories often using different sources thereby providing
+differences health advice. As part of this inquiry, the QNMU suggests government look to
+develop a coordinated national communication strategy for future crises that would function
+as a national information source and provide clear and logical explanations for differences in
+actions (Johnston & PHAA, 2020). This could sit within the remit of the Centre for Disease
+Control (CDC) when established. We also take the opportunity to call out misinformation
+particularly seen on social media that circulated without scrutiny or repercussions (Park et al.,
+2020). We believe a regulatory approach is needed to prevent disinformation.
+
+
+Additionally, the Commonwealth government's public health messaging with multicultural
+communities needs investigating. In August 2020 it was revealed nonsensical language
+translations of COVID-19 public health messages had been distributed to multicultural
+
+                                               10
+communities (Dalzell, 2020). This prompted fears that migrants and refugees had been
+receiving incorrect information. While it could be argued that this mistake was due to trying
+to deliver quick communication to communities it, however, also points to an ad-hoc
+approach to a public health issue that must be addressed for future public health
+emergencies.
+
+
+Centre for Disease Control (CDC)
+The QNMU takes the opportunity to support the Australian Government in establishing an
+Australian CDC. The CDC as a designated public agency and independent statutory authority,
+will be a single source of truth, providing advice and education on public health matters. We
+believe it will have an important role to play in future public health emergencies, particularly
+in pandemic preparedness and response. The CDC will also be vital in the recovery from
+COVID-19, particularly the impact of long COVID on individuals and the healthcare system.
+
+
+We believe there is an opportunity to look overseas and learn from other CDCs and how they
+managed the pandemic. For instance, the United States (US) Centre for Disease Control and
+Prevention (CDC) has faced criticism in its response to the pandemic, in particular releasing a
+flawed test that delayed accurate reporting of cases, confusing messaging about social
+distancing, mask wearing and vaccinations, compounded with the political interference from
+the Trump Administration (Tanne, 2022). It has been suggested that the US's CDC should be
+afforded more autonomy and authority and have the flexibility to adapt to unfolding
+situations. The QNMU suggests these issues be considered when forming Australia's CDC to
+ensure effectiveness in dealing with all future public health concerns.
+
+
+Nurse-led models of care
+The pandemic has highlighted the value of nurses and demonstrated their leadership,
+knowledge, expertise, experience, and agility in responding to COVID-19 and their important
+role in delivering innovative models of care. Nurses are critical in meeting the increasing
+demands of the healthcare system and bridging health inequity gaps. It is imperative that
+employers of nurses and midwives actively engage with their workforce to gain feedback
+about their concerns and issues during extreme events, such as a pandemic, and work to
+support and maintain their health and safety as a priority.
+
+
+The continuing failure of the healthcare system to utilise nurses and midwives to their full
+scope of practice is limiting consumer access to evidence-based, cost-efficient nurse and
+midwife-led models of care. Adopting nurse-led models of care, utilising nurse navigators and
+NPs, assists patients to navigate the healthcare system and improve coordination and
+integration between health services. Nurse-led models of care ensure a more accessible,
+productive, and safer health and aged care systems.
+
+
+
+
+                                              11
+As a result of the pandemic, many innovative models of care have been expanded and
+developed to meet health service demands, respond to changes in work practices and
+community social distancing directives. These included:
+   •   Virtual care which improves access and convenience for patients. E.g., virtual
+       emergency departments and virtual diabetes clinics.
+   •   Hospital in the Home (HITH) - a hospital avoidance strategy implemented to treat and
+       monitor patients in the home.
+   •   Triaging models and assessment tools such as in-car triage/fever clinics and open-air
+       consultations.
+   •      Telehealth.
+   •      13Health - health advice provided by RNs over the phone.
+   •      Vaccination pop-up clinics.
+
+
+NPs have also played a key role in Australia's healthcare system, pre COVID19 and during the
+pandemic. NPs have demonstrated improvements in access to care for marginalised,
+disadvantaged, isolated and underserved populations, whilst reducing costs and decreasing
+the duplication of work and documentation (Queensland Health, 2020). A key advantage of
+the NP role has been to bridge the gaps in access to care for diverse healthcare areas such as
+palliative care, cardiac care, mental health, pain management, alcohol and other drug services
+and renal replacement therapy (KPMG, 2018). During the pandemic, NP-led models of care
+have been utilised to provide after-hours emergency care in rural urgent care centres to
+reduce the burden of excessive after-hours on call duties for rural GPs, while improving access
+to quality care (Wilson et al., 2021).
+
+
+Midwifery services and models of care
+Restrictions applied to women's choices of maternity care during the pandemic impacted the
+approach midwives undertook in providing woman-centred care. The pandemic fostered new
+ways of working for midwives, including hybrid and mixed modes of care delivery and
+partnerships, such as the use of telehealth in combination with face-to-face models of care
+(Queensland Health, 2022). Research shows that midwives are hopeful that the "rapid change
+seen in health services during the pandemic was a positive signal that change was possible
+into the future" and that practices could change when and if required (Bradfield et al., 2022).
+
+
+In preparing for future pandemics there must be a balance between responding to a
+pandemic and the needs of the community. This is especially important in supporting normal,
+healthy life events such as childbirth. The Commonwealth government has pledged support
+for continuity of care models in maternity services and the expert role of midwives as being
+best placed clinicians for normal pregnancies and delivery. Implementation of such policies
+must be maintained, even during a national emergency. Further, access to services such as
+birth centres is crucial to maintain during a national emergency.
+
+
+
+                                              12
+The QNMU continues to advocate for the increase of midwifery-led care. Research
+demonstrates midwifery continuity of care models provide optimal outcomes for women and
+their babies. The Lancet Framework for Maternal and Newborn care indicates that midwifery-
+led primary health care leads to improved mortality and morbidity across the life course
+(Wilson et al., 2020). The QNMU recommends that the Commonwealth government ensure
+quality nursing and midwifery led services are embedded into the design of healthcare service
+delivery and future emergency preparedness planning.
+
+
+Aged care
+The Commonwealth Government's handling of COVID-19 in the aged care sector was a failure.
+The COVID-19 crisis resulted in hundreds of preventable deaths as the Commonwealth
+Government failed to develop a COVID-19 plan for aged care and responded too slowly to the
+crisis. The consequences of this saw a sectoralready under strain and unable to keep residents
+and staff safe, struggle to manage the pandemic. Inadequate staffing levels and surge staff, a
+lack of access to PPE and a lack of infection control training, predated the pandemic. The long­
+term deskilling and understaffing of the aged care workforce, along with an increase in
+complexity and acuity of those receiving aged care have left the sector vulnerable to the
+impacts of the     pandemic.    Instead of taking responsibility for their mistakes, the
+Commonwealth Government continually blamed states and territories for the tragedy
+(Commonwealth of Australia, 2022).
+
+
+There are many important factors in reforming the aged care system to meet the care needs
+of Australians, and adequately prepare for future pandemics. As a minimum, aged care staff
+must be trained in infection control and prevention, and in the use of PPE. Further, there must
+always be a sufficient and local supply of PPE for aged care facilities. Future-proofing the
+safety of those who work and live in aged care facilities, starts with infection control and PPE.
+
+
+The QNMU considers that effective workforce planning in aged care is required and must be
+underpinned by legislation and a regulatory framework to identify and enforce minimum
+standards and governance (Aitken et al., 2021), given the failure of the sector to manage
+workforce issues from a self-regulatory perspective. Building on the recommendations of the
+Royal Commission, the QNMU continues to advocate for increased regulatory oversight,
+reporting requirements, developing a Workforce Standard, and funding that reflects the
+actual cost of care, of which workforce constitutes the largest single cost.
+
+
+We support the introduction of mandated RN 24/7 and overall minutes of care requirements
+in aged care facilities as a recent reform measure, however, the QNMU raises concerns that
+providers are focusing on meeting the RN related mandates at the expense of EN positions
+and undervaluing the critical role that ENs provide. A potential outcome is an increase in the
+number of RNs but an overall decrease in the nursing workforce. Any such outcome would be
+significantly at odds with the intentions of the Royal Commission and undermine the
+
+
+                                               13
+objectives of the aged care reform process to improve the skill and staff-mix in the aged care
+sector.
+
+
+A valued, adequately staffed, skilled and supported aged care workforce is critical to meeting
+the care needs of Australians and the success of any future pandemic response.
+
+
+Engaging digital health technologies
+Nurses and midwives are well placed to lead in the application of digital health technologies,
+like Artificial Intelligence (Al), to support the delivery of safe, quality care. As the largest
+professional cohort of registered health practitioners in Australia, nurses and midwives play
+a vital role in digital health and becoming digitally competent is now a fundamental element
+of nursing and midwifery practice. If developed in a meaningful, considered, and collaborative
+way, that supports and does not substitute the critical role of human-to-human care, digital
+technologies may help nurses and midwives to deliver patient care and improve health
+outcomes for Australians.
+
+
+Elective surgery and screenings
+In the early stages of the pandemic, the National Cabinet temporarily suspended all non­
+urgent elective surgery in both public and private hospitals to ensure the healthcare system
+could cope with an influx of potential patients and to preserve stocks of PPE. This meant that
+across Australia in 2019-20, the number of admissions from waiting lists was 9.2% lower than
+in 2018-19 (AIHW, 2020a). This was devastating for many patients who were waiting for
+elective surgery.
+
+
+Delays in screening and diagnostic tests were also seen during the pandemic including a
+significant decline in mammograms and bowel and cervical screening; the potential
+consequences of which are still to be determined (AIHW, 2022). Worrying trends are already
+showing that missed or delayed screening has led to patients receiving treatment at more
+advanced stages of disease (Westfund Health Insurance, 2023).
+
+
+The QNMU supports a national plan that addresses the current elective surgery waiting list
+and screening services and addresses how these healthcare services will respond to
+emergency situations like a pandemic in the future.
+
+
+Telehealth services
+The acceleration in the use (and subsequent) funding, of telehealth services through the
+pandemic increased access to healthcare and enabled patients to consult with health
+practitioners over the phone or via videoconference rather than face-to-face. Telehealth
+allowed Australians to access health services in their home while undergoing self-isolation or
+quarantine and were vital in reducing the risk of exposure to COVID-19 not only for the
+community but also to healthcare providers, including NPs, practice nurses and midwives. The
+
+                                              14
+continuing of the Medicare Benefits Scheme (MBS) telehealth services for NPs and midwives
+that were introduced on a temporary basis during the pandemic, have thankfully been made
+permanent. This provides patients greater flexibility in access to healthcare and a future-proof
+pandemic-proof health service delivery.
+
+
+Vaccine rollout
+The Commonwealth Government's handling of the vaccine rollout was considered by many
+as a "phenomenal failure" (Macmillan, 2021). The vaccine procurement strategy used by the
+Morrison Government took a different path to most other countries by deciding not to spread
+their investment and plans across multiple technologies and multiple countries, choosing to
+primarily invest in a small number of vaccines (Duckett, 2022). This decision in limiting where
+Australia would purchase these vaccines, saw the government scrambling to purchase other
+vaccines when the vaccines they had invested in failed. This led to the government rolling out
+the vaccination program in February 2021, months later than other countries (Duckett, 2022).
+Morrison's spin in stating the vaccination rollout was 'not a race' did little to instil confidence
+in the government's handling of an essential part in combatting the virus.
+
+
+The national strategy for the vaccine rollout focused on protecting the most vulnerable
+Australians first, with the aim of vaccinating 4 million Australians by the end of March 2021
+and all willing adults by the end of October 2021. However, it quickly became evident that the
+goals the government had set itself were not being reached. Timeframes became ambiguous
+with the Prime Minister avoiding setting a timeframe after initial goals were not met.
+
+
+The introduction of vaccine mandates and mandating proof of vaccination status also added
+complexity to the delivery of vaccines. For some, these mandates raised human rights
+concerns and legal issues which the QNMU will not discuss in this submission. We believe the
+Commonwealth Government has an opportunity to improve future vaccination rollouts by
+revisiting the planning of the vaccination rollout, particularly in the early stages.
+
+
+The QNMU also notes, that in the lead up to the vaccine rollout and continuing after the
+vaccine rollout, there had been anti-vaccination messaging and disinformation distributed
+through media and social media. There have also been anti-vaccination protests around the
+world, including in Australia. The concerns are varied with some believing that vaccines are
+unsafe and a bigger risk than getting the virus and others believing in conspiracy theories that
+the vaccines will kill millions. This disinformation mixed with a slow vaccine rollout fuelled the
+uncertainty about the safety of vaccines which is still apparent in 2023.
+
+
+The impact of global supply constraints on Australia's vaccine rollout has highlighted the
+importance of building Australia's capacity to locally develop and produce vaccines. Onshore
+manufacturing capacity is a crucial health security investment for future pandemics and
+health emergencies. This requires significant investment in Australia's biotechnology
+
+
+                                                15
+infrastructure to support vaccine development, manufacturing and proactively address future
+biosecurity threats as they arise.
+
+
+Rapid antigen tests (RATs)
+The Commonwealth Government's decision to decline to make RATs free goes against public
+health policy. The Commonwealth Government eventually bowed to public pressure and
+allowed concession card holders to have access to free RATs. It also forced state governments
+in New South Wales and Victoria to go against the Commonwealth Government and provide
+free RATs to all. By not providing free RATs, the Commonwealth Government failed to make
+this important method of controlling the virus equitable and accessible. The QNMU sees this
+as one area of the government's handling of COVID-19 that must be improved for future
+pandemics.
+
+
+Contact tracing technology
+Australia's voluntary COVID-19 contact tracing phone app, COVIDSafe, was released in early
+2020 and terminated in August 2022. One of the goals of the app was to automate the manual
+work of contact tracers, however the app complicated the work of contact tracers who were
+quickly overwhelmed by the data volume (RMIT University, 2022). The costly1 app failed, with
+only 17 close contacts identified that hadn't already been identified through manual contract
+tracing (Department of Health and Aged Care, 2022).
+
+
+For future pandemics, a shift in focus for the Commonwealth Government that views the
+development of contact tracing apps as a 'digital also' instead of a 'digital first' approach could
+be used (RMIT University, 2022). An emphasis on understanding the needs and existing
+manual processes can sit alongside ensuring privacy and security measures, Bluetooth
+connectivity and accessibility and usability of any app developed for future public health
+responses.
+
+
+Personal protection equipment (PPE) access and supply
+Concerns regarding limited access to PPE dominated the media throughout the pandemic.
+The global surge in demand coupled with vulnerabilities in manufacturing supply chains
+highlighted how insecure the supply of PPE is. This under-preparedness in access to PPE
+caused anxiety and stress for many, including QNMU members and highlights the need for
+nurses and midwives and other health practitioners to work with government and health
+services to ensure future stores of PPE are retained and fit for purpose for future emergency
+events (Nayna Schwerdtle et al., 2020).
+
+
+The QNMU's data collected during the beginning months of the pandemic illustrates these
+concerns seeing an increased volume of calls from members in 2020 (1 February to 30 April)
+
+
+1 The COVIDSafe app cost $21 million (Department of Health and Aged Care, 2022).
+
+                                                    16
+with concerns around PPE supply (225 calls over 4 months) as shown in Figure 1.
+
+
+                    Three most common call topics within category of PPE
+                                                                           275
+
+                                                                           250
+
+              -----General PPE concerns
+                                                                           225
+
+              — ■ PPE Supply concerns                                      200
+
+
+                                                                           175
+              ------ Employer advised member not to use PPE
+                                                                           150
+                                                                                 o
+
+                                                                           125
+                                                                                 E
+
+                                                                           100
+
+                                                                           75
+
+                                                                           50
+
+                                                                           25
+
+                                                                           0
+
+
+                                  X
+Figure 1: Phone calls received by QNMU about PPE
+
+
+Our members were also expressing concerns about access to PPE, with some QNMU members
+reporting that PPE was sometimes locked up after hours and they could not access it because
+they did not have a key or did not have the authority to access locked stores.
+
+
+Improving access to PPE and increasing the resilience of the healthcare system through
+supply chain reform, the Commonwealth Government could consider incorporating
+strategies identified by the Grattan Institute (Duckett et al., 2020), including:
+    •         Giving a greater price premium to local supply and manufacture.
+    •     Rewriting supply contracts to increase obligations on supplier to ensure continuity of
+          supply.
+    •     Increasing product standardisation across the health system to allow easier
+          substitution of products and to reduce the cost of inventory.
+    •         Increasing flexibility by spreading the supply chain across more than one supplier.
+    •         Ensuring the national stockpile is reviewed regularly.
+
+
+The QNMU supports these strategies in avoiding reliance on overseas supply chains in future
+crises.
+
+
+The Committee in 2020 identified that the Commonwealth Government failed to act on the
+warnings about the inadequacy of the National medical stockpile (NMS). The inadequate
+number of surgical masks, P2/N95 masks, goggles, gowns, and visors saw Australian health
+departments scrambling to join global bidding for PPE and forking out large outlays of public
+
+
+                                                              17
+funds to secure stock. These shortages in PPE led to many healthcare practitioners rationing,
+purchasing privately, and reusing and extending the use of PPE particularly in primary
+healthcare (Ayton et al., 2022).
+
+
+The concern for the health and safety of health practitioners and their access and use of PPE,
+points not only to access and supply issues but to inconsistent and changing guidelines, lack
+of training, lack of access to fit-testing for P2 and N95 masks, and the initial debate around
+whether COVID-19 can be transmitted via aerosols (Woodley, 2021). While this list is not
+exhaustive, if you start adding these issues together it paints a picture of the PPE access issues
+and the need for improvement in future pandemics. Stockpiles of essential medical
+equipment and medicines must be held for release in a crisis and the details of the stockpiles
+made available to health practitioners who need to know i.e., hospitals in responding to
+future pandemics.
+
+
+Guidelines on PPE usage
+The rapidly unfolding nature of the cause, transmission, and impact of COVID-19 contributed
+to ever-changing guidelines on PPE usage. It coincided with inconsistent dissemination and
+transparency of information and poor access to PPE supply chains. For example, in the early
+stages of the pandemic, Queensland Health guidelines indicated that standard infection
+control practices (surgical masks) were sufficient for healthcare workers during the routine
+treatment of COVID-19 positive patients, with airborne infection control practices (P2/N95
+respirators) reserved for aerosol generating procedures. However, the second wave of the
+pandemic saw changes in guidelines made in areas with outbreaks. Most notably, Victoria
+broadened the setting for the use of P2/N95 respirators during all treatment settings when in
+contact with confirmed or potential positive cases of COVID-19. In Queensland, the outbreak
+cluster in Ipswich prompted West Moreton Hospital and Health Service (HHS) to update their
+guidelines to be more in line with the new Victorian standards. During this time, the QNMU
+also lobbied the Department of Health and Chief Health Officer for the use of P2/N95
+respirators as standard in cases of confirmed or potential COVID-19 positive patients.
+Queensland Health subsequently changed their guidelines to recommend the use of P2/N95
+masks for healthcare workers in contact with confirmed or potential COVID-19 positive cases.
+These state examples provide an important picture of how each state developed their own
+guidelines and highlights the need for a national consistent single source of truth and/or an
+explanation as to why there are different approaches taken.
+
+
+The lack of communication and insufficient PPE supply caused a significant amount of
+uncertainty and fear within our membership, the broader health workforce, and the greater
+population. Federal and state governments engaged inconsistent sources of evidence to
+inform their recommendations about PPE. The QNMU's experience strongly reflected this.
+Between 30/01/2020 to 30/04/2020, 853 members contacted the QNMU specifically about
+COVID-19 and PPE, with 136 calls about an employer incorrectly advising QNMU members
+
+
+                                               18
+not to use PPE. The QNMU emphasises the need for a uniform and coordinated approach to
+PPE recommendations at the federal level.
+
+
+PPE training and fit testing
+Methods and programs for training healthcare staff on correct use of PPE were largely left for
+individual health services and facilities to develop. Fit testing was also an issue, with
+healthcare workers reporting that they had not been fit-tested for N95/P2 prior to use
+(Volker, 2020). Incorrect fit of respirators can render them ineffective in preventing the
+transmission of pathogens. Fit-testing and fit-checking are crucial components of any training
+program in infection prevention and control and must be conducted prior to use to protect
+healthcare workers and their patients. PPE training and fit testing of P2/N95 masks are
+essential for any type of infection control and we see this as one opportunity to strengthen in
+responding to future pandemics.
+
+
+Quarantine
+The constitutional responsibility for controlling Australia's borders sits with the Australian
+Government. However, the Government failed to take responsibility for quarantine during
+the pandemic which was evident at the first National Cabinet meeting where "the Prime
+Minister shocked state and territory leaders by arriving at the meeting without a quarantine
+plan" (Commonwealth of Australia, 2022, p. 37). The states and territories were left to
+develop their own quarantine processes without any preparation or planning. One of the
+recommendations from the Committee inquiry sought the Australian Government to agree
+to "national principles for quarantine, including responsibility for provision of suitable
+facilities and for funding, management and compliance" (Commonwealth of Australia, 2022,
+p. 6).
+
+
+One important lesson      learnt from the poor quarantine arrangements is that the
+Commonwealth Government must develop a quarantine plan that is regularly updated,
+tested, validated and evidence based. Where appropriate, states and territories can have
+access to the plans and are resourced to implement the plans and know their roles and
+responsibilities.
+
+
+
+Broader health supports for people impacted by COVID-19 and/or lockdowns (for example
+mental health and suicide prevention supports, and access to screening and other
+preventive health measures).
+The QNMU will focus on mental health and suicide prevention supports and long COVID in
+addressing this term on reference.
+
+
+
+
+                                              19
+Mental health and suicide prevention support
+The impact of the pandemic, on health and mental health, is yet to be fully realised. However,
+research is already showing that depression and anxiety were significantly higher and suicidal
+thoughts increased during the pandemic then pre COVID-19, and those who were hospitalised
+with COVID-19 experienced heightened adverse mental health (Bower et al., 2023). Physical
+restriction measures such as lockdowns and quarantine are also associated with deteriorated
+mental health including a higher incidence of both depression and post-traumatic stress
+disorder (PTSD) symptoms. Further, were the economic impacts and financial stress
+particularly on those who became unemployed or worked reduced hours (Australia's Mental
+Health Think Tank, 2021).
+
+
+The use and demand for mental health services in Australia greatly increased during the
+pandemic with more Medicare-subsidised mental health-related services delivered, an
+increase in the number of mental health related prescriptions dispensed under the
+Pharmaceutical Benefits Scheme (PBS) and an increase in Australians engaging with suicide
+prevention and mental health support helplines (AIHW, 2020b, 2023c).
+
+
+The Transforming Indigenous Mental Health and Wellbeing team met early in the pandemic
+to develop recommendations to protect the mental health and wellbeing of First Nations
+peoples. These First Nations people-led initiatives enabled an effective public health response
+to the pandemic. However, the longer-term impacts must be considered by governments due
+to the pre-existing inequities within the social determinants of health which make First
+Nations peoples vulnerable to health and mental health impacts (Dudgeon et al., 2023). A
+report released by the national Australian Mental Health Think Tank (2021) also highlighted
+deteriorating mental health as a result of the COVID-19 pandemic, with a disproportionate
+burden on First Nations peoples, people living with a disability or existing mental health issue
+and culturally and linguistically diverse people.
+
+
+With around 450,000 nurses and midwives in Australia, these professions are the largest
+clinical workforce in the country and must be well supported as they are critical to meet the
+healthcare needs of the Australian community (Department of Health and Aged Care, 2023).
+However, research has shown that the pandemic placed additional stress and impacted the
+physical and mental health and wellbeing of nurses and midwives and other healthcare
+workers. A national survey of nurses, midwives, and personal care workers in 2020 looked at
+the effect COVID-19 was having on this workforce. It found many Australian nurses and
+midwives and personal care workers were moderately or extremely concerned for their own
+psychological wellbeing (42.66%) or personal health and safety (44.11%). 16.63% had also
+sought mental health or wellbeing support from external providers, strongly suggesting the
+need for mental health support for nurses and midwives (Adelson et al., 2021; Rosemary
+Bryant AO Research Centre, 2021). The long-term mental health effects on the nursing
+
+
+
+                                               20
+workforce are not yet known. Their resilience and preparedness to work through a
+subsequent pandemic or national health emergency is also yet to be determined.
+
+
+These pandemic-induced impacts on mental health must not be viewed in isolation but within
+the context of Australia's current mental health system and the mental health of Australians
+pre COVID-19. The QNMU has long supported the need for community mental health services
+which could have extended hours and be an alternative for people with a mental illness or
+disorder or suicide ideation to access rather than presenting at hospital emergency
+departments. In our view, they are imperative in reducing the burden on inpatient units and
+avoiding hospital admission. Mental health clinics like those the Commonwealth Government
+funded during Victoria's second lockdown, provided much needed additional mental health
+support in the community, which we see as an opportunity to determine their effectiveness
+for further pandemics.
+
+
+Long COVID
+The full impact of long COVID on an individuals' physical health and mental health, their work
+capacity, and the healthcare system, are yet to be seen. The QNMU considers a management
+plan for long COVID as critical as compared to international standards, Australia has generally
+been slow to recognise and investigate possible cases of long COVID (Luo et al., 2023).
+Researchers have also found that the availability of multidisciplinary long COVID services was
+lacking in Australia, as was accessibility of trustworthy public health information (Luo et al.,
+2023).
+
+
+Strategies that include how long COVID is identified, when treatment is to be provided and
+who delivers this care may fall within the remit of state and territory healthcare systems to
+develop. However, we see Australia's CDC as having a major role in reporting and learning
+about the signs and symptoms of long COVID and short- and long-term effects of long COVID.
+
+
+Innovative models of care to address long COVID must:
+   •     Provide information that identifies when to seek professional support if COVID-19
+         symptoms persist (Luo et al., 2023).
+   •         Be multidisciplinary and include services provided by nurses and midwives.
+   •         Provide access to information that includes education and self-care strategies.
+   •         Be patient-centred and address patients' needs.
+   •         Be evidence-based and use up-to-date research and data.
+   •         Consider the impact of pre-existing conditions.
+   •         Provide value-based care.
+   •         Include virtual care where appropriate.
+   •         Ensure ongoing training for health practitioners in identifying and treating long COVID.
+   •         Be affordable.
+
+
+                                                21
+   •       Have ongoing government funding.
+   •       Be evaluated and reviewed to ensure usefulness.
+
+
+
+International policies to support Australians at home and abroad (including with regard to
+international border closures, and securing vaccine supply deals with international
+partners for domestic use in Australia).
+Policies for international border closures and ensuring a secure vaccine supply are critical. The
+early insufficient vaccine supply emphasised the importance for consulting and planning and
+securing different supply chains. Securing vaccine supplies, including both in Australia and
+overseas is critical to Australia being on the front foot for when the next pandemic hits. This
+sovereign vaccine capability will ensure rapid action and the ability to mobilise quickly to any
+viral disease outbreaks. Australia must also support our Pacific neighbours and "Australia
+could and should set itself the mission of being able to supply our region's vaccine and
+essential drug needs for the future" (Hensher & Wanni Arachchige Dona, 2022, p. 558).
+
+
+Criticism has been levelled at the Government for the inadequate handling of Australians
+stranded overseas when international borders closed, with caps placed on international
+arrivals. In August 2020, figures from the Department of Foreign Affairs and Trade (DFAT)
+showed up to 40,000 Australians were based overseas and wanting to return. Of these, 5,000
+were classed by the government as 'vulnerable' (Commonwealth of Australia, 2022). Despite
+the Commonwealth Government having a constitutional responsibility for incoming arrivals
+and quarantine, the government took a piecemeal approach to bringing Australians home,
+placing the responsibility and expense on individuals. The Commonwealth Government did
+not adequately prepare or plan for Australian residents to return home and their decisions
+caused financial hardship and stress for those citizens. In the planning for future pandemics
+and public health concerns, the government must include resources to assist Australians who
+are overseas to be able to return to their homeland.
+
+
+
+Support for industry and businesses (for example responding to supply chain and transport
+issues, addressing labour shortages, and support for specific industries).
+In this term of reference, the QNMU will address the role of unions, pink collar industries and
+the impact on female workers, the need for pandemic leave for all and support for supply
+chains.
+
+
+Role of unions
+During the often politicised and polarised response to the COVID-19 pandemic, the QNMU
+and the ANMF provided members with up-to-date advice, evidence-based resources and
+information, support and regular conversations with workers and employers. At the start of
+
+
+
+
+                                               22
+the pandemic2 alone, the QNMU received almost 600 phone calls directly related to COVID-
+19. Our members concerns included:
+    •         Being part of a vulnerable group and concerned about their health and safety.
+    •    Member being pregnant and how COVID-19 could affect their health and that of their
+         unborn baby.
+    •         Concern for exposing family to health risks.
+    •         Patient screening protocol.
+    •         Concern for safety and health of student nurses on placement.
+    •         Concerns about safe work in theatre.
+    •         Converting wards to COVID-19 wards.
+
+The greater union movement has played a pivotal role in representing and advocating for the
+interests, rights, and safety of workers during the pandemic. Research from the International
+Labour Organisation (ILO) shows that if the United States had the union density of 35 percent
+that it had in 1954 instead of today's rate of 10 percent, the COVID-19 mortality rate for
+working people would have been 19 per 100,000 instead of the 26 actually observed (Soares
+& Berg, 2023). The ILO report authors conclude that because unions provide greater
+protections against dismissal, employees are more willing to voice their concerns about
+health and safety. Furthermore, during the pandemic, unions were effective in securing
+enhanced work health and safety measures including access to PPE, COVID-19 testing and
+leave (Soares & Berg, 2023).
+
+
+Unions have worked closely with governments to respond to the pandemic and have
+campaigned for flexible, fair responses that were beneficial for workers, businesses, the
+economy, and society. This included advocating for work, health and safety measures and
+paid pandemic leave for all workers, noting the increased risk of health care workers
+contracting COVID-19 during their employment and the likelihood of requiring self-isolation
+or quarantine. For these frontline workers, who were often in casual and insecure work
+arrangements, access to paid leave entitlements was not an option.
+
+
+The union movement's push for job security measures to support casual and insecure workers
+was pivotal in the Commonwealth Government's introduction of the JobKeeper wage subsidy
+scheme. Whilst the scheme offered some relief, unions pushed back on changes to the Fair
+Work Act 2009 that would unfairly disadvantage workers such as temporary stand-down
+directives, reductions to hours of work and determining locations at which work could be
+performed.
+
+
+Unions recognised the need to protect worker's jobs and implement appropriate safeguards
+to ensure that industrial and workplace changes were only made where appropriate for the
+
+
+
+2 01/02/2020 to 30/04/2020.
+
+                                               23
+preservation of employment and business viability (O'Neil, 2021). Throughout the pandemic,
+unions played an important role in supporting a flexible and agile industrial system that could
+respond to the crisis, whilst ensuring the balance of safeguarding the rights and conditions of
+workers.
+
+
+The pandemic also highlighted some of the serious structural deficiencies in our labour
+market and our industrial relations system and the impacts of over-reliance on insecure forms
+of work. This was particularly reflected in the vulnerability of the aged care sector,
+characterised by over-reliance on temporary labour hire, inadequate staffing levels, cost
+cutting and privatisation of the sector.
+
+
+The QNMU supports the Australian Council of Trade Unions (ACTU) in advocating for all
+workers to have access to paid pandemic leave if they are required to self-isolate and are
+unable to work. This would stop the spread of the disease and ensure compliance with
+recommendations to self-quarantine (ACTU, 2020). This would alleviate disparities across
+industries in pandemic leave access and protect the health of workers and their income.
+
+
+Pink collar industries
+The impact of the pandemic on female workers, referred to here as 'pink collar' saw women
+experience more job losses, were likely to do more unpaid work and less likely to receive
+government support than males (Wood et al., 2021). The loss of formal and informal childcare
+during the pandemic saw the increase of unpaid work particularly for women, with many
+finding it difficult to juggle their existing paid work commitments with childcare (Wood et al.,
+2021). This impost on families was largely ignored by the government. When the government
+cut JobKeeper for the childcare industry while announcing subsidies for the construction
+industry, a predominately male industry, this gendered misstep highlighted the gender
+imbalance of the impact of COVID-19.
+
+
+A positive outcome though was the government's support of the aged care sector, which is
+traditionally a female-dominated industry, where an aged care retention bonus was available
+in an effort to retain aged care workers.
+
+
+The QNMU would be supportive of the government taking a longer-term focus on feminised
+professions3 to boost women's workforce participation and economic security, which would
+then afford some protection to women for future pandemics.
+
+
+Supply chain issues
+As the pandemic has demonstrated, the capacity of nurses and midwives to provide safe,
+high-quality care is directly affected by the supply of essential therapeutic goods (medicines
+
+
+
+3 Healthcare, Aged care, disability care, childcare
+
+                                                      24
+and devices). The "just in time" free market approach and Australia's gradual loss of
+manufacturing capacity has seen over 90% of Australia's medicines and PPE imported
+(Institute for Integrated Economic Research, 2022). To quickly respond to future pandemics,
+there must be a deliberate focus on national supply chains and less reliance on international
+imports.
+
+
+The Therapeutic Goods Administration (TGA) sought feedback on Building a more robust
+medicine supply, where the QNMU supported these strategic level activities to be taken:
+   •   A whole-of-nation response to the issue of medicines supply involving all relevant
+       levels of government, regulators, and other stakeholders.
+   •   Analysis of supply chains to identify vulnerabilities and build system redundancy using
+       all the levers available to government, e.g., policy, legislation, regulation.
+   •   Commonwealth Government          policies aimed at the       reinvigoration of onshore
+       production of essential medicines and precursors through the use of policy, tax and
+       contractual incentives.
+   •   Development of a national medicines stockpile (in addition to essential medical
+       equipment).
+   •   Regulatory requirements for suppliers regarding early notification of medicines supply
+       issues.
+
+The QNMU supports measures to build a robust and resilient medicines supply for Australia
+and the Pacific region. Re-engineering of current medicines supply systems to incorporate the
+lessons learned during the pandemic is essential.
+
+
+
+Financial support for individuals (including income support payments).
+The difficulty many have faced in accessing wages during the COVID-19 pandemic has exposed
+the inequality between high- and low-income earners. The federal government's economic
+package released during the pandemic saw the unemployment benefits increase and the
+introduction of the JobKeeper scheme. While undoubtedly welcomed, many still felt the
+financial strain and were unable to meet their living expenses during the pandemic.
+
+
+In March 2020 the federal government announced that those affected by the pandemic, or
+the economic downturn could apply to access up to $10,000 of their superannuation in 2019­
+2020 and up to a further $10,000 in 2020-2021. In the first month, more than 1.65 million
+Australians withdrew $13.2 billion from their superannuation. By 23 August 2020, over $32.2
+billion of early release super had been paid to approximately 3.1 million members, 1.2 million
+of whom made a repeat application. At the start of September 2020, the total sum was
+forecast to be at least $42 billion (Australian Institute of Superannuation Trustees, 2020;
+Parnell, 2020). Those who applied for early release of their superannuation have been
+generally low paid workers, people in already insecure employment and women.
+
+
+
+                                               25
+Unfortunately, many see this government initiative as entrenching existing inequality in
+Australia's retirement savings (Australian Institute of Superannuation Trustees, 2020). A
+report by the Australian Institute of Family Studies found that whilst accessing funds early
+provided immediate financial relief, for some, the long-term impact on retirement savings
+may mean the difference between a comfortable lifestyle in retirement and relying on the
+age pension (Warren, 2021). Although the long-term impacts of this policy are yet to be
+realised, it is suspected that these early withdrawals may widen the gender superannuation
+gap, with women experiencing disproportionate disadvantage during the pandemic, working
+in low paid, insecure arrangements. These women may have little choice but to access funds
+and face a greater financial burden long-term.
+
+
+This scheme suggests a short-sighted and misguided view of superannuation and raises the
+question that if the JobKeeper scheme had covered more of the workforce, then the Early
+Retirement Scheme may not have even been required.
+
+
+
+Community supports (across early childhood education and care, higher education,
+housing and homelessness measures, family and domestic violence measures in areas of
+Commonwealth Government responsibility).
+The Commonwealth Government announced several community funding support packages
+that demonstrated a necessary investment in the country's capacity to respond to and
+recover from the pandemic. The QNMU supported the Government's investment in building
+the capacity of the health care workforce through the Job-ready Graduates higher education
+relief package. The investment guaranteed $18bn to be allocated to domestic students,
+waiving $100m in fees and regulatory costs, and the short-term availability of 20,000 places
+in nursing, teaching, health, information technology and science courses (Department of
+Education, 2023).
+
+
+The QNMU also welcomed the Commonwealth Government's announcement of $150 million
+in March 2020 to bolster domestic and family violence programs (Australian Government,
+2019). Unfortunately, the prevalence of domestic and family violence increased during the
+pandemic and exacerbated existing service gaps and barriers to accessing services, especially
+for women and children and those already marginalised (Boxall et al., 2020). It remains
+critically important that approaches to prevention and responses to violence require holistic,
+sustained, and long-term investment, and intersectional approaches with outreach and
+community services. The QNMU calls on the Commonwealth Government to ensure that
+these services continue to receive the necessary support and funding to prioritise prevention
+measures and enable access to services beyond the pandemic.
+
+
+
+
+                                             26
+Mechanisms to better target future responses to the needs of particular populations
+(including across genders, age groups, socio-economic status, geographic location, people
+with disability, First Nations peoples and communities and people from culturally and
+linguistically diverse communities).
+The differential impact of the pandemic on different population groups has implications for
+future pandemic responses and their effectiveness. The COVID-19 pandemic showed the
+need for place and population-sensitive policies, strategies and supports. The QNMU has
+chosen to focus on the pandemic interventions for First Nations peoples, those from culturally
+and linguistically diverse backgrounds, those with a disability and the more significant impact
+of the pandemic on women, than men.
+
+
+First Nations peoples needs during the pandemic
+First Nations peoples must be identified as a priority population group for future pandemics
+as the risk to their health and wellbeing is heightened due to pre-existing inequities in health
+and socio-economic outcomes when compared to non-lndigenous populations.
+
+
+During the COVID-19 pandemic, Aboriginal and Torres Strait Islander public health
+practitioners and researchers have been pivotal in identifying the issues, setting priorities and
+suggesting solutions for culturally informed strategies (Crooks et al., 2020). These First
+Nations peoples-led initiatives enabled an effective public health response to the pandemic.
+For instance, First Nations health practitioners played a critical role in First Nations-led
+vaccination programs. An example is the First Nations COVID-19 Vaccination Team, a group
+of nurses in the Torres Strait who visited communities to provide vaccination rather than have
+a fixed place where people had to attend. Vaccinations delivered by the First Nations team
+ensured a greater vaccination rate amongst First Nations communities rather than via models
+more suitable to engage with more Western communities.
+
+
+The QNMU emphasises the importance in recognising First Nations People's communities are
+diverse, and a one-size-fits-all approach to pandemic preparedness and management are
+likely to place constraints on its success. Any approach to future pandemics or health
+emergencies must allow for communities to self-determine its needs and approaches.
+
+
+Culturally and linguistically diverse communities needs during the pandemic
+With approximately one in four Australian households speaking a language other than
+English, the need for official COVID-19 health communications in languages other than English
+was and continues to be imperative (AIHW, 2023a). This diverse community often face greater
+challenges in accessing healthcare and navigating the health system which was heightened
+during the pandemic with research showing that for some their social support activities were
+disrupted and accessing social services was more difficult than pre-pandemic. Failure to
+engage effectively with the CALD community not only places individual members of that
+
+
+                                               T1
+community at risk but also places the entire CALD community at risk because of
+misunderstanding and non-compliance with protective health behaviours (Hamiduzzaman et
+al., 2022; Mude et al., 2021). Future responses for a pandemic should be focused on genuine
+collaboration and partnerships with CALD communities and leaders to tailor government
+communication initiatives more effectively.
+
+
+The needs of people with a disability during the pandemic
+The Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability
+published a Public Hearing Report that examined the experiences of people with disability
+during the     pandemic   (Commonwealth       of Australia,   2020). The QNMU        urges the
+Commonwealth Government to consider the detailed recommendations in this report. Like
+CALD populations, one key finding of the report is that a failure to develop a tailored response
+or to meaningfully consult, placed persons with a disability at risk and further exacerbated
+inequalities. This report highlights that the disability sector was largely forgotten during the
+initial COVID-19 response (Commonwealth of Australia, 2020). Future government responses
+require a more proactive role in protecting people with a disability, providing more support
+and meaningful consultation regarding the unique needs and challenges of the disability
+sector.
+
+
+Gendered impacts
+Women have faced disproportionate challenges during the pandemic. Research shows that
+"... women have experienced more significant impacts on their overall employment, hours of
+work, domestic labour and mental health and wellbeing" (University of Queensland, 2022).
+This in part is caused by the over-representation of women in occupations most affected by
+lockdowns, with women more likely to be employed as casual or part-time. Furthermore, are
+their caring responsibilities and the entrenched gender biases and attitudes about women's
+role in society.
+
+
+Despite the heavy reliance on female-dominated industries in responding to COVID-19, like
+nursing and midwifery, federal policy did not directly support women, nor address the existing
+and escalating gender inequalities during the pandemic.
+
+
+Mechanisms that better target gender inequities for future pandemics must be underpinned
+by advancing gender equity today. Flexible working arrangements and access to childcare
+support must be expanded for men and women, to provide better recognition of women's
+labour and distribution of unpaid work, and support women's ability to participate in the
+workforce. Improving women's economic security and financial independence and the gender
+pay gap, encouraging women's representation in leadership positions and addressing housing
+affordability and homelessness will also reduce gender inequalities. Increased funding and
+measures to prevent and respond to gender-based violence must also be a priority.
+
+
+
+                                               28
+References
+Adelson, P., Fish, J., Peters, M. D. J., Corsini, N., Sharplin, G., & Eckert, M. (2021). COVID-19
+        and workforce wellbeing: A survey of the Australian nursing, midwifery, and care
+        worker workforce. A report prepared for the Australian Nursing and Midwifery
+        Federation.
+        https://www.unisa.edu.au/contentassets/4784e89b42124909b2e22d331348daf2/co
+        vid-19-and-workforce-wellbeing-survey_report_final.pdf
+Aitken, G. E., Holmes, A. L, & Ibrahim, J. E. (2021). COVID-19 and residential aged care:
+        priorities for optimising preparation and management of outbreaks. Medical Journal
+        of Australia, 214(1), 6-8.el. https://doi.Org/https://doi.org/10.5694/mja2.50892
+Australia's Mental Health Think Tank. (2021). COVID-19 and Australia's mental health.
+        https://mentalhealththinktank.org.au/wp-
+        content/uploads/2021/10/AustraliasMentalHealthThinkTank-EvidenceSummary-
+        COVID-MentalHealth.pdf
+Australian Council of Trade Unions. (2020). Paid Pandemic Leave: ACTU Policy Brief.
+        https://www.actu.org.au/wp-content/uploads/2023/06/medial449233d40-paid-
+        pandemic-leave.pdf
+Australian Government. (2019). Women's Safety: National Plan to to Reduce Violence
+        against Women and their Children 2010-2022. Retrieved 8 December from
+        https://www.dss.gov.au/women/programs-services/reducing-violence/the-national-
+        plan-to-reduce-violence-against-women-and-their-children-2010-2022
+Australian Government. (2020). National Partnership on COVID-19 Response.
+        https://federalfinancialrelations.gov.aU/sites/federalfinancialrelations.gov.au/files/2
+        021-04/covid-19_response_vacci ne_amendment_schedule.pdf
+Australian Human Rights Commission, (n.d.). What is the Commission's view on limiting
+        human rights during COVID-19? https://humanrights.gov.au/about/covidl9-and-
+        human-rights/what-commissions-view-limiting-human-rights-during-covid-19
+Australian Institute of Health and Welfare. (2020a). Elective Surgery.
+        https://www.aihw.gov.au/reports-data/myhospitals/sectors/elective-surgery
+Australian Institute of Health and Welfare. (2020b, 17 December). How COVID-19 changed
+        the way Australians used health services in 2019-20 https://www.aihw.gov.au/news-
+        media/media-releases/2020/december/how-covid-19-changed-the-way-australians-
+        used-heal
+Australian Institute of Health and Welfare. (2022). Changes in the health of Australians
+        during the COVID-19 period, https://www.aihw.gov.au/getmedia/cb5f5bbb-df0b-
+        4alc-9796-25ea2e94e447/aihw-aus-240_chapter_2.pdf.aspx
+Australian Institute of Health and Welfare. (2023a, 25 October). Culturally and linguistically
+        diverse Australians. Retrieved 8 December from https://www.aihw.gov.au/reports-
+        data/population-groups/cald-australians/overview
+Australian Institute of Health and Welfare. (2023b). Health system spending on the response
+        to COVID-19 in Australia 2019-20 to 2021-22.
+        https://www.aihw.gov.au/reports/health-welfare-expenditure/health-system-
+        spending-on-the-response-to-covid-19/contents/introduction
+Australian Institute of Health and Welfare. (2023c, 27 August). Suicide & self-harm
+        monitoring: The use of mental health services, psychological distress, loneliness,
+        suicide, ambulance attendances and COVID-19. Retrieved 7 December from
+        https://www.aihw.gov.au/suicide-self-harm-monitoring/data/covid-19
+
+                                               29
+Australian Institute of Superannuation Trustees. (2020, 2 September). COVID Super Gap
+Ayton, D., Soh, S. E., Berkovic, D., Parker, C., Yu, K., Honeyman, D., Manocha, R., MacIntyre,
+         R., & Ananda-Rajah, M. (2022). Experiences of personal protective equipment by
+        Australian healthcare workers during the COVID-19 pandemic, 2020: A cross­
+         sectional study. PLoS One, 17(6), e0269484.
+         https://doi.org/10.1371/journal.pone.0269484
+Bower, M., Smout, S., Donohoe-Bales, A., O'Dean, S., Teesson, L, Boyle, J., Lim, D., Nguyen,
+        A., Calear, A. L, Batterham, P. J., Gournay, K., & Teesson, M. (2023). A hidden
+         pandemic? An umbrella review of global evidence on mental health in the time of
+         COVID-19. Front Psychiatry, 14, 1107560.
+         https://doi.org/10.3389/fpsyt.2023.1107560
+Boxall, H., Morgan, A., & Brown, R. (2020). The prevalence of domestic violence among
+         women during the COVID-19 pandemic. Statistical Bulletin no. 28. Canberra:
+        Australian Institute of Criminology, https://doi.org/10.52922/sb04718
+Bradfield, Z., Hauck, Y., Homer, C. S. E., Sweet, L, Wilson, A. N., Szabo, R. A., Wynter, K.,
+        Vasilevski, V., & Kuliukas, L. (2022). Midwives' experiences of providing maternity
+         care during the COVID-19 pandemic in Australia. Women Birth, 35(3), 262-271.
+         https://doi.Org/10.1016/j.wombi.2021.02.007
+Commonwealth of Australia. (2020). Royal Commission into Violence, Abuse, Neglect and
+         Exploitation of People with Disability Report on Public hearing 5: Experiences of
+        people with disability during the ongoing COVID-19 pandemic.
+         https://disability.royalcommission.gov.au/system/files/2020-ll/Report%20-
+         %20Public%20hearing%205%20-
+         %20Experiences%20of%20people%20with%20disability%20during%20the%20ongoin
+        g%20COVID-19%20pa ndemic.pdf
+Commonwealth of Australia. (2022). Senate Select Committee on COVID-19 Final Report.
+         https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/COVID-
+         19/COVID19/Report
+Commonwealth of Australia as represented by the Department of Health. (2020). Australian
+         health sector emergency response plan for novel coronavirus (COVID-19).
+         https://www.health.gov.au/resources/publications/australian-health-sector-
+         emergency-response-plan-for-novel-coronavirus-covid-19?language=en
+Crooks, K., Casey, D., & Ward, J. S. (2020). First Nations peoples leading the way in COVID-19
+         pandemic planning, response and management. Medical Journal of Australia, 213(4),
+         151-152.el51. https://doi.Org/https://doi.org/10.5694/mja2.50704
+Dalzell, S. (2020,19 November). Federal Government used Google Translate for COVID-19
+         messaging aimed at multicultural communities. ABC News.
+         https://www.abc.net.au/news/2020-ll-19/government-used-google-translate-for-
+         nonsensical-covid-19-tweet/12897200
+Department of Education. (2023, 19 July). Improving higher education for students.
+         Retrieved 8 December from https://www.education.gov.au/job-ready/improving-
+         higher-education-students
+Department of Health and Aged Care. (2022, 10 August). Failed COVIDSafe app deleted
+         https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/failed-
+         covidsafe-app-deleted
+Department of Health and Aged Care. (2023, 5 April). Nurses and Midwives. Retrieved 7
+         December from https://www.health.gov.au/topics/nurses-and-midwives/in-
+
+
+                                              30
+         australia#:~:text=337%2C000%20registered%20nurses,28%2C800%20midwives%20
+         with%20dual%20registration.
+Duckett, S. (2022). Public Health Management of the COVID-19 Pandemic in Australia: The
+         Role of the Morrison Government. IntJ Environ Res Public Health, 19(16).
+         https://doi.org/10.3390/ijerphl91610400
+Duckett, S., Mackay, W., Stobart, A., Swerissen, H., & Parsonage, H. (2020). Coming out of
+         COVID-19 lockdown: The next steps for Australian health care.
+         https://grattan.edu.au/wp-content/uploads/2020/06/Coming-out-of-COVID-
+         lockdown-the-next-steps-for-Australian-health-care.pdf
+Dudgeon, P., Collova, J. R., Derry, K., & Sutherland, S. (2023). Lessons Learned during a
+         Rapidly Evolving COVID-19 Pandemic: Aboriginal and Torres Strait Islander-Led
+         Mental Health and Wellbeing Responses Are Key. Int J Environ Res Public Health,
+         20(3). https://doi.org/10.3390/ijerph20032173
+Hamiduzzaman, M., Siddiquee, N., McLaren, H., Tareque, M. I., & Smith, A. (2022). Risk
+         Perception and Health Precautions Towards COVID-19 Among Older Culturally and
+         Linguistically Diverse Adults in South Australia: A Cross-Sectional Survey. J Multidiscip
+         Healthc, 15, 497-514. https://doi.org/10.2147/jmdh.S343985
+Hensher, M., & Wanni Arachchige Dona, S. (2022). COVID-19 vaccines, boosters and
+         mandates: Building a mission economy, not a rentier paradise. MJA, 216(11), 556­
+         558. https://doi.org/10.5694/mja2.51500
+Institute for Integrated Economic Research. (2022). The Australian health system in 2022.
+         What has changed in the last two years ... what do we need to do differently?
+         https://www.iier.us/
+Johnston, I., & PHAA. (2020). Australia's public health response to COVID-19: What have we
+         done, and where to from here? Australia and New Zealand Journal of Public Health,
+         44(6), 440-445. https://doi.org/10.llll/1753-6405.13051
+KPMG. (2018). Cost Benefit Analysis of Nurse Practitioner Models of Care Report.
+         https://www.health.gov.au/sites/default/files/documents/2021/03/cost-benefit-
+         analysis-of-nurse-practitioner-models-of-care.pdf
+KPMG. (2019). Innovations in Health Funding - Global Horizon Scan. KPMG.
+         https://www.ihacpa.gov.au/sites/default/files/2022-
+         02/lnnovations%20in%20Health%20Funding%20%E2%80%93%20Global%20Horizon
+         %20Scan.pdf
+Luo, S., Zheng, Z., Bird, S. R., Piebanski, M., Figueiredo, B., Jessup, R., Stelmach, W.,
+         Robinson, J. A., Xenos, S., Olasoji, M., Wan, D. W. L., Sheahan, J., & Itsiopoulos, C.
+         (2023). An Overview of Long COVID Support Services in Australia and International
+         Clinical Guidelines, With a Proposed Care Model in a Global Context [Review]. Public
+         Health Reviews, 44. https://doi.org/10.3389/phrs.2023.1606084
+Macmillan, J. (2021, 1 July). Malcolm Turnbull criticises Australian COVID-19 vaccine rollout,
+         particularly mixed messaging on AstraZeneca, https://www.abc.net.au/news/2021-
+         07-01/malcolm-turnbull-criticises-australian-covid-19-vaccine-rollout/100260940
+Mude, W., Meru, C., Njue, C., & Fanany, R. (2021). A cross-sectional study of COVID-19
+         impacts in culturally and linguistically diverse communities in greater Western
+         Sydney, Australia. BMC Public Health, 21(1), 2081. https://doi.org/10.1186/sl2889-
+         021-12172-y
+
+
+
+
+                                               31
+Nayna Schwerdtle, P., Connell, C. J., Lee, S., Plummer, V., Russo, P. L., Endacott, R., & Kuhn,
+        L. (2020). Nurse expertise: A critical resource in the COVID-19 pandemic response.
+        Annals of Global Health, 36(1), 49. https://doi.org/10.5334/aogh.2898
+O'Neil, M. (2021). The Australian industrial system in the era of COVID-19. Journal of
+        Industrial Relations, 63(3), 422-431. https://doi.org/10.1177/00221856211012827
+Park, S., Fisher, C., Young Lee, J., & McGuinnes, K. (2020). COVID-19: Australian news and
+        misinformation, https://www.canberra.edu.au/research/faculty-research-
+        centres/nmrc/research/covid-19-australian-news-and-misinformation
+Parnell, S. (2020, 15 September). Public servants lead $710m dash for cash from QSuper
+        retirement funds. In Queensland, https://inqld.com.au/news/2020/09/15/public-
+        servants-lead-cash-dash-as-qsuper-members-withdraw-710m-from-retirement-
+        funds/
+Productivity Commission. (2017). Shifting the Dial: 5 Year Productivity Review, Report No.
+        84. https://www.pc.gov.au/inquiries/completed/productivity-
+        review/report/prod uctivity-review.pdf
+Queensland Health. (2020). Nurses and Midwives EB10 Innovation Fund: Nurse Practitioner
+        Innovation Project Evaluation Report.
+        https://www.health.qld.gov.au/__ data/assets/pdf_file/0014/1126220/nurse-
+        practitioner-inovation-report.pdf
+Queensland Health. (2022). Maternity care for mothers and babies during the COVID-19
+        pandemic. Guideline No. MN21.63-V12-R26.
+        https://www.health.qld.gov.au/__ data/assets/pdf_file/0033/947148/g-covid-19.pdf
+RMIT University. (2022,17 August). Why did this $21 million COVID-tracing app fail?
+        https://www.rmit.edu.au/news/acumen/covidsafe_app#:~:text=As%20CQVIDSafe%
+        20was%20developed%20and,quickly%20overwhelmed%20by%20data%20volume.
+Rosemary Bryant AO Research Centre. (2021). COVID-19 and workforce wellbeing: A survey
+        of the Australian nursing, midwifery, and care worker workforce.
+        https://www.unisa.edu.au/contentassets/4784e89b42124909b2e22d331348daf2/co
+        vid-19-and-workforce-wellbeing-survey_report_final.pdf
+Smith, M. J., & Upshur, R. E. G. (2020). Learning lessons from COVID-19 requires recognising
+        moral failures. Bioethical Inguiry, 17, 563-566. https://doi.org/10.1007/sll673-020-
+        10019-6
+Soares, S., & Berg, J. (2023). Mortality from COVID-19 in the US: Did unions save lives? ILO
+         Working Paper 98. Geneva, ILO. https://doi.org/10.54394/DXWP9706
+Tanne, J. H. (2022). US CDC announces major changes after criticism of its responses to
+        covid-19 and monkeypox, bmj, 378, o2074. https://doi.org/10.1136/bmj.o2074
+University of Queensland. (2022, 23 August). COVID-19 pandemic fallout worse for women.
+        UQ News, https://www.uq.edu.au/news/article/2022/08/covid-19-pandemic-fallout-
+        worse-
+        women#:~:text=A%20study%20conducted%20by%20the,and%20mental%20health%
+        20and%20well being.
+Volker, S. (2020). Queensland health workers not protected by ill-fitting PPE and face masks,
+        representatives say. https://www.abc.net.au/news/2020-ll-16/face-mask-ppe-fit-
+        testing-not-happening-in-qld-hospitals-covid/12887542
+Warren, D. (2021). Towards COVID Normal Report no. 6: The COVID-19 early release of
+        superannuation. (Families in Australia Survey) https://aifs.gov.au/research/research-
+        reports/towards-covid-normal-early-release-superannuation-through-family-lens
+
+
+                                              32
+Westfund Health Insurance. (2023). Westfund regional health gap report: Calling for a new
+       approach to health care for Australia's regions.
+       https://editor.westfund.com.au/media/sl2owgn2/20230828_regional-gap-report-
+       2023.pdf
+Wilson, A. N., Spotswood, N., Hayman, G. S., Vogel, J. P., Narasia, J., Elijah, A., Morgan, C.,
+       Morgan, A., Beeson, J., & Homer, C. S. E. (2020). Improving the quality of maternal
+       and newborn care in the Pacific region: A scoping review. Lancet Reg Health West
+       Pac, 3,100028. https://doi.Org/10.1016/j.lanwpc.2020.100028
+Wilson, E., Hanson, L. C., Tori, K. E., & Perrin, B. M. (2021). Nurse practitioner led model of
+       after-hours emergency care in an Australian rural urgent care Centre: Health service
+       stakeholder perceptions. BMC Health Services Research, 21(1), 819.
+       https://doi.org/10.1186/sl2913-021-06864-9
+Wood, D., Griffiths, K., & Crowley, T. (2021). Women's work: The impact of the COVID crisis
+       on Australian women. Grattan Institute https://grattan.edu.au/report/womens-
+       work/
+Woodley, M. (2021, 2 June). 'There is airborne transmission' - but still no sign of PPE
+       upgrades. News GP. https://wwwl.racgp.org.au/newsgp/clinical/there-is-airborne-
+       transmission-but-still-no-sign-o
+
+
+
+
+                                               33
+

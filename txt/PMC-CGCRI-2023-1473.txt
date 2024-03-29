@@ -1,0 +1,163 @@
+ ®ANZICS
+                                                     Intensive Care Response to the
+                              Commonwealth Government COVID-19 Response Inquiry
+                                                           15th December 2023
+
+                             The Australian and New Zealand Intensive Care Society (ANZICS)
+
+
+About Us
+The Australian and New Zealand Intensive Care Society is a member-based, bi-national organisation and a leading
+advocate for the intensive care sector. The Society's diverse service portfolios include clinical quality registries, clinical
+research, professional advocacy and facilitation of health initiatives in resource-limited locations.
+
+ANZICS is appropriate to represent the interests of clinicians providing care for critically ill patients in Australia and
+provide the following recommendations based on collective lessons learned from the COVID-19 pandemic.
+
+It was apparent in early 2020, based on observations from international experience, that intensive care capacity and
+capability in Australia would be vital to the health of the Australian community throughout the COVID pandemic. This
+proved correct, with significant strain placed on intensive care services and clinical staff. ANZICS was a key stakeholder in
+the early development of COVID-19 guidelines, recognising the lack of capacity and the potential for vulnerable
+populations, in particular how Indigenous Australians were to be affected.
+
+Despite this, due to effective public health measures and the quality of intensive care services in Australia, the clinical
+outcomes for critically ill COVID-19 patients were world-leading. However, the effect on the system was significant,
+decreasing capacity to care for patients with other acute conditions or awaiting major elective surgery. For some non-
+COVID-19 patient groups, clinical outcomes were worse during the COVID-19 pandemic.
+
+
+Daily census of ICU Patients in Australia with suspected or confirmed COVID-19 in Australia
+
+
+             Other suspected or confirmed COVID-19      COVID-19 Pneumonitis
+
+
+              500
+
+
+
+
+        5     300
+        ■C
+
+
+
+        °     200
+        E
+        z     100
+
+                 0
+KEY LESSONS LEARNED
+
+   1.       Australia had excellent outcomes for COVID patients.
+
+        The quality of intensive care services in Australia has long been recognised as world-leading, particularly in
+        terms of clinical training, workforce capability and patient outcomes, and this was demonstrated during the
+        COVID-19 pandemic.
+
+   2.   Collaboration between the federal government and the intensive care clinical teams was vital to the success
+        of the Intensive Care Response.
+
+        During the pandemic, an ad-hoc collaboration between the federal government and the intensive care
+        community was formed, specifically via meetings with the deputy CMO and intensive care clinical leads. This
+        enabled effective shared understanding of the issues facing both the clinicians and the federal government. This
+        committee has been disbanded, and there is currently no equivalent in place moving forward to advise the
+        federal government on issues relating to intensive care, particularly as it relates to pandemic preparedness.
+
+   3.   There was extreme strain placed on the intensive
+        care workforce, particularly in NSW and Victoria.                       Australian ICU Tertiary Occupancy 2023
+                                                                 100%
+
+        High levels of burnout and stress were reported by
+        intensive care staff both during and after the            90%
+
+
+        COVID-19 pandemic. The cause of this strain was
+        predominately the lack of capacity in the intensive       80%
+
+
+
+        care system, which operates at close to 100%
+                                                                  70%
+        capacity continuously in Australia. Therefore, when
+        expanded intensive care services were required to
+                                                                  60%
+
+        meet the COVID demand, the workforce demands
+        on skilled staff were unsustainable. Workforce            50% —
+                                                                     Jan 2023     Mar 2023   May 2023   Jul 2023   Sep 2023   Nov 2023
+
+        strain for intensive care is a national problem but is
+        most severe in regional and rural ICUs, which are
+        often reliant on fly-in and fly-out intensivists who
+        also work in metropolitan and tertiary centres.
+
+   4.   The lack of capacity in the intensive care system meant that with the impact of COVID-19 there were worse
+        outcomes for non-COVID19 critically ill patients.
+
+        Evidence suggests there was a rise in-hospital mortality among people admitted to Australian ICUs with
+        conditions other than COVID19 from March 2021, which reversed the improvement of the preceding five years.
+        Specific changes that may have contributed to increased mortality include system-level factors, such as the
+        withdrawal of strain mitigation strategies (e.g., staff redeployment), increased demand for ICU services, and
+        changes in the availability of experienced staff following losses to burnout or leave, https://doi.org/10.56
+
+   5.      Inconsistency in advice for infection prevention denied staff a safe working environment.
+
+        Particularly in the early stages of the pandemic, there was a lack of clarity in the national infection control advice
+        for COVID19, and this problem was replicated at a state level. Therefore, the ICU community released its own
+        infection control guidelines for COVID19. This was published in March 2020 and was highly valued by clinicians.
+        There were four iterations of the guideline over the course of the pandemic.
+
+   6.   Implementation of a national ICU data platform (CHRIS), as funded by the federal government, was key to
+        enabling safe ICU provision, as was the use of existing intensive care data platforms.
+       Existing intensive care data platforms and systems enabled the collection of data to allow real-time visibility of
+       activity and resources. Examples of these include the ANZICS CORE database and the CHRIS platform.
+
+       ANZICS CORE: The ANZICS Centre for Outcome and Resource Evaluation (CORE) Clinical Registry proved to be
+       pivotal early in the pandemic. The registry was identified as the most reliable source of information to inform
+       national ICU planning and gain a clear understanding of intensive care resources and constraints. The
+       responsive and collaborative nature of the ICU community was reflected in the ability of ANZICS to meet the
+       request of the Australian Government Department of Health to measure intensive care surge capacity.
+
+       Over the COVID19 pandemic, ANZICS collaborated closely with Jurisdictional and Commonwealth Health
+       Departments and other data agencies to provide accurate insights about the activity and outcomes not only of
+       patients with COVID-19 (surveillance, levels of vaccination, ICU demand) but also the overall impact on all
+       critically ill patients and on the health care system more broadly. Summary highlights of the <NZIC           9VID
+       Report January 2020 to September 2022 are:
+
+           -   Between 01/01/2020 and 30/09/2022, there were 9,928 patients who had 10,340 admissions to 140
+               out of 173 ICUs in Australia with suspected or confirmed COVID-19.
+           -   These patients accounted for 72,141 ICU bed days. This is equivalent to almost 200 ICU beds filled with
+               COVID-19 patients for a whole year!
+           -   Amongst those admitted with confirmed COVID-19 pneumonitis, in-hospital mortality was 20.0% and
+               30.2% in those who needed invasive mechanical ventilation. These are some of the best survival
+               statistics in the world.
+           -   Duration of stay in ICU was Mean 9.1 days, with Median 4.8 days (IQR 2.1 -10.5), and a Mean 17.8
+               days; Median 12.1 days (IQR 6.9 - 21.6) in those who needed invasive mechanical ventilation.
+
+       CHRIS (Critical Health Resource Information System): A nationwide dashboard of ICU activity, CHRIS was
+       rapidly developed as a collaboration between ANZICS, Ambulance Victoria, Telstra Purple and the Australian
+       Government Department of Health. Providing real-time data on ICU activity and capacity, CHRIS facilitated the
+       transfer of critically ill patients and enabled early diversion of ambulance presentations to emergency
+       departments at hospitals where ICUs had capacity. This assisted in providing real-time system planning,
+       maintained optimum standards of care and provided overall visibility of the ICU sector.
+
+
+
+RECOMMENDATIONS
+
+  1.   Implementation of a national intensive care advisory committee that ensures formal links between the
+       Intensive care clinical community and the federal government to maintain communication, national intensive
+       care capability planning and pandemic preparedness.
+  2.   The CHRIS data platform is provided with secure ongoing federal funding and is optimised to enable the
+       monitoring of available intensive care resources and operational capacity.
+  3.   The soon-to-be-enacted Australian CDC functions as an independent, trusted source of public health advice,
+       enabling safe and consistent infection prevention practices across Australia. The CDC should also have direct
+       consultative links to intensive care physicians.
+  4.   To ensure the availability of intensive care services for critically ill patients, particularly during times of strain, a
+       national target of 80% intensive care occupancy is mandated and supported at a federal level.
+  5.   Federal government-led initiatives, partnered with states and the intensive care workforce, are developed to
+       improve the current workforce shortfall in intensive care across all disciplines, including medical, nursing and
+       allied health, with a particular focus on developing sustainable staffing of intensive care units in regional
+       Australia.
+

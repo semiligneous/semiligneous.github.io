@@ -1,0 +1,150 @@
+Dear COVID-19 Response Inquiry Panel,
+
+I appreciate the chance to contribute my insights and personal experiences regarding the
+Australian Government's handling of the COVID-19 pandemic. As a Research Fellow at Monash
+University, my academic background and professional experience means that I have some
+understanding of the background of this matter.
+
+I strongly advocate for the inquiry to focus on the importance of pandemic prevention. Modern
+societies possess the capabilities to avert the emergence of new pathogens and to detect and
+eradicate them early on. Considering the immense human and economic toll of pandemics, and
+the potential for even more severe outbreaks than COVID-19, prioritizing prevention is essential.
+
+The study titled “The costs and benefits of primary prevention of zoonotic pandemics" authored by
+Bertstein in 2022, presents a compelling economic argument for prioritizing pandemic prevention.
+This research demonstrates that substantial investments in prevention are not only feasible but
+also highly beneficial, even under conservative estimates and without factoring in the prospective
+contributions of emerging technologies.
+
+Consequently, I suggest that the newly established Australian Centre for Disease Control should
+prioritize measures to thwart the emergence of new pathogens and ensure effective management
+in case they do surface.
+
+This submission is mainly aligned with the 'preventive health measures' outlined in the third term of
+reference.
+
+The valuable diagnostic resources and expertise developed during the COVID-19 crisis should be
+retained and repurposed for broader public health applications, rather than being decommissioned.
+Utilizing clinical metagenomics and wastewater testing, along with monitoring at airports, cruises,
+and other points of entry, can greatly enhance the National Notifiable Diseases Surveillance
+System (NNDSS). This approach not only provides a wealth of data but also ensures regular
+testing for novel pathogens using metagenomic sequencing. Maintaining this infrastructure in a
+ready state would facilitate a more rapid expansion of diagnostic capabilities in the event of a
+future pandemic, a necessity we have experienced first-hand in controlling the spread of infectious
+diseases. Jaime Yassif, during a testimony at the U.S. House Hearing on “Biosecurity for the
+Future: Strengthening Deterrence and Detection,” emphasized that:
+“Sustainably financed systems for early detection and robust response can stop outbreaks at the
+source before they evolve into global pandemics”
+
+For effective early detection, systems must be consistently funded and safeguarded against budget
+cuts. Establishing a public health monitoring system that remains functional during normal times
+and crises is a key strategy.
+
+The inquiry should delve into various diagnostic methods and technological advancements, such
+as clinical diagnostics, wastewater monitoring, and surveillance at airports, cruises, and other entry
+points. It's vital to understand the latest developments in metagenomics (both clinical and
+wastewater), CRISPR-based diagnostics, and enhancements in PCR and LAMP technologies,
+including multiplexing approaches.
+
+
+
+
+1
+Additionally, the inquiry should review the emerging models on cost-effectiveness, along with
+potential challenges identified in literature, to inform the development of an early detection system.
+For instance:
+    1. Sharma et al. (2023) in "Threat Net: A Metagenomic Surveillance, Health Security" estimate
+        that with a budget of $400-800 million, there's a 95% probability of detecting a novel
+        respiratory pathogen similar to SARS-CoV-2 after 10 emergency department presentations
+        and 79 infections across the US.
+   2. Liu et al.’s pre-print (2023) discusses early detection strategies for mitigating COVID-19 and
+        future pandemics, suggesting that hospital monitoring could have detected COVID-19
+        approximately 1000 cases earlier, and wastewater surveillance could serve as an early
+        warning system for pandemics with lengthy incubation periods.
+   3. Weqryzyn et al. (2022) in "Early Detection of Severe Acute Respiratory Syndrome
+        Coronavirus 2 Variants Using Traveler-based Genomic Surveillance at 4 US Airports,"
+        published in Clinical Infectious Diseases, provided early warning of variant detection,
+        identifying the first Omicron BA.2 and BA.3 cases in North America.
+   4. Liang et al. (2023) in "Managing the Transition to Widespread Metagenomic Monitoring:
+        Policy Considerations for Future Biosurveillance," outlined policy challenges for a
+        successful sequencing-based public health monitoring system over the coming decades.
+    5. Research by SecureBio and MIT’s Sculpting Evolution group (https://naobservatorv.org/) on
+        monitoring for exponentially increasing nucleic acid sequences, as pandemic potential
+        viruses also show exponential increases in their nucleic acids.
+    6. Ghouneimy et al. (2023) in "CRISPR-Based Diagnostics: Challenges and Potential
+        Solutions toward Point-of-Care Applications," explores the costs and potential settings for
+        CRISPR-based diagnostics.
+
+Our preparedness and response to the next pandemic will largely depend on our ability to detect
+and understand new pathogens swiftly. The significance of this is reflected in every aspect of the
+terms of reference. Therefore, investing in pathogen-agnostic early detection systems now is
+crucial to stay ahead of future pandemics. Given the pivotal role of PCR diagnostics in controlling
+case numbers before widespread vaccine adoption, it would be almost negligent not to enhance
+our diagnostic capabilities in anticipation of the next pandemic. I recommend that the Inquiry urge
+the new CDC to investigate the advantages of a pathogen-agnostic early detection system,
+considering both its immediate public health benefits and its potential as a long-term early warning
+system for pandemics.
+
+Continuing from our previous discussion on enhancing diagnostic capabilities and early detection
+systems, I additionally recommend the Inquiry turn its attention to supporting industry amidst labor
+shortages, as outlined in Terms of Reference 5. A crucial resource for this consideration is the
+paper by Gopal et al from the Geneva Centre for Security Policy, titled “Securing Civilisation
+Against Catastr jhic Pandemics.”
+
+This paper commences by examining the escalating risks of pandemics, particularly those that
+might be engineered, and introduces a critical differentiation between “stealth” and “wildfire”
+pandemics. This distinction has profound implications for our policy-making approach. A key point
+raised in the paper is the vulnerability of critical infrastructure during a pandemic more severe than
+COVID-19. The potential absence or inability of essential workers, due to illness or unwillingness to
+risk exposure, could lead to a swift breakdown of our interconnected society. The ensuing
+secondary effects, like the failure of electricity and other essential services, could have far greater
+impact than the direct consequences of the virus itself.
+
+2
+In this context, when considering support for industry, the primary objective should be ensuring the
+functionality of essential services during a more severe future pandemic. If critical infrastructure
+collapses, other measures such as financial or community support may become moot or
+unfeasible.
+
+A notable recommendation from Gopal et al is the development of “pandemic-proof personal
+protective equipment” (P4E). This equipment is vital for key workers in sectors like food, water,
+power, and law enforcement, providing them with the assurance that they can work safely without
+risking their own health or that of their families. The paper outlines specific requirements for such
+protective gear.
+
+Furthermore, the paper delves into identifying essential workers, preparing the workforce and
+supply chains, and exploring social and technological strategies to mitigate the spread of future
+pandemics.
+
+I suggest that the inquiry thoroughly review “Securing Civilisation Against Catastrophic Pandemics”
+and consider it a foundational element for further recommendations. Our foremost priority should
+be to implement measures that eliminate the possibility of worst-case scenarios. Only then can we
+effectively address other aspects of the terms of reference, confident in our ability to avert societal
+collapse.
+
+Building on the crucial insights from "Securing Civilisation Against Catastrophic Pandemics," we
+understand the importance of being prepared for the most severe scenarios. History has shown us
+that major public health triumphs result from innovative individuals introducing new ideas and
+perspectives to health challenges. With the expansion of public health's scope, its capacity to
+enhance life expectancy and quality of life has also grown significantly.
+
+The core aim of this inquiry's terms of reference is to improve our future responses. In light of the
+potentially catastrophic nature of future pandemics, prioritizing pandemic prevention is imperative,
+as is keeping essential services running if such a calamity is to again come to pass. This not only
+involves acknowledging the possibility of pandemics emerging in novel ways but also requires
+open-mindedness about emerging technologies and unexpected topics. These are the areas that
+hold immense potential in shaping a healthier future.
+
+Therefore, the focus should be on embracing innovation and anticipating the unexpected. By doing
+so, we can develop a public health system that is not just reactive but proactive in preventing
+crises, thereby ensuring the safety and well-being of future generations.
+
+Sincerely,
+Ariel Zeleznikow-Johnston
+Research Fellow, Monash University
+
+
+
+
+3
+

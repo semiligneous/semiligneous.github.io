@@ -1,0 +1,198 @@
+To whom it may concern:
+
+I am a molecular biologist with expertise in messenger RNA technologies and next-generation
+sequencing, and a broad interest in biological risk management and the power of emerging life
+sciences technologies to shape the world. I am writing this submission from the perspective of an
+educated and interested citizen; these opinions are my own, and this submission does not represent
+my employer.
+
+Firstly, I would like to strongly agree with the case raised by other submissions to this inquiry that
+Australia should focus on primary pandemic prevention, rather than merely pandemic response. An
+alternative way to conceptualise this is a stronger focus on preparedness to respond to diseases with
+pandemic potential at the earliest possible stage, before they become widespread and disrupt social
+structures as happened in 2020-22. During COVID-19, we all became familiar with the 'Swiss cheese'
+metaphor, as applied to pandemic mitigation111: each measure (such as vaccination, test-and-trace,
+masks, sanitation, movement restrictions) prevented some transmission events, and together these
+measures collectively reduced the disease burden on the community. Similarly, the 'Swiss cheese'
+model can be applied to primary pandemic prevention and early mitigation: measures such as
+biosecurity improvements for animal agriculture12,31, separation of livestock from wildlife141,
+surveillance for novel pathogens15-71, and enhancements to indoor air quality in places where many
+people gather or pass through18-111 could collectively reduce the likelihood that a pathogen with
+pandemic potential will emerge or spread. I endorse the submissions made on this topic by Good
+Ancestors Policy and Australians for Pandemic Prevention, and I deeply hope that you will consider the
+strength of both their scientific and economic arguments for a stronger focus on pandemic prevention
+as we try to learn from COVID-19.
+
+Secondly, I would like to highlight the remarkable potential of messenger RNA technologies for coping
+with future pandemics. The genome sequence for SARS-CoV-2 was first made publicly available by
+Chinese scientists on January 11, 20201121. Within merely 2-4 months, multiple vaccines were beginning
+emergency Phase I clinical trials113,141. The rapid pace of vaccine development in response to the COVID-
+19 pandemic was of course dependent on unprecedented international collaboration and funding for
+research, and the nature of the emergency warranted greater haste and more information sharing
+than is typical during early vaccine development. However, the defining feature of the unprecedented
+speed of the vaccine response was the application of messenger RNA (mRNA) technologies. Vaccines
+based on mRNA have multiple advantages that make them uniquely powerful in a rapidly-changing
+pandemic situation. Other vaccine technologies (including the use of purified protein, assembled
+protein complexes, killed pathogen, or live-attenuated pathogen) all require the sequential
+optimisation of several challenging laboratory steps, even in the earliest preclinical stages. Protein
+production and purification must typically be optimised for each individual protein115,161, which means
+that high-throughput screening of multiple antigens from the pathogen of interest may take months
+to years to accomplish. By contrast, production of synthetic mRNA is a straightforward process which
+is methodologically extremely similar regardless of what the mRNA encodes1171. High-throughput
+screening of different antigens (eg, different proteins encoded by the pathogen, plus isolated domains
+or fragments of these proteins) is feasible and can be conducted by any suitably-equipped laboratory
+with access to the pathogen's genome sequence; there is no requirement for access to the pathogen
+itself or suitable biosafety facilities and PRE with which to work on it. When mRNA vaccine candidates
+are ready for clinical trials or even for production and emergency usage as happened during COVID-
+19, we can once again benefit from the relative simplicity of large-scale mRNA manufacture, as well as
+the fact that mass deployment of ANY mRNA vaccine has virtually identical infrastructure, personnel
+and distribution requirements. This stands in powerful contrast to the specialised facilities and
+expertise which are required to scale up production of many vaccines using a more traditional protein­
+based or whole-pathogen-based formula. The speed and adaptability of mRNA-based vaccine
+development was demonstrated multiple times during the pandemic, with the release of updated
+booster vaccines based on the sequences of COVID-19 variants that emerged later; the importance of
+these developments to the ultimate control of the pandemic is still an area of active research and
+debate1181.
+
+
+When considering the potential benefits of mRNA technologies for future pandemic prevention and
+response, we should also take into account other advances in mRNA technology besides the
+development of new vaccines. For instance, Australian researchers are working on quality control
+measures for mRNA vaccines1191 and ways to enhance the stability of mRNA vaccines so they are easier
+to ship and store. As a scientist working in this field, it is difficult to overstate the amount of
+international interest in this technology and the hope and enthusiasm that we feel towards its
+potential. I strongly believe that maintaining and increasing Australia's investment in mRNA research
+and mRNA production and testing facilities will both enhance the likelihood that we can rapidly
+respond to emerging pandemics, and provide Australia with self-sufficiency for vaccine manufacture
+in the event of another global pandemic like COVID-19. Enhancing our understanding of and ability to
+apply this emerging technology should be considered a critical infrastructure investment for Australia's
+future.
+
+This brings me to my third point: Australia's future pandemic strategy must include a strong focus on
+emerging technologies, and periodic review of technological advancements that can improve our
+ability to both prevent and respond to pandemics in the future. The COVID-19 pandemic has given rise
+to a wave of technological innovations that could prevent or mitigate future pandemics, but many have
+not yet reached full maturity and a fair assessment of their cost, feasibility and effectiveness cannot
+yet be carried out because research and development is ongoing. Some examples are widespread
+metagenomic surveillance15-61, enhanced air cleaning for indoor spaces191, far-UVC sterilisation1111, and
+even baking disposable respirators to allow them to be reused in an emergency situation1201. In addition
+to this, the rapid pace of emerging artificial intelligence technologies poses both risks and
+opportunities in the pandemic response and pandemic prevention space. For example, artificial
+intelligence has made overwhelming advances in the past 2-3 years in the prediction of protein
+function from protein structure121-221; this could be combined with environmental or wastewater
+metagenomic data to identify novel pathogens with far greater sensitivity and specificity than is
+currently possible, and would significantly shift the cost-benefit analysis for implementing an
+expensive prevention measure like widespread metagenomic surveillance. Ongoing advancements in
+GPU technology are both driving and being driven by the Al revolution123-251 and these are also highly
+relevant because of the likelihood that workflows currently limited by availability of compute resources
+(again, metagenomics) will become significantly more feasible to implement. I strongly suggest that
+Australia's pandemic strategy should include a direction to periodically reconsider measures which are
+scientifically plausible but not currently proven, feasible or cost-effective, because of the likelihood
+that ongoing technological development changes the evaluation of their usefulness to the community.
+
+I hope that the content of this submission is of interest and value to the inquiry. Thank you for the
+opportunity to provide comment.
+
+
+
+Dr Laura Leighton.
+References
+
+[1] Mackay, Emily. "How Swiss Cheese May Be a Solution to Coronavirus." (2020) The New York Times,
+5    December     2020,   https://www.nvtimes.com/2020/12/05/health/coronavirus-swiss-cheese-
+infection-mackay.html.
+
+[2] Bartlett H, Holmes MA, Petrovan SO, Williams DR, Wood JLN, Balmford A (2022) "Understanding
+the relative risks of zoonosis emergence under contrasting approaches to meeting livestock product
+demand," Royal Society Open Science, vol. 9, no. 6, Jun. 2022. https://doi.org/10.1098/rsos.211573
+
+[3] W. Gilbert, L.F. Thomas, L. Coyne, J. Rushton (2021) "Review: Mitigating the risks posed by
+intensification in livestock production: the examples of antimicrobial resistance and zoonoses"
+Animal, Volume 15, Issue 2, 2021. https://doi.Org/10.1016/j.animal.2020.100123
+
+[4] Meurens F, Dunoyer C, Fourichon C, Gerdts V, Haddad N, Kortekaas J, Lewandowska M, Monchatre-
+Leroy E, Summerfield A, Wichgers Schreur PJ, van der Poel WHM, Zhu J (2021) "Animal board invited
+review: Risks of zoonotic disease emergence at the interface of wildlife and livestock systems" Animal,
+Volume 15, Issue 6, 2021 https://doi.Org/10.1016/j.animal.2021.100241
+
+[5] Mohsin H, Asif A, Fatima M, Rehman Y (2021) "Potential role of viral metagenomics as a surveillance
+tool for the early detection of emerging novel pathogens." Arch Microbiol 203, 865-872, 2021
+https://doi.org/10.1007/s00203-020-02105-5
+
+[6] Chiu KHY, Sridhar S, Yuen KY (2023) "Preparation for the next pandemic: challenges in strengthening
+surveillance." Emerging Microbes & Infections, 12:2 2023
+https://doi.org/10.1080/22221751.2023.2240441
+
+[7] OeschgerTM, McCloskey DS, Buchmann RM, Choubal AM, Boza JM, Mehta S, Erickson D (2021)
+"Early warning diagnostics for emerging infectious diseases in developing into late-stage pandemics"
+Accounts of Chemical Research 2021 54 (19), 3656-3666
+https://doi.org/10.1021/acs.accounts.lc00383
+
+[8] Duffield G, Bunn S. (2023). "Indoor air quality." Parliamentary Office of Science and Technology, UK
+Parliament. https://doi.org/10.58248/PB54
+
+[9] Haines CA, Olsiewski P, Bruns R, Gronvall GK (2022). "National Strategy for Improving Indoor
+Air Quality." Johns Hopkins Center for Health Security.
+https://centerforhealthsecurity.org/sites/default/files/2023-02/20221026-nsi-iaq-report.pdf
+
+[10] The Lancet COVID-19 Commission Task Force on Safe Work, Safe School, and Safe Travel (2022)
+"Proposed Non-infectious Air Delivery Rates (NADR) for Reducing Exposure to Airborne Respiratory
+Infectious Diseases."
+https://staticl.squarespace.eom/static/5ef3652ab722dfllfcb2ba5d/t/637740d40f35a9699a7fb05f/l
+668759764821/Lancet+Covid+Commission+TF+Report+Nov+2022.pdf (accessed December 2023)
+
+[11] Welch D, Buonanno M, Grilj V, Shuryak I, Crickmore C, Bigelow AW, Randers-Perhson G, Johnson
+GW, Brenner DJ (2018). "Far-UVC light: A new tool to control the spread of airborne-mediated
+microbial diseases." Scientific Reports, 8(1), Article 1. https://doi.org/10.1038/s41598-018-21058-w
+[12] Cohen, Jon (2020) "Chinese Researchers Reveal Draft Genome of Virus Implicated in Wuhan
+Pneumonia Outbreak." Science.org, (Jan 11, 2020) https://www.science.org/content/article/chinese-
+researchers-reveal-draft-genome-virus-implicated-wuhan-pneumonia-outbreak.
+
+[13] "NIH Clinical Trial of Investigational Vaccine for COVID-19 Begins." NIH News Releases, (March 16,
+2020)      https://www.nih.gov/news-events/news-releases/nih-clinical-trial-investigational-vaccine-
+covid-19-begins.
+
+[14] Mulligan MJ, Lyke KE, Kitchin N, [...], Jansen KU (2020) "Phase l/ll study of COVID-19 RNA vaccine
+BNT162bl in adults." Nature 586, 589-593 (2020). https://doi.org/10.1038/s41586-020-2639-4
+
+[15] Stern PL (2020) "Key steps in vaccine development" Annals of Allergy, Asthma & Immunology,
+Volume 125, Issue 1, 2020, Pages 17-27, ISSN 1081-1206, https://doi.Org/10.1016/i.anai.2020.01.025.
+
+[16] Structural Genomics Consortium, Architecture et Fonction des Macromolecules Biologiques.,
+Berkeley Structural Genomics Center, et al. (2008) "Protein production and purification." Nat Methods
+5, 135-146 (2008). https://doi.Org/10.1038/nmeth.f.202
+
+[17] McKenzie RE, Minnell JJ, Ganley M, Painter GF, Draper SL (2023) "mRNA Synthesis and
+Encapsulation in Ionizable Lipid Nanoparticles." Current Protocols, 3(9), e898.
+https://doi.org/10.1002/cpzl.898
+
+[18] Khoury DS, Docken SS, Subbarao K, Kent SJ, Davenport MP, Cromer D (2023) "Predicting the
+efficacy of variant-modified COVID-19 vaccine boosters." Nat Med 29, 574-578 (2023).
+https://doi.org/10.1038/s41591-023-02228-4
+
+[19] Gunter HM, Idrisoglu S, Singh S, Han DJ, Ariens E, Peters JR, Wong T, Cheetham SW, Xu J, Rai SK,
+Feldman R, Herbert A, Marcellin E, Tropee R, Munro T, Mercer TR (2023) "mRNA vaccine quality
+analysis using RNA sequencing." Nat Common 14, 5663 (2023). https://doi.org/10.1038/s41467-023-
+41354-y
+
+[20] Oh C, Araud E, Puthussery JV, Bai H, Clark GG, Verma V, Nguyen TH (2020) "Dry Heat as a
+Decontamination Method for N95 Respirator Reuse." ChemRxiv. Cambridge: Cambridge Open Engage;
+2020; This content is a preprint and has not been peer-reviewed.
+https://doi.org/ 10.26434/chemrxiv.l2290621.v2
+
+[21] Mufassirin, M.M.M., Newton, M.A.H. & Sattar, A. "Artificial intelligence for template-free protein
+structure prediction: a comprehensive review." Artif Intell Rev 56, 7665-7732 (2023).
+https://doi.org/10.1007/sl0462-022-10350-x
+
+[22] Wong F, De La Fuente-Nunez C, Collins JJ (2023) "Leveraging artificial intelligence in the fight
+against infectious diseases." Sc/ence381,164-170(2023). https://doi.org/10.1126/science.adhlll4
+
+[23] LoginVSI. "2023 Insights: The Evolution of Al and Its Impact on GPU." (2023)
+https://www.loginvsi.com/resources/blog/2023-insights-the-evolution-of-ai-and-its-impact-on-gpu/.
+
+[24] Wodecki, Ben. "AMD vs Nvidia: The Battle for Al GPU Supremacy Begins." Al Business (2023)
+https://aibusiness.com/verticals/amd-vs-nvidia-the-battle-for-ai-gpu-supremacy-begins
+
+[25] Morgan, Timothy. "The tidal wave of rising of GPU TAM raises all boats" The Next Platform (2023)
+https://www.nextplatform.com/2023/12/07/the-tidal-wave-of-rising-gpu-tam-raises-all-boats/
+

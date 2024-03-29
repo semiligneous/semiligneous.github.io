@@ -1,0 +1,220 @@
+Dear inquiry,
+
+My submission underscores the significance of Australia directing its attention towards preventing
+rather than just the preparation or ‘cure’ for future pandemics. Specifically, a focus on early
+detection for “Disease X” and how that will have co-benefits for medical care, non-pandemic public
+health and antimicrobial stewardship.
+
+As a young Australian, COVID-19 was incredibly disruptive and I know my life would have looked
+wildly different if the initial SARS-CoV-2 outbreak wasn’t allowed to become a pandemic. While
+obviously this inquiry should explore all the ways the government can better help individuals and
+communities in a future pandemic - even the best-managed pandemic will have terrible
+consequences. That’s why I think the main goal should be pandemic prevention.
+
+During the pandemic, I was in the process of finishing my degree majoring in Bioinformatics. It
+completely befuddled me why this amazing technology existed and me - an undergraduate - was
+using it but it couldn’t be adopted in the biggest health emergency of the century.
+
+If we don’t have novel pathogen early detection, there will be a “Disease X” pandemic
+
+Due to the exponential nature of case numbers in pandemics, time is a precious commodity. For
+example, Measles is highly contagious, with an RO ranging from 12 to 18. This means that, on
+average, one person with measles can infect 12 to 18 others in a fully susceptible population. If, on
+average, each person with measles infects 15 others, after one generation, there would be 15
+cases. After two generations, there would be 15 x 15 = 225 cases, three generations = 15 x 15 x
+15 = 3,375 cases, four generations 50,625 cases, five generations 759,375 and so on.
+
+Detecting a novel pathogen                   a
+after three generations of                           6,000
+                                                                                                  - One week earlier
+transmission rather than
+                                                                                                  -Two weeks earlier
+four generations, might be                                                 Lockdown 1
+                                                                          weeks earlier           - Three weeks earlier
+the difference between a                                                        16 JAN
+                                              cn                                                  - Actual timing
+localised outbreak and                        o
+                                              cn     4,000
+                                              cn
+millions of excess deaths,                    o                               d onliru
+billions of dollars in                        o
+                                                                        Lockdown 2
+economic losses, and                                                   weeks earlier
+                                                                              9 JAN
+years of ill-wellbeing due to
+                                                     2,000            Lockdown 3 |
+being a global pandemic.                                             weeks earlier ।
+                                                                            2 JAN|
+Modelling has suggested                       Estimated first        Local health I
+                                                   infection
+that if Wuhan had locked                             17 NOV
+down one (16 Jan), two (9
+Jan) or three weeks (2 Jan
+or 2 days after
+                                                                 Dec          Jan          Feb           Mar          Apr           May
+epidemiological alert) earlier,
+cases of COVID-19 could                                                             Month (2019-2020)
+                                          Annotated plot from Shengjie Lai and others. ’Effect of Non-Pharmaceutical Interventions to Contain
+have been reduced by 66%,               COVID-19 in China' (2020) 585 Nature 410. Grey and yellow annotations from the authors of this submission.
+
+
+86% or 95% respectively.1
+
+We expect Wuhan to have done better but could Australia really have done better if we were in their
+place? I would argue no simply because we have public health sequencing capacity materially similar to
+theirs. If a pathogen emerges in Australia, we would undergo the same process. Doctors would see
+case upon case with similar but undiagnosed symptoms until someone figured (in an adhoc way) that
+it’s time to figure out what bug is causing all the illness. By that time there could be thousands of cases
+in Australia and it is impossible to achieve zero community transmission.
+
+
+Recommendations
+    1.   Fund the Australian CDC to support a portfolio of diagnostics that for early detection
+         and are rapidly scalable in a “Disease X” outbreak
+
+Investing in the right mix of technologies for “Disease X” will be important. When the cost, time and
+resource requirements for pathogen agnostic diagnostics come down, they may supplant pathogen
+specific diagnostics entirely despite the transition costs. This is not only because of their ability to
+identify a “Disease X’ but also the depth of clinical information that they can provide. Until then we
+will need cheap, fast, simple preliminary diagnostics that rule out common illnesses to complement
+pathogen agnostic diagnostics.
+
+Pathogen agnostic diagnostics: Metagenomic sequencing
+Currently, metagenomic sequencing (mNGS) is the only technology capability that can identify a
+novel pathogen and its whole genome sequence. It works by sequencing all the DNA or RNA
+fragments in a sample, and then assembling those fragments into larger ones. Large enough
+fragments can be compared with existing databases of pathogens to identify if it is novel and what
+its closest relative is. Knowing the exact DNA/RNA sequence of the genome is key to developing
+vaccines, innovating medical countermeasures, and tracking new viral variants.
+
+Pathogen specific diagnostics: Rapid multiplexed diagnostics
+PCR was the main diagnostic technology throughout the COVID-19 pandemic and. It is the current
+gold standard. However, other promising technologies have simpler sample preparation, use less
+reagents, don't require heat cycling and can test many more samples for many more pathogens at
+a time. The Bipartisan Commission on Biodefense’s Apollo Program for Biodefense2 advocates for
+massively multiplexed detection capabilities such as assays that use CRISPR-based microfluidics,3
+semiconductor biochips,4 multiplexed PCR arrays5 and cross-hybridisation of highly conserved
+sequence motifs.6
+
+Crucially, some diagnostics like the CRISPR-based SHERLOCK assay7are programmable and
+could be conceivably designed and tested in a week after the sequence of “Disease X” is known. It
+also uses ubiquitous well plates that can be stockpiled. Most importantly it is also very
+high-throughput, providing results for 5000 patient samples per day (24 h) based on a single liquid
+handling robot. As with PCR,8 5 samples may be pooled together while infection prevalence is still
+low to further increase testing throughput. This could mean 25,000 tests per day per robot.
+
+
+
+    2. Deploy a “Threat Net”-like clinical mNGS architecture and routinely screen/diagnose
+       a sample of ILI in the next 10 years
+
+A pandemic pathogen is likely to be highly transmissible, capable of causing great death and
+disruption to society, and unknown to the immune systems of current people. ILIs are often caused
+by respiratory viruses which score highly on each of these criteria.9 Respiratory pathogens are
+readily spread by close contact, aerosols in the air and droplets, making quarantine of sick people
+difficult. Viruses also mutate faster than other pathogens, making it possible for them to evade the
+immune system multiple times (e.g. contracting the delta strain of SARS-CoV-2 did not completely
+protect against the omicron strain). This increases the costs to society in terms of both deaths and
+disruption.
+
+For these reasons, the next global pandemic is likely to also be a respiratory virus. Monitoring this
+subset of diseases is therefore likely to cover a majority of future pandemic risk. Furthermore ILIs
+may not be a self limiting cold virus but a more serious illness such as Meningitis, HIV or Strep
+throat.10 Furthermore, an Australian study has shown that testing for flu does result in a decrease
+of inappropriate antibiotic use, limiting the development of antimicrobial resistance and an increase
+in appropriate antiviral use.11 Antimicrobial resistance is driven by overuse of antibiotics and it is
+estimated that more than 10,000 Australians will die as a result of antimicrobial resistance between
+2015 and 2050.12
+
+Sharma et al (2023) Threat Net: A Metagenomic Surveillance, Health Security estimates that for
+$400-800 million it would have a 95% change of detecting a novel SARS-CoV-2 like respiratory
+pathogen after 10 emergency department presentations and 79 infections across the US.13
+
+   3. Assign the CDC the responsibility and funding to design and implement a “Disease
+      X” early detection system. Use this system in peace time for routine functions like
+      data to improve the National Notifiable Diseases Surveillance System (NNDSS)
+
+Clinical metagenomics would only be part of a robust sequencing based public health system.
+Depending on what sort of pathogen “Disease X” is, clinical metagenomics might not always be the
+best to detect disease. The pre-print by Liu et al (2023) Quantitatively assessing early detection
+strategies for mitigating COVID-19 and future pandemics14 estimates that hospital monitoring could
+have detected COVID-19 -1000 cases earlier. However, wastewater surveillance could provide an
+early warning for pandemics with long incubation periods like HIV and air travel monitoring does
+best for diseases with low fecal shedding and when hospitalisation time and R0 is very high.
+Accordingly there should be a national strategy to iterate towards an early detection system that
+gets this mix of technologies and sampling methods right.
+
+The other challenge with an early detection system is ensuring it is funded into perpetuity. Liang et
+al (2023) Managing the Transition to Widespread Metagenomic Monitoring: Policy Considerations
+for Future Biosurveillance, Health Security outlines a number of policy obstacles that need to be
+overcome for a public health monitoring system with sequencing as it’s backbone to be successful
+over the next decades. Therefore, I would expect that such a system needs to be useful not just in
+a crisis but also in ‘peace-time’, therefore I would urge the CDC to make this system be useful for
+providing data to the National Notifiable Diseases Surveillance System (NNDSS).
+
+In conclusion, I think Australia can and needs to be ambitious with integrating genome sequencing
+into the public health and diagnostic systems of health and medicine. We also need to figure out
+how to fund this system into perpetuity as a detection system can’t bounce between being funded
+and not funded at the whims of the political cycle. Simply, the costs of pandemics are too high, why
+not spend a fraction of those costs on prevention. Just in the way that fires are inevitable but out of
+control wildfires aren’t, novel pathogen outbreaks may be inevitable but outbreaks escalating into
+pandemics aren’t. It’s time we take pandemic prevention as seriously as bushfire prevention.
+
+Yours faithfully,
+Chelsea Liang
+Citations
+1. Lai, S., Ruktanonchai, N. W., Zhou, L., Prosper, O., Luo, W., Floyd, J. R., Wesolowski, A.,
+       Santillana, M., Zhang, C., Du, X., Yu, H., & Tatem, A. J. (2020). Effect of
+       non-pharmaceutical interventions to contain COVID-19 in China. Nature, 585(7825), Article
+       7825. https://doi.org/10.1038/s41586-020-2293-x
+2. The Apollo Program for Biodefense—Winning the Race Against Biological Threats, (n.d.).
+       Bipartisan Commission on Biodefense. Retrieved 13 January 2023, from
+       https://biodefensecommission.org/reports/the-apollo-program-for-biodefense-winning-the-ra
+       ce-against-biological-threats/
+3. Welch, N. L., Zhu, M., Hua, C., Weller, J., Mirhashemi, M. E., Nguyen, T. G., Mantena, S., Bauer,
+       M. R., Shaw, B. M., Ackerman, C. M., Thakku, S. G., Tse, M. W., Kehe, J., Uwera, M.-M.,
+       Eversley, J. S., Bielwaski, D. A., McGrath, G., Braidt, J., Johnson, J., ... Myhrvold, C.
+       (2022) . Multiplexed CRISPR-based microfluidic platform for clinical testing of respiratory
+       viruses and identification of SARS-CoV-2 variants. Nature Medicine, 28(5), Article 5.
+       https://doi.Org/10.1038/S41591 -022-01734-1
+4. Hassibi, A., Manickam, A., Singh, R., Bolouki, S., Sinha, R., Jirage, K. B., McDermott, M. W.,
+       Hassibi, B., Vikalo, H., Mazarei, G., Pei, L., Bousse, L., Miller, M., Heshami, M., Savage, M.
+       P., Taylor, M. T, Gamini, N., Wood, N., Mantina, P., ... Schoolnik, G. (2018). Multiplexed
+       identification, quantification and genotyping of infectious agents using a semiconductor
+       biochip. Nature Biotechnology, 36(8), 738-745. https://doi.org/10.1038/nbt.4179
+5. Palacios, G., Quan, P.-L., Jabado, O. J., Conlan, S., Hirschberg, D. L., Liu, Y, Zhai, J., Renwick,
+       N., Hui, J., Hegyi, H., Grolla, A., Strong, J. E., Towner, J. S., Geisbert, T. W., Jahrling, P. B.,
+       Buchen-Osmond, C., Ellerbrok, H., Sanchez-Seco, M. P., Lussier, Y, ... Lipkin, W. I. (2007).
+       Panmicrobial Oligonucleotide Array for Diagnosis of Infectious Diseases. Emerging
+       Infectious Diseases, 13(V), 73-81. https://doi.org/10.3201/eid1301.060837
+6. Wang, D., Urisman, A., Liu, Y-T, Springer, M., Ksiazek, T. G., Erdman, D. D., Mardis, E. R.,
+       Hickenbotham, M., Magrini, V., Eldred, J., Latreille, J. P., Wilson, R. K., Ganem, D., &
+       DeRisi, J. L. (2003). Viral Discovery and Sequence Recovery Using DNA Microarrays.
+       PLOS Biology, 1(2), e2. https://doi.org/10.1371/journal.pbio.0000002
+7. Manning, B. J., Khan, W. A., Pena, J. M., Fiore, E. S., Boisvert, H., Tudino, M. C., Barney, R. E.,
+       Wilson, M. K., Singh, S., Mowatt, J. A., Thompson, H. J., Tsongalis, G. J., & Blake, W. J.
+       (2022). High-Throughput CRISPR-Cas13 SARS-CoV-2 Test. Clinical Chemistry, 68(1),
+       172-180. https://d0i.0rg/l0.1093/clinchem/hvab238
+8. Garg, J., & Garg, A. (2021). Evaluation of SARS CoV-2 RT-PCR in a multiple sample pool. The
+       Indian Journal of Medical Research, 753(5-6), 699-700.
+       https://doi.org/10.4103/ijmr.IJMR_4282_20
+9. Mitigating Future Respiratory Virus Pandemics: New Threats and Approaches to Consider.
+       (n.d.). Retrieved 15 March 2023, from https://www.mdpi.eom/1999-4915/13/4/637
+10. Flu-Like Symptoms: Other Illnesses That Mimic the Flu. (n.d.). GoodRx. Retrieved 9 June
+       2023, from
+       https://www.goodrx.com/conditions/flu/conditions-illnesses-with-flu-like-symptoms
+11. Au Yeung, V., Thapa, K., Rawlinson, W., Georgiou, A., Post, J. J., & Overton, K. (2021).
+       Differences in antibiotic and antiviral use in people with confirmed influenza: A retrospective
+       comparison of rapid influenza PCR and multiplex respiratory virus PCR tests. BMC
+       Infectious Diseases, 21(1), 321. https://doi.org/10.1186/s12879-021-06030-w
+12. New report on antimicrobial use and resistance in Australia | Australian Commission on Safety
+       and Quality in Health Care. (n.d.). Retrieved 9 June 2023, from
+       https://www.safetyandquality.gov.au/about-us/latest-news/media-releases/new-report-antimi
+       crobial-use-and-resistance-australia
+13. Sharma, S., Pannu, J., Chorlton, S., Swett, J. L., & Ecker, D. J. (2023). Threat Net: A
+       Metagenomic Surveillance Network for Biothreat Detection and Early Warning. Health
+       Security, 21(5), 347-357. https://doi.org/10.1089/hs.2022.0160
+14. Liu, A. B., Lee, D., Jalihal, A. P., Hanage, W. P., & Springer, M. (2023). Quantitatively assessing
+       early detection strategies for mitigating COVID-19 and future pandemics (p.
+       2023.06.08.23291050). medRxiv. https://doi.org/10.1101/2023.06.08.23291050
+

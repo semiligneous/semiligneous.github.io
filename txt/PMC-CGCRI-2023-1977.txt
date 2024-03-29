@@ -1,0 +1,682 @@
+                                                                            www.inclusionaustralia.org.au
+        Inclusion Australia                                               admin@inclusionaustralia.org.au
+
+                                                                                            1300 312 343
+
+                                                                    P0 Box 336, Nunawading, Victoria 3131
+19 December 2023
+
+Dear Robyn Kruk AO, Professor Catherine Bennett, and Dr Angela Jackson,
+
+Re: Commonwealth Government COVID-19 Response Inquiry
+
+
+Inclusion Australia is the national Disability Representative Organisation representing the
+rights and interests of Australians with an intellectual disability and their families. Founded in
+1954, our mission is to work to make sure people with an intellectual disability have the same
+opportunities as people without disability. Our policy team includes several policy officers
+with an intellectual disability and our policy and advocacy work is directly shaped by people
+with an intellectual disability and their families.
+Inclusion Australia's strength comes from our state members who use their combined
+experience and expertise to promote the inclusion of people with an intellectual disability.
+Our state members are:
+    •      Developmental Disability Western Australia (DDWA) - Western Australia
+    •      NSW Council for Intellectual Disability (CID) - New South Wales
+    •      Parent to Parent (P2P) - Queensland
+    •      South Australian Council on Intellectual Disability (SACID) - South Australia
+    •      Speak Out Advocacy-Tasmania
+    •      Victorian Advocacy League for Individuals with Disability (VALID) - Victoria
+For more than two years we have had a Northern Territory branch of Inclusion Australia based
+in Darwin. Our work in the Northern Territory is informed by a Local Steering Group that
+includes representatives from advocacy and other territory-based organisations.
+Thank you for the opportunity to provide a submission to the Commonwealth Government's
+COVID-19 Response Inquiry.
+
+We do not have capacity to undertake extensive consultation with our community to shape
+our response and provide detailed recommendations, but the COVID-19 pandemic and
+governments' responses have had a considerable impact on the lives of people with an
+intellectual disability and their families. We would like to share previous work we have done
+on this important topic, and outline a range of evidence to the Independent Panel
+highlighting that:
+
+    •   People with an intellectual disability were—and continue to be—disproportionately
+        impacted by the COVID-19 pandemic
+
+    •   The vulnerabilities of the healthcare and income support systems in Australia
+        revealed and exacerbated by the pandemic (though many of those vulnerabilities far
+        pre-dated the pandemic itself) put the lives and livelihoods of people with an
+        intellectual disability at tremendous and disproportionate risk.
+
+Based on this, we wish to strongly recommend to the Independent Panel that the Inquiry
+consider the distinct ways the COVID-19 pandemic impacted people with an intellectual
+disability and their families, and include specific measures aimed to address these issues
+in your recommendations to the Department of Prime Minister and Cabinet in relation to
+response measures in the event of future pandemics.
+
+Our previous advocacy in relation to the Australian Government's COVID-19 vaccine
+national rollout strategy comprises the following, including a range of decision-making
+resources for people with an intellectual disability:
+
+•   Barriers to COVID-19 vaccination for people with an intellectual disability
+•   Disability Royal Commission—written statement of Catherine McAlpine, CEO of Inclusion
+    Australia
+•   Disability Royal Commission—written statement of Kevin Stone, CEO of the Victorian
+    Advocacy League for Intellectual Disability (VALID)
+•   Media release—People with disability need urgent action on vaccines to stay safe from
+    COVID
+•   COVID Vaccine - Yes or No - How to Decide: a decision-making resource for people with
+    an intellectual disability
+•   Living with COVIC—an animation by Inclusion Australia and Speak Out
+•   Free COVID-19 vaccine rollout webinars
+•   Disability advocate shares her COVID vaccine experience
+•   'Left in lockdown'—People with disability call for a COVID Recovery Plan.
+
+We believe the evidence provided in our submission, and in the resources listed above, will
+help the Panel to consider the unique ways the COVID-19 pandemic, and the
+Commonwealth Government's response to it, impacted people with an intellectual disability
+and their families. As the World Health Organisation noted in 2020:
+
+
+
+
+We strongly agree with this statement, especially its aspiration that the COVID-19 pandemic
+should be used as an opportunity to address the inequities faced by people with an
+intellectual disability in any future pandemic response and recovery plans and build a
+more inclusive society as a whole.
+
+
+
+
+                                                2
+We also note that the findings of the COVID-19 Response Inquiry will be relevant to the
+development of the new Australian Centre for Disease Control (CDC). We believe the
+evidence contained in this submission will be essential to the development of the CDC in
+ensuring it is fit for purpose and appropriately targeted in its scope and activities.
+
+Thank you again for considering our submission. We warmly invite any further opportunities
+to consult on any of the issues raised in this letter.
+
+Kind regards,
+
+
+
+
+Catherine McAlpine
+Chief Executive Officer
+
+
+
+
+                                                 3
+         Inclusion Australia
+
+
+Submission to the Commonwealth Governments
+COVID-19 Response Inquiry
+
+
+Contents
+
+ A note on accessibility.......................................................................................................... 5
+ Background........................................................................................................................... 6
+    Health and economic inequities....................................................................................... 6
+
+    Poorer access to primary health and mental health care................................................. 7
+    Lack of training among healthcare professionals.............................................................. 8
+    Higher cost of living pressures and financial hardship...................................................... 8
+    Income support for people with an intellectual disability................................................ 9
+ How the COVID-19 pandemic disproportionately impacted people with an intellectual
+ disability and their families................................................................................................ 10
+    1.           Direct health risk............................................................................................... 10
+    2.           Disability workforce issues............................................................................... 11
+    3.           Lack of coordination between state, territory and federal governments.........12
+    4.           The increased risk of human rights breaches during the pandemic................. 14
+    5. Lack of accessible information and access to supported decision-making for people
+    with an intellectual disability.......................................................................................... 14
+A note on accessibility
+Given the impact of the COVID-19 pandemic on people with an intellectual disability and
+their families, this inquiry is very important to our community. We wish to note that it
+would be very valuable that, when public, the report to the Department of Prime Minister
+and Cabinet be translated into an accessible format, ideally Easy Read.
+
+This will ensure our community can engage with your findings and understand how any
+response measures in the event of future pandemics may impact their experiences. We
+sincerely thank the Independent Panel members in advance for this, and warmly invite any
+further conversations on how to implement these inclusive practices if that would be useful.
+
+
+
+
+                                              5
+ ackground
+During and since the COVID-19 pandemic, people with an intellectual disability—having
+already been much less likely to access healthcare or to participate and be included in the
+community, as we discuss below—were disproportionately affected by its health, social and
+economic impacts. This highlighted key vulnerabilities in the systems designed to care for
+them.
+
+We understand the current inquiry is focussed on the Commonwealth Government's
+response to the COVID-19 pandemic, and not the operations of the health or social security
+system in their entireties.
+
+However, we believe it is crucial to highlight the ways the inequities perpetuated by these
+systems, many of which predated the pandemic itself, impacted people with an intellectual
+disability during the pandemic, especially in relation to Australia's healthcare and income
+support systems—two important aspects of the Inquiry's Terms of Reference.
+
+As the national voice for people with an intellectual disability, we continue to call on all
+Australian governments—as we did throughout the pandemic—to acknowledge that people
+with an intellectual disability must be recognised and supported as 'vulnerable persons' for
+the purposes of COVID-19 planning. This requires all government agencies and government
+funded service providers to recognise and act on the fact that, as people made significantly
+more vulnerable by a range of systemic failures, people with an intellectual disability have
+distinct needs that require additional support. This must be considered and appropriately
+planned for in any future pandemic plans and responses made by the Commonwealth
+Government, including through targeted, sustainable funding.
+
+Health and economic inequities
+About 1.8% of the Australian population have an intellectual disability, or around 450,000
+people.1 There is a growing body of evidence that shows that people with an intellectual
+disability experience many barriers to accessing healthcare services—including oral
+healthcare and mental health services—and that these services are generally not inclusive.
+These barriers include:
+
+    •   Health professionals' lack of understanding of intellectual disability, and lack of
+        implementation of human-rights, inclusive and evidence-based approaches within
+        healthcare settings
+
+    •   Negative attitudes or assumptions about people with an intellectual disability,
+        including a false assumption that some people with an intellectual disability cannot
+        make decisions or give informed consent
+
+
+
+1 UNSW Department of Developmental Disability Neuropsychiatry. (2023). ID Health Data Portal. Retrieved
+from: https://idhealthdataportal.unsw.edu.au/about
+
+
+
+                                                     6
+    •         Lack of flexibility and reasonable adjustments to meet a person's needs
+
+    •    A siloed approach to healthcare management that does not recognise the
+         complexity of health-related issues that people with an intellectual disability may
+         experience, which may involve accessing care from several departments that do not
+         interface well.
+
+Poorer access to primary health and mental health care
+As a result of the lack of inclusivity within healthcare services generally, research shows that
+people with an intellectual disability experience significantly poorer health outcomes
+compared to other people with disability and people without disability, including:
+
+    •         More than twice the rate of avoidable deaths
+
+    •         Twice the rate of emergency department and hospital admissions
+
+    •    Substantially higher rates of physical and mental health conditions—while
+         simultaneously lower rates of detection of illness, particularly of mental illness
+
+    •    Significantly lower rates of preventative healthcare and underdiagnosis of chronic
+         and acute health conditions.2
+                                     3
+
+In terms of mental health—which is an important aspect of the COVID-19 Response
+Inquiry's terms of reference—it is estimated that more than half (57%) of people with an
+intellectual disability also have a mental health condition.4 However, across Australian
+states and territories, people with an intellectual disability are largely excluded from mental
+health policy and not recognised in healthcare settings as having an increased risk of
+experiencing mental ill-health.5*
+
+
+
+2                              2019). Health Inequality and People with Intellectual Disability—Research Summary.
+Retrieved from: https://cid.org.au/wp-content/uploads/2019/07/Research-Analysis-Health-Status-of-People-
+With-lntellectual-Disability.pdf
+3 Inclusion Australia. (2020). Inclusion Australia's Response to the issues paper on healthcare for people with
+cognitive disability, p. 4. Retrieved from: https://www.inclusionaustralia.org.au/wp-
+content/uploads/2021/10/Our-Submissions 2020 OS Submission-to-the-DRC-on-healthcare-for-people-with-
+intellectua l-disa bility. pdf
+Inclusion Australia. (2020). Submission to the Disability Royal Commission - The Omnibus, p. 51-54. Retrieved
+from: https://www.inclusionaustralia.org.au/submission/submission-to-the-drc-the-omnibus/
+41(2019). Health Inequality and People with Intellectual Disability—Research Summary.
+Retrieved from: https://cid.org.au/wp-content/uploads/2019/07/Research-Analysis-Health-Status-of-People-
+With-lntellectual-Disability.pdf
+5H^^■^^^^■^^^^■^^■■^^^■(2018). Making Mental Health Policy Inclusive of
+People with Intellectual Disability. University of New South Wales.
+www.3dn.unsw.edu.au/sites/default/files/documents/MHID%20Policy%20Review%20Report_final_new%20
+template.pdf;
+                                                            | 2019). Access to mental health services: The
+experiences of people with intellectual disabilities. Journal of Applied Research in Intellectual Disabilities,
+32(2), 368-379. https://doi.org/10.llll/jar.12533
+
+
+
+                                                        7
+Additionally, diagnostic overshadowing is a significant barrier for people with an intellectual
+disability to receive appropriate support for mental ill-health. This is the tendency for
+medical practitioners to consider expressions of pain (including psychological pain) as
+'behaviour' or attributable to a disability diagnosis, rather than a clinical issue requiring
+treatment.6
+
+Lack of training among healthcare professionals
+This is a critical consequence of the widespread lack of understanding and skills of many
+health professionals in treating people with an intellectual disability, which contributes to
+the shorter life expectancy and high rates of preventable deaths among people with an
+intellectual disability.
+
+Indeed, it is now well understood that training on the health of people with an intellectual
+disability in Australian university medical and nursing schools is very low, containing:
+
+     •         A median of 2.6 hours' compulsory content across 12 medical schools
+
+     •   No intellectual disability content in 52 percent of nursing schools and very limited
+         content overall.7
+
+Higher cost of living pressure and financial hardship
+Lastly, it is well evidenced that Australians with disability face higher cost of living pressures
+than people without disability and are more likely to have a lower level of personal income.8
+People with disability also experience higher rates of poverty than those without disability.9
+
+The National Centre for Social and Economic Modelling (NATSEM) has estimated the extra
+costs of living for households with a member with disability compared with households with
+similar characteristics but with no member with disability.10 They found that:
+
+
+
+                                                                                      Adults with intellectual
+disabilities and mental health disorders in primary care: a scoping review, British Journal of Genera! Practice,
+72(716): el68-el78(2019). Diagnostic overshadowing in learning disability:
+think beyond the disability. Progress in Neurology and Psychiatry, 23(2);^^^^^^^^^^(2004). 'Diagnostic
+Overshadowing' Amongst Clinicians Working with People with Intellectual Disabilities in the UK. Journal of
+Applied Research in Intellectual Disabilities, 17(2): 85-90.
+              et al. (2016). Intellectual disability health content within medical curriculum: an audit of what our
+future doctors are taught. BMC Medical Education 16 (105):
+8 Australian Institute of Health and Welfare. (2022). People with disability in Australia. Retrieved from
+https://www.aihw.gov.au/reports/disabilitv/people-with-disability-in-australia
+9 According to a report published by UNSW and the Australian Council of Social Service, 1 in 6 people with
+disability were living in poverty, compared with just 1 in 10 Australians without disability. See:
+                                                           | (2018), Poverty in Australia 2018. ACOSS/UNSW Poverty
+and Inequality Partnership Report No. 2, Sydney: ACOSS.
+10^^^^M(2019). Inequalities in Standards of Living: Evidence
+for Improved Income Support for People with Disability. NATSEM, Institute for Governance and Policy Analysis,
+University of Canberra. Report commissioned by the Australian Federation of Disability Organisations.
+September 2019.
+
+
+
+                                                         8
+    •    Households with an adult with profound or severe disability need an extra $173 per
+         week on average over and above their 2015-16 net income, and
+
+    •    Households with an adult with mild or moderate disability need an extra $87 per
+         week on average.
+
+In 2021, the Centre for Research Excellence in Disability and Health reported on the
+intersection of disability and socioeconomic hardship. In this research, more than one in
+three people with disability (34%) reported living in financial hardship compared to 14% of
+people without disability.
+
+The same report also showed that financial hardship is associated with a two-fold increase
+in the experience of violence, regardless of disability status. This means people with
+disability who report living in financial hardship are three times as likely to experience
+violence than people without disability who report no financial hardship.
+
+Income support for people with an intellectual disability
+Recent data from the Australian Institute of Health and Welfare (AIHW) reported that while
+people with disability are as likely as people without disability to have an income, that
+income is far more likely to come primarily from a government payment than from salary or
+wages.11
+
+Among people with disability, people with an intellectual disability are among the least likely
+to receive an income from a wage or salary through employment: 72% of people with an
+intellectual disability's main source of income comes from a government pension or
+allowance, which for most people is the Disability Support Pension (DSP).
+
+
+People with an intellectual disability report that the DSP doesn't cover the basics, such as a
+place to live and food on the table, let alone the additional expenses related to living with
+disability. In addition, any wages that people with an intellectual disability earn from
+employment can impact on the amount they receive from the DSP.12 This means that
+
+
+
+
+1143% or 780,000 people with disability aged 15-64 receive an income that comes primarily from government
+support rather than from salary or wages, compared with 7.9% or 999,000 people without disability. See:
+Australian Institute of Health and Welfare. (2022). People with disability in Australia. Retrieved from
+https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia
+12 When people with an intellectual disability who receive the DSP earn an income, the amount of DSP they
+receive changes. For income over the $190 per fortnight threshold, the DSP is reduced by 50c for each dollar
+earned, known as the taper rate. If a person who receives the DSP earns over $2,243.00 per fortnight, they will
+receive no DSP income for that fortnight. Both the threshold and the taper rate act as a significant disincentive
+to work.
+Services Australia (January 2023). Income test for pensions. Retrieved from:
+www.servicesaustralia.gov.au/income-test-for-pensions?context=22276
+
+
+
+                                                        9
+people with an intellectual disability live close to the poverty line, according to the latest
+Henderson's measure.13
+
+
+
+How the COVID-19 pandemic disproportionately impacted people with an
+intellectual disability and their families
+It is well understood that people with disability, and specifically people with an intellectual
+disability, are at much greater risk than the general population from the COVID-19
+pandemic.14 This was and remains especially true for people in group residential settings, of
+which people with an intellectual disability—including people with very complex needs—are
+a high proportion.
+
+Increased risks to people with an intellectual disability from COVID-19 are related to:
+
+1.   Direct health risk
+
+People with intellectual disability:
+     •        Have higher mortality and morbidity if infected
+             o Complications from and death rates due to COVID-19 for people with
+                 intellectual and developmental disabilities (IDD) are disproportionately
+                 higher when compared to people without IDD15
+     •   Are more likely to have the pre-existing health problems known to cause severe
+         complications
+             o Many of the risk factors that are associated with severe outcomes from
+                 COVID-19 infection, such as cardiovascular disease, diabetes and chronic lung
+                 disease are common in adults with IDD16
+     •   Are more likely to live in congregate settings which create the conditions for
+         widespread transmission
+     •        Are more likely to face health discrimination
+             o COVID-19 healthcare rationing is already underway internationally, and
+                 rationing rules published by overseas governments have demonstrated
+
+
+
+
+13 Melbourne Institute for Applied Economic and Social Research (2022). Poverty Lines: Australia. Retrieved
+from: Poverty-Lines-Australia-June-2022.pdf (unimelb.edu.au)
+14 The Institute for Health Transformation, Deakin University. 2020. Gathering the Evidence: Data on People
+with Intellectual Disability In Australia—A Report for Inclusion Australia. Retrieved from:
+https://www.inclusionaustralia.org.au/wp-content/uploads/2021/10/Our-Submissions 2020 10 Submission-
+to-the-DRC-on-Data-on-lntellectual-Disability.pdf
+15 American Academy of Developmental Medicine and Dentistry. 2020. COVID-19 Support Guidelines White
+Paper. Retrieved from: https://www.aadmd.org/white-paper
+16 Ibid.
+
+
+
+                                                    10
+                   increased use of Do Not Resuscitate Orders for people with intellectual
+                   disability and limiting access to hospitals and ventilators17
+             o There is an underlying, pervasive and often unquestioned devaluing of
+                   people with disability that is termed 'ableism'. Given the greater risks faced
+                   by older people with disability and First Peoples with disability, when ableism
+                   intersects with ageism and/or or racism, it can result in aggravated forms of
+                   discrimination and specific human rights violations that often mean lower
+                   quality services, particularly when resources are scarce18
+             o The 'invisibility' of people with disability, including intellectual disability is
+                   demonstrated in the recent acknowledgement by Australia's Deputy Chief
+                   Medical Officer of the absence of consideration of people with disability in
+                   the Federal Government's initial COVID-19 Pandemic planning and in the fact
+                   that the Commonwealth Department of Health lacks an area with
+                   responsibility for the health of people with disabilities.19
+
+2. Disability workforce issues
+
+
+    •   The National Disability Services' Australian Disability Workforce Report (February
+        2018)20 highlighted that the disability workforce had a large and growing casual
+        workforce compared to other industries, resulting in high turnover and increased
+        quality risks.
+    •   The report, which was written pre-COVID-19, confirms the distinctive character of
+        the disability workforce: a majority female, mainly part-time group of workers, over
+        two-fifths of whom are casually employed.
+    •   The report advocated for increased funding to support high-quality jobs, which
+        would allow the sector to retain a skilled and experienced workforce.
+    •   The casual nature of the workforce in aged care settings has been acknowledged as a
+        significant risk vector for COVID-19 as it has meant that workers often need to work
+        across multiple facilities to earn a living wage.
+    •   Between May and June 2020, the Centre for Health Equity at Melbourne University
+        conducted a national online survey of Disability Support Workers (DSWs). The
+
+
+lz    ^^^^12020. 'Doctors facing grim choice over ventilators told to put patients with disabilities at the
+back of the line'. The Conversation. Retrieved from: https://theconversation.com/doctors-facing-grim-choice-
+over-ventilators-told-to-put-patients-with-disabilities-at-the-back-of-the-line-134884
+18 Statement of Concern: COVID-19: Human rights, disability and ethical decision-making. Retrieved from:
+https://dpoa.org.au/wp-content/uploads/2020/04/Statement-of-Concern-COVID-19-Human-rights-disability-
+and-ethical-decision-making Final.pdf
+     ^^^|2020. 'Health bureaucrat tells royal commission people with disabilities not mentioned in
+coronavirus plan'. ABC News. Retrieved from: https://www.abc.net.au/news/2020-08-21/people-with-
+disability-not-mentioned-government-covid-19-plan/12581858
+20 National Disability Services. 2018. Australian Disability Workforce Report. Retrieved from:
+https://www.nds.org.au/policy-library/australian-disability-workforce-report-second-edition-highlights-
+workforce-risksl
+
+
+
+                                                     11
+        results, as summarised in a report titled Disability Support Workers: The Forgotten
+        Workforce in COVID-19,21 found that of DSWs:
+             o 53% provided support with tasks that require close personal contact like
+                 feeding and brushing teeth
+             o 23% had not received any COVID-19 infection control training
+             o Of the 77% who did receive training, 48% would like more
+             o 64% had received or purchased some form of personal protection equipment
+                 (PRE). More than half (54%) received gloves and 37% masks from their
+                 employer. Notably, 38% purchased their own masks
+             o 23% had been tested for COVID-19 infection and 11% wanted to be tested
+             o 14% worked for more than one provider and six per cent worked in both the
+                 aged-care and disability sector
+             o 30% worked in two or more settings, and 14% worked in three or more
+                 settings
+             o 27% cancelled shifts because they were worried about COVID-19 infection
+                 and 35% had shifts cancelled by clients or employers due to fear of COVID-19
+             o 16% reported high psychological distress levels consistent with serious
+                 probable mental illness; 22% of workers experiencing financial stress had
+                 probable mental illness, compared to 14% among those who did not report
+                 financial problems.
+             o The researchers made a number of recommendations, including:
+                     ■    updating PRE guidelines
+                     ■    proactively reaching out to DSWs so they can receive the required
+                         training
+                     ■    ensuring they have access to pandemic leave
+                     ■    making sure expert health staff can provide back-up if needed.
+
+3. Lack of coordination between state, territory and federal governments
+
+
+    •   Our community's experience was that people with disability—and especially people
+        with an intellectual disability—were not recognised or sufficiently including in the
+        Commonwealth Government's public messaging about the COVID-19 pandemic or
+        the response. While the needs and experiences of people with disability were
+        discussed by state first ministers, we did not hear this community being
+        acknowledged by the Prime Minister during his press conferences, and our
+        community was not consulted in any meaningful way about their experiences and
+        the solutions needed.
+
+
+
+21 University of Melbourne. 2020. Disability Support Workers: The Forgotten Workforce in COVID-19. Retrieved
+from: https://mspgh.unimelb.edu.au/centres-institutes/centre-for-health-equity/about-us/forgotten-
+
+
+
+
+                                                     12
+    •   As such, the pandemic starkly demonstrated how little governments—at every
+        level—knew about the experiences, needs and rights of people with disability.
+    •   Key among these 'unknowns' was where people with an intellectual disability were
+        physically living and how they could be reached in an emergency. By and large, the
+        government had no way of communicating with this cohort.
+    •   We know that many people with an intellectual disability live in group homes run by
+        large service providers: if those providers were registered under the NDIS, then the
+        government had a means of communication. However, government had no way of
+        reaching people living in unregistered Supported Independent Living (SIL)
+        arrangements or other informal housing arrangements like boarding houses.
+    •   This meant that one of the only ways for governments to communicate was via state
+        guardians (for those under guardianship orders). It emerged that for many people
+        this meant communication by post only, which meant weeks before people could
+        receive and respond to communications.
+    •   There was no alternative mechanism devised by government to communicate
+        effectively (not least in accessible formats) with people with an intellectual disability
+        (see #5 below).
+    •   Noting the recently released recommendations from the NDIS Review—particularly
+        Recommendation 17 in relation to the new model for the regulation of providers22—
+        we recommend baseline enrolment (including ABN and registered address) for all
+        organisations providing services funded by the NDIS. This is an important safety
+        measure and risk mitigation measure in the event of other emergencies. We note
+        this recommendation is controversial in the disability community and believe that
+        any further decisions about registration and enrolment practices (other than
+        baseline enrolment) should be developed through a thorough co-design process with
+        Disability Representative Organisations.
+    •   The rollout of the NDIS across Australia created problems with locating the
+        boundaries of responsibility between the different levels of government. These
+        difficulties arose because:
+             o Aged care and disability services have been treated differently by
+                 governments despite having similar funding, health and housing profiles and
+                 risks;
+             o Pre-NDIS, state governments were the disability service provider of last
+                 resort for people with intellectual disabilities and took responsibility for
+                 ensuring access to health, housing and support. During the pandemic, it was
+
+
+
+
+22 NDIS Review. 2023. Working together to deliver the NDIS: Independent Review into the National Disability
+Insurance Scheme. Retrieved from:
+https://www.ndisreview.gov.au/sites/default/files/resource/download/working-together-ndis-review-final-
+report.pdf. Pages 215-217.
+
+
+
+                                                     13
+               unclear who is accountable for emergency disability support worker
+               assistance in a pandemic; and
+           o In the absence of clearly articulated and considered government guidelines,
+               service providers were left to make critical decisions on behalf of people with
+               intellectual disabilities, placing both individuals and service providers at risk.
+
+4. The increased risk of human rights breaches during the pandemic
+
+
+   •   The United Nations Convention on the Rights of Persons with Disabilities (UNCRPD),
+       which was ratified by Australia in 2008, affirms that people with disability are
+       entitled to the human rights due all human beings on an equal basis.
+   •   The UNCRPD states that people with disability should enjoy the highest attainable
+       standard of health, and be provided with health care and health services without
+       discrimination.
+   •   The UNCRPD also outlines that health care should be provided on the basis of free
+       and informed consent, and there should be no discriminatory denial of health care,
+       health services and food or fluids on the basis of impairment.
+   •   During the pandemic, we expressed concern that supported decision-making for
+       health choices and access to services as a result of COVID-19 arrangements has
+       become non-existent for many people with intellectual disability.
+   •   We were especially concerned that disability services were making decisions on
+       behalf of people who do not have family or access to other advocacy support.
+   •   During the pandemic, we also heard that many disability services were justifying
+       restrictive practices, such as limiting visitors, outings and participation in other
+       activities under the guise of precautionary welfare measures.
+   •   There was a lack of oversight required to ensure any such decisions are necessary,
+       lawful, and not in breach of human rights legislation.
+   •   We also raised concerns that any such restrictive practices put into place in the
+       name of pandemic protection may outlast the current pandemic and mean people
+       with intellectual disability are denied their rights to enjoy the same freedoms,
+       choices and quality of life as other Australians.
+
+5. Lack of acoessible information and access to supported decision-making for people with
+an intellectual disability
+   •   People with an intellectual disability have a much lower level of health literacy
+       compared to the general population.23 This is especially true for people with
+
+
+
+
+23^|| et al. (2021). Promoting health literacy in people with intellectual disabilities via
+explanatory videos: scoping reviews, Health Promotion International 193,
+https://doi.org/10.1093/heapro/daabl93
+
+
+
+                                               14
+         complex communication support needs, such as those who communicate in ways
+         other than speaking.
+    •    An abundance of Australian and international research has demonstrated that health
+         literacy is an important predictor of health status, and low health literacy is
+         associated with poorer health outcomes.24
+    •    Respectful and inclusive communication and information is a basic requirement for
+        genuine informed consent to be provided by anyone receiving any kind of
+         healthcare. It should be a basic expectation of all healthcare staff when treating
+         people with an intellectual disability.
+    •    One pathway to providing informed consent is through Supported Decision Making.
+         Under Articles 3 and 4 and, more recently, Article 12 of the UNCRPD, which is about
+         equal recognition before the law,25 all people have rights to make their own
+         decisions, including the decision to change their mind.
+    •    Supported decision-making is a way of thinking and relating to others that respects
+         peoples' rights to make their own decisions—it assumes all people have the capacity
+        to make their own decisions to the maximum extent possible.
+    •    Yet the rights of people with an intellectual disability to make their own decisions is
+         often ignored by medical professionals. For example, people with an intellectual
+         disability reported being ignored by medical professional and have their family
+         members or support workers expected to speak for them.26 It is common for
+         information to be withheld from people with an intellectual disability based on the
+         discriminatory assumption—whether intentional or not—that a person does not
+         have the capacity to understand what a procedure involves or what kind of
+        treatment options are available to them, and that they cannot make their own
+         decisions or give informed consent.27
+    •    Further, Inclusion Australia was a member of the Department of Health COVID
+         Comms Working Group throughout and beyond the pandemic.
+    •    In that group, we consistently called for more accessible materials but unfortunately
+         found that progress on creating and disseminating those materials was either very
+         slow or did not happen at all.
+    •    The Easy Read documents that were made available tended to be published long
+         after the originals were made available. They were then very hard to find on the
+         Department of Health website.
+
+
+24^H M., et al. (2020). Health Literacy regarding people with intellectual disability "Our right to a healthier
+future." European Journal of Public Health, 30(Supplement_5). https://doi.org/10.1093/eurpub/ckaal66.473
+25 Article 12 - Equal recognition before the law. United Nations Convention on the Rights of People with
+Disabilities. Retrieved from: Article 12 - Equal recognition before the law | United Nations Enable
+26 Inclusion Australia. (2020). Submission to the Disability Royal Commission -The Omnibus, p. 51-54.
+Retrieved from: https://www.inclusionaustralia.org.au/submission/submission-to-the-drc-the-omnibus/
+27 Inclusion Australia. (2020). Submission to the Disability Royal Commission -The Omnibus. Retrieved from:
+https://www, inclusionaustralia.org.au/submission/submission-to-the-drc-the-omnibus/
+
+
+
+                                                       15
+    •    We also recommended the Department of Health develop short films such as our
+         Living with COVID animation (which was funded through philanthropy). Topics
+         suggested included:
+             o the fear of medical appointments / managing needle-phobia
+             o significant past traumas and anxieties people with an intellectual disability
+                  and families have within the health system over a lifetime of inaccessible
+                  services or traumatic experiences.
+             o the increase in restrictive practices in group homes when COVID-19 was
+                  present
+             o what happens if you contract COVID-19.
+    •    This idea was not taken up by the Department, who instead developed a video
+         featuring people with a range of disabilities but which was not representative of the
+         specific issues people with an intellectual disability were facing (and which continue
+         to be relevant).
+    •    We believe that this was a significant gap in the Commonwealth's COVID-19
+         response, in terms of the provision of accessible information and recognition of the
+         unique needs of people with an intellectual disability, as a subset of people with
+         disability. This is part of a broader dedifferentiation approach by government which
+         contributes to the ongoing invisibility of people with an intellectual disability and to
+         the subsequent development of ineffective policy and practice.28
+
+
+
+
+        notes that: 'For people with intellectual disabilities, dedifferentiation emphasises each individual's
+needs and functional abilities and their membership of the generic group "people with disabilities," rather
+than the impairement-specific group "people with intellectual disabilities.'"^^■(2020). Dedifferentiation
+and people with intellectual disabilities in the Australian National Disability Insurance Scheme: Bringing
+research, politics and policy together. Journal of Intellectual and Developmental Disability. DOI:
+10.3109/13668250.2020.1776852.
+
+
+
+                                                       16
+

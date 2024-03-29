@@ -1,0 +1,124 @@
+COVID-19 Inquiry - Public submission by Krystal Ha
+
+Thank you for the opportunity to make a submission and share my views and experiences about
+the Government’s COVID-19 response.
+
+As a young Australian, I feel like I was especially impacted by COVID-19. It impacted my
+education and relationships and it felt as if my demographic - for social and economic reasons -
+was less well-equipped than many others to handle the hardships.
+
+While the experience has given me a range of views about the ways government can support
+individuals and communities - even the best-managed pandemic will have terrible
+consequences. I think the main goal should be pandemic prevention.
+
+It seems to me that Australia’s governments invest heavily in hazard reduction for other natural
+disasters and are increasing their efforts because of climate change. But I’m not aware of any
+similar investment in reducing the likelihood of pandemics, even though the risk to the average
+Australian seems much higher.
+
+In that context, I’d like to raise a few issues that I think are important and could make sure we’re
+heading in the right direction.
+
+My points address the following Terms of Reference:
+
+   •   Key health response measures (for example across COVID-19 vaccinations and
+       treatments, key medical supplies such as personal protective equipment, quarantine
+       facilities, and public health messaging).
+   •   Broader health supports for people impacted by COVID-19 and/or lockdowns (for
+       example mental health and suicide prevention supports, and access to screening and
+       other preventive health measures).
+   •   Support for industry and businesses (for example responding to supply chain and
+       transport issues, addressing labour shortages, and support for specific
+       industries).
+
+
+
+Indoor air quality could make a big difference, and could be improved by
+adopting emerging technology such as far UV-C
+I believe that the Australian government should create clear codes of practice and standards for
+indoor air quality (IAQ) and introduce regulations for high-risk spaces. Every year, Australians
+fall ill as a result of exposure to airborne pathogens in indoor environments. Some of the most
+vulnerable members of our community, the elderly and immunocompromised, are particularly
+exposed to this risk. Better controls on IAQ would not only help protect us against current and
+future pandemics, but they can also reduce the negative health outcomes caused by other
+hazards like indoor smog, toxic materials, non-pandemic respiratory diseases, and other known
+airborne health hazards.
+
+Despite Australians spending at least 90% of their time indoors, the Australian Department of
+Climate Change, Energy, the Environment and Water highlights that Australia has no specific
+controls on IAQ aside from the limited control specified by Safe Work Australia. Without
+nationalised standards and codes specifying minimum performance requirements for infection
+control, I worry that the nation will default to ineffective interventions that provide little protection
+against pathogens.
+
+Clear and effective codes of practice and standards for IAQ Australia would provide clear
+metrics and targets for air quality with the goal to reduce pathogen transmission. Without clear
+metrics and targets, I worry that manufacturers and innovators will create products that are
+ineffective at cleaning indoor air to suitable levels to reduce pathogen transmission.
+Evidence-based standards for IAQ which are informed by the latest scientific research into
+respiratory disease, air filtration and sanitation, public health, and behavioural science would
+provide the correct regulatory environment to ensure effective IAQ interventions are available to
+the Australian public. Additionally, clear requirements should be specified for high-risk
+environments in which airborne infections are potentially life threatening such as in aged care
+facilities, hospitals, healthcare facilities, and other facilities caring for the immunocompromised.
+
+The Lancet COVID-19 Commission Task Force has proposed Non-infectious Air Delivery Rates
+(NADR) so we now have measurable goals for ventilation and filtration targets that protect
+against infectious disease transmission. The Task Force highlights that, while there is ongoing
+scientific debate over what metrics and targets are optimal, there is agreement that current
+practices are insufficient. I recommend that the Inquiry read the report to gain a better
+understanding of the considerations in setting effective codes and standards for IAQ
+
+IAQ codes and standards could be defined by the Australian Building Codes Board (ABCB) in
+the National Construction Code. The ABCB could draw on the expertise of the Australian
+Commission on Safety and Quality in Health Care and the Australasian Health Infrastructure
+Alliance (AHIA), as well as the existing IAQ work done by the ABCB. ASHRAE Standard 241,
+Control of Infectious Aerosols may also be helpful in informing codes and standards.
+
+I believe that clearer codes of practice and standards for IAQ can help safeguard all Australians
+against airborne pathogens in indoor environments. With the right regulatory environment we
+can reduce the spread of pathogens, reduce the burden on our public health system, and
+safeguard the most vulnerable members of our community.
+In a worse pandemic, next-generation PPE may be essential to keep
+critical infrastructure functioning.
+In a paper                 |called “Electric Power Grids Under High-Absenteeism Pandemics:
+History, Context, Response, and Opportunities” they explain that the electric power systems,
+which modern society relies on, drive interdependent services, such as water systems,
+communication networks, transportation systems, health services, etc. They argue that modern
+power grids require constant attention in such a way that a health emergency that limits the
+available workforce could cause a cascading collapse. Addressing Terms of Reference one, two
+and six requires addressing this challenge.
+
+They argue that COVID-19 was unlike many other historic pandemics because the majority of
+deaths occurred in people over 65, while the majority of employees essential to the continued
+operation of the power grid are under 65.
+
+If a future pandemic was more severe in a younger age group, it could lead to cascading
+failures of critical infrastructure in a way that wasn’t possible without highly optimised (and
+hence brittle) modern infrastructure. That fact leads them to argue that safeguarding the nation’s
+power grid in the face of rapidly evolving outbreaks is among the top priorities.
+
+On that basis, I recommend that the Inquiry recommend that the Office of Supply Chain
+Resilience, the Home Affairs Critical Infrastructure Centre and the National Emergency
+Management Agency collaborate on preparation and response planning for a pandemic that
+interrupts supply chains and causes workforce shortages in critical infrastructure sectors.
+
+Both^^^^^^^fand a separate paper by Gopal et al titled “Securing Civilisation Against
+Catastrophic Pandemics” provide practical detail on what this might look like. This includes
+ensuring that power generators, transmission providers and distribution providers have robust
+pandemic plans and the ability to provide high-quality PPE and other safeguards to their
+workers during a crisis. Given the importance of generating confidence in the workforce, the
+Government’s plans and exercises need to include the industry and be transparent to the public.
+
+
+The notable public health challenges of history have been solved by innovative people bringing
+new ideas and perspectives to the challenge of health. As the scope of public health has grown,
+so has its ability to improve longevity and quality of life.
+
+The terms of reference of this inquiry are fundamentally about doing better in the future. Given
+how terrible future pandemics could be - the best thing the Inquiry could do for the future is to
+prioritise pandemic prevention, including the novel ways pandemics could occur in the future.
+While that will require uncomfortable thinking about unexpected topics and emerging
+technologies, these are the issues that could have the biggest impact towards securing a
+healthier future.
+

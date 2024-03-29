@@ -1,0 +1,197 @@
+November 29th, 2023
+
+
+         Response to Commonwealth Government COVID-19 Response Inquiry
+       Associate Professor Long Chu1, Professor R. Quentin Grafton1*, Professor Tom Kompa2
+                            1. Crawford School of Public Policy, Australian national University
+                        2. Centre of Excellence for Biosecurity Risk Analysis, University of Melbourne
+                                    * Contact authorJJgQ^Eyj^yyByjggBI
+
+Overview
+We are responding to only one of the Terms of Reference of the COVID-19 Response Inquiry, namely:
+
+Key health response measures (for example across COVID-19 vaccinations and treatments, key medical
+supplies such as personal protective equipment, quarantine facilities, and public health messaging
+
+We have, collectively and separately, published extensively on COVID-19 in the peer-reviewed academic
+literature including in: Sage Open, Journal of Public Health, PLOS Global Health, PLOS ONE, Economic
+Analysis and Policy, and Royal Society Open Science. A list of these publications is attached.
+
+Our submission is focussed on the effectiveness of lockdown in Australia and other countries as means to reduce
+the contagion of COVID-19 and is based on peer-reviewed publication by Chu et al.1 (2023) in Sage Open from
+November 2023 based on data from 2020-22 for three countries: Australia, Canada, and the United Kingdom.
+
+Key Findings for Australia, Canada, and United Kingdom
+Many countries mandated social distancing measures during the COVID-19 pandemic of 2020-22 that variously
+included opening hours restrictions on hospitality and retail, economy-wide lockdowns, and additional
+international border controls. We analysed whether more restrictive (hereafter, closures) or less restrictive
+(hereafter, openings) social distancing measures changed the short-term trends in the number of COVID-19
+cases, hospitalisations, and ICU patients in Australia, Canada, and the United Kingdom. Our analysis uses a
+'before-and-'after' trend analysis (decremental/incremental and growth/decay trends) to compare the trends of
+epidemic indicators before and after each closure or opening event. Results show that, in general, and for these
+three countries: (a) closures resulted in reduced trend growth and (b) openings resulted in increased trend growth
+for the three selected measures of public health.
+
+Our results provide a robust finding, independent of statistical and model assumptions and framing, that
+mandated lockdowns were effective at controlling the growth in COVID-19 in 2020-21 for the three selected
+countries. These results are important counter evidence to a narrative that mandatory social distancing measures,
+including mask wearing, are either ineffective or not required for controlling airborne infectious diseases such
+as COVID-19.
+
+Findings for Australia
+Figure 1 summarises COVID-19 outbreaks in Australia and shows major lockdowns (in black vertical lines)
+and openings (in purple vertical dashed lines). COVID-19 restrictions in Australia began with a nationwide
+lockdown in March 2020, with subsequent lockdowns implemented by state governments. The (first) national
+lockdown was implemented by the federal government, supported by all state and territory governments, as an
+emergency response to the first outbreak of the disease in Australia. This national lockdown coincided with the
+closure of the international border to non-citizens.
+
+After the initial outbreak, federal public health restrictions started to ease from late April to May 2020. When a
+second COVID-19 outbreak emerged in the state of Victoria in July 2020, a lockdown was reinstated in
+
+
+1 L. Chu, R.Q. Grafton. T. Kompas and M-L McLaws. Effects of Closures and Openings on Public Health in the Time of
+COVID-19:      A    Cross-Country    and   Temporal     Trend     Analysis,  Sage    Open     Volume       13,   4
+https://doi.org/10.1177/21582440231207472
+
+1
+November 29th, 2023
+
+
+Melbourne, the second-largest city in Australia, and quickly upscaled to the entire state. This Victorian
+lockdown lasted until October 2020, i.e., the second vertical purple line in Figure 2. Subsequently, some short
+lockdowns were applied by both the New South Wales (NSW) and Victorian governments in response to
+COVID-19 outbreaks until late June 2021.
+
+The third COVID-19 outbreak in Australia, triggered by the Delta variant, emerged in June 2021 and prompted
+a return to stringent lockdowns in both states. Beginning in October 2021, when the NSW state vaccination rate
+reached 70% of 16+ years population, the state government progressively relaxed its public health restrictions.
+In early December 2021, Australia's international borders were opened to citizens and their relatives, and shortly
+thereafter to all international visitors.
+
+
+
+    160
+                                                                                  8
+          2                        Zoom in 3/20 8/21 period                       x
+    140
+                                                                         0.5       o                             5
+                                                                                 ! tn
+                                                                                 i QJ
+    120   o
+                                                                                                                  0J
+                                                                                                                 4^
+    100                                                                                                           3
+                                              P2               cd
+                                                               st
+                                                               M    ■s
+     80                                                       .2 S'                                              3
+                                                                                                                     Qh
+                                                                    'p                                               o
+    60             .2                         'Z.
+                                                                                 CM
+               O II S
+              JS
+              03                                                                 Q
+                                                                                  a
+    40
+                   8
+    20        S 1^2
+
+     0                                                                                                           0
+    Feb 20                Jul 20              Jan 21          Jul 21                    Feb 22
+                        —Cases (left axis) —Hospitalisation (right axis)       ICU (right axis)|
+
+
+
+Figure 1. COVID-19 lockdowns and openings in Australia, 2020-2022
+Table 1 summarises the trend analysis for Australia, namely, when there were beneficial changes in
+epidemic outcomes after lockdowns (in white rows) and when there were detrimental changes after
+openings (in grey rows). At the national level, Table 1 shows the impact of the international border
+closure and nation-wide lockdown measures. After Australia closed its international borders and
+instituted the first lockdown in March 2020, the number of cases continued to increase over the short­
+term, but the increasing trend was flattened in all considered scenarios, i.e., lower incremental rate and
+growth rate of epidemic indicators. When the national lockdown ended in early May 2020, the
+epidemic trends increased, at least in the short-term. When the international border was opened to the
+relatives of citizens in early December 2021, and to all international travellers in February 2022, the
+growth in COVID-19 increased relative to the pre-opening trends.
+
+After April 2020, lockdowns in Australia were implemented by state governments. The most
+important, in terms of duration and stringency, was the Victorian lockdown that began in June 2020
+(Grafton et al., 2021)2. Our trend analysis indicates this 2020 Victorian lockdown was highly effective
+at reducing the trend growth in COVID-19 cases. There were also beneficial trend growth changes
+
+
+2 R.Q. Grafton, J. Parslow, T. Kompas, K. Glass and E. Banks (2021) Epidemiological Modelling of the Health and Economic
+Effects of COVID-19 control in Australia's Second Wave. Journal of Public Health, https://doi.org/10.1007/sl0389-021-
+
+
+
+2
+November 29th, 2023
+
+
+associated with the Northern Beaches of Sydney outbreak in December 2020, another outbreak in
+Victoria in May 2021, and an additional outbreak in Greater Sydney in June 2021.
+
+Table 1. Openings and Closings in Australia 2020-21
+                                 Positive     COVID-19         COVID-19
+                                 Cases                         Hospitalisations              COVID- 19 ICU patients
+                                 Mean Trend Growt              Mean Trend Growt              Mean    Trend Growt
+                                 (%)      (%)   h(%)           (%)     (%)      h(%)         (%)     (%)     h(%)
+    Mar-20: National border
+    closure    followed  by      14        100       100       NA        NA        NA        NA         NA        NA
+    national closure
+   \kiy-20: Closure end            100       100       100        0         100      100         0          100       100
+   l)ec-21: Holder open to
+                                  100        100       100        100       100      100         100        100       100
+   relatives of citizens______
+   l eb-22: Border open lo
+                                  0          100       100        0                  0           0                    0
+   visitors
+   Jun-20: Closure begins in
+   Victoria,       starts     in 0          0          100        0        0         0          NA          NA       NA
+   Melbourne
+   Oct-20: Victoria closure
+                                  0                    0          0                  0           NA                   \\
+   (began June 201 ends
+   Dec-20: Closure begins in
+  New South Wales (North 0                   100       100        NA       NA        NA         NA          NA       NA
+   Beaches, Sydney)
+   Jan-21: New South Wales
+   closure (began Dec 20) 0                 86         86         NA                 NA          NA        MBUi X.\
+   ends
+   May-21:              Closure
+   reinstated in Victoria 43                 100       100        NA       NA        NA         NA          NA       NA
+   (May 21)
+   Jun-21: Victoria closure
+   (began May 2 1) ends
+                                  0          100       100        NA                 NA          NA        IMMi XA
+   Jun-21: Closure begins
+  New        South        Wales,
+                                  0         86         100        NA       NA        NA         NA          NA       NA
+   starting     fin      Greater
+   Sydney
+   Oct-21: New South Wales
+   closure (began Jun 21) 0                 86         71         0         100      100         0          100       100
+   ends
+   Aug-21:              Closure
+                                  0         0          14         71       57        57         NA          NA       NA
+   recommences in Victoria
+   Oct-21: Victoria closure
+                                  0                    0          0                  0           0          100       100
+   (beuan Aim 2 1) ends
+Notes to Table 1.
+ 1. 'Mean’ ‘Trend’ and ‘Growth’ columns correspond to changes in the average, the linear trend, and the rate of change
+(growth rate) of epidemic indicators.
+2.Numbers above 50% are in bold. NA values indicate inadequate data, for example, missing data or pre-closure numbers
+were small (all equal to 5 or below) for reliable trend analysis.
+3. White (grey) cells represent the fraction of scenarios with beneficial (detrimental) changes after closures (openings),
+that is, slower increasing/growing (declining) or faster-declining (increasing) trends. If the number of COVID-19 cases,
+hospitalizations or ICU patients remained small (i.e., equal to or less than 5) during the entire evaluation period, we did
+not count it as an unwanted change regardless of their trend coefficients.
+
+
+
+3
+

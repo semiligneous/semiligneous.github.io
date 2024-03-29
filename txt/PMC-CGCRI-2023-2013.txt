@@ -1,0 +1,587 @@
+                                          Port of Melbourne
+
+
+
+
+PORT OF MELBOURNE COVID-19 RESPONSE
+SUBMISSION
+
+Contents
+
+EXECUTIVE SUMMARY                     2
+
+
+
+
+SUMMARY OF RECOMMENDATIONS            2
+
+
+
+
+SUPPLY CHAIN RESILIENCE               4
+
+  Position                            4
+
+  Context                             4
+
+
+
+
+DISRUPTION TO TRANSPORT & FREIGHT     6
+
+  Position                            6
+
+  Context                             6
+
+
+
+
+ECONOMIC IMPACTS & CRITICAL LESSONS   7
+
+  Position                            7
+
+  Context                             8
+
+
+
+
+GOVERNMENT RESPONSE                   9
+
+  Position                            9
+
+  Context                             9
+
+
+
+                                                              1
+EXECUTIVE SUMMARY
+The Port of Melbourne Operations Pty Ltd (PoM) is pleased to make a submission on the 231215
+Commonwealth Government COVID-19 Response Inquiry (Discussion Paper).
+
+
+Port of Melbourne is Australia's largest container and general cargo port, handling more than one-third of
+the nation's container trade. Located among growing communities, vital industrial precincts and transport
+corridors - Port of Melbourne has long been a cornerstone of Australia's port freight transport network. The
+Port operates 24 hours a day, 365 days a year.
+
+
+Freight that travels through the Port of Melbourne supports Victorians, Tasmanians and southern
+Australians, every day, everywhere. Common goods such as food, clothing, medical supplies and household
+appliances all need to be transported by freight operators. PoM has long advocated and promoted the
+importance of freight and logistics to the national economy, and the COVID-19 crisis acutely highlighted the
+critical role of the freight and logistics sector.
+
+
+While Australia's supply chains generally held up well during the COVID-19 pandemic compared to other
+jurisdictions, there was no doubt the COVID-19 crisis caused significant stress on all sections of the
+Australian logistics and freight industry. The State and Federal Government were put in a difficult situation,
+prioritising public health protection and ensuring the continuation of effective economic output and
+support. PoM commends the efforts made by both the State and Federal Government (particularly through
+the establishment of the National Coordination Mechanism) and acknowledges the lasting strain on our
+sector. We must ensure Australia is better prepared for any future pandemic or similar large-scale event.
+
+
+PoM has provided detailed recommendations to help support the Government future pandemic
+preparation. If Australia faces a future health emergency, we need effective policies that will bolster our
+supply chain resilience and mitigate the economic impact of disasters. This will ensure public health policies
+are fit-for-purpose.
+
+
+It is within this context that PoM has outlined 15 recommendations to safeguard Australia's freight sector
+and support future policy planning and discussions. PoM looks forward to continuing to engage with the
+Government on issues relating to health emergency responses and ensure our sector is robust, resilient,
+competitive and reliable.
+
+
+
+SUMMARY OF RECOMMENDATIONS
+
+            Supply Chain Resilience
+
+     1.      Implement the integration of critical port infrastructure in future state and national
+             land use and transport planning frameworks. The frameworks should involve
+             recognising ports as key assets and ensuring all emergency response frameworks
+             prioritise freight, transport, and logistics in their response strategies.
+
+
+
+
+                                                                                                                 2
+2.    Improve communication protocols between Government, port authorities and
+      other freight stakeholders to ensure freight and logistics sectors can adequately
+      prepare and respond to emerging crises.
+
+3.    Encourage the diversification of Australia's supply chain routes and markets.
+      Reducing over-reliance on specific markets or channels, mitigating the impact of
+      similar global disruptions in the future.
+
+4.    Investigate options for additional warehousing and inventory management
+      structures, including increasing storage capacities and adopting flexible inventory
+      systems. This could support businesses and ports handle sudden changes in supply
+      and demand.
+5.    Invest in enhanced digital infrastructure and data analytics capabilities within the
+      supply chain sector. Thiswould allow for real-time tracking of goods, better
+      prediction of supply chain disruptions, and more efficient response strategies.
+
+
+6.    Establish stronger partnerships between government bodies and private sector
+      stakeholders across the freight supply chain. These partnerships should focus on
+      joint planning for crisis scenarios, sharing best practices, and pooling resources for
+      common objectives.
+
+      Disruption to Transport and Freight
+
+7.    Develop federal and state frameworks to ensure the freight sector remains a
+      priority during crises. These should include protocols for maintaining and enhancing
+      freight movement under lockdown conditions, ensuring that essential goods and
+      services can be transported without disruption.
+
+8.    Focus investments on transport infrastructure that proved critical to the economy
+      during the pandemic. This includes enhancing road and rail connectivity around
+      PoM and ensuring these pathways are equipped to handle increased demand
+      during emergencies.
+
+9.    Invest in strengthening the resilience of Australia's port infrastructure against
+      future emergencies. This includes supporting efforts to handle increased volumes,
+      improving dockside logistics capabilities, and ensuring ports have the necessary
+      equipment and technology to maintain operations during disruptions.
+
+10.   Prioritise the expansion of port capacity infrastructure projects. This would involve
+      building additional storage and processing areas for critical goods, enhancing
+      berthing spaces, and ensuring rapid scaling-up of operations in response to
+      increased demand during crises.
+
+      Government Response
+
+11.   Coordinate state and federal freight and logistics public health policy protocols.
+      Specifically related to cross-border policies, testing and freight protocols, these
+      would be aimed at enabling certainty, support and stability for the sector.
+12.   Streamline communication so there are designated lines of engagement to the
+      freight and logistics sector. Streamlined channels would mitigate the disruption to
+
+
+
+
+                                                                                               3
+            crucial trade routes and ensure subsequent congestion does not impact the
+            Australian freight sector or economy.
+
+     13.    Ensure National Emergency Management Coordination Response is embedded and
+            continuously updated in our national crisis management protocols; this includes
+            state and federal bodies maintaining unified approaches to logistics and supply
+            chain resilience and developing fit-for-purpose protocols.
+     14.    Ensure consistent testing protocols across states and territories to minimise
+            disruption to Australia's supply chains.
+     15.    If a future health emergency occurs, guarantee freight and supply chain workers
+            priority access to vaccinations, testing and other health protections. This would
+            minimise the disruption to Australia's supply chains and ensure goods are delivered
+            to communities across Australia.
+
+
+
+
+SUPPLY CHAIN RESILIENCE
+
+Position
+To ensure our supply chains remain resilient through future emergency crises, Australia must invest in
+meaningful processes, frameworks and collaborations that help our sector minimise disruptions and
+congestion for freight. Importantly, when disruptions occur we need to have pre-existing plans to minimal
+effect to freight, cargo and transport movements. Ports are a crucial cog in Australia's freight and logistics
+pipeline. To remain effective, efficient and competitive, we must have the adaptability to withstand,
+recover from and adapt to anticipated and unanticipated disruptions like the COVID-19 pandemic. Key areas
+for the Government to focus on are integrating state and federal infrastructure and planning pipelines
+(including consideration through mechanisms such as the Urban Policy Forum and contributions from the
+Office of Supply Chain Resilience), diversifying logistics routes, advancing technology deployment and
+ensuring collaborative stakeholder approaches to emergency crises.
+
+
+
+Context
+Critical Infrastructure
+
+The Port of Melbourne is fundamental, providing crucial goods across metropolitan and regional Australia.
+In light of the COVID-19 Pandemic, learning from the crisis must take an approach that looks at what areas
+of our economy are more vulnerable and the main areas we must look to bolster. COVID-19 badly exposed
+Australia's emergency response protocols. The impact our sector faced, with significant delays due to
+bottlenecks on transport links, especially in our nation's ports as well as congestion due to changing public
+policy initiatives should be avoidable in future pandemic scenarios.
+
+
+It is essential we prioritise national freight infrastructure at the forefront of national and state land use and
+planning policies. As a critical infrastructure asset, PoM's approach has consistently aligned with the
+Federal Government's strategy to safeguard essential services and infrastructure fundamental to the
+nation's well-being, economy, security, and sovereignty. The port's freight supply chain has been critical to
+Australia's private and public entities, blending private sector investment with predominantly public
+network infrastructure. This ecosystem necessitates industry-wide collaborative coordination to ensure
+
+                                                                                                                 4
+operational continuity, facilitating unhindered movement of goods, and minimising the impact of domestic
+infrastructure challenges.
+
+
+PoM's commitment has always been to maintain and enhance our critical infrastructure, ensuring it
+remains robust and adaptable to both current demands and future challenges.
+
+
+However, we need to see improved integrated planning, diversified logistics routes, and improved
+collaboration between the government and key freight sector decision-makers. Throughout COVID, we saw
+what happened when a lack of communication impacted operations, processes, and communication with
+the private, public and community sectors. We need to immediately improve initiatives that enhance our
+ports to manage future crises effectively and ensure Australia's national security, economic prosperity and
+resilience remain upheld.
+
+
+
+Australian Supply Chains
+
+The 2021 interim Productivity Commission Study 2021 Vulnerable Supply Chains study by the Productivity
+Commission revealed the significant contribution of imports to Australia's gross national income. This was
+approximately 16% or $272 billion in 2016-17. While not all imports are considered equally critical to
+Australian industry and national interest, the pandemic demonstrated that seemingly non-essential items
+like clothing, masks and stationery items are part of a complex web supporting jobs, income, and
+consumption. The Port of Melbourne is an infrastructure asset contributing more than §10.5 billion in
+revenue to the Victorian economy and contributing to 28,902 FTE jobs. The significance of this asset to the
+economy highlights the potential impact it or the broader supply chain it services become congested.1
+
+
+COVID-19 underscored the vulnerability of Australia's supply chains. Various restrictions and lockdowns in
+international markets and across trade routes led to drastic shifts in cargo movement, warehousing
+challenges, and consumer demand. These changes resulted in port congestion and a container equipment
+shortage, impacting imports and exports. PoM's response consistently involved collaborative efforts with
+industry bodies to ensure adequate capacity across the supply chain and mitigate congestion. For example,
+PoM coordinated with industry to source available space within the port and industrial precincts for the
+storage and staging of containers to mitigate congestion impacts.
+
+
+Industry collaboration alone is not enough. We need to see forward-thinking policies that encourage
+innovation and adaptability in our sector. Improved resilience will also be bolstered when infrastructure
+projects are prioritised around our major trade routes. This would reduce potential bottlenecks, free up
+congestion and facilitate opportunities for diversified trade routes if disruptions occur.
+
+
+We need to ensure investment in inventory structures, digital infrastructure and data analytics capabilities
+to plan for and provide efficient responses to disruptions.
+
+
+Port of Melbourne recommendations:
+
+
+
+
+1 ACIL Allen 2021-22 Economic contribution of the Port of Melbourne
+
+
+                                                                                                               5
+    1.   Implement the integration of critical port infrastructure in future state and national land use and
+         transport planning frameworks. The frameworks should involve recognising ports as key assets and
+         ensuring all emergency response frameworks prioritise freight, transport, and logistics in their
+         response strategies.
+    2.   Improve communication protocols between government, port authorities and other freight
+         stakeholders to ensure freight and logistics sectors can adequately prepare and respond to
+         emerging crises.
+    3.   Encourage the diversification of Australia's supply chain routes and markets. Reducing over-reliance
+         on specific markets or channels, mitigating the impact of similar global disruptions in the future.
+    4.   Investigate options for additional warehousing and inventory management support structures,
+         including increasing storage capacities and adopting flexible inventory systems. This could be
+         supporting businesses and ports handle sudden changes in supply and demand.
+    5.   Invest in enhancing digital infrastructure and data analytics capabilities within the supply chain
+         sector. This investment would allow for real-time tracking of goods, better prediction of supply
+         chain disruptions, and more efficient response strategies.
+    6.   Establish stronger partnerships between government bodies and private sector stakeholders across
+         the freight supply chain sector. These partnerships should focus on joint planning for crisis
+         scenarios, sharing best practices, and pooling resources for common objectives.
+
+
+
+DISRUPTION TO TRANSPORT & FREIGHT
+
+Position
+The resilience and efficiency of freight and transport systems are vital for Australia's economy and well­
+being. The disruptions caused by COVID-19 underlined the critical importance of maintaining and enhancing
+this system. PoM advocates for strengthening infrastructure and operational frameworks that underpin the
+transport of goods, ensuring essential commodities continue to move seamlessly across Australia in times of
+crisis and ensuring our trade with vital international partners remains robust. This involves investing in both
+physical infrastructure and the frameworks that govern operations, prioritising resilience to cater to the
+dynamic demands of global trade pressures. This will ensure if a health emergency occurs again we do not
+see the same challenges and missteps.
+
+Context
+Freight and Transport
+
+The pandemic highlighted our economy's reliance on freight movements and how they sustain the
+economy, individual autonomy, public health and business continuity. Throughout this period, freight
+services played an important role in providing essential goods, highlighting the need for seamless access to
+Port of Melbourne commercial ships, efficient cargo handling and unrestricted land transport and freight.
+Continuation of streamlined processes and support for the freight sector is needed to help reduce costs
+across various sectors - including, but not limited to, construction, manufacturing, retail, health, agriculture
+and oil. These industries rely heavily on ports like Port of Melbourne and their transport connections.
+
+
+Australia's growing population, domestic and international trade and demand access to ports like Port of
+Melbourne is continually increasing. On average, the Port handles approximately 8,000 twenty-foot
+equivalent units (TEU) of containers a day, encompassing a wide array of consumer goods and critical
+
+
+
+
+                                                                                                               6
+materials. Furthermore, 93.4 per cent of imported containers are destined for metropolitan Melbourne. 1
+
+
+Robust, prescriptive and forward-looking policies must be implemented to address our sectors and ongoing
+challenges. Even without significant health emergencies like COVID-19, Australia's rising population,
+escalating global conflict and growing trade movements will stress our existing assets and infrastructure.
+Ports around Australia must remain competitive but, most critically - resilient to ensure the nation's
+capacity to respond remains effective.
+
+
+Congestion
+
+The reduced capacity in air freight during the pandemic further highlighted the necessity of keeping our sea
+ports operational and, importantly, capable of facilitating increasing demands in trade if another emergency
+crisis occurs. The viability of Australia's freight and logistics sector heavily relies on diversification of our
+trade routes and rely on long-term planning to ensure the ports meet the demands of a more active and
+growing economy.
+
+
+Australia's whole supply chain is severely impacted when disruption occurs. A lack of investment in road
+and rail networks for freight is hampering our supply chain's productivity and burdening the sector. This is
+not only evident during crises but also during normal trade operational capacity. As is well documented,
+areas surrounding critical ports will continue to grow. We need to see continued investment in the arterial
+road and rail network complemented by systems to ensure the best use of the infrastructure, which is
+essential for delivering productive and efficient freight transport.
+
+
+Port of Melbourne's recommendations:
+
+    1.   Develop federal and state frameworks to ensure the freight sector remains a priority during crises.
+         These should include protocols for maintaining and enhancing freight movement under lockdown
+         conditions, ensuring essential goods and services can be transported without disruption.
+    2.   Focus investments on transport infrastructure that proved critical to the economy during the
+         pandemic. This includes enhancing road and rail connectivity around PoM and ensuring these
+         pathways are equipped to handle increased demand during emergencies.
+    3.   Invest in strengthening the resilience of Australia's port infrastructure against future emergencies.
+         This includes supporting the funding to handle increased volumes, improving dockside logistic
+         capabilities, and ensuring ports have the necessary equipment and technology to maintain
+         operations during disruptions.
+    4.   Prioritise the expansion of port capacity infrastructure projects. This would involve building
+         additional storage and processing areas for critical goods, enhancing berthing spaces, and ensuring
+         rapid operations scaling in response to increased demand during crises.
+
+
+
+ECONOMIC IMPACTS & CRITICAL LESSONS
+
+Position
+COVID-19 had a significant impact on global and regional trade, seen acutely on PoM operations. These
+challenges emphasised PoM's roleand more broadly the logistics sector play in the global supply chain.
+
+
+
+
+                                                                                                                    7
+PoM's experience can serve as a template of the need for adaptive strategies and resilient infrastructure to
+manage significant shifts in global trade dynamics and evolving consumer demand.
+
+Context
+Economic Impact and Domestic Trade
+
+When manufacturing and shipping activities in China resumed after the initial COVID-19 restrictions, the
+global landscape was shifting as countries began imposing COVID-19 restrictions. This situation led to a
+significant influx of imported goods into Australia - these were pre-COVID-19 orders - that coincided with
+logistical challenges. Warehouses became congested due to restrictions on the distribution of goods to
+retail outlets and end consumers, a result of movement controls implemented by various jurisdictions. In
+Victoria, prolonged restrictions compared to other states led to an accumulation of goods in warehouses.
+PoM continuously collaborated with industry partners to manage this surge and maintain the smooth
+operation of the supply chain. PoM worked closely with the Freight Trade Alliance, Container Transport
+Association of Australia, and private operators to expand container storage capabilities, mitigating potential
+congestion.
+
+
+PoM is integral to most of Tasmania's trade. During the pandemic, PoM played a crucial role in ensuring the
+continuous supply of essential goods to Tasmania, including groceries, animal feed, and manufacturing
+inputs. The pandemic-induced container shortages - a direct response to heightened demand for Asian
+goods - led to a significant proportion of empty containers in local markets. This shortage forced many
+Tasmanian companies to increase their warehousing space to stockpile higher levels of inventory, thereby
+incurring additional costs.
+
+
+The container supply chain, extending beyond the port to connect various freight corridors, plays a key role
+in ensuring the movement of goods to warehouses, distribution centres, and to end-users.
+
+
+For future crises, it will be essential to safeguard this network against potential supply chain vulnerabilities
+and disruptions, and this requires comprehensive consideration and action at all levels of government.
+
+
+International trade
+
+Ports are important nodes in the supply chain and rely on other supply chain participants to ensure the
+smooth movement of cargo. During the pandemic, several contributing factors resulted in significant
+disruption to global supply chains. Restrictions on employee movements and interactions resulted in the
+delayed vessels as services provided at Ports were negatively impacted. The delayed vessel schedules
+effectively removed capacity out of the global shipping market. While capacity was effectively withdrawn
+demand materially increased because of consumers requiring more goods whilst they worked from home.
+Consumer spending on goods increased due to reduced spending on services, resulting in a significant
+increase in shipping rates globally.
+
+Congestion at many ports occurred globally as shipping schedule integrity was compromised and vessel
+bunching occurred. This highlighted a lack of infrastructure buffer in many ports.
+
+
+PoM's congestion challenges during the pandemic emphasised the need for improved port infrastructure
+and capacity planning to mitigate congestion and enhance operational capacity.
+
+
+
+                                                                                                                   8
+The economic implications of these delays were seen through the increases of congestion surcharges.
+During that period, surcharges were approximately $471 per TEU.
+
+
+The increases in costs reflect the direct economic burden of port congestion on cargo owners and the
+broader supply chain. PoM's experiencehighlights the need for investment in port infrastructure to mitigate
+the flow on effects of supply chain disruptions if they were to occur again. By addressing these capacity
+constraints, we can significantly reduce the risk of similar congestion and economic impacts in future crises
+- resulting in a more resilient and efficient supply chain for Australia.
+
+
+
+GOVERNMENT RESPONSE
+
+Position
+Effective government responses and coordination with industry is vital for safeguarding Australia's logistics
+and supply chain sectors, especially during health emergencies such as the COVID-19 pandemic. It is
+essential to establish procedures that are fit-for-purpose for communication and policy implementation
+between the government and key logistics stakeholders, as the PoM. This approach should prioritise the
+unique needs of the sector, ensuring it remains functional and resilient, and prioritising transparency and
+up-to-date information. By refining our government response strategies, we can not only address the
+immediate challenges if emergencies occur but also enhance our long-term preparedness and resilience,
+ensuring PoM and its associated supply chains continue to serve as a key pillar of Australia's economy.
+Further is the necessity to make sure supply chain logistics workers are prioritised and treated as essential
+workers - not just in ability to operate but when gaining access to vaccinations, testing and wellbeing
+support.
+
+
+Context
+State and Federal Public Health Response
+
+There are several key learnings from the COVID-19 crisis PoM believes can be improved upon, specifically
+relating to communication, policy, engagement and transparency.
+
+
+At times, announcements regarding lockdowns were made without prior notification to the Port. While we
+supported federal and state responses to new challenges during the pandemic, a lack of communication
+necessitated last-minute consultations to make public health orders feasible. It placed PoM suppliers,
+operators, contractors in the supply chain in a challenging position, forcing them to make instant decisions
+on whether road or rail vehicles should cross state borders, risking an inability to return to their home
+jurisdiction to continue providing freight services, but importantly be with their families.
+
+
+The freight and logistics sector relies on certainty, reliability and long-term planning. Even during crises,
+maintaining certainty for the freight industry significantly impacts the capacity for goods being delivered
+and the associated costs being minimised. To reduce the risk of price increases, scarce goods being
+accessible to the public and the crucial delivery of public necessities, we need to see improved transparent
+and consistent communication by government to key economic assets like PoM. A lack of coordinated
+approaches from state and federal governments was not only disruptive, it also put additional pressure on
+all sectors of Australia's freight and logistics supply chain to take initiative even without proper guidance.
+
+
+
+                                                                                                                 9
+There was notable improvement toward the end of the pandemic. The national cabinet functioned
+effectively, providing anticipated Friday updates that were crucial for the public and industry. The
+government made efforts consulting ahead of these meetings. The Federal Government needs to heed
+learnings from the pandemic, and this leadership starts from the Cabinet. Communication methods that are
+transparent with distinct approaches, rationale and risk assessments in decision making will ensure trust
+and help sectors like freight and logistics convey to their own stakeholders the rationale for any
+disruptions.
+
+
+To enhance the preparedness for future crises, it is advisable to develop a strategy for communicating
+issues to the supply chain sector. This is especially important in situations where government actions or
+impositions may disrupt the ordinary operation of the supply chain.
+
+
+Vaccination and Testing
+
+During the pandemic one of the major challenges to the freight sector was ensuring essential workers had
+opportunities to test repeatedly and in a way which not only kept vital industries open but ensured
+certainty, predictability, and reliability of our supply chains.
+
+
+During many periods between 2020-2022 there were differing public health expectations for PoM's
+contractors, suppliers and operators. Truck drivers were especially impacted during this period, particularly
+relating to cross-border regulations for testing protocols and compliance expectations. The Port is a vital
+hub for not only economic outcomes but also serves as a significant driver for freight and logistics support
+and serves as a hub of information to the entire supply chain.
+
+
+There were incidences where PoM members in the supply chain, including those at warehouses and
+intermodal facilities, faced impediments to work due to vaccination constraints or challenges accessing
+testing facilities.
+
+
+Despite concerted efforts by the Port and our stakeholders to implement regimes to protect staff and those
+engaging with our supply chain, they were ignored during the public health emergency. While not a federal
+responsibility, it is important that expectations are conveyed about the necessity and importance of freight
+and logistics to the economy and costs of goods and services. The challenge was immense for government
+to manage public heath with economic output. It is PoM's hope for a coordinated approach that is
+pragmatic, holistic and considers the effect of long-term closures to the economy and flow-on effect to the
+well-being of the workforce.
+
+
+Regrettably, some sophisticated measures put in place by PoM to guard against spread of the COVID-19
+were not fully implemented by governments as they did not precisely reflect the requirements of public
+health orders. This is a direct result of a lack of clear guidance and expectations with up-to-date
+information. State and Federal Governments need to improve communication expectations to key
+economic hubs around Australia.
+
+
+Given the essential nature of the port's role, Port of Melbourne recommends priority access to vaccinations
+in the future for freight and logistics workers. The critical role these workers play—such as transporting
+groceries from distribution centres to supermarkets—directly impacts public access to essential goods. The
+
+
+                                                                                                               10
+recognition of this essential service would have ensured the smooth operation of the supply chain but also
+alleviated the burden of frequent PCR testing, reducing the associated mental health strain.
+
+
+During the pandemic, testing requirements became a significant challenge for freight, logistics and
+transport workers. Drivers crucial to the functioning of the supply chain often had to endure lengthy
+queues for testing, impacting their ability to fulfil their duties promptly. Compounding this issue,
+roadhouses and other facilities occasionally restricted drivers from using essential services, ordering food,
+or taking mandated rest breaks on the premises. While access to rapid antigen tests were out of the
+government's direct control, mechanisms to speed up testing protocols for freight and logistics sectors
+must be prioritised.
+
+
+As a proactive measure, PoM recommends freight and supply chain workers should be granted priority
+access to vaccinations or other health protections. This approach ensures the uninterrupted operation of
+the supply chain, safeguarding both the industry and the broader community.
+
+
+Port of Melbourne Recommendations
+
+    1.   Coordinate State and Federal freight and logistics public health policy protocols. Specifically related
+         to cross-border policies, testing and freight protocols aimed at enabling certainty, support and
+         stability for the sector.
+    2.   Streamline communication so there are designated lines of engagement to the freight and logistics
+         sector. Streamlined channels would mitigate the disruption to crucial trade routes and ensure
+         subsequent congestion does not impact the Australian freight sector or economy.
+    3.   Ensure National Emergency Management Coordination Response is embedded and continuously
+         updated in our national crisis management protocols; this includes state and federal bodies
+         maintaining unified approaches to logistics and supply chain resilience and developing fit-for-
+         purpose protocols.
+    4.   Ensure consistent testing protocols across Australian states and territories to minimise disruption
+         to Australia's supply chains.
+    5.   If a future health emergency occurs, guarantee freight and supply chain workers gain priority
+         access to vaccinations, testing and other health protections. This will minimise the disruption to
+         Australia's supply chains and ensure goods are delivered to communities across Australia.
+
+
+
+
+                                                                                                                11
+

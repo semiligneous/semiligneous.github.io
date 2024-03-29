@@ -1,0 +1,143 @@
+Introduction
+
+I was excited to see Australia announce the creation of a Centre for Disease Control. COVID-19
+made it clear that Australia needs an institution of this kind. I’m also glad that Australia has
+commissioned this Inquiry, including to inform the priorities of the CDC.
+
+There’s a long-standing public health adage that “prevention is better than a cure”. The same
+logic applies to pandemics. Pike et al in “The Origin and Prevention of Pandemics” show that
+the “wait-and-respond approach is not sufficient and that the development of systems to prevent
+pandemics before they are established should be considered imperative to human health.”
+Given the huge human and economic costs of pandemics - and that pandemics worse than
+COVID-19 are possible - prevention should be our top priority.
+
+I think this insight should be foundational to the direction of this Inquiry.
+
+I know that each Australian jurisdiction invests heavily in hazard reduction for other natural
+disasters and are increasing their efforts because of climate change. But I’m not aware of any
+similar investment in reducing the likelihood of pandemics, even though the risk to the average
+Australian seems much higher.
+
+My submission focuses on a select few issues, but my overall view is that pandemic prevention
+should be a key priority of the CDC and that our institutions and leaders should never concede
+that pandemics are inevitable.
+
+Engineered Pandemics
+
+Nature can produce pathogens that are extremely infectious like measles, with an estimated RO
+of 15-20. Nature can also produce pathogens that are extremely fatal like rabies, which has an
+almost 100% death rate. Nature, however, is not known to produce pathogens that have both
+high transmissibility and high mortality.
+
+Humans, driven by various motivations, could be on the verge of creating pathogens with both
+these features - risking pandemics much worse than COVID-19. The convergence of open
+science leading to the publication of dangerous knowledge, democratisation of synthetic
+biology, and Al-assisted research might mean that a small group of nefarious actors could
+cause catastrophic harm.
+
+
+
+
+Preventing the next pandemic requires making sure that highly skilled bad actors never have
+the capability to engineer a novel pathogen. However, a variety of trends are making this a
+realistic possibility. Open science norms - while typically essential to modern science -
+sometimes allow the publication of dangerous material. While the scientists who published the
+genomic sequences of the smallpox virus perhaps didn’t foresee a future where the synthesised
+DNA was readily available, that information cannot be “unpublished”. I recommend that the
+inquiry read “Information Hazards in Biotechnology” (2018) by Lewis et al for a deeper
+understanding of this risk and more examples, including Mousepox and Botulinum toxin H.
+
+Similarly, Al models are on the cusp of being able to provide substantial assistance to people
+doing research and filling tacit knowledge gaps. Again, if action is not taken and models with
+these capabilities become widely available, we may not be able to “unpublish” them. Dario
+Amodei, CEO of Anthropic, informed the US Senate Judiciary Subcommittee on Privacy,
+Technology and the Law that “a straightforward extrapolation of today’s systems to those we
+expect to see in 2 to 3 years suggests a substantial risk that Al systems will be able to fill in all
+the missing pieces, enabling many more actors to carry out large-scale biological attacks”, and
+the Committee Chair, Senator Blumenthal, stated “It may be shorter because the kinds of pace
+of development is not only stunningly fast, it is also accelerated at a stunning pace”.^ ]
+
+Overall, I think the Inquiry should task the new CDC with responsibility for tracking the risk that
+a bad actor could create a pathogen with pandemic potential, and ensuring that safeguards
+remain one step ahead of that risk.
+
+Biological Laboratory Safety Standards
+
+Public commentary has focused on the possible origins of COVID-19, including whether it was a
+“lab leak”. Regardless of the true origin of COVID-19 specifically, I’ve been shocked to learn
+about the high rate of safety incidents at labs handling dangerous pathogens. A publication by
+Manheim and Lewis found that from 1975-2016 there were 71 reported high-risk human-caused
+pathogen exposure events - as well as evidence of underreporting.[2] An anonymous survey
+on biosecurity and accidents in Belgium reported almost 100 laboratory-acquired infections in a
+5 year study period.[3]
+
+Gopal et al in “Securing Civilisation Against Catastrophic Pandemics” use a range of tools to
+estimate the likelihood of different future pandemic scenarios. In their estimates of ‘worst case’
+pandemics, they conclude that dangerous pathogens leaking from labs are currently the most
+likely cause. This isn’t surprising, given that the original SARS virus escaped from labs on at
+least 3 occasions in the early 2000s and the 1977 flu pandemic was caused by a lab leak. This
+issue addresses many of the Inquiry’s terms of reference, including the role of the
+Commonwealth as a regulator in this space.
+
+One of the factors Gopal et al consider in estimating the likelihood of a pandemic emerging from
+a lab leak is the annual accidental infection rates of laboratories. Using data from a report by the
+Center for Arms Control and Nonproliferation, labs registered with the Federal Select Agent
+Program have accidental infections at a rate of 0.246% per laboratory per year and NIH-funded
+BSL-3 and BSL-4 laboratories have accidental infections at a rate of 1.6% per laboratory per
+year.
+
+While both of these figures seem alarmingly high, Gopal et al argue that the fact that the more
+tightly regulated Select Agent laboratories exhibited a 6.5-fold lower accidental infection rate
+strongly suggests that tighter regulations and more regular inspections improve safety.
+
+Given pandemics can cost millions of lives and trillions of dollars, it seems clear that safety
+standards (or adherence to standards) fall far short of what is appropriate. While I’m firmly in
+favour of science, and think that science is a force for good in fighting pandemics, it has to be
+done responsibly.
+
+As an outsider, there is little transparency about how physical containment facilities in Australia
+are regulated. The Office of the Gene Technology Regulator seems to focus mostly on GMOs
+and provides little information about its functions regarding physical containment facilities.
+
+To the extent that information is available, OGTR’s 2022-23 annual report is proud that it
+certified a record 132 physical containment facilities last year, meaning that there are now 1,874
+“high-level” facilities operating in Australia. However it also reports that it only conducted 49
+inspections in the same period, and previous annual reports show that it has only conducted a
+single inspection of a PC4 facility in the last 3 reporting years combined.
+
+In addition to seeming shortcomings in oversight, the guidelines themselves are troubling. The
+rules for PC4 facilities were last updated in 2007 and refer to standards like AS1324.1 on air
+filters and AS/NZS 2243.3 on lab safety, which don’t appear to have been updated since 2001
+and 2002 respectively. AS1324.1 specifically has been criticised by the HVAC industry for being
+based on inaccurate research from the 1950s and has now been superseded by ISO 16890.
+
+While this is a concerning situation on multiple fronts, it’s not necessarily a criticism of OGTR.
+OGTR only has 51 employees and has wide-ranging regulatory functions apart from these
+topics.
+
+Overall, this snapshot paints a grim picture of the state of regulation in Australia, and one that I
+think falls far short of public expectations about how seriously these issues would be taken.
+Before reading into this, I would have guessed that PC4 facilities comply with cutting-edge
+global standards that account for emerging technology, and would each be inspected several
+times per year.
+
+I think that this Inquiry should recommend a thorough review of biosafety - including the
+suitability of requirements, degree of adherence, and adequacy of oversight - for all research
+that involves human or animal pathogens. The review should include a risk assessment that
+takes into account the potentially catastrophic global consequences of errors, and ensures that
+our approach to mitigation is proportionate to that risk.
+
+Conclusion
+
+I think pandemics are one of the most important issues of our time, and expert assessments
+that the risk of pandemics is increasing are alarming. I think this inquiry should carefully
+consider how future pandemics could start and ensure it makes specific recommendations to
+reduce their likelihood. This should include the known mechanisms that have been with humans
+since time immemorial, such as zoonoses, as well as more recent risks, such as lab leaks, and
+emerging threats, such as engineered pathogens.
+
+[ 1 ]https://medium.eom/@daniel eth/ai-x-risk-at-senate-hearinq-7104f371ca0b
+[21https://pubmed.ncbi.nlm.nih.qov/35903214/
+[31https://www.biosafety.be/sites/default/files/2 15 willemarck lai report belqium 20 7 2 12 f
+inal.pdf
+

@@ -1,0 +1,324 @@
+                                                                               AstraZeneca
+                                                                               AstraZeneca Pty Ltd
+                                                                               66 Talavera Road, Macquarie Park
+                                                                               NSW 2113, Australia
+                                                                               T: +61 (0)2 9978 3500
+                                                                               F: +61 (0)2 9978 3700
+                                                                               astrazeneca.com
+
+
+SUBMISSION TO COMMONWEALTH GOVERNMENT COVID-19
+RESPONSE INQUIRY
+15 December 2023
+
+AstraZeneca welcomes the opportunity to make a submission to the Commonwealth Government's
+independent inquiry into the COVID-19 Response.
+
+AstraZeneca is a global biopharmaceutical company employing more than 80,000 people globally
+and 800 across Australia. We are one of the largest pharmaceutical manufacturers in Australia and
+have been manufacturing at our facility in North Ryde, Sydney, for over 50 years.
+
+Recognising the urgent need for the medical community to work together to research a vaccine to
+defeat the virus, AstraZeneca joined forces with the University of Oxford in April 2020, to rapidly
+develop and supply a COVID-19 vaccine (later known as the Oxford/AstraZeneca Vaccine, COVID-19
+Vaccine AstraZeneca, or Vaxzevria™ (ChAdOxl-S)). AstraZeneca supplied over three billion doses of
+this vaccine to more than 180 countries, and approximately two-thirds of these doses were
+delivered to low- and lower-middle income countries. This vaccine was provided on a global no­
+profit basis during the pandemic period.
+
+The Oxford/AstraZeneca Vaccine is estimated to have saved more than 6.3 million lives worldwide in
+the first year of its availability1. One in three Australian adults received the Oxford/AstraZeneca
+Vaccine, equating to 13.8 million doses, the majority of which were manufactured locally in
+partnership with CSL.
+
+AstraZeneca also quickly mobilised research efforts to develop a coronavirus-neutralising
+monoclonal antibody combination called Evusheld™ (tixagevimab and cilgavimab), for the
+prevention and treatment of COVID-19. Evusheld™ was provisionally approved by the Therapeutic
+Goods Administration (TGA) in February 2022 for the prevention of COVID-19 in people not expected
+to mount an adequate immune response to vaccination because they are immunocompromised due
+to a medical condition or due to immunosuppressive medications. 39,000 doses were delivered
+through an Advance Purchase Agreement (APA) with the Department of Health and Aged Care and
+distributed via the National Medical Stockpile (NMS), providing additional protection to vulnerable
+Australians.
+
+AstraZeneca has identified four key recommendations for consideration by the Panel that would
+improve Australia's future pandemic preparedness:
+
+    1.   Establish a National Medical Manufacturing Taskforce to enhance Australia's domestic
+         medical manufacturing capability and reduce the impact of future supply chain disruptions.
+
+
+
+
+1 Chuenkitmongkol S et al. Expert review on global real-world vaccine effectiveness against SARS-CoV-2.
+Available at: https://doi.org/10.1080/14760584.2022.2092472
+                                                                               AstraZeneca Pty Ltd
+                                                                               PO Box 131 North Ryde NSW 1670
+                                                                               ABN 54 009 682 311
+                                                                           AstraZeneca
+    2.   Provide alternative funding pathways for preventative therapies and improve national
+         distribution channels for medicines funded outside of the Pharmaceutical Benefits Scheme
+         (PBS).
+    3.   Improve pandemic communications by allowing pharmaceutical companies to publicly
+         respond to public concerns in a factual and balanced manner, when in the national interest.
+    4.       Establish ongoing monitoring of COVID-19 mutations and circulating variants of concern.
+
+ RECOMMENDATION 1
+Establish a National Medical Manufacturing Taskforce to enhance Australia's domestic medical
+manufacturing capability and reduce the impact of future supply chain disruptions.
+
+The COVID-19 pandemic saw major disruptions to global supply chains, resulting in shortages in
+pharmaceuticals and essential medical eguipment such as Personal Protective Eguipment (PPE).
+Establishing the priorities for domestic medical manufacturing through the establishment of a
+National Medical Manufacturing Taskforce would ensure Australia can plan for and secure critical
+supplies in the future, as well as enhancing Australia's global bargaining power during future supply
+chain disruptions.
+
+While medicine shortages are not new to Australia, the COVID-19 pandemic highlighted many of the
+fragilities of Australian supply chains, particularly for medicines. Shortages for vital medicines were
+experienced throughout the pandemic, including for medicines used to manage asthma, diabetes,
+depression, anxiety and nausea, as well as treatments for stroke, hormone replacement, antibiotics,
+cancer treatments, and liquid paracetamol.
+
+There are two main stages of pharmaceutical manufacturing - production of active pharmaceutical
+ingredients (APIs), and the production of formulations (medicines, whether in cream, tablet, capsule,
+inhaler, or other forms). According to the TGA, Australia imports over 90% of medicines, primarily
+from the US and Europe, whilst most APIs are manufactured in China and India.
+
+Shortages were the result of multiple factors including disruptions to supply chains, as well as panic­
+buying and stockpiling in Australia and around the world. In some cases, access to APIs was limited,
+production at international manufacturing plants was impacted by workforce shortages resulting
+from the pandemic, and air and sea freight was disrupted.
+
+One such example of these supply constraints was seen in March 2021 when the European Union
+blocked a shipment of the Oxford/AstraZeneca Vaccine bound for Australia. In efforts to secure
+domestic supply, the European Union refused to authorise a shipment of 250,000 vaccine doses
+from AstraZeneca's Italian manufacturing facility to Australia. The European Union justified this
+decision as Australia was not considered "vulnerable" due to the low number of COVID-19 cases in
+Australia at the time.
+
+In April 2021, the Australian Government sourced an additional 717,000 vaccine doses from the
+United Kingdom, to make up for the shortfall in doses blocked by the European Union. While nearly
+4 million doses of the vaccine were ordered offshore, AstraZeneca and the Australian Government
+entered into a partnership with CSL to ensure that the vast majority - almost 50 million doses -
+would be manufactured locally in Australia. This safeguarded AstraZeneca's vaccine supply from
+global supply chain disruptions.
+
+The TGA took action to manage medicine shortages during the pandemic by establishing the
+Medicine Shortages Working Party. While the Government has now implemented stockholding
+requirements to help address global supply chain issues, this should not be viewed as a long-term
+                                                                            AstraZeneca
+solution to manage supply disruptions of more than 4-6 months. Australia remains reliant on
+offshore manufactured product. Global health crises, trade disputes, political disputes, labour
+shortages or civil unrest will all continue to cause shortages of critical medicines in the future.
+
+Recently, we've seen Australian supply chains disrupted once again, this time due to a cyber-attack
+on DC World, who is responsible for 40% of Australia's maritime freight. With cyber-attacks
+becoming more frequent, this is another important consideration for government when setting
+manufacturing policy.
+
+A nationwide assessment conducted by a National Medical Manufacturing Taskforce would allow
+the Government to determine a list of medicines deemed "critical" for the day to day functioning of
+our health system - medicines people use at home, those most commonly used in primary
+healthcare settings, and those used in hospitals. This would differ to the function and purpose of the
+NMS, which plans for specific events (such as a pandemic). The Taskforce would help inform
+manufacturing policy and determine key areas for future government investment in sovereign
+capability.
+
+ RECOMMENDATION 2
+Provide alternative funding pathways for preventative therapies and improve national distribution
+channels for medicines funded outside of the PBS.
+
+Existing Australian Technical Advisory Group on Immunisation (ATAGI) and Pharmaceutical Benefits
+Advisory Committee (PBAC) processes are not structured as funding pathways for therapies
+authorised for pre-exposure prophylaxis of COVID-19, and the length of the PBS decision-making
+process does not support rapid access to critical medicines during a pandemic. NMS distribution of
+medicines funded through other channels, such asAPAs, can be challenging without the vast
+distribution network of the PBS. Alternative funding pathways outside of emergency settings are
+crucial to ensuring vulnerable Australians have eguitable access to protection.
+
+Despite the high effectiveness of COVID-19 vaccines, some immunocompromised patients are
+unable to develop an immune response and remain at risk of life-threatening infection.
+
+Whilst approximately 3% of the Australia population are immunocompromised (approximately
+500,000 people), data from the "Communicable Diseases Intelligence COVID-19 Australia:
+Epidemiology Reports"2 indicate that they account for up to 25% of hospitalisations or ICU
+admissions for COVID-19. Studies in the UK3 and USA4 have also demonstrated similar data with
+immunocompromised patients accounting for 3.7% of the UK population, yet being overrepresented
+in hospitalisations (20%), ICU admissions (28%) and deaths (24%) due to COVID-19.
+
+As highlighted by ATAGI, "studies also show that the immunocompromised population with COVID-
+19 have a 1.5-2.0 times higher risk of death than the general population. In addition, prolonged
+COVID-19 infection, which immunocompromised individuals are more susceptible to, is associated
+
+
+
+
+2health.gov.au/internet/main/publishing.nsf/Content/99424DA2A5F3A488CA2589BA0019141 B/$File/covid_19_aus
+tralia_epidemiology_report_78_reporting_period_ending_27_august_2023.pdf
+ Evans RA et al. In press-corrected proof. Lancet Reg Health Eur. 2023.
+https://d0i.0rg/l 0.1016/j.lanepe.2023.100747.
+4 Ketkar A et al. Curr Med Res Opin. 2023;39(8):1103-1118
+
+                                                                                               Page 3 of 6
+                                                                              AstraZeneca
+with prolonged viral shedding, which increases the risk of viral evolution and of the development of
+new viral variants"5.
+
+Evusheld™ was developed to meet significant unmet need and provide an additional layer of
+protection for these patients. Clinical trials and real-world evidence supported the effectiveness of
+Evusheld™ to protect these high-risk individuals. Evusheld™ is the only monoclonal antibody (or
+antibody combination) authorised for pre-exposure prophylaxis in Australia.
+
+Following TGA registration in February 2022, Australia's National COVID-19 Clinical Evidence
+Taskforce (CET) and state and territory-based guidelines recommended Evusheld™ for pre-exposure
+prophylaxis therapy for immunocompromised patients in March 2022. The National COVID-19 CET
+also recommended Evusheld™ for treatment of COVID-19.
+
+AstraZeneca worked closely with the Department of Health to prepare an abridged submission for
+Evusheld™ as part of an application for PBS listing. Evusheld™ was rejected at the December 2022
+PBAC meeting.
+
+While Australia's PBS listing process is robust, it is a widely held view that it is too restrictive for the
+emergency assessment of therapies. The National Health Act requires PBAC to be satisfied that cost­
+effectiveness has been established before a medicine can be recommended for listing on the PBS.
+This regulation requires a high level of certainty in both the clinical utility and utilisation of the
+therapeutic intervention. This process does not therefore allow for the agility in decision making
+that is necessary to support short term PBS listings of therapies in situations with a high degree of
+uncertainty, such as the constantly evolving COVID-19 environment.
+
+An APA was signed between AstraZeneca and the Government in December 2021 and then varied in
+February 2022, and 39,000 doses of Evusheld™ were supplied to be distributed via the NMS. Supply
+to states and territories via the NMS was challenging and resulted in inequitable access to Evusheld™
+for immunocompromised Australians.
+
+State and territory guidelines for Evusheld use were not consistent nationally, and changed from
+time to time causing confusion about who should receive the drug. Therefore, the requirements to
+demonstrate eligibility differed across states, with some states requiring copious amounts of
+paperwork and serology. Many hospitals did not have the resources to search their records for, and
+recall, eligible patients, and there was no additional funding to support this cost, or to support
+additional costs such as storage or transport to regional and remote areas. In some instances, states
+were also known to be stockpiling Evusheld™ due to uncertainty about future availability and supply
+arrangements.
+
+Overall, this distribution approach resulted in slow uptake of Evusheld™, low awareness, and low
+levels of familiarisation, resulting in fewer immunocompromised Australians receiving protection.
+
+AstraZeneca maintained engagement with the states and with Patient Advocacy Groups to ensure
+awareness of supply arrangements, to understand utilisation rates for forward planning, and to
+ensure understanding of Evusheld™ neutralisation against emerging variants of concern.
+
+
+
+
+5 ATAGI. 2023. "Recommendations on the use of a 3rd primary dose of COVID-19 vaccine in individuals who
+are severely immunocompromised" Version 4.3 5.
+
+                                                                                                  Page 4 of 6
+                                                                           AstraZeneca
+The Halton Review of COVID-19 Vaccine and Treatment Purchasing and Procurement 6(the Halton
+Review) concluded that over the next two years, Australia must continue to ensure that there is
+adequate and speedy access to vaccines and treatments by patients, if and when they are required;
+and that maximum possible protection through vaccinations and treatments should be provided
+over the short to medium term to protect the vulnerable, limit hospitalisation and death, and allow
+the economy and health system to recover.
+
+The Halton Review also found that pre-pandemic structures and processes were not fit for purpose
+in an emergency context, and that ongoing, integrated advice and new advisory structures and
+mandates will be required for the ongoing management of COVID-19. It found that the potential
+benefit of wider use of efficacious treatments should be considered, given the considerable ongoing
+disruption to work and education still being experienced.
+
+The flexibility and adaptability shown by the Government in an emergency setting was crucial to
+allow APAs to be agreed in a rapidly changing environment. To improve Australia's future pandemic
+preparedness, consideration must be given to providing appropriate and flexible funding pathways
+for pre-exposure prophylaxis therapies and improving distribution of medicines funded through
+alternative pathways outside of the PBS.
+
+ RECOMMENDATION 3
+Improve pandemic communications by allowing pharmaceutical companies to publicly respond to
+public concerns in a factual and balanced manner, when in the national interest.
+
+The rollout of the COVID-19 Vaccine AstraZeneca was impacted by public misperception relating to
+the risks associated with the vaccine. In preventing pharmaceutical companies from promoting
+medicines, TGA regulations inadvertently prevented AstraZeneca from proactively responding to
+incorrect claims associated with adverse events. Pandemic arrangements should be considered by
+the Panel, to prevent such situations arising in the future.
+
+Recognising the urgent need for a vaccine to defeat the virus, in April 2020 AstraZeneca joined
+forces with the University of Oxford to rapidly develop and supply a COVID-19 vaccine. In February
+2021, COVID-19 Vaccine AstraZeneca was provisionally registered by the TGA for individuals aged 18
+years and above. The vaccine was first made available to Australians in March 2021.
+
+On 8 April, ATAGI issued advice that due to a rare but potentially severe side effect linked to the
+COVID-19 Vaccine AstraZeneca, it was no longer the preferred vaccine for 16-50-year-olds, while
+there were very few COVID-19 cases in the community. ATAGI advised that in an outbreak, either
+vaccine was likely to be beneficial, and if the Pfizer vaccine was unavailable, it was preferable for
+people under 50 to receive the AstraZeneca vaccine, however they should consult their doctor.
+
+On 17 April, the Department of Health paused advertising on the vaccine rollout. On 4 May, the
+Australian Government recalibrated its rollout strategy to utilise doses of the COVID-19 Vaccine
+AstraZeneca by bringing forward eligibility for 50+ Australians. On 17 June, ATAGI advised that the
+COVID-19 Vaccine AstraZeneca was no longer the preferred vaccine for 50-59-year-olds. The COVID-
+19 Vaccine AstraZeneca remained registered by the TGA for individuals aged 18+.
+
+The nuances in ATAGI's advice were quickly lost amongst the media and public commentators, with
+many interpreting the advice to say that there was a prohibition on the use of the AstraZeneca
+
+
+6 https://www.health.gov.au/resources/publications/review-of-covid-19-vaccine-and-treatment-purchasing-
+and-procurement-summary-and-recommendations
+
+                                                                                              Page 5 of 6
+                                                                          AstraZeneca
+vaccine for persons under 50, and then under 60, rather than a recommendation. The risk/benefit
+analysis of receiving the vaccine, and any COVID-19 vaccine, was not well understood by politicians,
+the mainstream media, or the general public. Media reporting resulted in public confusion regarding
+vaccine eligibility and led to vaccine hesitancy amongst members of the public.
+
+At the time, TGA regulations made it difficult for AstraZeneca to publicly respond to media reports
+regarding adverse events and risks associated with the vaccine for the population groups which
+ATAGI recommended should receive the vaccine. Throughout this period, AstraZeneca responded to
+direct media enquiries.
+
+Confusion was partially the result of media and the public not sufficiently understanding that ATAGI
+acts in an advisory capacity. It's not uncommon for there to be differences in clinical opinion
+between different clinical groups, such as between ATAGI and PBAC.
+
+The Halton Review concluded that to maximise coverage and reduce confusion, it is important for
+government to clarify who the key decision-maker on vaccine eligibility is and which bodies act in an
+advisory capacity. This Review also concluded that public messaging needs to be better aligned with
+public health goals, and high-level COVID-19 vaccine policy.
+
+Pandemic arrangements should be considered under TGA regulations, that would allow
+pharmaceutical companies to publicly respond to such concerns in a factual and balanced manner
+when in the national interest, to prevent such situations from arising in the future.
+
+ RECOMMENDATION 4
+Establish ongoing monitoring of COVID-19 mutations and circulating variants of concern.
+
+At present, data collection and monitoring in Australia is fragmented and intermittent, making data
+unreliable and unapplicable to the Australian population as a whole. Establishing ongoing monitoring
+of COVID-19 variants would help inform decisions on the role and funding of therapies to prevent and
+treat COVID-19.
+
+The development and ongoing global rollout of COVID-19 vaccines was made possible through post
+approval real world data (RWD) collection and studies. These insights reflect daily interactions with
+the healthcare system for millions of people, including those often excluded from randomised
+controlled trials (RCTs).
+
+It is essential that Australia collects its own data to continue to monitor COVID-19 mutations and
+circulating variants of concern, as countries continue to experience different variant waves at
+different times. This means information collected overseas data may only be partially applicable to
+Australia.
+
+The Halton Review recommended ongoing monitoring of COVID-19 mutations and variants,
+including impacts on treatment efficacy. Collecting and reporting on such data would also sustain
+public awareness of the risks associated with COVID-19, encouraging greater uptake of vaccine
+boosters and other options for the prevention and treatment of COVID-19.
+
+We recommend establishing a linked framework for Australian governments to collect data, with
+wastewater surveillance as the backbone of this framework, accompanied by targeted genomic
+sequencing of variants of interest. This would enable an evidence-based approach for Australia's
+ongoing diagnosis, management and treatment of COVID-19.
+

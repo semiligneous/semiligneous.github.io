@@ -1,0 +1,131 @@
+           Submission for the COVID-19
+             Response Inquiry Panel
+My name is Gaetan Selle, I am a permanent resident in Australia and I work in video
+production. I have been thinking a lot about global catastrophic risks from nuclear war,
+artificial intelligence and biorisks are definitely high on my list of concerns.
+
+My submission underscores the importance of Australia's shift towards a proactive stance in
+preventing future pandemics, rather than exclusively concentrating on preparedness. As a
+resident of Australia, I experienced the profound disruption that COVID-19 wrought upon my
+life, mirroring the experiences of countless others. It impeded not only my professional
+endeavors and interpersonal connections but also served as a stark reminder that COVID-19
+was, in many ways, a mere dress rehearsal for a far graver threat. The contemplation of how
+drastically life could have been altered had the mortality rate surged to a harrowing 50% is a
+haunting prospect that underscores the urgency of our preventative measures.
+
+Surely this investigation should analyze all avenues for the administration to better assist
+citizens in the next pandemic. However, even a well-managed pandemic brings awful
+outcomes. Hence, deterrence should be the main ambition.
+
+I know Australia invests heavily in mitigating natural disasters, increasing due to climate
+change. But I am unaware of similar efforts to curb pandemics, despite higher average risk
+for Australians.
+
+
+The risk of engineered pandemic
+In that framework, I want to surface important issues to steer us appropriately. One
+prevention area demanding more gravity is the expanding prospect of man-made
+pandemics. The inquiry's scope focuses on expecting pandemics. Evidence shows
+effectively doing so necessitates weighing this possibility.
+
+Experts, including MIT Professor Kevin Esvelt, assess that the technologies necessary to
+design, create and release dangerous and novel pathogens may become widely available by
+2025.
+
+A technology enabling millions of potential casualties in the wrong hands is clearly
+unacceptable. Recognizing this danger, President Biden ordered new rules on October 30th,
+2023. His executive order mandates developing a framework within 180 days to effectively
+screen risky DMA orders, institute access controls, provide technical screening guidance,
+and oversight. Currently, about 20% of DMA requests go unvetted. The order also threatens
+to cut funds to any provider not following the forthcoming best practices after the 180-day
+deadline.
+Australia already regulates importing synthetic DNA. This investigation should advise the
+government to urgently update that system to align with the US rules. That means requiring
+Australian labs importing DNA to check all orders under the new American procedures.
+
+Following the US DNA regulations would largely address the most pressing risks experts like
+Professors Esvelt and Schmidt raise. But it is not a permanent fix. Ongoing biotechnology
+advances and more sophisticated Al could help bad actors circumvent these regulations
+unless rules keep pace. Safety measures for Al must also advance.
+
+Thus, this inquiry should recommend the Industry Department collaborate with Health and
+the CDC. Together they can develop minimum safety standards for frontier Al models
+deployed in Australia. The goal is to identify and restrict models that pose biosafety dangers.
+We should clearly tell developers and users that Al with potential "dual-use" catastrophes
+risks is unwelcome here. Finally, we must closely track progress in biotechnology to prevent
+engineering pathogens from becoming widely feasible.
+
+
+Lab leak will probably be the source of the next pandemic
+High incident rates in labs handling hazardous pathogens shocked me. A Manheim and
+Lewis study found 71 reported cases of risky human-created pathogen exposures from
+1975-2016, likely underreported. An anonymous Belgian survey uncovered nearly 100
+lab-acquired infections over 5 years. A lab leak also may have sparked the 1977 flu
+pandemic. (https://www.zotero.org/google-docs/7aBE8dl)
+
+Given pandemics can destroy millions of lives and trillions in wealth, current safety measures
+seem inadequate. While science drives progress fighting pandemics, responsibility matters.
+
+As an outsider, oversight of Australian containment facilities seems opaque. The Gene
+Technology Regulator focuses largely on GMOs, revealing little about facilities.
+
+Available data shows the Regulator certified a record 132 facilities last fiscal year, reaching
+1,874 "high-level" labs now operating. Yet only 49 inspections occurred, none examining the
+highest-tier PC4 facilities. Reviews show no PC4 inspections for the past 3 years, with just
+one in 2020-2021. Despite so few reviews, 26 certified facilities showed noncompliance. The
+report called this a “cooperative approach”, finding no fault.
+
+Additionally, facility guidelines seem outdated. PC4 rules date back to 2007, referencing air
+filter and lab safety standards untouched since the early 2000s. One filter standard drew
+HVAC industry criticism for relying on inaccurate 1950s research, now superseded.
+
+While an unflattering portrait, this may simply reflect limited resources. The Regulator has
+just 51 staff across diverse oversight duties. Overall though, regulation seems to fall short of
+public expectations. I would have assumed facilities meet cutting-edge global standards,
+with multiple yearly inspections.
+
+I think that this Inquiry should recommend a thorough review of biosafety - including the
+suitability of requirements, degree of adherence, and adequacy of oversight - for all
+research that involves human or animal pathogens. The review should include a risk
+assessment that takes into account the potentially catastrophic global consequences of
+errors, and ensures that our approach to mitigation is proportionate to that risk.
+
+
+Preventing social collapse
+Modern society depends on electricity from interconnected grids powering water,
+communications, transport, healthcare, and more. Today's grids need endless diligence,
+where health crises limiting staff could spur catastrophic collapse. Addressing this jeopardy
+satisfies Inquiry priorities one, two, and six.
+
+A paper by Wormuth et al note COVID-19 differed from past outbreaks with higher elderly
+mortality. Younger employees predominantly staff essential grid operations. Future
+pandemics impacting youngergroups more severely might devastate infrastructure in ways
+impossible without tightly optimized, fragile systems. Thus, they contend safeguarding the
+power network amid contagions is critical.
+
+Accordingly, I advise this investigation recommend Supply Chain Resilience, Home Affairs
+Critical Infrastructure, and Emergency Management collaborate. They can devise
+preparation and response plans for pandemics disrupting supply chains and provoking staff
+scarcities in vital sectors.
+
+Wormuth et al and Gopal et al's paper "Securing Civilization Against Catastrophic
+Pandemics" offer specifics. That includes robust contingency schemes for generators,
+transmitters, and distributors - plus capacity to provide high-grade protective equipment and
+other safeguards for workers during crises. Given the importance of reaffirming confidence,
+industry engagement and public transparency seem key across governmental plans and
+simulations.
+
+Throughout the annals of history, the domain of public health has undergone a profound
+expansion. An observer from bygone eras might have dismissed the significance of
+innovations like the advent of microscope lenses, the intricacies of sewer infrastructure, the
+introduction of citrus fruits aboard seafaring vessels, or myriad other advancements as
+unrelated to the realm of public health. However, this relentless broadening of the public
+health purview, embracing emerging challenges and novel technologies, has unequivocally
+yielded significantly improved outcomes.
+
+The present inquiry presents a unique opportunity to elevate nascent and contemporary
+issues to the forefront of our considerations regarding pandemics. Whether it entails
+harnessing the potential of metagenomic sequencing or addressing the perils associated
+with artificial intelligence, I firmly believe that this investigation must delve into the
+forthcoming risks and prospects that lie on the horizon of the 21st century.
+

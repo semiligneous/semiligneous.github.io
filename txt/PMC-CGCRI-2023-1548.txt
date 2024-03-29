@@ -1,0 +1,362 @@
+ _0
+ X) AUSTRALIAN
+  □ Pathology
+      Representing private pathology in Australia
+
+
+
+
+Consultation Submission:
+Commonwealth Government
+COVID-19 Response Inquiry
+
+
+
+
+Australian Pathology
+December 2023
+About Australian Pathology
+Australian Pathology is the peak body representing 95% of the private pathology providers in
+Australia. Our members include national companies such as Australian Clinical Labs, Healius and
+Sonic Healthcare, small boutique laboratories such as Histopath, and several IVF providers, such
+as Genea, Monash IVF and Virtus.
+
+Our members provide 90% of all pathology services in the community and private hospitals and
+are exclusive providers under contract to a range of public hospitals and the National Defence
+services as well as providing national screening programs such as the National Cervical Screening
+Program, and the National Bowel Cancer Screening program. Our members support more than
+900,000 patients with pathology testing per week and employ more than 35,000 people.
+
+Australian Pathology welcomes the opportunity to respond to the Commonwealth Government
+COVID-19 Response Inquiry.
+
+
+Our Role in Australia’s COVID Response
+The members of Australian Pathology were at the forefront of the public health response to the
+pandemic. The public health response across Australia was aimed at limiting the spread of the
+disease, to manage the risk of overloading the hospital system, until such time as a vaccine or
+other effective therapy was widely available. Accurate and timely diagnosis of COVID cases was
+essential to this approach. From the time the test first became available in April 2020, until the end
+of 2022, the Australian pathology sector collectively provided more than 75 million PCR tests. Since
+the end of 2022, COVID testing in the general community has all but ceased, with the small amount
+of ongoing testing in late 2023 almost exclusively being undertaken to protect the vulnerable aged
+care communities and immunocompromised hospital patients.
+
+The response from Australian governments was effective at controlling case numbers and deaths,
+particularly in the period of greatest risk prior to the widespread availability of effective COVID
+vaccines. Achieving this outcome simply would not have been possible without the contribution
+made by the pathology sector in Australia. Australian Pathology’s members invested in the
+necessary capital, equipment, and workforce, to be able to provide best-practice PCR testing at
+the scale needed to effectively monitor the most at-risk population groups across the entire country.
+Access to services was timely and equitable. The sector was innovative in the approaches it took
+to be able to scale up testing to maximum possible capacity and provide results to authorities,
+treating clinicians, and patients, as quickly as possible. When we consider that a diagnostic test for
+COVID-19 did not even exist in March 2020, for the pathology sector to be able to provide the
+service it did throughout the pandemic was nothing short of remarkable.
+
+In April 2023, Deloitte completed a Review of the impact of the Pathology Sector Response to the
+COVID-19 Pandemic. A copy of this report is attached to this submission for reference.
+
+
+Barr ers to serv ce provis on
+In the process of implementing a rapid and massive public health screening program, Australian
+Pathology’s members faced a number of issues involving various levels of Australian governments
+which needed to be resolved before testing could be rolled out at scale to the Australian population.
+Broadly, these were practical issues relating to service provision, regulatory issues relating to
+service provision, and financing issues. In expanding on these issues below we shall attempt to
+illustrate some of the interlinkages which exist between them.
+
+
+
+
+Consultation Submission to the Commonwealth Government COVID-19 Response Inquiry I ©Australian Pathology   2
+Practical issues
+The main practical issues that pathology providers faced which touched on Commonwealth
+government responsibilities related to: access to personal protective equipment (PRE) and other
+testing-related consumables, and handling community expectations.
+
+Consumables and the National Medical Stockpile
+
+Australian pathology’s members employ around 35,000 workers. During the peak of the pandemic,
+our members doubled the workforce of pathology collectors, the people on the front line collecting
+respiratory samples for PCR testing. As employers, our members have a duty of care to their
+employees and being able to supply adequate PPE to collectors as well as the laboratory staff who
+were handling samples was a significant supply problem for all of our members who were
+performing COVID tests, especially during the period April - September 2020.
+
+The National Medical Stockpile (NMS) is intended to be maintained by the Commonwealth
+Government Department of Health for use in response to a national health emergency, such as the
+COVID pandemic in 2020. PPE are some of the items that are supposed to be available from the
+NMS; this was one of the recommendations made in the reviews which followed the 2009 Swine
+Flu pandemic. In spite of the existence of the NMS and the learnings from our experiences in 2009,
+our members’ experience was that they were not able to rely on the NMS to provide any significant
+quantities of PPE.
+
+Instead, our members filled their PPE requirements by leveraging their existing relationships with
+global suppliers. Because of the global nature of the COVID pandemic, there was significant
+competition for the limited supply of PPE (as well as other key consumables, such as PCR reagent)
+which caused the prices of these commodities to increase dramatically. In an extreme example,
+there were some suppliers charging several dollars each for face masks which were previously
+available for a few cents each - markups in the order of 50- 100 times the pre-pandemic prices -
+simply due to the high level of competition for such items in the early stages of the pandemic.
+
+A properly stocked and managed NMS could have ameliorated the pressure on medical providers,
+who, in 2020, were instead forced to purchase PPE supplies at grossly inflated prices. We note
+that some items have limited shelf lives, meaning that it may not be practical to maintain a physical
+stockpile; in such cases the government should engage suppliers (perhaps on retainer basis) to
+ensure that the suppliers can ramp up production and supply to Australian buyers (whether the
+government or end users) at short notice.
+
+Community expectations of “free” testing
+
+Another practical issue which our members had to deal with arising from the Government’s handling
+of the pandemic was a public expectation that testing would be “free”. Australian Pathology’s
+members completely support the public health messaging which was encourage Australians to test
+early and test often. Australian Pathology’s members also completely support the messaging that
+Australians should not need to fear having to pay for community screening tests if they were
+symptomatic or had been exposed to a COVID-positive person. However, we note that there were
+several exceptions to the “free testing” that were not adequately communicated to the public: travel-
+related testing, and workplace-related testing.
+
+
+
+
+Consultation Submission to the Commonwealth Government COVID-19 Response Inquiry I ©Australian Pathology   3
+At various times throughout the pandemic, Australian state/territory as well as international
+governments required a negative COVID test result prior to travel and it was neither intended nor
+appropriate for the government to fund such testing. Unfortunately, the overarching messaging
+about “free testing” - while correct from a public health perspective - likely meant that some
+individuals accessed a government-funded community screening test for travel purposes, which
+might be considered either inappropriate or non-compliant claiming within the context of a Medicare
+claims audit.
+
+Later in the pandemic, there was a patchwork of regulatory requirements surrounding the nature
+of “proof of test” for travellers depending on the jurisdiction to which they were travelling. The
+government-developed digital vaccination certificates to allow check-in at public venues and
+interstate/international travel later in the pandemic were an outstanding example of what might be
+possible in future for sharing of test results or other ‘proof of service’ requirements, and having a
+single government-sponsored portal or app makes things easier for both providers and consumers,
+and early action to put the framework needed to support a similar system for future pandemics
+might be warranted. Prior to this being developed, service providers had to try and accommodate
+requests from consumers to provide proof of testing in the format demanded by the travellers’
+destination. This placed unnecessary administrative burdens on providers, who were already
+having to manage a multitude of service-related issues. Ideally, governments (both intra-national
+and international) would work together to agree on a single documentation standard. This would
+streamline the administrative process for providers as well as making the process of establishing
+health status easier for consumers.
+
+Particularly during the ‘opening up’ phases of the pandemic, some workplaces required regular
+COVID testing to manage the risk of cross infection within the workplace. This was important for
+workplaces dealing with high-risk groups such as hospitals or aged care facilities, but it was not
+limited to such workplaces. It was not entirely clear whether the Government intended for this type
+of testing to be included in the scope of services that it was funding, even though there would be
+strong public health arguments to support it. Demand for workplace was partly driven by
+government regulations as well as individual employer COVID policies. We would point out that
+some of these policies would have in turn have been based on advice or regulations published by
+the Commonwealth or state/territory governments.
+
+In future, it would be helpful if the language used by government to describe publicly funded
+services is not “free” but instead, “paid for by the government”, or “covered by Medicare”, or similar,
+making it clear that the patient will face no out-of-pocket, but that there still is a cost to provide
+testing. While this might seem a trivial distinction to draw, medical services are not costless to
+deliver and it would certainly assist providers to manage those situations when the consumer is
+requesting a service that the public funding was not intended to cover.
+
+Use of Rapid Antigen test kits
+
+Rapid antigen tests (RATs) played an important complementary role to PCR testing. In particular,
+widespread use of RATs was useful for managing limited PCR testing volumes during peaks in
+demand. However, there was limited public understanding of the limitations of RATs and this likely
+resulted in sub-optimal public health outcomes arising from RAT use. Most importantly, public
+health communication did not make adequately clear that RATs are complements to PCR testing,
+and not a substitute.
+
+
+
+
+Consultation Submission to the Commonwealth Government COVID-19 Response Inquiry I ©Australian Pathology   4
+The fact that RAT testing is generally less sensitive than PCR tests means that they may not detect
+the virus in individuals with lower viral loads, especially in the early stages of infection or in
+asymptomatic carriers. This likely means that negative results from RATs undoubtedly gave some
+infected individuals a false sense of security, leading to mass-spreader events, which could have
+been avoided if a PCR test had been used and detected the infection. In addition, the lower
+sensitivity of RAT testing means that it should not be relied on as a screening tool for those working
+in sensitive settings, such as hospitals.
+
+The ideal deployment of PCR tests and RATs involves a strategic balance from a public health
+policy design perspective. Ensuring that the community correctly utilises both testing methods
+requires some nuanced communication from public health officials, which in turn relies on a degree
+of health literacy amongst the community. Increasing awareness and understanding of pathology
+testing as well as key epidemiological concepts such as test sensitivity/specificity, and false positive
+and false negative results, would make the government more capable of delivering more nuanced
+public health policies in future.
+
+Regulatory issues
+The Medicare rules are designed to protect benefit integrity and service quality and under normal
+circumstances, the regulation’s lack of flexibility and outdated nature, while cumbersome, does not
+present a significant impediment to service provision. However, as the early stages of the COVID
+pandemic emerged, the Medicare regulations presented service providers with a series of
+regulatory obstacles which added complexity to and retarded the pathology sector’s ability to move
+quickly in response to the rapidly evolving public health situation.
+
+Drive-thru testing quickly became the preferred method for the pathology sector to be able to
+provide efficient mass testing. It allowed for patients to remain separated, limiting cross-infection
+which would have occurred in traditional waiting rooms. It also afforded the pathology collectors an
+element of environmental protection by creating a greater degree of physical separation than would
+be afforded in an ordinary medical attendance room typical of pathology collection centres.
+Providing drive-thru testing was not without its challenges: site logistics (especially how to place
+collection infrastructure), as well as traffic management, were new workplace puzzles that
+pathology providers had to solve ‘on the fly’ in order to operate drive-thru facilities, and no two sites
+were exactly the same.
+
+While drive-thru testing should probably be a preferred method for providing screening tests in any
+future respiratory pandemic, the existing Medicare rules for pathology testing are quite restrictive
+in where and by whom a sample can be collected. There are some good quality-related reasons
+underpinning some of these restrictions but the regulation does not have any “catch-all” provisions
+to cover any unusual or exceptional circumstances. The Medicare compliance team at the
+Department of Health ultimately took a pragmatic approach to pandemic testing, but this was not a
+consistent approach, with some of the initial compliance communications from the Department of
+Health taking a far harsher tone towards providers. It would be far better if providers simply did not
+have to worry about the possibility of being penalised for non-compliance when taking actions
+expedient to a public health emergency response.
+
+Financing issues
+Pathology providers in Australia faced unprecedented challenges during the COVID-19 pandemic
+not least of which related to financial management. The early stages of the pandemic created a
+financial ‘perfect storm’ for pathology providers. The costs associated with sourcing the PCR testing
+reagents and PPE were increasing exponentially, and providers needed to grow their workforce to
+adequately staff sudden increase in testing and collection efforts. At the same time, business cash
+flow dried up due to the cancellation of many other medical services.
+
+
+Consultation Submission to the Commonwealth Government COVID-19 Response Inquiry I ©Australian Pathology   5
+The financing arrangements to pay for community COVID screening tests were not made explicit
+at the outset, with the focus and effort of policymakers and providers alike being on rolling out high-
+volume testing as quickly and efficiently as possible. The public health messaging strongly implied
+that screening tests would be covered by Medicare, but under the Medicare rules, screening tests
+are not covered unless the Medicare item is explicitly for screening purposes. In addition, the
+Medicare rebate for item 69494 (which was the most appropriate existing item under which a new
+COVID test could be billed) was inadequate to allow providers to meet costs and would have
+resulted in mass bankruptcy of providers had the government not acted quickly to put in place the
+temporary Medicare items that it did.
+
+However, during the latter part of 2020 and into 2021, it became clear that the Commonwealth
+government was not willing to continue to bear the sole financial burden of paying for COVID
+screening tests, particularly when the state governments had jurisdictional control over some of the
+circumstances under which communities could be tested. The Commonwealth reminded providers
+in a series of Medicare compliance-themed letters that community screening tests should be
+directed to state health departments for payment. While technically correct from a regulatory and
+compliance standpoint, seeking payment from state governments presented a new series of
+challenges to providers. While the Medicare claiming channel is established and well-understood,
+seeking payments from state governments for high volumes of patient tests was neither
+straightforward nor consistent across jurisdictions. Australian state and territory governments were
+not resourced or equipped to handle the types of invoices that Medicare routinely deals with, and
+this led to payment delays. The various state governments also each had their own documentation
+requirements of providers, which again created additional administrative barriers to service
+provision. It would have been far preferable for providers to simply be able to utilise the existing
+Medicare billing channel and for the multiple levels of government to negotiate within the COAG
+structures the financial reconciliation associated with the costs of community screening tests. It is
+unacceptable that multiple levels of government should each be directing medical services
+providers to bill the other level of government for services provided during a pandemic and such a
+situation must be avoided in future.
+
+Compounding the cash flow and financial challenges was the ill-advised requirement placed on
+pathology providers to bulk bill COVID screening tests. While the public health intention was one
+which the pathology sector supported wholeheartedly - that individuals should not hesitate to seek
+testing out of fear of having to pay out-of-pocket medical fees - the government’s chosen method
+of implementing this proved problematic. The bulk billing clause written in to the COVID item
+descriptor gave private health insurers an excuse to refuse payment to pathology providers for
+COVID testing performed on hospital inpatients. This was not the intent of the regulation but it
+created disagreement between pathology providers and private health insurers, and significant
+administrative issues following on from the bulk-bill clause in the item descriptor.
+
+In addition, it is not clear that including a bulk-billing requirement in a Medicare item descriptor is
+even lawful. Health services in Australia are not nationalised and therefore the government has no
+price-setting powers. Medical service providers in Australia are free to choose whether or not they
+are willing to bulk bill. Medicare benefits in Australia are a payment to eligible persons (not Medical
+providers), intended to help cover the cost of eligible medical services. A medical provider may
+choose to accept the Medicare benefit as full payment for their services, but this is a choice that a
+provider makes. A Medicare-eligible patient’s benefit should never be made contingent on a
+medical provider’s billing decision.
+
+In summary, pathology providers found themselves caught in the crossfire of conflicting
+expectations, financial uncertainties, and rising costs. The lessons learned from these challenges
+underscore the need for a coordinated and harmonised approach between the various levels of
+government in financing any future pandemic response.
+
+Consultation Submission to the Commonwealth Government COVID-19 Response Inquiry I ©Australian Pathology   6
+Recommenda ons
+1.   Strengthen the National Medical Stockpile (NMS):
+
+Maintain a robust and well-managed National Medical Stockpile to ensure an adequate and timely
+supply of personal protective equipment (PPE) and testing consumables during public health
+emergencies. This would prevent pathology providers from relying solely on global suppliers,
+especially during periods of heightened demand and increased prices.
+
+2. Add Flexibility to Medicare Regulations:
+
+Enhance the flexibility of Medicare regulations to accommodate exceptional circumstances, such
+as drive-thru testing during public health emergencies. Add a catch-all provision to cover the entire
+Medicare schedule for public health emergencies, ensuring that providers can respond promptly
+without the fear of penalties for non-compliance.
+
+3. Coordinated Financial arrangements:
+
+Establish a coordinated financing framework between the Commonwealth and state governments
+to avoid confusion and delays in payments. Streamline the billing process through existing
+Medicare channels and negotiate financial reconciliation within established COAG structures,
+preventing providers from dealing with multiple levels of government for payment during a
+pandemic.
+
+4. Clear Communication on Testing Costs:
+
+Ensure that public communication during any future pandemic clearly conveys that while testing
+may be funded by the government or covered by Medicare, it is not entirely "free." Use language
+such as "paid for by the government" to emphasise the financial aspect and avoid
+misunderstandings, particularly regarding exceptions to free testing, such as travel-related or
+workplace-related testing.
+
+5. Establish clear parameters for Travel and Work-related Testing:
+
+Clearly define the scope of publicly funded workplace testing, avoiding potential discrepancies and
+ensuring alignment with broader public health goals. Develop a unified approach to hospital and
+travel-related testing requirements to streamline processes and eliminate confusion. Establish
+standardised documentation requirements for travel-related and workplace-related testing to
+reduce administrative burdens on medical providers. This could include a government sponsored
+portal or app to streamline proof of testing requirements, ensuring consistency across jurisdictions
+and simplifying the process for both providers and consumers.
+
+6. Long-term Planning for Future Pandemics:
+
+Learn from the challenges faced during the COVID-19 pandemic and engage in long-term planning
+for future pandemics. This includes refining financing arrangements, enhancing stockpiles, and
+establishing clear communication channels to ensure a more coordinated and effective response
+by all stakeholders involved in the healthcare sector.
+
+Implementing these recommendations will contribute to a more resilient and responsive healthcare
+system, better prepared to handle the challenges posed by future pandemics.
+
+
+
+
+Consultation Submission to the Commonwealth Government COVID-19 Response Inquiry I ©Australian Pathology   7
+-0
+VQ AUSTRALIAN
+ Q Pathology
+
+Australian Pathology
+
+Level 1,16 Napier Close
+Deakin ACT 2600
+
+P: 02 6282 2277
+E: info@australianpathology.com
+www.australianpathology.com
+
+
+
+
+                                      Representing
+                                  private pathology
+                                        in Australia
+

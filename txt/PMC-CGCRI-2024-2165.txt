@@ -1,0 +1,101 @@
+   Submissions and evidence to the COVID-19 Response Inquiry
+Dr|
+
+I am a medical scientist employed in human infectious disease pathology testing for over|
+            I service on many international and national committees, in particular the European
+Expert Committee on medical devices and in-vitro diagnostic medical devices (IVD), Australian
+Standards committe^                 and Australian National Testing Strategy committees. My
+employer is a WHO Collaborating Centre and my role has active and on-going activities with the
+WHO, Global Fund and USA ODO. Of note, I have been an advisor to the WHO Prequalification of
+medical Products focused on IVDs. I had oversight of the evaluation of IVDs for the evaluation of
+diagnostics tests for SARS-CoV-2 serology on behalf of WHO, as well as the evaluation of rapid
+antigen test kits for the Australian Government, Therapeutic Goods Administration (TGA). The
+organisation I work for, the                                                               conducts
+evaluations of test kits on behalf of the WHO and TGA and is a leading authority globally on test
+kit evaluations, as well as a provider of quality assurance services to Australian and international
+laboratories using these test kits.       was established in 1985 by the Australian Government in
+response to the HIV epidemic. Atthe time           was responsible for the evaluation of HIV test kits
+and advised TGA of which tests should be used and in what sequence they should be used to
+optimise the sensitivity and specificity of test results. Although the circumstances between HIV
+and COVID-19 were different          etains the capacity to perform this work, and routinely advises
+foreign ministries of health on test kit selection.
+
+This submission focuses on the introduction of new diagnostic tests in a pandemic setting.
+Australia is party to the IMDRF whereby all IVDs are regulated using a classification system (1 to
+4 in Australia). In Australia, all IVDs must be evaluated by the TGA for performance, quality and
+safety and listed on the Australian Registry for Therapeutic Goods (ARTG) prior to being sold in
+Australia. Similar processes are required in most countries with stringent regulatory systems
+includingthe USA (FDA), Europe (Medicines Agency). IVDs testingfor high-riskdiseases that have
+significant impact on an individual and the community require comprehensive performance
+evaluation prior to listing.
+
+At the advent of COVID-19, all regulatory authorities globally, includingthe WHO, allowed the use
+of test kits for SARS-CoV-2 be used under “Emergency Use Listing” (EUL). This was a pragmatic
+and necessary response to a quickly developing emergency. The checks and balances normally
+stringently applied to IVDs sold in Australia were set aside. However, the outcome of this decision
+meant that a) numbers of commercial and start up companies not having any exposure to the
+regulatory system were allowed to import and distribute test kits into Australia and b) the quality
+of tests being supplied was essentially unknown. Many millions of dollars were spent in the
+purchase of these test kits. The TGA required minimal evidence of performance, and accepted
+manufacturer-derived data.
+
+In March 2020, my employer wrote to the Health Minister offering our services to establish
+systematic process for the evaluation of new test kit. If accepted at the time, a comprehensive
+evaluation of the performance and use of the test kits and on-going surveillance of the
+performance of testing could have been implemented within 6 months. Sample repositories
+could have been established allowing for a better understandingof the test kits and their use and
+support on-going evaluations and research. Disappointingly, this request was denied by the
+minster’s office and the TGA. Australia, as in most other countries, experienced a flood of new
+IVDs into the country, without any systematic review of quality or performance.
+The TGA contracted the Peter Doherty Institute (PDI) to evaluate the SARS-CoV-2 serology rapid
+test kits. The initial report dated 29th April 2020 was substandard, as PDI had little expertise in the
+evaluation of test kits. After subsequent representation from               to the TGA, all further
+evaluations were undertaken by^H in collaboration with PDI and TGA staff, as it was recognised
+that^^had existing, functional quality systems suited to IVD evaluations. It should be noted
+that staff at PDI, which incorporates Victorian Infectious Disease Reference Laboratory (VIDRL),
+the Victorian public health laboratory, was already stretched due to the State, National and
+International public health commitments in a state of emergency. The medical and scientific staff
+were under extreme duress. In my opinion, it was inappropriate for the government to accentuate
+this situation by contract them to undertake activities that were outside their expertise, when a
+world-leading organisation stood ready to perform the tasks. It must be stated that PDI excelled
+in delivering international public health services throughout the pandemic.
+
+Although COVID-19 was quite prevalent in Victoria, access to clinical samples was extremely
+difficult. I personally spent three months seeking access to samples, obtaining ethics and
+material transfer agreements, liaising with clinical services and contacting representatives of
+departments of health, without success. ^^Hfinally paid for access to clinical samples from
+commercial suppliers from Ireland, Germanyand USA, spending many thousands of dollars, but
+where successful in creating a world-class panel of samples suitable for comprehensive
+evaluations of test kits. We were able to offer this evaluation service to WHO and test kit
+manufacturers.
+
+Subsequent to this recent COVID-19 pandemic, is Australia in a better position to respond to the
+next emergency when faced with the evaluation and licensing of diagnostic devices?
+Undoubtedly, we are no better off nowthan in 2019. The barriers faced in 2019 still remain. Since
+COVID-19, Australia has experienced outbreaks of Mpox, Japanese Encephalitis and our nearest
+neighbour, Indonesia had foot and mouth disease. Climate change will exacerbate outbreaks
+and pandemics.
+
+To address these barriers, a range of activities and infrastructure should be implemented.
+
+•   Identify and fund an organisation with demonstrable expertise in the evaluation of test kits;
+•   Develop templated protocols for the evaluation of test kits most likely required for future
+    outbreaks, based on probability and technical requirements;
+•   Establish collaborations between existing public health and scientific organizations such as
+    PDI, CSIRO Australian Center for Disease Preparedness and relevant State and Federal
+    Ministries of Health, as well as the TGA;
+•   Establish ethics for sample collection, material transfer agreements, sample bank
+    repositories and international collaborations with sample providers;
+•   Create a response plan to be initiated in an emergency setting, which allows immediate
+    access to test kits but quickly evaluates the quality and performance of the tests so that
+    underperforming tests can be removed from the market quickly;
+•   Develop a communication strategy for the evaluation laboratory to inform the TGA on poor
+    performance;
+•   Establish quality assurance programs that monitor the performance of IVDs once placed in
+    the market;
+
+Without these elements in place, future outbreaks will be met with the same competition for
+funding, samples, experienced personnel and infrastructure. This competition leads to delays,
+fragmentation in approaches, poorer quality outputs which feed mis-information and ultimately,
+poor test kits reporting incorrect results.
+

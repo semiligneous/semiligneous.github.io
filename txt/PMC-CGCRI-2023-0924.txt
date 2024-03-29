@@ -1,0 +1,153 @@
+A/Prof Jason Thompson
+PhD (Medicine) M.Psych (Clinical) B.Sc(Hons)
+Australian Research Council Future Fellow
+
+
+                                                                                     THE UNIVERSITY OF
+                                                                                     MELBOURNE
+12th March, 2022
+
+Australian COVID-19 Response Inquiry
+A/Professor Jason Thompson - The University of Melbourne
+                       The University of Western Sydney
+
+Background
+
+This response is submitted on behalf of Professo                    Dean of Medicine at the Department
+of Western Sydney, and Associate Professor Jason Thompson (PhD, MPsych (Clinical), BSc(Hons)), Co­
+Director of the Transport, Health, and Urban Systems Research Lab at the University of Melbourne.
+
+               and A/Prof. Thompson were among others
+who led the development of models used by the Victorian Department of Health in 2020 to overcome the
+deadly 2nd wave outbreak. These models were instrumental in formulating the State Government's
+Roadmap to Recovery and effectively eliminating Covid-19 in Victoria until mid-2021. Our response is
+intended to guide the Inquiry towards relevant published research that details our modeling efforts and
+their influence on public health policy. We particularly focus on the experiences and lessons from the
+modeling exercises that supported government decision-making and how these principles should be taken
+forward.
+
+
+The model and its utility
+
+Our model, its outcomes, and its use in supporting Government decision-making in Victoria are detailed in
+the Australian and New Zealand Journal of Public Health (Thompson, McClure, Blakely, et al., 2022). This
+article, along with follow-up publications in 'Health Research Policy and Systems' (Thompson, McClure,
+Scott, et al., 2022), delves into the nuances of modeling efforts and their intersection with policymaking.
+Additionally, the successes and failures of Australia's national Covid-19 policy response, which provide a
+context for the application of our work, are discussed in a 2021 publication of Australia's Covid response in
+Health Economics, Policy and Law (Stobart & Duckett, 2022). Below, we summarize important aspects of
+this work and offer recommendations beyond the published material.
+
+
+Computational Social Science: The Advantage of using Artificial Societies for
+Policy Testing
+
+The Victorian Government used our models as decision-support to help guide effective policy. These models
+incorporated social processes driving disease transmission in Australia and Victoria at the time and were
+built with policy levers relevant to government deliberations. This approach allowed for the testing of policy
+impacts (e.g., school and business re-openings, relaxation of movement restrictions and stay-at-home
+orders) on infection rates, associated health outcomes, and hospital demand among other considerations.
+
+The models were conceived by computational social scientists who operate at the nexus of social processes,
+health system design, and public policy modeling. Rather than starting with a disease as the basis of the
+model, the focus was on modeling dominant social interactions within Australian society - like
+transportation, work, and family life - and how these processes facilitated or mitigated disease
+A/Prof Jason Thompson
+PhD (Medicine) M.Psych (Clinical) B.Sc(Hons)
+Australian Research Council Future Fellow
+
+
+                                                                                      THE UNIVERSITY OF
+                                                                                      MELBOURNE
+transmission. Collaborations with epidemiologists and experts from the Department of Health who held
+domain and operational expertise then enhanced the models to ensure accurate representation of
+pathogens within these modelled societies. These models, underpinned by dynamic social interactions,
+offered a longer, policy-relevant forecasts for decision-makers based on projections of movement and
+interaction patterns within society.
+
+
+Epidemiology - but specifically designed for use by policy-makers
+
+Conventional epidemiological models use a baseline reproduction number (RO) as an input, with policy
+interventions estimated to modify it, resulting in an effective reproduction number (the Reff) whose impact
+on the population is then estimated. This conventional approach cannot easily model social dynamics nor
+the behavioural interactions that drive community transmission. These conventional models are not
+designed to support detailed public health or social policy responses to crises.
+
+By contrast, agent-based models can be designed to mathematically represent social processes and
+dynamics from the outset. Public health policies, when introduced as levers in the model, influence
+modelled interactions, thereby affecting the modelled Reff and the demographics of who is likely to be
+infected and under what circumstances. This more nuanced approach enables a direct reflection of policy
+options available to Government and facilitates rapid 'what if?' scenario testing for decision support. It is
+this type of model architecture that successfully formed the basis of risk assessments performed for the
+Victorian Department of Health in 2020 and which we believe should be a focus for crisis responses into
+the future.
+
+
+Recommendations
+
+Our experience highlights the importance of generating policy relevant models as described in (Thompson,
+McClure, Scott, et al., 2022). To be better prepared for future pandemics, we recommend investing in the
+development of large-scale models that mirror contemporary behaviour and dynamics of Australian society
+- a real time, social science 'digital twin'. This model (or set of models) could be used by policy-makers to
+test policy ideas and scenarios related to infectious disease outbreaks and crises that could strike Australia
+into the future. Given that infectious disease outbreaks are also a sub-set of a broader range of crises facing
+Australia (e.g., natural hazards including floods & fires, economic crises, etc.), the model architecture would
+also have utility above and beyond applications to infectious disease.
+
+To be useful for policy-makers we recommend that models should be built from the perspective of
+contemporary understanding of demographics, dominant social dynamics, and patterns of behaviour that
+are uniquely Australian or unique to other areas and cultures within Australia where required. This would
+allow social policy interventions and their impacts on transmission and social functioning to be observed in
+these synthetic societies prior to implementation in the real world. In short, a comprehensive, nationally
+representative social system faithful to the structure and dynamics of contemporary Australian society
+should be built that enables pathogens with given properties to be introduced into that model.
+
+This approach would differ from that which is instead 'pathogen-first' and holds the advantage that work
+on this national social digital twin could begin immediately without complete understanding of the
+properties of the next pathogen - i.e., before the next crisis strikes. A broad public health, systems-thinking
+and interdisciplinary approach will be necessary. It should be inclusive of social scientists, computational
+A/Prof Jason Thompson
+PhD (Medicine) M.Psych (Clinical) B.Sc(Hons)
+Australian Research Council Future Fellow
+
+
+                                                                                         THE UNIVERSITY OF
+                                                                                         MELBOURNE
+social scientists, public health experts, and epidemiologists who can study, understand, and model both
+existing and future social, psychological, economic, physical, and physiological dynamics related to
+combating and remaining resilient to future pandemics.
+
+
+
+References
+    i.   Stobart, A., & Duckett, S. (2022). Australia's Response to COVID-19. Health Econ Policy Law, 17(1),
+         95-106. https://doi.org/10.1017/S1744133121000244
+    2.   Thompson, J., McClure, R., Blakely, T., Wilson, N., Baker, M. G., Wijnands, J. S., De Sa, T. H., Nice,
+         K., Cruz, C., & Stevenson, M. (2022). Modelling SARS-CoV-2 disease progression in Australia and
+         New Zealand: an account of an agent-based approach to support public health decision-making.
+         Aust N ZJ Public Health, 46(3), 292-303. https://doi.org/10.llll/1753-6405.13221
+    3.   Thompson, J., McClure, R., Scott, N., Hellard, M., Abeysuriya, R., Vidanaarachchi, R., Thwaites, J.,
+         Lazarus, J. V., Lavis, J., Michie, S., Bullen, C., Prokopenko, M., Chang, S. L., Cliff, O. M., Zachreson,
+         C., Blakely, A., Wilson, T., Ouakrim, D. A., & Sundararajan, V. (2022). A framework for considering
+         the utility of models when facing tough decisions in public health: a guideline for policy-makers.
+         Health Res Policy Syst, 20(1), 107. https://doi.org/10.1186/sl2961-022-00902-6
+
+
+
+
+Assoc. Professor Jason Thompson
+PhD(Medicine), M.Psych(Clinical), BSc(Hons) - ARC Future Fellow
+Melbourne School of Design
+Transport, Health and Urban Systems (THUS) Research Lab & Melbourne Centre for Data Science (MCDS)
+
+
+
+The University of Melbourne, Victoria 3010 Australia
+                     M:                    E:
+
+
+           THE UNIVERSITY OF
+
+         p MELBOURNE
+

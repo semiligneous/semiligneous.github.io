@@ -1,0 +1,241 @@
+*
+NSW
+GOVERNMENT
+                 Sydney
+                 Local Health District                      UNSW                                disadvantaged area. Further, while Aboriginal and/or Torres Strait
+                                                                                                 slander people infected with COVID-19 were more likely to end up
+                                                                                                in hospital, there is no evidence that they were any more likely to
+                                                                                                die, other things being equal, than non-Aboriginal and Torres
+                                                                                                Strait Islander cases. This is despite the COVID-19 vaccination rate
+Health Equity Research and Development Unit
+                                                                                                among Aboriginal and Torres Strait Islander people lagging that
+We welcome the opportunity to provirie a submission and support                                 among the general population (Woodley, 2022) (our modelling did
+the whoIe of govemmentspproHh taken by the I nqui ry. We a Iso                                  not control for vaccination status because the data were not
+acknowledge the extent of Australia's achievements in responding                                available) (page 40-47 and page 106-107). These findings suggest
+to the pandemic. Measures like housing for people who were                                      that, in SLHD at least, the COVID-19 care provided to Aboriginal
+homeless and providing icome support bwng two examples. As                                      and Torres Strait Islander cases, and to cases from disadvantaged
+recent data frbm.B^raliM nstitute of Health and Welfare (AIHW)                                  areas, was at least as good (in terms of preventing death) as that
+H BIH HII Iralia has performed well internationaliy                                             provided to non-Aboriginal and Torres Strait Islander cases and
+                                                                                                those from less disadvantaged areas.
+
+WHO WE ARE                                                                                      Alongside hospital-based care, clinical care for patients with
+This equity-focused health impact assessment (EFHIA) was                                        COVID-19 isolating at home or in Special Health Accommodation
+conducted by the Health Equity Research Development Unit                                        (health hotels) saved lives in some cases. This care also
+(HERDU), a Sydney Local Health District (SLHD) service in                                       prevented the onward transmission to the community and/or in
+partnership with the University of New South Wales (UNSW)                                       our health facilities, as well as allowing acute hospitals to manage
+Centre for Primary Health Care and Equity (CPHCE).                                              demand.
+
+HERDU is an Academic unit embedded within the District. Its                                     SLHD directly responded to the COVID-19 pandemic with a range
+primary function focuses on strengthening health equity within                                  of equity-focused targeted responses (page 91-103) to address
+the District and NSW. HERDU work in partnership with health                                     the emerging health equity impacts of the pandemic. Overall,
+services, organisations, and communities to identify and reduce                                 these responses had a definite positive impact on health equity, as
+existing inequities in health and to prevent inequities in health                               evidenced by the relatively high vaccination rates in vulnerable
+from arising in the future.                                                                     and marginalised communities. Social housing residents in the
+                                                                                                District have the highest two-dose vaccination rate in NSW.
+HERDU were commissioned by the District to carry out an EFHIA
+on the COVID-19 pandemic response (see Technical Report                                         Known social determinants associated with health outcomes and
+Attachment). A Health Impact Assessment (HIA) is a structured                                   inequities, such as housing, employment, immigration and
+process for considering potential positive and negative health                                   ndigenous status, have long been recognised by SLHD as priority
+impacts of a proposed policy, plan or other intervention. The goal                              areas where opportunities for good health and access to
+of undertaking an HIA is to provide a set of evidence-informed                                  appropriate services need to be enhanced; in other words, equity is
+recommendations to enhance potential positive impacts of the                                    embedded in the health system and in the work culture in SLHD.
+intervention to be strengthened and any negative impacts to be                                  The equity-focused response from SLHD centred around
+mitigated.                                                                                      intentional engagement with, and prioritisation of, socially
+                                                                                                vulnerable populations and people in high-risk settings for COVID-
+Our research identified current and potential future health equity                              19 transmission.
+impacts of the COVID-19 pandemic, focusing on three main areas:
+1. risks and consequences of infection, 2. changes to work and 3.                               We found that actions taken to reduce the transmission of
+changes to health services. The research focussed on a specific                                 COVID-19 undoubtedly saved lives. However, they also had some
+geographic area and the response of one local health district                                   negative impacts on health.
+(Sydney Local Health District), however, the findings and lessons
+learned have broader applicability.                                                             Trade-offs: service disruption and unintended impacts (page 65­
+                                                                                                82 and 121-128)
+A Technical EFHIA Report (242 pages) describing the EFHIA                                       More generally, in focusing on critical COVID-19 related care;
+process and synthesising the evidence, has been developed.                                      health care rationing and diversion away from clinical care,
+Details of the research methods are described in pages 21-29 of                                 impacted on health services, creating unmet needs. Primary and
+the report. This EFHIA report concludes with 22 equity-focused                                  community-based services, the child youth and family health
+recommendations (page 121-151). The findings are intended to                                    sector, specialised care in community health, chronic and complex
+inform health and other responsible agencies to consider equity in                              care, mental health, non-communicable diseases services and
+their response to the pandemic, to prevent the reinforcement and                                elective surgery, were all identified as experiencing significant
+expansion of existing health inequities and to prevent new ones                                 disruption during the peak times of the pandemic.
+from developing. This includes considering recovery from the
+current COVID-19 pandemic and building resilience to future                                     Changes to delivery of services that particularly responded to the
+pandemics, as well as similar emergency situations.                                             needs of populations already experiencing health inequities (such
+                                                                                                as child and family health services, mental health services and
+The EFHIA took as it's starting point, the time at which the first                              psychosocial support, substance use disorders, HIV and sexual
+evidence emerged that the COVID-19 virus had reached Australia;                                 health, management of chronic conditions and dental care),
+and focused on the health and health equity impacts of the virus                                increased health inequities in the short, medium and possibly long­
+and of the NSW Government and SLHD responses (in particular)                                    term. For example, the temporary stopping of services and the
+over the following two years. These responses were focused                                      suspension of some home visits, limited early detection, triage and
+primarily on preventing deaths and on containing the spread of the                              treatment of child development and wellbeing issues. The short­
+virus. The EFHIA focused most intensively on the role of the health                             term positive impacts of the COVID-19 response may possibly lead
+sector and most of the impacts identified were directly linked to                               to unintended longer-term negative health equity impacts, calling
+actions taken by the health sector. It is also important to                                     for increased capacity in considering health (equity) impacts and
+acknowledge that the actions of sectors other than health are vital                             unintended impacts.
+to the health of the population.
+                                                                                                Impact on staff (page 82-83 and 115-120)
+KEY FINDINGS                                                                                    We found that health staff shouldered a double, work and
+Equity focussed response from the health sector contributed to                                  personal, burden during the pandemic. Workplace allocation and
+saving lives for disadvantaged groups                                                           deployment changed rapidly, were not always communicated
+People living in the more socioeconomically disadvantaged areas                                 clearly, or fully considered people's circumstances. However,
+of the District were more likely to be infected, to be hospitalised                             effective responses from health staff were supported by an
+and to die from COVID-19. However, once a person did become                                     environment that allowed flexibility, making room for innovation
+infected, there is no evidence that they were any more likely to                                and delegating power to people on the frontline with appropriate
+die, other things being equal, than someone living in a less                                    resourcing.
+
+COVID-19 Response Inquiry Submission: Health Equity Research and Development Unit, Sydney Local Health District, and University of New South Wales                 1
+WHAT WORKED WELL
+
+   High-quality hospital­      •    The system, when vulnerable people reached it, saved their lives
+   based services              •    This care prevented the onward transmission to the community and/or in health facilities as well as
+   supported by out of             allowing acute hospitals to manage demand.
+   hospital and virtual
+   services
+                               • Equity was integral to SLHD response from the start.
+   Investing in equity         • SLHD was able to draw on data and on pre-existing initiatives (e.g. health navigators, bilingual
+                                 community educators, in-house health equity research unit), experiences, and relationships (e.g.
+   Putting equity at the         with AMS, NGOs, government agencies) to respond quickly to what was known would be the
+   centre of policy and          likelihood of the inequitable impact of the virus on the population
+   practice                    • In-house platforms for equity-focused and place based action could be directly mobilised, e.g.
+                                 Substantial Aboriginal workforce and leadership; Cultural support workers; Expertise and
+                                 intelligence (HERDU, Public Health Unit/The Observatory, Diversity Hub); Place based interventions
+                                 (e.g., Can get Health in Canterbury, Healthy Homes and Neighbourhoods, Waterloo Link Worker);
+                                 Place based services (e.g., Community Health Centres).
+                               • The response built on long-term development of relationships and trust with partners (in good
+                                 times and bad).
+   Vulnerable            • Explicit targeted response and resourcing for identified vulnerable communities (populations and
+   communities focus for   places).
+   pandemic response     • SLHD focussed on four priority areas and vulnerable populations: (1) the disability sector and
+                                 disability group homes; (2) residential aged care facilities (RACE); (3) vulnerable people and
+                                 housing (social housing residents, boarding houses, people experiencing homelessness); and (4)
+                                 Aboriginal and Torres Strait Islander response
+                               • See pages 91-103 of the Technical Report
+
+
+
+
+RECCOMENDATIONS ®ge 129-151)
+
+Strengthen consideration of         • Capacity to consider medium to long-term health (equity) impacts,
+equity impacts, trade-offs          • Capacity to consider unintended impacts
+and long term impacts when           • Improved utilisation of resources.
+making decisions to stop or
+limit services during
+emergencies
+Increase prioritisation of          • Equity-focused approach ensuring existing inequities are not worsened, nor are new
+maintaining services that are         inequities created, while attempting to reduce risk of exposure.
+addressing health equity            • Capacity to consider medium to long-term health (equity) impacts.
+determinants and outcomes.          • Capacity to consider unintended impacts
+                                    • Our health system is there for every one of us (not just the most visible or apparently
+                                      urgent).
+Maintain vulnerable                 • Explicit targeted response and resourcing for identified vulnerable communities
+community focus areas                 (populations and places).
+within emergency and crisis         • Systematically identify both place and population based vulnerable communities. This
+responses                             includes approaches to identify new, emerging, ‘hard to hear' communities.
+                                    • Collaborative planning and action with partners,.
+                                    • Align initiatives with sharing leadership within and across services as part of pandemic
+                                      responses, bringing diverse perspectives to problem solving.
+Continue to build and invest        • Sustainable embedded equity infrastructure that addresses the determinants of health
+in sustainable equity                 equity and can be drawn on/ramped-up as needed.
+infrastructure and equity           • Translating existing infrastructure to reach a wider population, building capacity, capability
+sensitive health services             and resilience.
+                                    • Proactively identify new platforms (where the equity gaps are, such as newly vulnerable,
+                                      those not accessing services, etc.).
+Continue and strengthen             •   Proactive planning for emerging challenges, such as long-COVID and climate change.
+attention on addressing the         •   Strong partnership with human service agencies and other stakeholders.
+existing inequalities that          •   Resourcing portfolios that work across silos
+increase vulnerability to and       •   Develop processes to identify and respond to unknown/unmet/unengaged/emerging needs
+are exacerbated by                  •   Identify and implement approaches so that staff and service design can be informed by the
+pandemics and other major               social and structural context that impacts on clients of these services
+challenges.
+Expand leadership and          • Increase capacity to address determinants of health inequities.
+governance (‘with’ rather than • Build governance and leadership within - including Aboriginal leadership, consumer and
+‘of’)                            community engagement, (Diverse) workforce governance and leadership with - including
+                                        governmental partners (intersectoral), community-based organizations and advocacy
+                                        groups; place and population-based organisations.
+
+
+
+                                                                                                                                          2
+        The analysis and evidence from the EFHIA and literature was used to establish emerging factors of success for an
+        equity-focused response to COVID-19. These are identified in Figure 27 of the EFHIA below.
+
+
+
+
+                                  Figure 27 Emerging success factors
+
+
+
+
+                                               Flexible, open approach                                   Place-based mitigation
+                                               • Engage with                                             • Familiar places
+                                                 communities                                             • Providers and services
+                                               • Respond to feedback                                       people know and trust
+
+
+
+                                                                                     Prepare
+                                                                                   early and be
+                                                                                    proactive
+
+                                                           Reach in                                         Governance:
+                                                         with tailored                                     sharing power,
+                                                         and targeted                                       participatory
+                                                           solutions                                         and nimble
+                                                                                                             leadership
+                                                                                     Equity
+                                                                                    focused
+                                                                                   COVID-19
+                                                                                   response
+
+                                                      Develop inclusive                                 Integrate care and
+                                                       communication                                     collaborate (inter
+                                                       and messaging                                    and intra-sectoral)
+
+
+                                                                                  Build trust and
+                                                                                leverage existing
+                                                                                    community
+                                                                                   relationships
+
+
+                                                Support systems                                          Monitor and adapt
+                                                • Health navigation                                      • Strategies and
+                                                • Advocacy                                                 implementation need
+                                                                                                           regular reviw
+
+
+
+
+          Sydney Local Health District has been at the forefront of the state’s response to COVID-19, with staff caring for
+          critically ill patients in intensive care and hospital wards, working at testing clinics, surveillance sites and Special
+          Health Accommodation, and building systems, sites, and communication to support this important work.
+
+          The COVID-19 pandemic has required the District to pivot its existing engagement strategies and work in new
+          ways to not only maintain the connections with the community and networks, but also to work with the community
+          groups and leaders and their networks to keep people safe from COVID-19.
+
+          The District has begun to harness the strengths and incredible innovations from the COVID-19 response, to
+          introduce new ideas into the organisation, change practice, and make plans for the future.
+
+
+
+
+HERDU: slhd-herdu@health.nsw. gov.au
+
+
+
+                 Sydney
+                 Local Health District
+                                                Hunsw
+h      N
+GOVERNMENT
+                                                            SYDNEY
+
+
+
+
+COVID-19 Response Inquiry Submission: Health Equity Research and Development Unit, Sydney Local Health District, and University of New South Wales
+                                                                                                                                                     3
+

@@ -1,0 +1,143 @@
+(Individual) submission to the COVID-19 Response Inquiry
+Professor James McCaw
+Head, Infectious Disease Dynamics Unit, Centre for Epidemiology and Biostatistics, Melbourne School of
+Population and Global Health and School of Mathematics and Statistics, The University of Melbourne.
+
+Background
+I am a internationally recognised authority on infectious disease dynamics and pandemic planning and
+response, and sit on numerous WHO pandemic planning and response, and viral respiratory surveillance
+working groups. During the COVID-19 pandemic, I sat on Australia’s highest level health committee, the
+Australian Health Protection Principal Committee as one of three invited experts.
+Ongoing at time of submission, I co-lead                                                      a team that has
+delivered >200 high-impact ‘situational assessment’ reports to the Commonwealth and jurisdictional
+governments during COVID-19, directly shaping national and jurisdictional decisions. At the time of
+submission, their detailed content is not public, although the content is described in Australia’s National
+Surveillance Plan for COVID-19 (various versions) and limited material has been made public through the
+release of technical reports and a number of peer-reviewed publications.
+In addition to this work, in January-April 2020 with                                                briefed the
+National Security Committee and National Cabinet on response options to COVID-19 including, but not
+limited to, international border closures, testing policy, isolation and quarantine, social distancing policies,
+and Tockdown’ strategies. In 2021 we co-led a national consortium delivering scientific advice on
+vaccination prioritisation and threshold coverage levels to support Australia’s National Reopening Plan for
+COVID-19. Multiple reports were delivered to PM&C, Health, and National Cabinet, and have been made
+public via the Doherty Institute’s website.
+
+Summary
+In this personal submission, I make a number of observations on how data, surveillance, modelling and
+analytics supported the Australian COVID-19 response, and where I believe there is scope for improvement
+and/or risks for future capability. These views do not necessarily represent those of my colleagues, nor my
+employer (University of Melbourne). My submission focuses primarily on how data, epidemic analytics and
+scientific evidence contributed to topics covered by the inquiries Terms of Reference points on: governance;
+key health response measures; international policies; and mechanisms to better target future responses.
+
+Scenario modelling to support strategic response
+Australia has world-leading capabilities in infectious diseases data analytics and modelling to support
+pandemic planning and response. These capabilities were drawn upon to great effect in the first few months
+of the pandemic (January-April 2020), when AHPPC recruited me,
+Cheng to attend AHPPC as expert advisers (we retained these roles until approximately mid 2022).
+Rapid analyses of the emerging data from China, sourced through my and ^^^^^^^ntemational
+networks and membership of a rapidly convened WHO (Geneva) global working group (from 16th January
+2020), supported early advice to the Commonwealth on the need for urgent action, and critically, the
+scientific evidence to support the view that early action could dramatically ameliorate the anticipated health
+and societal impacts of the pandemic. Public facing evidence for these observations is available in press
+conferences delivered by the Prime Minister and CMO in March 2020, and an associated peer-reviewed
+study (Moss et al, EID 26(12): 2844 2020).
+Then in 2021, a national consortium convened                and McCaw delivered what has become known
+as the ‘Doherty Modelling’ to government to help shape the National Reopening Plan (put in place prior to
+the emergence of the Omicron variant(s) of SARS-CoV-2).
+Despite strengths of this work and its positive and influential role in decision making, there are a number of
+concems/weaknesses and associated recommendations.
+Concern 1: Scientific research was not made available to the public in a timely manner, and release was
+subject to government (andperhaps political) oversight. This strongly contrasts with practices in the UK and
+New Zealand (and elsewhere no doubt) where the scientific analyses were made public in a timely manner.
+Recommendation 1: The scientific evidence delivered to government should be made public prior to or at the
+time of the public announcement ofpolicy responses based on that scientific evidence. Note: I am not making
+a comment on, nor recommendation about whether deliberations on the nature of that evidence (at meetings
+such as AHPPC and National Cabinet) should be made public as they are distinctfrom the scientific
+research itself.
+Concern 2: In 2021, the Commonwealth only resourced a single team (albeit a large national consortium
+which I co-led) to provide model-based advice on the National Reopening strategy. This contrasts with, for
+example, best practice from the UK, where a mechanism was in place (through SPI-M) for multiple
+independent teams to conduct analyses that were then fed into a system to identify consensus and/or
+highlight points of highest uncertainty, in order to best advise government. Given the enormous scientific
+uncertainty, high-stakes outcomes, and established precedent for multi-team contributions to advise
+government, our national approach to have in essence a single point-of-contact with modelling was (in
+principle) a serious limitation. Note: I do not believe any of the actual decisions made by the government of
+the day were adversely impacted, but the limitation, and so concern, nonetheless remains.
+ Recommendation 2: Australia establish a mechanism - including suitably expanded investment in core
+ scientific capability and training - to ensure that in a future pandemic modelling-based advice is delivered
+ through a multi-team approach. The establishment of “scenario hubs ” in the US and Europe, and the
+funding to support them, presents one modelfor how this might work in Australia.
+
+Situational assessment, epidemic analytics and surveillance
+In parallel to the scenario-based research conducted periodically to support major strategic decisions,
+Australia also benefited from high-frequency (weekly) analyses of myriad surveillance data. These analyses
+were conducted by the team co-led by me and ^^^^^^^^^Rongoing at time of submission), and are
+documented in Australia’s National Surveillance Plan for COVID-19 (versions from 2021 through 2023).
+Concern 3: Reports - providing the most data-informed estimates of key quantities such as the effective
+reproduction number, Transmission Potential, behavioural trends, and case and hospitalforecasts - were not
+made public (in any routine sense, noting a number of technical reports were released (see the IDDU CEB
+UoM website) over the course of the pandemic). In their absence, analyses andfindings conducted based on
+publicly available data and often by people/teams without appropriate scientific expertise in epidemic
+analytics and modelling, were the primary public source of information on the status of the pandemic in
+Australia. As an expert in the area (with a high-profile media presence), and with detailed knowledge of the
+actual status of the pandemic, Iwas regularly unable to describe the status of the pandemic, norfully
+counter misconceptions or misunderstandings of the status of the pandemic presented in the media.
+Recommendation 3: Australia provide real-time public reporting of all metrics and indicators described in
+its National Surveillance plan(s). Note: additional interpretive advice provided by experts (either those who
+conducted the analyses or third parties) based on those metrics and indicators may not necessarily be made
+public.
+ Concern 4: Jurisdictions were and remain the primary holder of the critical surveillance data used to inform
+ situational assessment, yet the Commonwealth funded and coordinated the analyses (noting that some
+jurisdictions also worked directly with epidemiological experts and teams to provide in-jurisdiction advice).
+ Given the restrictions on data sharing between jurisdictions and the Commonwealth, this resulted in a
+ degraded non-optimal data set being provided to the national situational assessment consortium.
+Recommendation 4: Data sharing and governance protocols are reviewed to ensure the contracted analytical
+teams are provided with the most detailed and accurate data to support national andjurisdictional
+responses. Furthermore, more fine-grained (but privacy-protecting) data should be made public to support
+independent scientific analyses and to feed back to the global community for public good.
+Concern 5: Surveillance data is collectedfor multiple purposes: both front-line ‘immediate’ or operational
+responses (e.g. case interviews are conducted to support quarantine and isolation requirements) and high-
+level ‘strategic ’responses (e.g. decisions on whether or not quarantine and isolation policies should be
+imposed (or relaxed), or whether or not ‘lockdown’ restrictions should be imposed (or relaxed)). However,
+traditionally, it is only the frontline/operational’response considerations that determine what data is and is
+not collected through surveillance systems. At multiple times during the pandemic this led to decisions being
+made to cease collection of critical data (based on (reasonable) changing operational requirements) at the
+very time that those exact same data were required to deliver requested strategic advice to (the same)
+govemment(s). The inter-dependencies were unappreciated (even when explained ahead of time to those
+responsible), and the consequences of decisions made at an operational level were often not understood. This
+is a globally recognised challenge, and WHO (Geneva) has convened a number of working groups to explore
+this, to which Australian experts (including me and Dr Freya Shearer) are taking a leading role).
+Recommendation 5: Australian surveillance planning - noting its dual purpose to support both ‘operational’
+and ‘strategic’objectives - undergoes a deep root-and-branch review. This requires a dramatic change in
+mindset, and likely change in training pathways for public health professionals, public servants and
+epidemiologists responsible for designing, overseeing and maintaining surveillance systems.
+Concern 6: Since the end of the pandemic, Australia’s surveillance systems for viral respiratory infections
+have largely returned to a ‘pre-pandemic’ status, rather than adjusting to adopt strategies and advances
+made during CO VID-19. Those public health officials and scientists most involved in designing Australia’s
+COVID-19 surveillance systems have not been sufficiently engaged (if engaged at all) in the design ofpost­
+pandemic surveillance (through the ACDCplanning or otherwise). The major (global and national)
+advances that were made during the COVID-19 response are at genuine risk of being lost in Australia. This
+is in contrast to elsewhere. For example the US CDC has invested >$200M in a major forecasting hub’to
+take forward advances from COVID-19 data analytics andforecasting into routine viral respiratory
+surveillance (influenza, RSV, SARS-CoV-2), supporting routine health surveillance and ensuring
+preparedness for the (inevitable) next pandemic. ECDC launched a similar initiative in November 2023. And
+the WHO have convened a number of international working groups to review ongoing viral respiratory
+surveillance systems andfunctioning.
+Recommendation 6: Australian government(s) directly engage with national experts in epidemic analytics
+and surveillance to ensure post-pandemic systems are fit-for-purpose and have adopted state-of-the-art
+approaches that have proven to be of value (and be efficient) during COVID-19.
+
+A final note on the role of the mathematical sciences, and addressing a
+major misconception
+Artificial intelligence and machine learning were not a major factor in the national (or global) response to
+COVID-19 (but do have their place of course). While modelling and data analytics played a major role in the
+COVID-19 response (as described above), the core disciplines that supported this were: non-linear
+dynamical systems analysis (that is, “mathematical modelling”) and state-of-the-art biostatistical and
+epidemiological analyses. Artificial intelligence (AI) and techniques such as machine learning played only a
+minor (but still valuable) role. This is of no surprise to those with expertise in epidemiology and the
+mathematical sciences as AI, as impactful as it is in general society, is not (yet?) well suited to the challenges
+faced by governments when making strategic decisions on how to respond to a pandemic (because we are
+often dealing with unknowns and one-off events, and so the large volumes of data from which AI techniques
+primarily deliver their value do not exist). Any future expansion of scientific capability should reflect this.
+

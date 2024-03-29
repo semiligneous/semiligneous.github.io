@@ -1,0 +1,170 @@
+Optimising the use of non-pharmaceutical interventions (NPIs) in future pandemic response: Applying
+evidence from the COVID-19 response
+
+Authors: Professor Kamalini Lokuge, OAM, HOSM, Professor Katie Glass, Professor Emily Banks AM
+Australian National University
+
+Professor Kamalini Lokuge is a public health physician and epidemiologist, and has >25 years experience in a
+range of humanitarian emergencies, including several high-risk pathogen outbreaks. This expertise informed her
+contribution to Australia's SARS CoV2 (COVID-19) response in the areas of surveillance, outbreak response and
+community engagement. She advised State and Federal governments on their response to COVID-19, and was a
+founding member of Australia's National COVID-19 Health and Research Advisory Committee, from its inception
+in April 2020, to September 2021. In that role she chaired the working groups that produced advice to the
+Commonwealth Chief Health Officer on preventing resurgence, outbreak control and lockdowns. Professor Katie
+Glass has over 20 years of experience in mathematical modelling of infectious diseases, including >40 papers and
+reports on pandemic planning. Professor Emily Banks is an epidemiologist and public health physician with
+expertise on applying large-scale evidence to improving population health.
+
+Summary of key points
+The acute phase of the COVID-19 global pandemic was an unprecedented health event in modern times and had
+wide-ranging impacts across all aspects of human society. Another pandemic is inevitable, and it is critical that
+the lessons learnt from COVID-19 are understood and integrated into response systems for future pandemics,
+recognising that:
+•   During a future pandemic, even under optimal conditions, there is likely to be a delay of several months
+    before pharmaceutical interventions (vaccines, antivirals etc) are readily available.
+•   During this period, as occurred during the initial phases of the COVID-19 pandemic, the only measures
+    available to control transmission will be non-specific non-pharmaceutical interventions and public health
+    measures (NPIs) such as surveillance, outbreak response, masks, social distancing and movement
+    restrictions.
+•   Despite their critical importance, there is little systematic thought being applied to the role of NPIs in future
+    pandemics, informed by their use during COVID-19.
+•   Underpinning the effectiveness of all response measures (both pharmaceutical and non-pharmaceutical) is
+    the social contract between governments and the community. Little ongoing investment is being made in
+    strengthening this social contract, in particular with structurally disadvantaged communities.
+•   This submission provides expert guidance on a pathway for addressing these gaps in knowledge and systems
+    prior to the next pandemic.
+
+The role and timing of NPIs; For most countries, the COVID-19 pandemic represented the first use in modern
+times of large-scale population-based NPIs to control transmission of an infectious disease. Measures such as
+control of social mixing and borders and widespread use of hygiene measures such as masks were critical in the
+early phases of the pandemic in preventing incursion and amplification of transmission. Surveillance, contact
+tracing, isolation and quarantine measures were also critical in this period to control transmission once SARS
+CoV-2 had been introduced.
+Given the advent of novel technologies such as mRNA vaccines, the period from pathogen isolation to vaccine
+development has reduced. COVID-19 also demonstrated that the vaccine development and approval process can
+be markedly shortened without detrimental impacts on product safety. However, even under optimal
+conditions, it is likely a vaccine will take at least 3 months to develop and obtain approval1. There is then likely to
+be a further lag of several months, perhaps even years for developing countries, before widespread vaccine
+and/or antiviral availability. During this period, the only measures available to control transmission will be non­
+specific NPI's.
+
+There is little systematic thought being applied to the role of NPI's in future pandemics. Much of the current
+discussion and planning related to future response focuses on technologies, in particular rapid development of
+
+                                                                                                                        1
+vaccines and antivirals to novel pathogens capable of causing a pandemic. Some attention is also being applied
+to ensuring such a targeted treatment can be produced at the required scale and distributed rapidly, at least for
+developed nations. However, understanding the role NPI's played in COVID-19 and how this will translate to
+future response has received much less focus and investment.
+
+There is a critical gap in pandemic preparedness that needs to be addressed by considering possible future
+pandemic scenarios, and for each scenario, identifying effective NPI strategies for achieving the goals of disease
+control. This must be informed by the knowledge and experience of NPIs during the COVID-19 response. A broad
+overview of this approach is outline below.
+
+The overarching goals of pandemic control measures during COVID-19, likely to be unchanged during future
+pandemics, were to:
+-   Maintain essential societal functions (health care, food production and distribution, other essential services)
+-   Minimise mortality and morbidity
+-   Limit societal and economic harms
+NPI use in the initial phase of COVID-19: Two differing strategies were adopted in the early (pre-vaccine/
+antiviral) phase of the pandemic by countries globally to achieve these goals. These are described in broad terms
+below, along with the pre-requisites for implementation of these strategies.
+
+ Strategy                         Pre-requisites for effective implementation                 Benefits and costs
+ Localised/context specific       Disease characteristics: transmissibility such that R<1     Benefits: Allowed social mixing
+ elimination: aim for             when essential social mixing occurs (i.e. person-to-        to return to almost normal
+ complete transmission            person interaction required for maintaining essential       levels within the borders of the
+ control within a defined area    services)                                                   target area once elimination
+ by reducing social mixing to a                                                               achieved.
+ level that enabled the           Response characteristics: Adequate coverage of
+ reproduction number to be        testing, contact tracing and border management              Costs: significant burden on
+ brought below 1, control         measures                                                    community, in particular most
+ outbreaks through active                                                                     disadvantaged, if and until
+ case detection and               Societal characteristics: willingness and capacity to       elimination achieved
+ management, and                  comply with stringent movement restrictions, stay-at-
+ prevent/reduce incursions        home orders, undertake isolation and quarantine
+ through border management
+ Controlled suppression:          Disease characteristics: transmissibility such that R can   Benefits: Less stringent societal
+ reduce transmission through      be maintained at a level where morbidity and                control measures
+ non-pharmaceutical               mortality does not overwhelm essential services.
+ interventions to a level that                                                                Costs: increased disease
+ enables essential services       Response characteristics: Adequate coverage of              burden and burden on
+ (e.g. health care) to meet       testing, contact tracing and border management              essential services, in particular
+ demand, despite ongoing          measures                                                    health care; additional, more
+ transmission                                                                                 stringent lockdowns are still
+                                  Societal characteristics: willingness and capacity to       likely to be required if/when
+                                  comply with non-pharmaceutical interventions when           essential services become
+                                  essential services are overwhelmed, and accept a            overwhelmed.
+                                  sustained increase in mortality and morbidity overall.
+We can apply the evidence generated by the use of NPIs during COVID-19 based on the above strategies to
+inform the optimal approach to NPI use in future pandemics. This is needed not only in regards to a possible
+pandemic similar in nature to COVID-19, but perhaps even more importantly, for future pandemic scenarios
+where the characteristics of the pathogen differ.
+
+Possible future pandemic scenarios:
+ Pandemic scenario                Strategies/NPI     Pre-requisites for effective NPI implementation
+ (relative to early phase of      interventions
+ COVID-19)
+ Increased morbidity and          Elimination        Similar to COVID
+ mortality, similar               Controlled         Less effective than for COVID-19 as limited NPI measures will have
+ transmissibility.                suppression        even less impact on morbidity and mortality levels, and therefore
+                                                                                                                                  2
+                                                   more need for frequent lockdowns due to essential services being
+                                                   overwhelmed.
+    Increased transmissibility in   Elimination    To be effective, R would still need to be able to be brought below 1
+    all groups, similar morbidity                  with available measures, and outbreak response able to eliminate
+    and mortality                                  transmission chains. If this is not possible, measures will not result in
+                                                   elimination. Therefore, measures would need to be implemented
+                                                   more effectively than during early phase of COVID-19.
+                                    Controlled     Less effective than for COVID-19 as limited NPI measures will have
+                                    suppression    less impact on absolute levels of morbidity and mortality, and
+                                                   therefore mean more need for frequent lockdowns due to essential
+                                                   services being overwhelmed (if coverage of essential services remains
+                                                   same).
+
+Other important scenarios that need to be considered with a similar approach are:
+- Increased mortality in very young and old, similar transmissibility.
+- Increased mortality in young and healthy, similar transmissibility.
+- Increased transmissibility in children, similar mortality
+- Increased transmissibility in all groups, similar morbidity and mortality
+Utilising tools used in work on NPIs during COVID-19, namely public health analysis and mathematical modelling,
+to apply the evidence outlined in the former table above, would generate critical evidence on the likely impact
+of NPIs under the different pandemic scenarios detailed in the latter table.
+
+Genuinely effective engagement with communities; Underpinning the effectiveness of all response measures
+(both pharmaceutical and non-pharmaceutical) are societal characteristics that support willingness and capacity
+to comply with these measures. This is dependent on the strength of the social contract that governments have
+with the community, which in turn is based on the long-term reciprocity individuals experience from their
+relationship with government in their daily lives.
+As COVID-19 demonstrated, this is particularly challenging for structurally disadvantaged and marginalised
+groups, whose experience differs from the general community. However, as seen in some aspects of the latter
+response to COVID-19 (e.g. vaccination in these sub-groups), effective engagement can be achieved within these
+groups by transferring authority and autonomy to design and deliver interventions to those who have
+established trust and reciprocity prior to the pandemic. The NCHRAC report on preventing resurgence2 which
+Professor Lokuge chaired identified this critical need prior to COVID-19 resurgence in Australia, but action was
+not taken until after widespread transmission recurred. Subsequent to the acute phase of COVID-19 passing, any
+steps that were taken to transfer authority have largely been rescinded. This is a missed opportunity not only to
+prepare for the next pandemic, but to strengthen non-pandemic services for structurally disadvantaged groups.
+Rather than being rescinded, these measures need to be integrated into Governments' business as usual.
+
+Implications
+
+This evidence indicates the need for:
+• Greater investment in research and implementation regarding the role of NPIs for control of future
+    pandemics
+•     Establishment and maintenance of measures to support community partnerships, in particular the transfer
+      of authority and autonomy to design and deliver interventions to those who have established trust and
+      reciprocity prior to emergencies and pandemics.
+
+Selected References
+
+       1.   Coalition for Epidemic Preparedness Innovations, Delivering Pandemic Vaccines in 100 Days; what will it
+            take? (2022) https://100days.cepi.net/wp-content/uploads/2022/12/CEPI-100-Days-Report-Digital-
+            Version 29-ll-22.pdf
+       2.   National COVID-19 Health and Research Advisory Committee, Risks of resurgence of COVID-19 in
+            Australia, Report for the Chief Medical Officer, Commonwealth of Australia, May 2020.
+
+
+                                                                                                                               3
+

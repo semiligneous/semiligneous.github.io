@@ -1,0 +1,1029 @@
+Hard lessons to learn: Managing
+COVID-19 and preparing for
+future oandemics
+
+ACTU Submission on the COVID-19 Response Inquiry
+
+
+
+
+ ACTU Submission, 22 December 2023
+ ACTU D. 53/2023
+
+
+
+                                                     w:tu
+                                                   australian council of trade unions
+Contents
+
+
+
+Introduction............................................................................................................................................ 1
+
+Executive Summary............................................................................................................................... 2
+
+Recommendations ................................................................................................................................. 3
+
+Managing Workplace COVID-19 Transmission.................................................................................... 6
+
+Insecure work and increased risk of transmission............................................................................ 10
+
+Supporting workers impacted by COVID-19....................................................................................... 13
+
+An Australian Centre for Disease Control (ACDC).............................................................................. 19
+
+Sovereign Capability and Vaccine Rollout.......................................................................................... 22
+
+Conclusion............................................................................................................................................ 25
+
+
+
+
+                                                                                                                                            y            j   i■i
+ ntroduction
+About the ACTU
+Since its formation in 1927, the ACTU has been the peak trade union body in Australia. It has
+played the leading role in advocating for, and winning the improvement of working conditions,
+including on almost every Commonwealth legislative measure concerning employment conditions
+and trade union regulation. The ACTU has also appeared regularly before the Fair Work
+Commission and its statutory predecessors, in numerous high-profile test cases, as well as
+annual national minimum and award wage reviews.
+
+The ACTU is Australia’s sole peak body of trade unions, consisting of affiliated unions and state
+and regional trades and labour councils. There are currently 43 ACTU affiliates who together have
+over 1.7 million members who are engaged across a broad spectrum of industries and
+occupations in the public and private sector.
+
+The ACTU, along with our affiliates, fight to ensure the right of all workers to a safe and healthy
+working environment and has been a strong advocate throughout the pandemic for measures
+that protect and support Australian workers who may be exposed to COVID-19.
+
+The ACTU welcomes the Commonwealth Government’s decision to undertake an inquiry to review
+the Commonwealth’s response to the COVID-19 pandemic and improve response measures in
+the event of future pandemics. It is critical that we learn from this experience in order to both
+better manage COVID-19 today but also prevent and minimise the impact of future pandemics.
+
+Whilst we welcome the broad terms of reference of this inquiry the ACTU’s submission will focus
+on the areas where we have greatest insight and expertise. These will specifically focus on the
+issues relating to work, work health and safety and the necessary income supports. In making
+these submissions we would also like to acknowledge the submissions made by our affiliates,
+including but not limited to the Australian Education Union and the Shop, Distributive and Allied
+Employees’ Association as well as those made by the Public Health Association of Australia.
+
+We thank the COVID-19 Response Inquiry Panel for the opportunity to make submissions on this
+important matter and would welcome future engagements on the issues we have raised.
+
+
+
+
+                                                                                                      F
+                                                  i                                   ^ACTU
+Executive Summary
+COVID-19 has exposed the frailties of our society. It has followed the contours of inequality in our
+labour market and exposed the inadequacies of our social safety net. Whether it is the insecure
+worker that was forced to choose between their health and their income or the essential worker
+who on a daily basis risked their lives just to keep the nation functioning, work was, and remains
+to this day, the most significant factor in a person’s experience of the pandemic.
+
+COVID-19 remains a serious public health and work health and safety issue. Total excess
+mortality for the first eight months of 2023 is 6,400 more than had the pandemic not happened,
+with slightly more than half (+3,500) directly attributable from deaths from COVID-19.1 At more
+than twice the national road toll this remains both unacceptably high but also easily reduced with
+some simple workplace precautionary measures.
+
+Now, as we approach the fourth anniversary of the arrival of COVID-19 the lessons of the
+pandemic are clear. An understanding of work is critical to ensuring that both COVID-19, as well
+as future pandemics, are managed to minimise the impact on health.
+
+This submission will focus on three key areas:
+
+    1.   Managing COVID-19 transmission in the workplace and the balance between Public
+         Health Orders (PHOs) and a strengthened work health and safety regime
+
+    2.   Insecure work and the increased risk of transmission for those that lack basic social
+         protections such as sick leave, and
+
+    3.        Income support for workers impacted by COVID-19.
+
+In addition to these work-related aspects this submission will also provide recommendations to
+improve national coordination, sovereign manufacturing capability in relation to key medical
+supplies and PPE, as well as the vaccine rollout.
+
+
+
+
+1 Monthly report, Actuaries Institute, 31 August 2023. Accessible
+
+
+                                                           2                         ^ACTU
+Recommendations
+Recommendation 1
+
+That a regulation on biological hazards is included in the model WHS laws that is linked to the
+national COVID-19 community protection framework. This regulation would be complemented by
+a Code of Practice outlining in practical terms how workplaces can identify and manage COVID-
+19 and future pandemic risks.
+
+
+
+Recommendation 2
+
+That a Ventilation Code of Practice is developed to support WHS Regulation 40 (e) which ensure
+that ventilation enables workers to carry out work without risk to health and safety. There are
+models to consider in the Irish Code of Practice for   door A - Qua it\ and the approach outlined
+by         .
+
+
+
+
+Recommendation 3
+
+That Safe Work Australia undertake a comprehensive review of the WHS framework to support
+workplaces to introduce effective measures to ensure the health and safety of workers and
+reduce the transmission of infectious disease. This should include consideration of mechanisms
+(Codes and Regulations) that can be enlivened when a pandemic is declared and/or when there
+is significant community transmission.
+
+
+
+Recommendation 4
+
+The Federal Government should introduce permanent measures to reduce the rate of insecure
+work to ensure that more workers are provided with the necessary social protections, such as
+sick leave, that allow them to safely isolate at home when ill. This includes passing the Closing
+Loopholes Bill currently before the Parliament and the important measures aimed at addressing
+insecure work.
+
+
+
+Recommendation 5
+
+That the government introduce a broad income support payment available to all workers,
+irrespective of employment type or residency status, which can be enlivened following a
+government direction such as a lockdown which causes a cessation of work.
+
+
+
+                                                                                                    F
+                                                 3                                  ^ACTU
+Recommendation 6
+
+That the NES be amended to include Paid Pandemic Leave that provides paid leave for all
+workers, irrespective of employment type or residency status, who contract the virus or who must
+isolate in accordance with public health orders.
+
+
+Recommendation 7
+
+The Federal Government must introduce a comprehensive program of support for those that
+experience Long COVID, regardless of visa status, including any dependents. This should include:
+     i. The provision of sufficient income support, to ensure that those that experience
+           unemployment or underemployment as a result of Long COVID, do not experience financial
+           insecurity.
+     ii.        The introduction of a Long COVID Health Care Card.
+
+
+
+Recommendation 8
+
+The establishment of an Australian Centre for Disease Control (ACDC), as soon as possible to
+address problems seen in national management of the COVID-19 pandemic.2
+
+
+
+Recommendation 9
+The ACDC should be independent of government and overseen by members appointed by both
+the Commonwealth, state and territory governments, as well as unions and employers, to ensure
+that the specific risks associated with workplaces are incorporated in prevention measures.
+
+
+Recommendation 10
+As well as research into prevention of and response to infectious diseases, the ACDC should be
+tasked with analysing the nature and extent of misinformation and conspiracies, surrounding
+both COVID-19 itself and the vaccines made in response.
+
+
+Recommendation 11
+The ACDC to have a responsibility to examine and report annually to the Federal Government, on
+Australia’s health related sovereign manufacturing capacity, including new forms of vaccines and
+all forms of necessary PPE.
+
+
+
+
+2 Adapted from Public Health Management of the COVID-19 Pandemic in Australia: The Role of the Morrison Government,
+accessed at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9407931/pdf/ijerph-19-10400.pdf
+
+
+                                                        4                                        ^ACTU
+Recommendation 12
+The Federal Government to develop a health-related sovereign manufacturing capacity strategy
+that ensures that Australia is able to respond to future pandemics.
+
+
+
+Recommendation 13
+The ACDC to plan to manage future pandemic vaccine rollouts, in coordination with the states
+and territories. Including the identification of sufficient numbers of mass vaccination centres in
+capital cities, suburbs, regional cities, their suburbs and remote communities whether
+Indigenous or not.
+
+
+Recommendation 14
+The ACDC to publish regular detailed vaccination statistics of vulnerable cohorts in designated
+priority vaccination groups, such as aged care residents and workers, and people with a
+disability. These statistics to include regular seasonal influenza vaccinations, as well as in
+pandemic circumstances.
+
+
+Recommendation 15
+The ACDC in coordination with the state and territory managed public health systems, to ensure
+that people in remote areas have equal access to both vaccines and the necessary medical
+treatment when they are sick with infectious diseases.
+
+
+
+
+                                                                                                     F
+                                                  5                                   ^ACTU
+Managing Workplace COVID-19 Transmission
+    1. COVID-19 is a highly infectious disease that is transmitted from person to person by close
+         contact with an infected person. Work and workplaces remain a key setting for
+         transmission. Outside of the home work is where we gather, often in large numbers, and
+         measures that are taken in workplaces can save lives and significantly reduce
+         transmission.
+
+    2. Since the commencement of the pandemic public health units and specifically Public
+         Health Orders (PHOs) have determined the safety measures that should be implemented
+         to prevent transmission and work health and safety regulators have played at best a
+         complementary role. These orders set out broad rules such as density limits, mask
+         wearing and working from home orders and whilst these measures were blunt and were
+         not tailored to specific settings or risk factors, they did offer clear guidance to workplaces
+         when it came to managing COVID-19 risks.
+
+    3. However, as the pandemic continued these orders were progressively withdrawn and we
+         failed to utilise our work health and safety (WHS) framework to identify, assess and
+         control COVID-19 risks. Australia has a ‘harmonised system’ of work health and safety
+         laws whereby each jurisdiction, except Victoria, has adopted the model work health and
+         safety laws (model laws).3 The model laws state that Persons Conducting a Business or
+         Undertaking (PCBUs/Employers) have a duty to ensure the health and safety of workers
+         and others so far as is reasonably practicable.
+
+    4. COVID-19 is a WHS risk. COVID-19 can cause serious illness and employers have a duty
+         to ensure workers and others in the workplace are prevented from contracting the
+         disease. There are three tiers to our model WHS laws:
+
+              a.   Act - sets out the duties of employers so far as is reasonably practicable.
+
+              b.   Regulations - legally enforceable obligations on employers to specifically identify
+                   certain hazards and implement hierarchy of specific proven control measures.
+
+              c.   Codes of Practice - practical guidance on how to manage certain risks that are
+                   legally enforceable in some jurisdictions.
+
+    5. The WHS Regulations apply a hierarchy of control, a sequential application of measures
+         to control risk - elimination of risk, substitution of the hazard with a lesser risk, isolation
+
+
+
+
+3 Whilst not formally harmonised the Victorian OHS Act is substantially the same as the model Laws
+
+
+                                                         6                                           ^ACTU
+        of the hazard from workers using engineering controls, administrative procedures and
+        training and finally, the lowest order control, the application of PPE.
+
+    6. The knowledge regarding managing biological hazards, such as COVID-19, are well
+        established. Measures including, but not limited to the following are effective measures
+        to manage COVID-19 risks:
+
+             a. Supporting workers who are unwell (or suspected to be unwell) to isolate at
+                  home,
+
+             b.   Allowing working from home at times where there are outbreaks in the
+                  community or at the workplace,
+
+             c.   Improving ventilation and minimising density,
+
+             d.   Using PPE where distancing is not possible.
+
+    7. Since the start of the pandemic unions have identified the lack of enforceable guidance
+        (Regulations and Codes of Practice) in relation to COVID-19 and biological hazards more
+        broadly. The implementation of a Biological Hazard Regulation would be complementary
+        to the duties set out in the WHS Act. It would require employers, in consultation with
+        workers, to undertake local assessment of COVID-19 risks and implement a hierarchy of
+        controls to minimise these risks. Not only does this framework offer far greater flexibility
+        than the use of PHOs but it is far more likely to control risks and minimise transmission
+        as it considers the local risk factors. It is also a more sustainable long-term approach to
+        managing risks through a pandemic as it is workplace and context specific COVID control
+        measures, rather than PHOs which are required to be implemented across states or
+        regions where transmission is high.
+
+    8. A Biological Hazard Regulation can also be linked to the Na ona CO\ >19 Community
+        Protection Framework for a COVIDSafe Australia.4 This framework provides baseline
+        settings for protection measures along with scaled up strategies when outbreaks
+        increase. Appropriate cross referencing of this Framework in the Biological Hazard
+        Regulation would provide clearer guidance to businesses about when scaled up
+        strategies like mask wearing or density limits were necessary.
+
+    9. Workplaces need enforceable rules to minimise the transmission of the virus and to keep
+        workers and others safe. A Biological Hazard Regulation is enforceable at the workplace
+
+
+
+
+4 National COVID Community Protection Framework. Accessible
+
+
+                                                      7                               ^ACTU
+         by Health and Safety Representatives (HSRs).5 Effective management of the virus at work
+         would also offer a significant opportunity to manage transmission in a setting where we
+         spend anywhere from 25-50% of our lives.
+
+    10. In addition to a Biological Hazard Regulation, stronger rules are needed when it comes to
+         ventilation indoors. The COVID-19 pandemic has changed the paradigm through which
+         indoor ventilation is seen. Respiratory aerosols from breathing and talking that transmit
+        the virus accumulate in indoor spaces and increase risk over time. We can no longer
+         design buildings only for thermal comfort and ignore the importance of indoor ventilation
+         in managing the risks associated with biological hazards. Ventilation is critical and urban
+         design needs to consider airflow that will minimise infection risks. Again, our WHS
+         Reguations do provide a basis upon which improvements can be advanced. Specically
+         Regulation 40 (e) sets out obligations on employers to ensure that ventilation enables
+         work to be carried out without risk to health and safety. Standards and a WHS Code of
+         Practice need to be considered that require all aspects of ventilation including minimum
+         airflow and mechanical ventilation (air conditioning). These, along with other mitigation
+         measures will substantially reduce the risk of transmission.
+
+
+
+Recommendation 1
+
+That a regulation on biological hazards is included in the model WHS laws that is linked to the
+national COVID-19 community protection framework. This regulation would be complemented by
+a Code of Practice outlining in practical terms how workplaces can identify and manage COVID-
+19 and future pandemic risks.
+
+
+
+Recommendation 2
+
+That a Ventilation Code of Practice is developed to support WHS Regulation 40 (e) which ensure
+that ventilation enables workers to carry out work without risk to health and safety. There are
+models to consider in the Irish Code of Practice for Indoor Air Qualitx and the approach outlined
+by OzSAGE.
+
+
+
+
+5 Health and Safety Representatives (HSRs) are elected worker representatives and have powers to issue improvement
+notices that require employers to comply with legal obligations such as a Biological Hazard Regulation or Code of
+Practice.
+                                                                                                                     F
+                                                       8                                       ^ACTU
+Recommendation 3
+
+That Safe Work Australia undertake a comprehensive review of the WHS framework to support
+workplaces to introduce effective measures to ensure the health and safety of workers and
+reduce the transmission of infectious disease. This should include consideration of mechanisms
+(Codes and Regulations) that can be enlivened when a pandemic is declared and/or when there
+is significant community transmission.
+
+
+
+
+                                                                                                 F
+                                               9                                ^ACTU
+isecure work and increased risk of transmission
+ 11. Insecure work became one of the great vectors of the pandemic. As we watched the virus
+    enter Australia on the back (or up the noses) of Australia’s wealthy returning home from
+    their ski trips in the northern hemisphere it was in working class communities where our
+    greatest weakness lay. Whilst it may have been the rich that brought COVID-19 to our
+    shores, it was working people, and the communities where insecure work predominated,
+    where COVID-19 wreaked its greatest havoc.
+
+
+ 12. Sick leave is our greatest protection against COVID-19. The mere act of staying home
+    whilst sick is the most important thing we can do to stop the spread of the virus. It is
+    important in not only protecting our workmates but in protecting the community. With
+    more than one-third of workers in some form of insecure work Australia has some of the
+    highest levels of casualisation in the OECD. That is more than 4.1 million Australians that
+    do not have the basic social protection afforded by sick leave. This particularly Australian
+    problem has meant that we were vulnerable when COVID-19 arrived on our shores.
+
+
+ 13. Workers throughout the early days of the pandemic were forced to make choices every
+    time they got a sniffle: test and isolate and suffer the financial consequences of missed
+    shifts or run the gauntlet and hope that it’s not COVID-19. Whilst this issue was self­
+    evident for casual and insecure workers it also applied to permanent and part-time
+    workers who may have worried about the ongoing threat to sick leave balances that test
+    and isolate policies would have.
+
+
+
+ 14. The trade union movement identified this fault line early in the pandemic and quickly
+    mobilised in many workplaces to organise paid pandemic leave for all workers. As of June
+    2020, the ACTU estimated that unions had organised and won Paid Pandemic Leave in
+    workplaces and across industries covering more than 1.4 million workers. This was an
+    amazing achievement for unions who worked hard to ensure that every worker had the
+    right to stay home whilst unwell or potentially infectious. This was not only an important
+    measure to support workers it was a critical weapon in the fight against the spread of the
+    virus.
+
+
+
+    From this achievement pressure continued to build on governments to ensure that
+    universal basic social protection was afforded to everyone. It was only after months of
+    pressure and clear evidence as to how the pandemic was tearing through insecure
+
+
+
+                                             io                                   ^ACTU
+      workers that the Morrison Government finally relented in providing Paid Pandemic Leave
+      for all workers on 3 August 2020. Paid Pandemic Leave was a major step forward in the
+      fight against the virus. Whilst this policy was welcomed it should be noted that there were
+       unnecessary exclusions, which are outlined later in this submission, that again left
+      workers out.
+
+
+   15. Whilst this social protection was critical in the fight against the virus policies such as
+      these should not be expected to shoulder all of the load. Insecure work should not be as
+       prevalent as it is today in Australia. More effort must be taken to reduce the incidence of
+       insecure work and provide opportunities for permanent employment. The Federal
+       Government’s Closing Loopholes Legislation begins to tackle the scourge of insecure
+      work by addressing a number of key factors that give rise to it such as:
+
+
+           a.   Ending the labour hire loophole that allows employers to engage labour hire
+                workers on less pay and with inferior conditions to those that are contained in
+                their own collective bargaining agreements. This loophole has accelerated the
+                number of workers in labour hire arrangements as employers are motivated to
+                outsource the work to labour hire providers. These workers do not have sick leave
+                and would be highly vulnerable in the event of a future pandemic.
+
+
+           b.   Strengthening the definition of casual to ensure that there are objective tests to
+                define casual work and provide genuine opportunities for workers engaged on
+                regular and systematic rosters to convert to permanent.
+
+
+           c.   Regulating gig work and allowing the Fair Work Commission to set standards for
+                gig work. These standards could include matters to deal with sick leave and other
+                measures that will provide greater social protection to gig workers and reduce the
+                insecure work risk factors when it comes to future pandemics.
+
+
+   16. In addition to tackling the levels of insecure work we must also ensure that there are
+       appropriate supports for workers in genuinely casual work. The government should
+       ensure that workers who are COVID-19 positive or suspect they may be positive have paid
+       leave to isolate, test and recover. This is important not only for the welfare of those
+      workers but for the protection of their colleagues and the broader community.
+
+
+
+Recommendation 4
+
+
+
+
+                                                 ii                                   ^ACTU
+The Federal Government should introduce permanent measures to reduce the rate of insecure
+work to ensure that more workers are provided with the necessary social protections, such as
+sick leave, that allow them to safely isolate at home when ill. This includes passing the Closing
+Loopholes Bill currently before the Parliament and the important measures aimed at addressing
+insecure work.
+
+
+
+
+                                                 12                                 ^ACTU
+Supporting workers impacted by COVID-19
+    17. When the pandemic arrived Australians were nervous. We saw the restrictions
+         implemented in the northern hemisphere to protect the community as the virus spread
+         and the impact that it had on lives and livelihoods. With only one-third of workers in
+        Australia able to do some or all of their work from home, similar restrictions were likely to
+         have a devastating impact on lives and incomes.
+
+
+    18. In March of 2020 as lockdowns became considered unions immediately urged
+         government to ensure that income support be provided to workers and businesses who
+         would be forced to close or reduce operations to ensure that people were able to meet
+        their most basic needs. At first this was refused by the Morrison Government only to be
+         reversed a week later, at the end of March 2020, when the government announced the
+         introduction of JobKeeper and JobSeeker payments.6
+
+
+    19. These payments immediately eased the strain on businesses and workers who were able
+        to manage restrictions whilst also meeting their basic needs. It showed the power of
+         government intervention as millions were lifted out of poverty with increased JobSeeker
+         payments and it provided important confidence to the community that restrictions could
+         be followed without creating a financial burden on individuals. Importantly it showed that
+         we were all in this together and provided the financial security to Australians that would
+         support them to undertake the difficult, but necessary, measures to slow the spread of
+        the virus.
+
+
+    20. Whilst the income support interventions, such as JobKeeper and JobSeeker, should be
+         applauded it should also be noted that whilst its coverage was broad it, like other
+         measures introduced, arbitrarily excluded key groups including casuals and migrant
+         workers. Narrowing the coverage to permanent workers and regular and systematic
+         casuals with at least 12 months service meant that many workers failed to qualify. This
+         led to numerous disputes in workplaces and industries including but not limited to, retail
+         and hospitality where, due to the prevalence of insecure work, were excluded from
+         coverage. In the case of non-residents this exclusion was particularly punitive as on one
+         hand we had closed Australia’s borders and told migrant workers they could no longer
+
+
+
+
+6 Crikey, 31 March 2020. Access
+
+
+                                                  13                                  ^ACTU
+   leave, and on the other hand had determined they were not worthy of government
+   support. This shameful experience continues to cost Australia in the form of reduced
+   reputation amongst migrants who felt betrayed by the government. It also created
+   perverse and counterproductive situations in workplaces as migrant workers, ineligible
+   for income support, were denied shifts in favour of permanent residents who were in
+   receipt of income support.
+
+
+21. Throughout the pandemic there were a number of industries and occupations that were
+   at significant increased risk of exposure to COVID-19. These included health workers in
+   COVID-19 wards treating sick patients right through to frontline workers in retail, who, at
+   the height of community transmission would be regularly exposed to the virus at work.
+
+
+22. Workers who are injured or become ill in the course of their employment are entitled to
+   make claim for workers compensation. These largely state based compensation schemes
+   provide for both income support and payments for medical treatment. In periods of social
+   distancing and stay at home orders the only contact that worker had with others was at
+   work and it was, more than likely, the reason for exposure. Despite this our workers
+   compensation system was inadequate in providing the support for these workers that
+   clearly contracted the virus at work. It was only in NSW where presumption was afforded
+   to frontline workers where some of these barriers were removed.
+
+
+
+23. In addition to becoming ill many workers were close contacts of people who were positive
+   were then subject to isolation orders that prevented them from attending work. These
+   orders were important public health measures to slow the spread of the virus but left
+   many without access to paid leave. Whilst we have already outlined concerns with
+   insecure work and the availability of sick leave many permanent were workers also
+   impacted due to gaps in our personal leave arrangements. Personal leave is available to
+   workers who are unwell and unable to work, however it is not available for workers who
+   are otherwise well but are required to isolate due to being a close contact. This gap in our
+   statutory personal leave entitlements presented a significant challenge to worker who
+   were required, sometimes on multiple occasions, to isolate at home. The National
+   Employment Standards (NES) should be amended to include a broad right to paid leave
+   on each occasion a worker is unwell due to a pandemic illness or is required to isolate
+   because of a PHO or direction.
+
+
+
+
+                                            14                                  ^ACTU
+    24. Further gaps exist in our social protection framework when we consider the incidence of
+         Long COVID and the ACTU has previously made submissions to improve the support that
+        sufferers of Long COVID receive.7 Long COVID is the persistence of symptoms for a period
+         of three months or more. In 2022 as part of the Federal Parliament’s inquiry into Long
+         COVID Victorian Government submitted that as much as 0.6% of the population have
+        suffered the effects of Long COVID. Other studies have ranged from as low as 5% of
+        those that have had COVID up to as high as 30%.8
+
+
+
+    25. The persistence over time of COVID symptoms will leave many thousands of workers
+         unable to work. Not only will this have lasting health impacts on individuals it will have
+         long term financial implications for workers who lose income and employment is reduced.
+        Those with Long COVID may need considerable periods off work or with reduced working
+         hours. The National Employment Standard (NES) provides just 10 days each year for a
+        full-time employees and pro rata for part-time employees. In addition to this, Section 352
+         of the Fair Work Act (FW Act) provides protection against termination for workers with
+         illness and injury for three months.9 Those who experience Long COVID will not only
+         quickly draw down any personal leave accruals, but they will also be at risk of complete
+         loss of employment.
+
+
+
+    26. Long COVID again highlights a significant problem in Australia with regards to lengthy, but
+        temporary, periods of illness and impairment and the consequential burden that falls on
+        those that are ill. The Disability Support Pension (DSP) is a scheme designed only to
+        support those with permanent and significant impairment. In order to be eligible you
+         must be expected to be unwell for a period greater than 2 years and suffer a condition
+        that meets an impairment rating of greater than 20 points. Both the duration and
+        thresholds for impairment effectively exclude sufferers of Long C0VID, and many other
+        significant temporary conditions, from any income support.
+
+
+    27. JobSeeker requires recipients to satisfy requirements such as actively searching for work.
+         For those with chronic fatigue, brain fog, immune, neurological, or psychiatric sequelae it
+         is likely people will have limited capacity to meet the eligibility tests for JobSeeker. For
+
+
+
+
+7 Minimising the incidence of Long COVID, ACTU submission to HR Standing Committee on Health, Aged Care and Sport
+- Inquiry into Long COVID. Access here
+8 The experience of COVID-19 in Australia, including Long COVID, ANU, August 2022. Access
+9 Fair Work Act Section 352                                                                       ____________
+
+
+                                                      15                                      ^ACTU
+        many sufferers looking after children including accessing childcare services, is difficult.
+        Equally, transport presents a particular trouble for some people experiencing Long COVID.
+        The fatigue can make driving dangerous, public transport is often not available and if it is,
+        carries the fear of re-infection.
+
+
+    28. The combination of these factors, and the inadequate support provided, will likely push
+        those who experience Long COVID to the fringes of the labour market and have a lasting
+        negative financial impact. Commonwealth agencies have recognised that our systems
+        can be impediments to workforce participation for those with health conditions. This also
+        applies to those with temporary incapacity with an undefined timeline or known clinical
+        course. Since 2017 a national collaboration of public, private and not-for-profit sectors
+        has been conducting research to understand workforce participation forthose with a
+        health condition - temporary or permanent.10 Reports authored by investigators from
+        Monash and Melbourne University for the Collaborative partnership highlights the
+        deficiencies in our systems of income support for those with health conditions.11 The
+        findings included:
+
+
+        □    Participants were financially distressed. More than half of the survey respondents
+             reported a period of no income which lasted on average somewhere between 7 and
+             15 months.
+
+
+        □    Before accessing each income support system, the majority were receiving income
+             from paid work, and health impacting work was the main reason for seeking income
+             support. Across the survey less than half reported being able to return to work (RTW)
+             at any time, and for those who did report RTW it was common to have attempted
+             multiple times. Employment agencies were described as not genuinely taking into
+             account a person's limitations when putting forward job roles.
+
+
+    29. Across each of the systems, paid employment was the most common income source in
+        the month prior and being unable to work due to ill health was the most common reason
+        for moving to an income support system. The research was conducted before the impact
+        of COVID-19 but clearly demonstrates the shortcomings of our income support systems.
+        For those with Long COVID the outlook may be even bleaker. Whilst more knowledge is
+
+
+
+
+10 https://www.comcare.gov.au/collaborativepartnership/about us
+11 https://www.comcare.gov.au/ data/assets/pdf file/0020/365015/cp-pillar-one-report-snapshot.pdf
+
+
+                                                     16                                     ^ACTU
+          emerging, there is a genuine lack of understanding about the extent or duration of Long
+          COVID and consequently an inability to predict a return to the workforce either in full or
+          part time positions.
+
+
+    30. Workers with Long COVID need access to proper income support to make ends meet until
+          they recover. Our current income support systems are not designed for a health condition
+          that has a recovery process that is poorly characterised, especially as many have
+          significant trouble accessing treatment and support.
+
+
+    31.        To alleviate some of the financial pressures strong consideration must be given to:
+
+
+              □   Income support for those with acute COVID who have exhausted their sick leave
+                  provisions.
+              □   Assisting workers to make a workers’ compensation claim where there is a link to
+                  work or particular occupations.
+              □   Special COVID income support payment during recovery.
+
+
+    32. Consideration should also be given to the introduction of a Long COVID Health Care Card,
+          as access to the Health Care card is limited to those on specific payments from Services
+          Australia.12 A Long COVID Health Care card would allow government
+          agencies/departments to synchronise support services to support people experiencing
+          critical medical issues, such as:
+              □   Access to reduced rate medication,
+              □   Discount on essential service bills, and
+              □   Local council home and community-based support programs.
+
+
+    33. A Long COVID Health Care card could also be used as a means of identifying access to
+          other services.
+
+
+    34. Additionally, providing taxi vouchers to people experiencing Long COVID and are unable to
+          drive would assist them to attend medical and other support services safely. Alternatively,
+
+
+
+
+12 Services Australia, March 2022 https://www.servicesaustralia.gov.au/who-can-get-health-care-card?context=21981
+
+
+
+
+                                                       17                                      ^ACTU
+          agreement could be made to allow people with Long COVID to access taxi transport
+          subsidy schemes e.g. the Victorian Multi-purpose Taxi Program.
+
+
+   35. Finally, additional funding is needed for social work support, legal support, and financial
+          counsellors to help people who are still struggling with the impact of COVID on their
+          physical, mental and financial wellbeing.
+
+
+
+
+Recommendation 5
+
+That the government introduce a broad income support payment available to all workers,
+irrespective of employment type or residency status, which can be enlivened following a
+government direction such as a lockdown which causes a cessation of work.
+
+Recommendation 6
+
+That the NES be amended to include Paid Pandemic Leave that provides paid leave for all
+workers, irrespective of employment type or residency status, who contract the virus or who must
+isolate in accordance with public health orders.
+
+
+Recommendation 7
+
+The Federal Government must introduce a comprehensive program of support for those that
+experience Long COVID, regardless of visa status, including any dependents. This should include:
+    iii. The provision of sufficient income support, to ensure that those that experience
+          unemployment or underemployment as a result of Long COVID, do not experience financial
+          insecurity.
+    iv.         The introduction of a Long COVID Health Care Card.
+
+
+
+
+                                                   18                                 ^ACTU
+National coordination of public health advice - An Australian
+Centre for Disease Control (ACDC)
+    36. The COVID-19 pandemic highlighted the need for a single national coordinating
+         mechanism to ensure both strong coordination across jurisdictions and Commonwealth
+         agencies but also as an independent, trusted public health advisory body to advise both
+         government and the public.
+
+
+    37. Australia is the only OECD country without a CDC, or equivalent organisation.13 The ACTU
+         welcomes the decision by the Commonwealth to establish an Australian Centre for
+         Disease Control and that its early focus be on communicable diseases. As we have stated
+         in previous submissions, we believe the ACDC is an important institution for providing
+         public health advice and that it is critical it be independent of government to provide
+         transparent, evidence-based health advice to guide effective public health intervention.14
+
+
+    38. Even at this stage, in late 2023, RMIT researchershave found Australia lacking
+         in...availability of trustworthy public health information, with respect to Long COVID. In a
+         broader sense a new study has confirmed the experience of workers and their unions
+         that confused health messaging in the pandemic, ‘led to sometimes confusing
+         government messaging, which often generated mistrust and suspicion of public health
+         policies’.15
+
+
+    39. This lack of a clear source of COVID-19 advice was, as previously mentioned, worsened
+         by the WHS Regulators hands off approach to PCBU education and compliance, with
+         many suspending visits to workplaces and PCBUs altogether. These factors fed mistrust
+         in the public health response and gave rise to far-right actors that have continued to
+         foster mistrust in public institutions.
+
+
+    40. COVID-19 further highlighted the failure of health policy makers to understand the impact
+         of work, which underscores the significant opportunity for a ACDC to include work and
+         work-related illness in its scope, purpose and functions. As has previously been outlined,
+
+
+
+
+13 Role and Function of a CDC - Consultation Paper-Health Department. Access
+14 ACTU             on Role and Function of an ACDC ACTU D No. 52/2022.
+15 “I do not consent”: political legitimacy, misinformation and the compliance challenge in Australia’s COVID-19 policy
+response (2023) by Melissa-Ellen Dowling and Tim Legrand, Policy and Society. Accessed at
+https://doi.org/10.1093/polsoc/puad018                                                                  _____________
+
+
+                                                         19                                        ^ACTU
+         throughout the pandemic policy makers have played catch up with workplace practices
+         that have traditionally been the domain of work health and safety policy makers and
+         regulators. Whether it be the delayed and limited introduction of Pandemic Leave to
+         address the aforementioned issue of insecure work and isolation, through to the
+         development of blunt, confusing public health orders around workplace safety, or even
+         the fraught efforts to implement vaccine mandates, there has been a consistent
+         misunderstanding of the world of work that has stifled and impeded the response to the
+         pandemic.
+
+
+    41. Even today unions remain concerned that with the removal of PHOs workplaces are
+         without clear enforceable guidance when it comes to managing transmission at work.
+         Effective workplace transmission control measures are critical to not only keeping
+         workplaces safe but, given that work is a key setting for human contact, it is a critical
+         place for managing and minimising transmission of the virus and reducing future waves.
+
+
+    42. Given all of these concerns it is not surprising that, given the lack of understanding and
+         focus on work and workplaces, that in the first year of the pandemic there were almost 4
+         times as many deaths due to COVID-19 among people from the lowest socioeconomic
+         group compared with the highest group, and age standardised mortality rates were 2.6
+         times as high.16 This ‘work blind spot’ in our response is partly due to the disconnect
+         between “public health” and “work-related health”. There are very limited connections
+         between those health agencies dealing with infectious disease and work health and
+         safety policy. There is a lack of information and data sharing, as well as approaches to
+         infection control relevant to work. If a future ACDC is going to effectively prevent and
+         manage future pandemics a strong link to work is critical. For these reasons and others,
+         the ACTU submits that an ACDC should include representatives of social partners (unions
+         and employer organisations) to ensure that work related matters are understood when
+         considering public health interventions to manage communicable diseases.
+
+
+
+Recommendation 8
+
+
+
+
+16 AIHW 2021. The first year of COVID-19 in Australia: direct and indirect health effects. Cat. no. PHE 287. Canberra:
+AIHW. https://www.aihw.gov.au/getmedia/a69ee08a-857f-412b-b617-a29acb66a475/aihw-phe-
+287.pdf.aspx?inline=true                                                                                  __________
+
+
+                                                          20                                         ^ACTU
+The establishment of an Australian Centre for Disease Control (ACDC), as soon as possible to
+address problems seen in national management of the COVID-19 pandemic.17
+
+
+Recommendation 9
+The ACDC should be independent of government and overseen by members appointed by both
+the Commonwealth, state and territory governments, as well as unions and employers, to ensure
+that the specific risks associated with workplaces are incorporated in prevention measures.
+
+
+Recommendation 10
+As well as research into prevention of and response to infectious diseases, the ACDC should be
+tasked with analysing the nature and extent of misinformation and conspiracies, surrounding
+both COVID-19 itself and the vaccines made in response.
+
+
+
+
+17 Adapted from Public Health Management of the COVID-19 Pandemic in Australia: The Role of the Morrison
+Government, accessed at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9407931/pdf/ijerph-19-10400.pdf_______
+
+
+                                                   21                                    ^ACTU
+Sovereign Capability and Vaccine Rollout
+    43. Decades of offshoring of manufacturing capacity left Australia critically short of supply of
+         key COVID-19 risk controls such as ventilators, N95 respirators, surgical gowns and hand
+         sanitiser when overseas manufacturing supply chains were either shut down, or supply
+         was diverted within the overseas manufacturing jurisdiction. This left workers, and in
+         particular frontline workers, in the early days of the pandemic highly vulnerable to
+         infection and hampered the early attempts to control the spread of the virus. Key
+         infectious disease risk controls must be accessible for future pandemics and Australia
+         should ensure that there are appropriate stockpiles of key medical supplies maintained
+         along with domestic supply chains in the event of border closures or transport
+         disruptions.
+
+
+    44. In addition to key medical supplies the lack of vaccine manufacturing capacity delayed
+         the rollout. This, combined with a failure from the government to secure multiple
+         vaccines meant that far from being at the ‘front of the queue’ Australia lagged the world
+         in the race to vaccination. These failures not only increased the length of lockdowns but
+         saw Australia having to source supply from overseas, making it more difficult for low and
+         middle income countries to supply their populations with vaccines.
+
+
+
+    45. The vaccine rollout staging was announced by the Prime Minister on 7 January 2021 and
+         included five stages. Critically Stage la included quarantine and border workers, frontline
+         health care workers, aged care and disability care staff, and aged care and disability care
+         residents (estimated 678,000 people). This was immediately ignored especially with
+         respect to the aged care residents and disability sufferers, with catastrophic
+         consequences for these cohorts.18
+
+
+    46. A low prevalence of infection, coupled with the wish to claim credit, led the
+         Commonwealth to eschew vaccine distribution by state governments. Instead, it
+         prioritised distribution through channels it funded directly - vaccines were to be primarily
+         distributed through general practices and pharmacies. This approach unravelled when
+         supply shortages meant that commitments to general practices to deliver a specific
+
+
+
+
+18 Duckett, S, August 2022: Public Health Management of the COVID-19 Pandemic in Australia: The Role of the Morrison
+Government. Access here                                                                              ____________
+
+
+                                                        22                                        ^ACTU
+        quantity of vaccines were not met, causing anger and frustration over cancelled
+        appointments, and further undermining confidence in the availability of vaccines.
+
+
+    47. There was very little reporting of progress in vaccinating people in the designated priority
+        groups, such as aged care residents and workers, and people with a disability. As a
+        result, low vaccination rates in these sectors were not identified early enough to take
+        corrective action.
+
+
+    48. Data was not routinely published by location of those vaccinated either, so gaps in
+        vaccination coverage for low-income populations were also missed, and nothing was
+        done to increase uptake in those groups. This exacerbated the inequitable adverse socio­
+        economic impact of the pandemic.
+
+
+Recommendation 11
+The ACDC to have a responsibility to examine and report annually to the Federal Government, on
+Australia’s health related sovereign manufacturing capacity, including new forms of vaccines and
+all forms of necessary PPE.
+
+
+
+Recommendation 12
+The Federal Government to develop a health-related sovereign manufacturing capacity strategy
+that ensures that Australia is able to respond to future pandemics.
+
+
+
+Recommendation 13
+The ACDC to plan to manage future pandemic vaccine rollouts, in coordination with the states
+and territories. Including the identification of sufficient numbers of mass vaccination centres in
+capital cities, suburbs, regional cities, their suburbs and remote communities whether
+Indigenous or not.
+
+
+Recommendation 14
+The ACDC to publish regular detailed vaccination statistics of vulnerable cohorts in designated
+priority vaccination groups, such as aged care residents and workers, and people with a
+disability. These statistics to include regular seasonal influenza vaccinations, as well as in
+pandemic circumstances.
+
+
+Recommendation 15
+
+
+
+
+                                                  23                                  ^ACTU
+The ACDC in coordination with the state and territory managed public health systems, to ensure
+that people in remote areas have equal access to both vaccines and the necessary medical
+treatment when they are sick with infectious diseases.
+
+
+
+
+                                                24                                rACTU
+Conclusion
+By global comparison Australia was fortunate in the early days of the pandemic. Tucked away at
+the bottom of the globe surrounded by water our borders were more difficult than others for the
+virus to penetrate. However, this comparative advantage was squandered. We failed to observe
+the way the virus was moving and disrupting life and society in other parts of the world and take
+the necessary action protect and support Australians. Critical to these failures was our inability to
+understand the dynamic nature of work and workplaces.
+
+
+At times of lockdown and social distancing these important locations were ground zero for
+transmission. A focus on work and workplaces is critical in preparing for future pandemics. Not
+only are they locations for transmission where protections measures are needed, they are
+sources of income for millions of Australians. Our response must recognise the unique threats
+posed to work and workplaces and ensure that policies support keeping them COVID safe.
+
+
+This requires significant reform to how our labour market operates and how work is organised.
+We must address the scourge of insecure work which has been proven to accelerate the spread
+of infectious diseases due to the lack of social protection (sick leave) provided to workers. We
+must ensure that we have appropriate broad income supports that can be enlivened when
+workers are unable to work due to lockdowns, illness or health orders. We also must liberate the
+work health and safety framework which can adapt to the specific risks posed in workplaces and
+ensure controls are effective and appropriate.
+
+
+Finally, we must have a trusted national voice and coordinating mechanism. The case for an
+Australian CDC is clear. It must have a broad advisory body including unions and employers and
+be independent of government.
+
+
+
+
+                                                 25                                  ^ACTU
+                                      address
+                                         ACTU
+                    Level 4 / 365 Queen Street
+                          Melbourne VIC 3000
+
+
+                                       phone
+                               1300 486 466
+
+
+                                          web
+                                   actu.org.au
+                       australianunions.org.au
+
+
+
+
+       Australian
+WCTUif Unions
+

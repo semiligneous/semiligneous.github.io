@@ -1,0 +1,188 @@
+Commonwealth Government COVID-19 Response Inquiry
+
+Commonwealth Government COVID-19 Response Inquiry terms of reference
+Specific areas of review may include, but are not limited to:
+
+    •      Governance including the role of the Commonwealth Government, responsibilities of state and
+           territory governments, national governance mechanisms (such as National Cabinet, the National
+           Coordination Mechanism and the Australian Health Protection Principal Committee) and advisory
+           bodies supporting responses to COVID-19.
+    •      Key health response measures (for example across COVID-19 vaccinations and treatments, key
+           medical supplies such as personal protective equipment, quarantine facilities, and public health
+           messaging).
+    •      Broader health supports for people impacted by COVID-19 and/or lockdowns (for example mental
+           health and suicide prevention supports, and access to screening and other preventive health
+           measures).
+    •      International policies to support Australians at home and abroad (including with regard to
+           international border closures, and securing vaccine supply deals with international partners for
+           domestic use in Australia).
+    •      Support for industry and businesses (for example responding to supply chain and transport issues,
+           addressing labour shortages, and support for specific industries).
+    •           Financial support for individuals (including income support payments).
+    •      Community supports (across early childhood education and care, higher education, housing and
+           homelessness measures, family and domestic violence measures in areas of Commonwealth
+           Government responsibility).
+    •      Mechanisms to better target future responses to the needs of particular populations (including across
+           genders, age groups, socio-economic status, geographic location, people with disability, First Nations
+           peoples and communities and people from culturally and linguistically diverse communities).
+
+9 Jan 24
+
+Dear Inquiry,
+
+A number of excellent international studies have been undertaken to compare and consider issues with
+government responses to the covid pandemic. I include links to a number below that I invite you to consider:-
+
+Suggested studies for consideration
+
+                                                    Cato:
+                                            Pandemicsand Policy
+                     What went wrong, what we've learned, and how to prepare for next time
+
+    1.          https://www.cato.org/pandemics-policy
+
+Government and Health Care — A Dangerous Policy Cocktail
+   2.      https://www.cato.org/events/government-health-care-dangerous-policy-cocktail
+
+
+
+COVID-19 Pandemic Was a Catastrophe for Global Freedom
+New Human Freedom Index
+   3. https://www.cato.org/policy-report/march/april-2023/covid-19-pandemic-was-cata strophe-global-
+       free
+
+Sweden Avoided Covid Lockdowns, and Now Reaps the Benefits
+   4.      https://www.cato.org/commentary/sweden-avoided-covid-lockdowns-now-reaps-benefits
+
+    5.          Fiscal Spending Contributed to Post-COVID-19 Inflation
+Fiscal Spending Contributed to Post-COVID-19 Inflation
+
+
+Information Manipulation and Repression: A Theory and Evidence from the COVID-19 Response in Russia
+     6.     https://www.cato.org/research-briefs-economic-policy/information-manipulation-repression
+
+    7.   Haug, N., Geyrhofer, L, Londei, A. et al. Ranking the effectiveness of worldwide COVID-19
+         government interventions. Nat Hum Behav4,1303-1312 (2020). https://doi.org/10.1038/s41562-
+         02 94
+
+
+
+
+Dear Inquiry,
+
+many claims have been made about the effectiveness of the government's strategies to implement effective
+policy in response to covid.
+
+30 June 2023 populations : ABS: https://www.abs.gov.au/statistics/people/population/national-state-and-
+territory-population/latest-release#states-and-territories
+                          Population at 30 June
+                          2023 ('000)
+
+
+ Victoria                                     68125
+
+
+
+ South Australia                               1851.7
+
+ Western Australia
+
+ Tasmania                                       572.8
+
+ Northern Territory
+
+ Australian Capital
+                                                466.8
+ Territory
+
+ -Australia                       ISSIIIIIIIOliS
+
+covidlive data 240109
+ 30.6.23        Population in           C19 cases in    Ratio case/pop   Deaths   (Deaths/pop) or   Deaths per
+                      thousands         thousands                                 per thousand
+                                                                                                    1,000 cases
+                                                                                  population
+
+
+ NSW                  8339.3            3967.3          0.4757           7748     0.9291            1.9530
+ Vic                  6812.5            3001.8          0.4406           9036     1.3264            3.0102
+ QLD                  5459.4            1761.9          0.3227           3375     0.6182            1.9155
+ SA                   1851.7            965.5           0.5214           1663     0.8981            1.7224
+ WA                   2878.6            1385.0          0.4811           1304     0.4530            0.9415
+ Tas                  572.8             316.4           0.5524           342      0.5971            1.0809
+ NT                   252.5             110.7           0.4384           111      0.4396            1.0027
+ ACT                  466.8             251.9           0.5396           292      0.6255            1.1592
+ Australia            26638.5           11760.5         0.4415           23871    0.8961            2.0298
+
+Latitude (of territory/state capital) / Case Fatality Rate covidlive.com.au)
+
+
+
+NT                      12.0       1.003
+Qld                     27.5       1.916
+WA                      32.0       0.942
+NSW                     33.8       1.953
+SA                      34.9       1.722
+ACT                     35.3       1.159
+Vic                     37.8       3.010
+Tas                     42.9       1.081
+                                                    Results
+
+
+
+
+       3.2
+
+
+
+
+       Z4
+   Q
+                                                              +
+       16
+   ■
+
+
+
+       0.8
+
+
+
+
+        0    ----------------------------------------------------------------------------------------------
+             0                10                20                 30                 40                 50
+
+                                                     Latitude
+
+
+
+
+Australia                              11,760,483 cases 23,871 deaths or 0.203%
+
+Other Islands
+Taiwan                                 10,241,523 cases 19,005 deaths or 0.19%
+New Zealand                            2,464,470 cases 4,804 deaths or 0.19%
+Cuba                                   1,115,125 cases 8,530 deaths or 0.76%
+Sri Lanka                              672,587 cases                                                          16,882 deaths or 0.25%
+Reunion 486,588 cases                                                                  921 deaths or                          0.19%
+Iceland                                209,191 cases                                                          229 deaths or            0.11%
+
+
+
+Australia as an island is very comparable in deaths per 1,000 cases at 0.2% with Taiwan, New Zealand, Reunion
+all very similar at 0.19% and Sri Lanka at 0.25% and Iceland at 0.11%.
+Japan 33.8 M cases, 74.7 k deaths - 0.22%.
+
+Remoteness and island situation is related to low case death rates when compared with continental death
+rates: France 39.0 M cases, 167.99 k deaths - 0.43%; USA 103.44 M Cases, 1.145 M deaths - 1.11%; UK 24.84
+M cases, 232 k deaths - 0.9735% (noting the English/French channel is a water barrier but there is a rail link
+connecting both sides).
+
+
+
+Remoteness and isolation early on seem significantly protective but in the Australian situation Victoria fared
+       significantly more poorly than other states. The inquiries' terms of reference is perhaps unable to
+       completely analyse where state factors are associated with significant differences in outcomes.
+
+Yours Sincerely
+

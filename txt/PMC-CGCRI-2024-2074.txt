@@ -1,0 +1,1368 @@
+.^3
+      ®   Australian Government
+          Department of Education
+
+
+
+
+Department of Education
+submission
+Commonwealth Government COVID-19
+Response Inquiry
+
+December 2023
+Contents
+Department of Education written submission........................................................................................ 1
+   Introduction and Background............................................................................................................. 3
+   Early Childhood Education and Care................................................................................................... 4
+      Roles and responsibilities, including governance........................................................................... 4
+      Policy changes during the pandemic.............................................................................................. 6
+      Pandemic impacts......................................................................................................................... 13
+      Lessons learned and other observations ...................................................................................... 14
+   Schools...............................................................................................................................................15
+      Roles and responsibilities, including governance......................................................................... 15
+      Policy changes during the pandemic............................................................................................ 17
+      Pandemic impacts......................................................................................................................... 19
+      Lessons learned and other observations ...................................................................................... 21
+   Higher Education and Research........................................................................................................ 22
+      Roles and responsibilities, including governance......................................................................... 22
+      Policy changes during the pandemic............................................................................................ 22
+      Pandemic impacts......................................................................................................................... 26
+      Lessons learned and other observations ...................................................................................... T1
+
+
+
+
+                                                                                                                                                       I 2
+Introduction and Background
+The Department of Education (the department) welcomes the opportunity to make a submission to
+the Commonwealth Government COVID-19 Response Inquiry (the Inquiry) to identify lessons learned
+to improve Australia's preparedness for future pandemics.
+
+For much of the pandemic, the department was part of the Department of Education, Skills and
+Employment (DESE). This submission relates to the department's current areas of portfolio
+responsibility: early childhood education and care, youth policy, schools, higher education,
+international education, and research. For information related to the Australian Government's
+pandemic response relating to employment and skills (including Vocational Education and Training
+or "VET"), please refer to the Department of Employment and Workplace Relations (DEWR).
+
+This submission is divided into sections, each of which relates to one of the three main sectors in the
+department's portfolio responsibilities:
+
+•   Early childhood education and care,
+•   Schools, and
+•   Higher education, research and international education.
+
+The Australian education system is complex and involves shared responsibilities across multiple
+levels of government and with the private sector. Furthermore, responsibilities and governance
+approaches evolved as the pandemic proceeded. As such, each section of this submission is
+structured into four sub-sections:
+
+•   A description of the roles and responsibilities within the sector, including the governance
+    arrangements used for decision making and how these changed over time.
+•   A description of the key policy changes and interventions in the sector introduced by the
+    Australian Government during the pandemic.
+•   A summary of the available research into the impact of the pandemic on the sector and the
+    children and families who use its services.
+•   A summary of lessons learned and other observations that may be useful given the Inquiry's
+    focus on future pandemic preparedness.
+
+
+
+
+                                                                                                     I 3
+Early Childhood Education and Care
+
+Roles and responsibilities, including governance
+Early childhood education and care is delivered by approved providers and services. The Australian
+Government subsidises the cost of care. State and territory governments ensure the health, safety,
+wellbeing, and educational outcomes of children.
+
+The Australian Government, through the department and Services Australia, administers the Child
+Care Subsidy (CCS). Providers must be approved by the department to receive CCS. The department
+is also responsible for the legislation that underpins CCS, which is known as Family Assistance Law
+(FAL). All providers that receive CCS must follow the rules under FAL. The department monitors
+providers' compliance with FAL while Services Australia operationalises CCS with families and
+providers. The department also delivers grants to help services address barriers to child care
+participation, in particular, for those experiencing disadvantage, regional and remote communities
+and Indigenous communities.
+
+Under the National Quality Framework (NQF), the Australian and state and territory governments,
+and providers are responsible for the health, safety, wellbeing and educational outcomes of
+children. State- and territory-based education departments regulate services under the Education
+and Care Services National Law through the NQF. The NQF sets the standards and administers the
+regulatory system by which education and care is delivered to children. The NQF includes two
+nationally approved learning frameworks that support and promote children's learning. Providers
+must be approved by their state government to deliver education and care services under the NQF.
+The Australian Children's Education and Care Quality Authority (ACECQA) is an independent national
+authority that supports the administration of the NQF.
+
+State and territory governments are responsible for delivering preschool services. The Australian
+Government contributes funding to states and territories to deliver preschool. The department
+delivers this through the Preschool Reform Agreement (PRA).
+
+These responsibilities for early childhood education and care were unchanged during the pandemic.
+
+The Australian Government's response in meeting the needs of families using early childhood and
+care and services through the pandemic was supported by:
+
+•   bespoke internal governance within the department,
+•   collaboration with other Australian Government agencies,
+•   continuing governance arrangements with state and territory government officials responsible
+    for early childhood education and care,
+•   frequent engagement with various representatives of the early childhood education and care
+    sector, and
+•   surveying services and parents.
+
+
+
+
+                                                                                                    I 4
+Apart from the governance arrangements that were set up to inform National Cabinet, the
+Australian Government's response in supporting the early childhood education and care sector was
+largely governed through existing government and sector governance mechanisms via an increase in
+the frequency and intensity of the department's communication with, and engagement of, existing
+government and sector governance mechanisms.
+
+Internally, the department set up the Early Childhood and Child Care COVID-19 Response -
+Implementation and Assurance Committee. This Committee included senior executive staff
+responsible for early childhood education and care, corporate services and representation from
+Services Australia and the Department of Finance. The Early Childhood and Child Care COVID-19
+Response - Implementation and Assurance Committee:
+
+•   oversaw the implementation of the Early Childhood and Care COVID-19 pandemic response
+    packages
+•   identified and monitored progress against key performance measures and budgets
+•   established and oversaw appropriate internal governance
+•   identified and implemented risk controls and treatments
+•   identified and managed potential and emerging issues
+•   considered assurance reports and monitored the implementation of any recommendations
+•   ensured key documentation was up to date
+•   oversaw planning for the 4 week and 12 week reviews of the relief package, and
+•   allocated and oversaw resourcing to facilitate timely and effective delivery
+
+The development of the initial relief package in April 2020 highlighted the strength of the
+department's formal and informal relationships with peak bodies and sector advocates, enabling
+rapid engagement with key partners to gather input, test assumptions and inform solutions.
+Similarly, the successful establishment of business continuity payments across the early childhood
+education and care sector and an online application form for additional payments depended on an
+agile approach to problem solving and effective collaboration between governments and industry.
+The strength of external communications, stakeholder engagement, records management, risk
+identification and management and the fraud and compliance framework for the relief package
+were key enablers in delivering these outcomes.
+
+The Early Childhood Education and Care Reference Group (ECECRG) is the key mechanism through
+which the department engages with representatives of the early childhood education and care
+sector. Matters relating to COVID-19 were discussed with ECECRG starting in early February 2020.
+From March 2020, ECECRG members held weekly meetings focused on sector issues arising from the
+COVID-19 pandemic and the implementation of measures to assist the sector.
+
+The department also participated in ongoing Early Childhood Policy Group (ECPG) meetings. These
+meetings were between officials from the Australian Government and state and territory
+departments with responsibility for early childhood education and care matters and were key
+forums for ensuring collaboration across all jurisdictions during the pandemic. In 2020 and 2021,
+there were ongoing discussions on COVID-19 related impacts on the sector, including government
+measures announced as part of the COVID-19 response. ECPG agenda matters were informed by the
+direction of, and sought endorsement of, the Australian Education Senior Officials Committee
+(AESOC) and the Education Council.
+
+
+
+
+                                                                                                     I 5
+For parts of 2020, CCS data was unavailable.1 In response, the department commissioned surveys to
+gain a deeper understanding of the impact of the pandemic on services and families' access to care,
+gathered and assessed feedback on the impact of the supports and sought suggestions on next
+steps. Representations to the Minister for Education and the department about the impact of the
+pandemic on families, educators and the sector also informed policy development and
+implementation.
+
+Further information about how sector engagement informed policy and implementation of support
+for the sector during 2020 and 2021 can be found in:
+
+•      Early Childhood Education and Care Relief Package Four Week Review Summary Report
+       published by the department in May 2020
+•      Early Childhood Education and Care - Path to Recovery Report published by the department in
+       August 2020
+
+The Early Childhood Education and Care COVID-19 response packages required amendments to the
+FAL and new ways of delivering support. In April 2020, the CCS funding mechanism (the CCS System)
+was, in effect, switched off and replaced with business continuity payments to all approved
+providers. The department also provided supplementary grants to eligible providers. The Services
+Australia Emergency Management Framework was used to target support by state and local
+government area. To implement the Viability Package, Parliament passed amendments to the FAL
+enabling the CCS System to operate concurrently with the business continuity payment system in
+delivering payments to services. These legislative and technical innovations demonstrated the
+department and Services Australia's ability to respond to rapidly changing social, economic and
+health circumstances caused by an unprecedented pandemic threat. Changes to the IT payment
+systems were informed by the views of the sector and designed and delivered in consideration of
+the whole-of-government response to the COVID-19 pandemic.
+
+
+Policy changes during the pandemic
+Table 1: Summary of supports in the Early Childh )d Education and Care sector
+
+    Initiative                      Description
+    Early Childhood                 •    The Australian Government announced the ECEC Relief Package on
+    Education and Care                   2 April 2020, which was implemented from 6 April 2020 to
+    (ECEC) Relief                        12 July 2020.
+    Package                         •    The main feature of the Relief Package was a Business Continuity
+                                         Payment calculated to be 50 per cent of fee revenue or 50 per cent of
+                                         the existing hourly rate cap - whichever was lower - during the
+                                         fortnight leading into 2 March 2020, at an estimated cost of
+                                         $1.9 billion. These payments replaced the CCS and Additional CCS
+                                         from 6 April 2020 to 12 July 2020.
+
+
+
+1
+    Normally, information is collected from providers about the care used by individual children to determine CCS payments. In response to
+the mass withdrawals of children from child care in early 2020, the government introduced a business continuity payment from 6 April
+2020 to 12 July 2020 as a temporary rescue measure to replace the CCS System for families and child care providers. The business
+continuity payment measure did not require the reporting of child care usage information from providers to Services Australia.
+
+
+
+
+                                                                                                                                        I 6
+Initiative          Description
+                    •   The Business Continuity Payment was conditional on services
+                        remaining open (unless closed on public health grounds), providing
+                        care and not charging families for care.
+                    •   The Relief Package provided access to free child care with priority for
+                        available places given to children of essential workers, vulnerable and
+                        disadvantaged children, as well as those with pre-existing enrolments.
+                        The Relief Package was intended as a temporary rescue measure.
+                    •   It was designed to ensure the viability of the child care sector, and
+                        guarantee funding, while continuing to make child care accessible to
+                        families.
+                    •   It was designed to work in conjunction with a range of other
+                        Australian Government assistance, including the JobKeeper Payment.
+                    •   Supplementary payments in addition to the business continuity
+                        payments were initially only available to services which could
+                        demonstrate that they were providing more care than they provided
+                        during the reference period.
+                    •   On 10 April 2020, the Australian Government announced services
+                        would be able to apply for exceptional circumstances Supplementary
+                        Relief Payment to support services to remain open, for example, if the
+                        service was providing more hours of care than in the reference
+                        period.
+                    •   On 1 May 2020, the Australian Government announced that ECEC
+                        providers, including non-government schools, large charities and not-
+                        for-profit organisations which were not eligible for JobKeeper
+                        Payments, would be eligible for an Additional Supplementary Payment
+                        under the ECEC Relief Package. Family Day Care and In Home Care
+                        Educators who were not eligible for JobKeeper Payments would also
+                        be eligible for an Additional Supplementary Payment, so long as the
+                        educators applied for an ABN (Australian Business Number) by
+                        1 June 2020.
+                    •   State and local government services were not able to get extra
+                        support on the basis of JobKeeper ineligibility. However, the New
+                        South Wales, South Australian and Queensland governments
+                        subsequently announced that they would meet the extra costs for
+                        local council and state government providers unable to access
+                        JobKeeper.
+                    •   On 20 May 2020, in response to the review of the Relief Package, the
+                        Australian Government announced an additional $12.8 million
+                        (including for services with more than 30 per cent of full-time
+                        equivalent staff ineligible for JobKeeper Payments) and $800,000 for
+                        In Home Care.
+                    •   In May 2020, with the support of the Relief Package, of the more than
+                        13,000 child care services nationally, 99 per cent were operational.
+
+Preschool funding   •   On 3 April 2020, the Australian Government announced that it would
+for 2021                extend the 2018-2020 National Partnership on Universal Access to
+                        Early Childhood Education in 2021 to support almost 340,000 children
+                        to access preschool, at an estimated cost of $453.2 million.
+
+
+
+
+                                                                                              I 7
+Initiative            Description
+                      •   The extension of the National Partnership relaxed performance
+                          requirements for state and territory governments for 2020 and 2021
+                          in recognition of COVID-19 impacts.
+
+§10,000 Grants for    •   On Tl April 2020, the Australian Government announced an additional
+child care services       §26.2 million in Community Child Care Fund Special Circumstances
+and children              grants of up to §10,000 to child care services to ensure they can
+                          continue providing care to children of essential workers.
+
+ECEC Transition       •   As people began to return to their workplaces and business began to
+Package                   re-open, on 8 June 2020, the Australian Government announced that
+                          the CCS (and Additional CCS) would return from 13 July 2020, along
+                          with some specific measures to support families and services back to
+                          the Subsidy.
+                      •   The Australian Government agreed to make Transition Payments -
+                          estimated to cost §708 million - to early childhood and child care
+                          services covering the period 13 July 2020 to Tl September 2020.
+                      •   These payments were instead of JobKeeper Payments (which ceased
+                          on 20 July 2020) and were calculated at 25 per cent of fee revenue or
+                          25 per cent of the existing hourly rate cap - whichever was lower
+                          during the relevant reference fortnight (which in most cases was the
+                          period of 17 February 2023 to 1 March 2020).
+                      •   Other features of the Transition Package were:
+
+                                o   a relaxed activity test until 4 October 2020 to support
+                                    eligible families whose employment had been impacted as a
+                                    result of COVID-19
+                                o   fee capping to the level in the relevant reference period
+                                o   services needed to continue over the transition period to
+                                    employ and to offer work to the employees who were paid
+                                    in the fortnight leading up to the end of the Relief Package
+                                    (or the relevant fortnight for new and vacation care only
+                                    services)
+                                o   a streamlined application process for Additional CCS
+                                    (temporary financial hardship), and
+                                o   providers were also required - as one of the conditions of
+                                    receiving the Transition Payment - to agree not to claim
+                                    JobKeeper for employees or for themselves.
+
+Additional support    •   On 7 July 2020, following a resurgence of COVID-19 in Victoria, the
+to Victorian child        Australian Government announced additional assistance for Victorian
+care services             services, on top of the transitional measures applying nationally from
+                          13 July 2020.
+                      •   Specifically, services in a location then subject to Stage 3 COVID-19
+                          restrictions had the ability to waive gap fees to 31 December 2020, in
+                          circumstances where the service remained open and a child was not
+                          attending due to COVID-19. This was later extended to all of Victoria.
+
+
+
+
+                                                                                                   I 8
+Initiative         Description
+                   •   On 30 July 2020, the Australian Government announced an additional
+                       $6.85 million would be provided to support Outside School Hours
+                       Services in metropolitan Melbourne and Mitchell Shire (which had
+                       been affected by the Victorian Government's decision to scale back
+                       school attendance in reaction to the COVID-19 situation).
+
+                             o   Specifically, these services would be offered an additional
+                                 payment - of 15 per cent of pre-COVID-19 revenue for
+                                 eight weeks - if they confirmed their attendance levels had
+                                 fallen below 40 per cent. This was later extended to all of
+                                 Victoria.
+
+                   •   On 5 August 2020, the Australian Government announced that an
+                       additional $33 million would be provided to support services in
+                       Victoria:
+
+                             o   across all of Victoria (i.e. where Stage 3 and Stage 4
+                                 COVID-19 restrictions applied)
+
+                                 ■     Families would receive an additional 30 days of
+                                       allowable absences.
+                                 ■     The gap fee waiver (announced on 7 July 2020) and the
+                                       Outside School Hours Care (OSHC) payment (announced
+                                       on 30 July 2020 for metro Melbourne and Mitchell Shire)
+                                       would be extended.
+
+                             o   for Melbourne only (where Stage 4 restrictions applied)
+
+                                 ■     a higher Transition Payment of 30 per cent of pre-COVID
+                                       revenue for Melbourne child care services to assist
+                                       services to keep workers employed (totalling
+                                       $16.3 million)
+                                 ■     an additional top-up payment for eligible services that
+                                       were receiving low CCS payments and were experiencing
+                                       very low attendance (totalling $16 million).
+
+Extended support   •   On 15 September 2020, the Australian Government announced an
+for Victoria           additional $12.6 million to extend the current support measures for
+                       Victoria from mid-August until Tl September 2020, in line with
+                       Victoria's roadmap to reopening.
+
+                             o       For Metro Melbourne (extending stage 4 support package)
+                                 ■     A 30 per cent Transition Payment
+                                 ■     Low CCS payment
+                                 ■     OSHC 15 per cent payment
+                                 ■     Employment Guarantee
+                                 ■     Fee freeze
+                                 ■     Waive gap fees when not attending was available.
+
+
+
+
+                                                                                               I 9
+Initiative      Description
+                          o       For regional Victoria (extending Stage 3 support package)
+                              ■      25 per cent Transition Payment
+                              ■      OSHC 15 per cent payment
+                              ■      Victorian low charged hours special circumstances
+                                     payment
+                              ■      Employment Guarantee
+                              ■      Fee Freeze
+                              ■      Waive gap fees when not attending was available.
+
+ECEC Recovery   •   The Recovery Package, announced on 20 September 2020, included
+Package             $305.6 million in support for Victorian ECEC services up to the end of
+                    January 2021, as follows:
+
+                          o   Around $36.6 million for OSHC services
+                          o   Around $269 million for all other ECEC services.
+
+                •   For Centre Based Day Care, Family Day Care and In Home Care
+                    services in all parts of Victoria, the Recovery Package included a new
+                    25 per cent Recovery Payment with conditions attached, including a
+                    fee freeze and Employee Guarantee, to protect families and workers
+                    and applied from 28 September 2020 until 31 January 2021. It also
+                    included a relaxation of the Activity Test.
+                •   On Tl September 2020, the Victorian government announced the
+                    bringing forward of dates for the resumption of face-to-face schooling
+                    in regional Victoria to 5 October 2020 and in metro Melbourne to
+                    12 October 2020. To support Victorian OSHC in their recovery, at a
+                    cost of $8.6 million, the Australian Government continued Transition
+                    Payments to services in regional Victoria up to 12 October 2020 and in
+                    metro Melbourne up to 19 October 2020 which was when
+                    face-to-face schooling was originally expected to resume.
+                •   After that time, OSHC services received the 25 per cent Recovery
+                    Payment, plus an additional payment of 15 per cent of their
+                    pre-COVID revenue, taking the total support to 40 per cent.
+
+                          o   This was in place until end of the school year for OSHC-only
+                              services.
+                          o   Victorian vacation care providers (and OSHC services
+                              providing vacation care) qualified for this additional
+                              payment too, for any weeks that they were operational,
+                              until 31 January 2021.
+                          o   OSHC services continued to be able to waive gap fees when
+                              children were not attending due to remote learning while
+                              Stage 4 restrictions remained in place.
+                •   Whilst receiving Recovery Payments services were required to have in
+                    place:
+                          o   An Employment Guarantee until 31 January 2021.
+                          o   A Fee freeze until 31 January 2021.
+
+
+
+
+                                                                                              | 10
+Initiative            Description
+                      •   Extra payments including Low CCS, Melbourne metro extra Transition
+                          Payment (5 per cent), and low charged hours payments ceased when
+                          school began to return to normal from 12 October 2020 for regional
+                          Victoria and from 19 October 2020 for metro Melbourne.
+
+
+
+Community Child       •   Until 31 January 2021, services in Victoria at high risk of permanent
+Care Fund (CCCF)          closure due to COVID-19, despite the Recovery Payment, also had
+Special                   access to funding through CCCF Special Circumstances Grant
+Circumstances             Opportunity.
+                      •   For the period 12 October 2020 to 31 January 2021, services outside
+                          Victoria also could apply for this Grant Opportunity if they were:
+
+                                o   at risk of temporary or permanent closure due to COVID-19,
+                                    and
+                                o   operating in or servicing families from disadvantaged and
+                                    vulnerable communities, or
+                                o   operating in a community with limited or no other child
+                                    care services.
+
+                      •   As at end of October 2023 CCCF Special Circumstances grants worth
+                          $4.3 million have been paid to 144 services (19 Centre Based Day
+                          Care, 1 FDC and 124 OSHC services).
+
+
+
+Child care Gap Fee    •   From 19 July 2021, child care centres in New South Wales Local
+Waiver for NSW            Government Areas across greater Sydney, subject to stay at home
+                          orders, could waive gap fees on the days that parents choose to keep
+                          their children at home. This was announced by the Australian
+                          Government on 15 July 2021.
+
+
+
+Additional absence    •   Additional absences were available for families with children in child
+days for child care       care services located in Commonwealth-declared COVID-19 hotspots
+in COVID-19               of more than seven days. The absences did not count towards a
+hotspot locations         family's annual allocation of 42 allowable absence days and were
+                          made available for any lockdown, retrospectively, that met the criteria
+                          from 23 June 2021 and onwards. This was announced by the
+                          Australian Government on 3 August 2021.
+
+
+
+Childcare gap fee     •   Child care centres located in any Commonwealth-declared COVID-19
+waiver for COVID          hotspot of more than seven days were able to waive gap fees. Services
+hotspots                  were able to waive gap fees from day one of the hotspot declaration if
+                          a state or territory directs that centres were only open for some
+                          children. This was announced by the Australian Government on
+                          16 August 2021.
+
+
+
+
+                                                                                                  | 11
+Initiative        Description
+2021 Viability    •   The Australian Government introduced the Viability Support Package
+Support Package       from 23 August 2021 to 30 November 2021 in response to extended
+                      lockdowns across the country. The purpose of the viability support
+                      payment was to maintain the viability of services and to retain staff,
+                      ensuring there was access to child care for those that needed it.
+                  •   Under the package, eligible services in Commonwealth-declared
+                      COVID-19 hotspots received a business continuity payment
+                      (25 per cent of pre-COVID average weekly fees - 40 per cent of pre­
+                      COVID average weekly for OSHC services) if:
+
+                            o   the COVID-19 hotspot ran for more than 7 days and the
+                                state or territory government had limited who could access
+                                child care, or
+                            o   the COVID-19 hotspot extended beyond 28 days.
+
+                  •   Eligible services could also waive gap fees and access additional
+                      absences.
+                  •   $281 million was paid to over 6,300 services in Victoria, NSW, ACT and
+                      NT.
+                  •   These supports were provided until the state or territory lifted
+                      restrictions around access to child care (or school in the case of
+                      Outside School Hours Care).
+                  •   Viability support payments were contingent on services:
+
+                            o   having reasonable expectations attendance would fall by
+                                50 per cent
+                            o   not accessing other Australian Government-funded
+                                business supports
+                            o   waiving gap fees for all families whose children are not
+                                attending
+                            o   maintaining staffing levels, and
+                            o   agreeing to a fee freeze for the duration of viability support
+                                payments.
+
+                  •   The regions and timeframes for support under the viability support
+                      package were published on the department's internet site.
+                  •   Enrolments were extended for children who had not attended care for
+                      at least 10 weeks. This ensured that enrolments did not automatically
+                      cease after 14 weeks of non-attendance.
+                  •   Community Child Care Fund Special Circumstances grant guidelines
+                      were updated to account for COVID-related service closures.
+
+Further support   •   Following the conclusion of extended lockdowns, some support
+                      measures remained in place to help the sector deal with the
+                      continued impact of COVID-19.
+
+
+
+
+                                                                                            | 12
+ Initiative                      Description
+                                 •    The following measures were available from 1 December 2021 until
+                                      30 June 2023:
+
+                                               o    services could waive the gap fee when a child was unable to
+                                                    attend care for one of the following reasons:
+
+                                                   ■     the child, or a member of their immediate household,
+                                                         had COVID-19
+                                                   ■     the child was at a higher risk of severe disease from
+                                                         COVID-19
+                                                   ■     the service, or a room at the service, was closed due to
+                                                         COVID-19
+
+                                               o    all families got 10 extra allowable absences per child in the
+                                                    2021-22 and 2022-23 financial years.
+                                               o    families could receive CCS for absences that occurred in the
+                                                    7 days before a child's first, or after their last, attendance
+                                                    when a child had COVID-19.
+
+                                 •    Families could use evidence of a positive COVID-19 test result from a
+                                      government agency or pathology service, instead of a medical
+                                      certificate, to access additional absences. (This additional absence
+                                      provision continues to be available.)
+
+
+
+
+Pandemic impacts
+
+Impact on children and families
+Early insights into the effects of the pandemic on children's development suggest that impact may
+not have been as substantial as expected with modest increases in developmental vulnerability.2The
+impact, however, does not appear to have been evenly felt, with larger increases in developmental
+vulnerability seen for Aboriginal and Torres Strait Islander children, children with pre-existing
+additional needs (including those with disability) and children living in the most disadvantaged areas
+of Australia.3 It may also be too early to know longer term implications of the pandemic on children's
+development.
+
+
+Impact on ECEC providers
+The actions of the Australian and state and territory governments to help keep the sector viable
+meant that providers and educators could continue delivering support to essential workers and
+vulnerable and disadvantaged children, assisting to mitigate the broader effects of the pandemic.
+
+
+
+
+2 E.g. Murdoch Children's Research Institute, January 2022, Impact of the COVID-19 pandemic on children   Murdoch Children's Research
+Institute - Department of Education, Skills and Employment, Australian Government (dese.gov.au)
+3 E.g. Department of Education, Skills and Employment 2021 Australian Early Development Census National Report, P25.
+
+
+
+
+                                                                                                                                  | 13
+Nationally, in the March quarter 2022 there were more children (1,338,660 children) in services
+approved for CCS than before the start of the pandemic (March quarter 2020 -1,318,900 children).
+There were more approved services in the March quarter 2022 (14,034) than in the March quarter
+2020 (13,370). The total number of hours attended by children increased 12 per cent in the
+March quarter 2022 compared to the hours children attended in the March quarter 2020.
+
+While the Australian Government's response in supporting the viability of early childhood education
+and care sector through the pandemic was a success, the experience of services during the
+pandemic varied according to where they were located and the type of service they delivered. For
+instance, the total hours attended by children in services approved for CCS in Victoria dropped by 46
+per cent in the September quarter 2020 compared to hours attended in the March quarter 2020. In
+comparison, the hours attended in services in the rest of Australia only dropped by 2 percentage
+points by the September quarter 2020. Total hours attended in Victoria later recovered in the
+June quarter 2021 to be 12 per cent higher than in the March quarter 2020. It should also be noted
+the department has no data for care provided in the June quarter 2020 as the CCS System was
+switched off. Attended hours at outside school hours care services nationally reduced by 37 per cent
+in the September quarter 2020 compared to the March quarter 2020. Attendance hours then
+rebounded to pre-pandemic levels in the June quarter 2021. In comparison, attended hours at all
+services approved for CCS nationally rebounded to pre-pandemic levels in the December quarter
+2020.
+
+The changes made to the scope of supplementary payments over the course of the relief package
+provide additional evidence of differential impact. Further investment in understanding the business
+models of each service type is already underway in the department and is being informed by the
+insights of Australian Competition and Consumer Commission Childcare Inquiry 2023.
+
+
+Lessons learned and other observations
+If a new pandemic threat emerged, the Australian Government would be well positioned to respond
+with proven measures of support to the early childhood education and care sector.
+
+The suitability of potential policy responses will depend on the nature of a pandemic threat and
+could include:
+
+•   Additional absence days for children unable to attend child care without penalty to encourage
+    compliance with stay-at-home recommendations
+•   Gap fee waivers and additional absence days where restrictions are placed on access to child
+    care (i.e. where the restriction is introduced to reduce the movement of people and spread of
+    the health threat)
+•   Gap fee waivers for child care services that are forced to close due to a health response (waiving
+    gap fees on days parents keep children home) to support sector viability, reduce out of pocket
+    costs and encourage compliance with stay-at-home recommendations
+•   Grants for eligible services at risk of imminent closure (temporary or permanent) due to health
+    threat and/or response to support sector viability, and
+•   Depending on the severity or duration of any new pandemic or health threat, a response could
+    also include business continuity payments to services to support sector viability.
+
+
+
+
+                                                                                                   | 14
+The rapid response required at the outset of the COVID-19 pandemic was constrained by the pre­
+existing legislative and systems framework and highlighted opportunities for enhancements to the
+department's ability to support access to care for during localised and broader crises. Some of these
+enhancements were able to be progressed through ad hoc legislative change and the use of
+Minister's Rules, however an exercise to log the settings that constrained policy and programme
+choices behind the relief package could help inform a forward change agenda and future emergency
+planning that contemplates sector wide as well as geographically targeted responses.
+
+The speed with which solutions were required also limited opportunities to stress test policy
+proposals or engage end users in systems development. This led to manual payment processes and
+created challenges for providers trying to engage with the application process. Families could be
+better supported, and the viability of the sector maintained, by increasing investment in emergency
+response planning and in policy solutions that can be easily understood by stakeholders and
+translated into practical delivery solutions. Policy and delivery mechanisms should be flexible
+enough to target support effectively, including by incorporating the capacity to adjust payments for
+each service as demand rises and falls.
+
+Business continuity payments were a more timely and effective approach to supporting provider and
+service viability in the ECEC sector than adjusting CCS settings, particularly during extended periods
+of stay at home restrictions. This is because the CCS is governed by the FAL and the implications of
+any amendments could have the knock-on implications for families.
+
+
+Acknowledgement of the role of child care educators during the pandemic
+The pandemic highlighted child care as an essential service in meeting the needs of children and in
+facilitating workforce participation of other essential workers in the economy. The work of child care
+educators and other front line staff throughout the pandemic, in the face of the known health risks,
+should be acknowledged by the Inquiry.
+
+
+
+
+Schools
+
+Roles and responsibilities, including governance
+Responsibility for policies relating to schools is shared across multiple levels of government in
+Australia. Consistent with Australia's constitutional arrangements, state and territory governments
+own and manage government schools and are responsible for registering non-government schools in
+their jurisdictions. The Australian Government does not own or operate schools.
+
+The Australian Government provides significant funding for schools and is involved in setting
+national education policies. Decisions regarding the response to COVID-19 in the schooling sector
+were therefore informed by expert, official, national and state-based public health and education
+advice.
+
+To assist with this process, the department coordinated and facilitated discussions between
+jurisdictions and the non-government sector. In some areas, suitable governance mechanisms
+already existed, such as the Schools Policy Group which supports the Australian Education Senior
+Officials Committee. In other cases, new governance mechanisms were established.
+
+
+
+
+                                                                                                    I 15
+ For example, officials from across jurisdictions established an informal COVID-19 education officials'
+network to assist with the management of COVID-19 in educational settings and enable
+collaboration across jurisdictions. Throughout the pandemic the network was valuable for officials to
+discuss common issues, share best practice approaches and ensure consistent approaches across
+jurisdictions. The final meeting of the education officials' network was held on 8 August 2023. With
+COVID-19 cases trending down, most jurisdictions are now focusing on recovery and have integrated
+COVID management into business-as-usual functions.
+
+In addition, jurisdictions agreed frameworks to help manage the governance of schools policy during
+the COVID-19 pandemic, both generally and for specific policy areas.
+
+
+National Framework for Managing COVID-19 in Schools and Early Childhood
+Education and Care
+On 13 January 2022, National Cabinet agreed to a         lf   le ork to promote a nationally
+consistent approach to the ongoing delivery of high-quality education for all students during
+COVID-19.
+
+
+The Framework was based on six national guiding principles:
+
+•     ECEC services and schools are essential and should be the first to open and the last to close
+      wherever possible in outbreak situations, with face-to-face learning prioritised.
+•     Baseline public health measures continue to apply.
+•     No vulnerable child or child of an essential worker is turned away.
+•     Responses to be proportionate and health risk-based.
+•     Equip ECEC services and schools to respond on the basis of public health advice and with support
+      from public health authorities where required.
+•     Wellbeing of children and education staff to be supported.
+
+State and territory governments were responsible for drafting individual operational plans in
+consultation with relevant stakeholders and school and ECEC sectors and are available on state and
+territory government websites.
+
+
+National Code on Boarding School Students: Supporting the movement of
+    ioar< ng school students during periods of COVID lockdown
+Changing state, territory and Local Government Area travel restrictions caused anxiety and
+confusion for boarding school students and their families as they moved from their schools to their
+homes and back again. This significantly impacted not only the mental health and wellbeing of
+students, but that of their families, carers, and the broader school community, including teachers
+and support staff. Greater national consistency in supporting students, families and their school
+communities was necessary to address these impacts.
+
+Although the jurisdictions' Chief Health Officers are ultimately responsible for deciding how to
+manage COVID-19 within their jurisdictions, the discussions and liaison between the department and
+the state and territory health and education departments highlighted the vulnerability of the
+boarding community (some who were only 12 years old).
+
+
+
+
+                                                                                                      I 16
+The Regional Schools Policy Team developed a National Code on Boarding School Students (the
+National Code) to address the barriers and inconsistent arrangements experienced by families in
+moving across state borders when travelling between their homes and their children's boarding
+schools. The National Code was developed following consultation with key education community
+stakeholders.
+
+It was subsequently considered by the Australian Health Protection Principal Committee and
+endorsed by National Cabinet in September 2021.
+
+
+Policy changes during the pandemic
+Table 2: Summary of supports in the sch als sector
+
+ Initiative             Description
+ School Hygiene         •   $9.4 million was paid to 2,765 of 2,857 (97 per cent) non-government
+ Assistance Fund            schools in 2020 through the School Hygiene Assistance Fund.
+
+ Ministers Statement    •   Flexibility was provided to the schools' sector in regard to assurance
+ of Intent                  and compliance requirements under the Australian Education Act
+                            2013 and the Australian Education Regulation 2013 through the
+                            Minister's Statement of Intent in 2020 and 2021.
+
+ Early access to        •   $815.3 million was paid under the early access measure to approved
+ recurrent funding          authorities in respect of 693 schools for the bringing forward of their
+ entitlements               July 2020 recurrent funding entitlements into May and June 2020.
+
+ Capital Grants         •   The Australian Government leveraged the CGP to underpin economic
+ Program (CGP)              stimulus activity in 2020 and 2021 by prioritising projects which could
+                            be delivered in the immediate term.
+                        •   Additionally, in January 2021, CGP payments were brought forward to
+                            provide Block Grant Authorities effectively 6 months of payments in
+                            advance.
+
+ Schools Upgrade        •   $275.2 million was provided for the Schools Upgrade Fund for
+ Fund                       government and non-government schools to improve equitable access
+                            to resources and facilities to keep staff and students safe following
+                            COVID-19 disruptions, including assistance with better ventilation
+                            among other things.
+
+ Emerging Priorities    •   Funded projects that assist school communities to respond to
+ Program                    emerging priorities in school education, including recovery from
+                            COVID-19.
+
+ Nationally             •   The Nationally Consistent Collection of Data on School Students with
+ Consistent                 Disability Guidelines was revised for 2020 to incorporate special
+ Collection of Data         provisions due to the impact COVID-19 had on schools' operations.
+ on School Students     •   The evidence of adjustments required was reduced from a minimum
+ with Disability            of 10 weeks to a minimum of 6 weeks, in the 12 months preceding the
+ Guidelines                 reference date.
+
+
+
+
+                                                                                                     I 17
+Initiative            Description
+                      •   Evidence requirements were revised for specific cohorts of students
+                          with disability, including foundation year students, new enrolments,
+                          students with newly diagnosed or newly imputed disability, and
+                          students attending special assistance schools.
+
+National Mental       •   $2.3 billion was invested in the National Mental Health and Suicide
+Health and Suicide        Prevention Plan in the 2021-22 Budget.
+Prevention Plan
+Student Wellbeing     •   $203.7 million was provided for the Student Wellbeing Boost which
+Boost                     includes $192 million in additional one-off funding for every school, to
+                          support their students' mental health and wellbeing, and
+                          $10.75 million for a new voluntary mental health check tool to enable
+                          schools to ensure students get the support they need.
+                      •   This funding was in addition to other ongoing programs and support
+                          the Australian Government provided to help address the mental
+                          health and wellbeing needs of young Australians through other
+                          programs, such as the Be You Program, the National Student
+                          Wellbeing Program and the Student Wellbeing Hub.
+
+Headspace Services    •   $3 million was provided to support young Victorians to access mental
+                          health support through Headspace services. Baseline public health
+                          measures continue to apply.
+                      •   $3.5 million was provided to support young Australians in NSW to
+                          access mental health support through Headspace services, particularly
+                          for Year 11 and 12 students. This package of urgent mental health
+                          support also included $300,000 to Kids Helpline to extend online
+                          wellbeing sessions into secondary schools.
+
+Rapid Antigen Tests   •   At the National Cabinet meeting of 20 January 2022, the Australian
+(RATs)                    Government offered financial assistance to states and territories for
+                          the use of RATs in schools.
+                      •   The offer included a 50:50 cost sharing arrangement with the states
+                          and territories under the National Partnership on COVID-19.
+                      •   State and territory governments were responsible for the purchase
+                          and supply of RATs.
+
+Expansion of the      •   $3 million was invested over 2021-22 and 2022-23 to support the
+Smith Family's            expansion of the Smith Family's Catch-up Learning program to
+Catch-up Learning         strengthen the literacy and numeracy skills of disadvantaged students
+program                   who were struggling in these areas.
+
+National Teacher      •   On 15 December 2022, Education Ministers agreed to the National
+Workforce Action          Teacher Workforce Action Plan, which sets out a clear pathway to
+Plan                      addressing teacher workforce shortages.
+                      •   This was, in part, intended to address workforce shortages that
+                          developed due to COVID-19.
+
+
+
+
+                                                                                                  | 18
+ Initiative                       Description
+                                  •    During the pandemic jurisdictions employed various methods to
+                                       address such workforce shortages, including:
+                                                o    targeted recruitment of retired teachers and final-year
+                                                     teaching students
+                                                o    utilising relief teachers and casual support staff
+                                                o    registered teachers who were working in corporate roles on
+                                                     standby to be redeployed to schools.
+
+
+
+
+Pandemic impacts
+
+Enrolments, attendance and retention
+Enrolment growth fell in 2021, in part because the closure of international borders due to COVID-19
+affected enrolments of international students and migrants in 2021. In relation to enrolment data,
+the Australian Curriculum, Assessment and Reporting Authority (ACARA) noted that in 2021 school:
+
+          Students were considered to be enrolled and active in an education program, even if that
+          program had been temporarily disrupted by COVID-19. This included where programs were
+          temporarily delivered online or remotely and even where schools were temporarily closed
+          for COVID-19 related reasons. Because enrolments were counted in this way, it is estimated
+          that the impacts of COVID-19 on data quality were minor.
+
+Student attendance in Semester 1 of Years 1-10 declined slightly in 2021 (compared to 2019)
+followed by a larger drop in 2022.4 ACARA have noted:
+
+          The Key Performance Measures Dashboard in the National Report on Schooling data portal
+          reports a downward trend over the period 2014-2022 of -0.6 percentage points per annum.
+          The lower attendance rates in 2022 can thus be seen as consistent with a long-term trend.
+          This interpretation should be made with some caution, as part of the fall from 2019 to 2022
+          may have resulted from increased student absences due to illness or suspected illness as
+          COVID-19 continued to spread. Attendance rates in Semester 1, 2022 declined due to the
+          impact of the COVID-19 Omicron variant as well as high Influenza season outbreaks and
+          floods in certain regions experienced across Australia at that time.
+
+Apparent retention rates from Year 10 to Year 12 have declined since 2018. Estimated Year 12
+certification rates were lower in 2020 than before COVID-19. However, they returned to the same
+level in 2021. It is worth noting that Queensland had a "half cohort" complete Year 12 in 2019, which
+lowered the national Year 12 certification rate for this year.
+
+Other data points suggest falls in retention may have been affected by the strong youth labour
+market rather than being driven by disengagement from education, training and work. The
+proportion of 15-19-year-olds who were fully engaged in education, training or work dropped in
+2020 before increasing in 2021. While there has been a decline in 2022 and 2023, the 2023 rate is
+still higher than rates reported in 2018 and 2019, before the COVID-19 pandemic.
+
+4 ACARA National Report on Schooling in Australia, as of 23 November 2023. School attendance data for 2020 has not been published due
+to inconsistencies in the data as a result of the varying health advice and schooling arrangements across the country in response to the
+COVID-19 pandemic (note: updated data will be available publicly from 15 Dec).
+
+
+
+
+                                                                                                                                    | 19
+Similarly, the proportion of 20-24-year-olds who were fully engaged in education, training or work
+dropped in 2020 but has since steadily increased to 77.4 per cent in 2023, the highest level since
+2008. The proportion of 20-24-year-olds who had attained a Year 12, Certificate III or higher
+qualification also increased from 88 per cent in 2019 to 89 per cent in 2020 and has been at 90 per
+cent from 2021 to 2023.
+
+
+Educational outcomes
+In 2020, the Australian Government commissioned six pieces of research to examine the potential
+impact of remote learning from home on educational outcomes for vulnerable cohorts of children,
+and barriers to access and evidence-based actions to respond. These were published on the
+department's website (see New Research):
+
+•   Learning at home during COVID-19: Effects on vulnerable young Australians.
+•   Ministerial Briefing Paper on Evidence of the Likely Impact on Educational Outcomes of
+    Vulnerable Children Learning at Home during COVID-19.
+•   Supporting Vulnerable Children in the Face of a Pandemic.
+•   Impact of learning from home on educational outcomes for disadvantaged children.
+•   The impact of 'learning at home' on the education outcomes of vulnerable children in Australian
+    during the COVID-19 pandemic.
+•   Differential learning outcomes for online versus in-class education.
+
+In December 2021, the department, on behalf of all Education Ministers, asked the Australian
+Education Research Organisation (AERO) to undertake a research project examining best practice
+remote and online learning prior to, and during, the COVID-19 pandemic. AERO commissioned the
+Centre for International Research on Education Systems at Victoria University to conduct the
+research. The project's final report, Review of remote and online learning experiences during COVID-
+19 (edresearch.edu.au), was published in March 2023.
+
+In 2022, the department commissioned dandolopartners to undertake research on what worked
+well in lifting mathematics and numeracy outcomes during COVID-19 and what key aspects could
+potentially be further explored and developed as enduring augmentations to mathematics teaching.
+The researchers found that there are a variety of technological tools which can be used to help
+address some of the key challenges affecting students' maths performance, noting that there is no
+'one size fits all' option. More information is available at the research report and resources page.
+
+A Review of the impact of COVID-19 on school students with disability is underway, gathering
+feedback received from students, teachers, principals, parents, caregivers, advocates, and other
+stakeholders, while also exploring significant contemporary reports and research available at the
+time of writing. It is examining:
+
+•   the educational experiences of school students with disability throughout the pandemic
+•   the impact of those educational experiences on the wellbeing and education-related outcomes
+    of school students with disability; and
+•   how support for school students with disability has been managed by governments, education
+    authorities and schools.
+
+
+
+
+                                                                                                    | 20
+Australia's 2022 PISA results, the first since the pandemic, showed Australia remains a high
+performing country with our performance above the OECD average in reading, mathematical and
+scientific literacy. Australia's results were consistent with the last cycle in 2018, and show a pause in
+the decline seen in results over time. This is an indication of the resilience of Australia's education
+system, especially given the sharp and unprecedented declines seen in the results of other countries,
+especially in mathematics. Detailed PISA results can be found at www.acer.org/au/pisa.
+
+Education ministers cancelled NAPLAN in 2020 due to the pandemic. Students in Years 3, 5, 7 and 9
+in 2020 did not undertake the assessment in 2020 and did not do a 'catch-up' test in 2021. NAPLAN
+results for 2021 and 2022 showed consistency in overall student performance, indicating that the
+pandemic and other disruptions to schooling, including floods and influenza, had no significant
+impact on students' literacy and numeracy achievements at the national or state/territory level.
+Participation in NAPLAN 2021 and 2022 were lower than usual as a result of the pandemic, flu
+season and floods. Detailed NAPLAN results can be found at                di     Education Ministers
+requested AERO to conduct a research report on COVID-19 in December 2021. The report was
+published in January 2023 and is available on the AERO website at:
+www.edresearch.edu.au/resources/review-remote-and-online-learning-experiences-during-covid-
+19. The purpose of the review was to synthesise existing research into best practice remote and
+online education delivery as well as draw on stakeholder experiences prior to, and during, the
+COVID-19 pandemic to identify key lessons and inform future remote and online education delivery.
+The review found that there were a range of strategies in use during the COVID-19 pandemic. The
+effectiveness of these in supporting student outcomes in remote learning is unclear, with some
+research suggesting that student outcomes have declined.
+
+
+School revenue
+Between 2019 and 2020 (calendar years) net recurrent income per student increased 3.5 per cent
+across all schools. One driver of this change was JobKeeper, which was included in total recurrent
+income for schools in 2020 and 2021.
+
+
+Lessons learned and other observations
+Early collaboration between the Australian and state and territory governments to manage the
+pandemic in school settings was key to managing the pandemic response, including through
+establishing frameworks, facilitating information-sharing, undertaking modelling and research, and
+providing financial assistance. This is consistent with preliminary findings from the yet to be finalised
+Review of the impact of COVID-19 on school students with disability which suggests ongoing
+collaboration between the Australian and state and territory governments will be beneficial to
+supporting a consistent approach in the development and implementation of future emergency
+responses. The findings of the review are also likely to encourage continued sharing between
+governments, education authorities and schools of resources developed during the pandemic.
+
+
+
+
+                                                                                                     | 21
+Higher Education and Research
+
+Roles and responsibilities, including governance
+
+Higher Education Funding
+The Australian Government has responsibility for higher education funding arrangements. There was
+no change to these responsibilities during the pandemic.
+
+
+Research Block Grants
+The Australian Government administers funding to 43 eligible universities to support research and
+research training through two research block grant (RBG) programs, the Research Training Program
+(RTP) and the Research Support Program (RSP). The legislative basis for these two programs is
+provided by the Commonwealth Scholarships Guidelines (Research) 2017 (CSG), and the Other
+Grants Guidelines (Research) 2017 (OGGs), respectively. There was no change to these
+responsibilities during the pandemic.
+
+
+Policy changes during the pandemic
+Table 3: Summary of supports in the Higher Education and Research sector
+
+ Initiative             Description
+ Online short courses   •   In May 2020, the Australian Government provided $7.1 million
+                            through the Higher Education Relief Package to 18 non-university
+                            higher education providers (NUHEPs) to subsidise the delivery of
+                            1,000 online discounted short course places, of around six months in
+                            duration.
+                        •   Universities also offered short courses managed from within their
+                            existing Commonwealth Grant Scheme (CGS) funding allocation.
+                        •   A fall in domestic enrolments due to the pandemic would otherwise
+                            have led to universities having unused CGS Guarantee funding.
+                        •   In total, 55 providers offered around 400 online short courses to help
+                            Australians upskill or retrain in fields of national priority through the
+                            Higher Education Relief Package.
+
+                                  o   National priority areas were Education, Nursing,
+                                      Psychology, English, Mathematical Sciences, Languages,
+                                      Agriculture, Allied Health, Other Health, Counselling,
+                                      Information Technology, Architecture and Building, Science,
+                                      Engineering and Related Technologies, Medical Science,
+                                      Environmental Studies.
+
+ The Undergraduate      •   In May 2020, in response to the COVID-19 pandemic, Skills and
+ Certificate                Education Ministers agreed to temporarily include the Undergraduate
+                            Certificate (UC) qualification in the Australian Qualifications
+                            Framework (AQF) until 31 December 2021. Unlike other AQF
+                            qualifications, the UC is a 6-month undergraduate short course which
+                            is designed to be stackable.
+
+
+
+                                                                                                    | 22
+Initiative           Description
+                     •   The UC offers learners the flexibility to quickly gain new skills and a
+                         recognisable exit point after 6 months, with an option to use what
+                         they have learned towards a Diploma, Advanced Diploma, Associate
+                         Degree, or Bachelor Degree.
+
+                               o   In late 2021, Skills and Education Ministers agreed to
+                                   extend availability of the UC as a qualification until
+                                   30 June 2025. Ministers also agreed to review the UC by the
+                                   end of 2024 to inform consideration of its ongoing
+                                   availability beyond 30 June 2025.
+
+Higher Education     •   The 2020 Higher Education Relief Program Guarantee was
+Relief Program           implemented through Chapter 7, Part 5 ('Higher Education Relief
+Commonwealth             Program') of the Other Grants Guidelines (Education) 2012.
+Grant Scheme (CGS)   •   It applied to Table A and non-Table A higher education providers who
+Guarantee                received ongoing CGS funding.
+                     •   Specifically, it:
+
+                               o   guaranteed providers' maximum basic grant amount
+                                   (MBGA) for non-designated and designated courses of
+                                   study, as well as medical student loading, transition fund
+                                   loading, and performance-based funding grant amounts
+                               o   did not guarantee short courses funding, which was
+                                   temporary 'bonus' funding.
+
+Loan Fee Exemption   •   Under normal arrangements, higher education undergraduate
+                         students and vocational education and training students who access
+                         FEE-HELP at a non-university higher education provider or VET
+                         Student Loans (VSL) to defer their tuition fees are subject to a loan fee
+                         of 20 per cent. This loan fee is charged to recover part of the implicit
+                         subsidy involved in providing these HELP loans.
+                     •   In response to the COVID-19 pandemic, the Australian Government
+                         provided an exemption from loan fees to help these students continue
+                         their study or engage in new study during the pandemic.
+
+HELP Charging        •   The Australian Government introduced two Higher Education Loan
+Measures                 Program (HELP) charges for higher education providers in the 2019-20
+                         Federal Budget:
+
+                               o   an application fee for providers seeking approval, and
+                               o   annual charge for all higher education providers whose
+                                   students are entitled to HECS-HELP or FEE-HELP.
+                               o   The annual charge was delayed as a COVID relief measure
+                                   from 1 January 2020 until 1 January 2022 with invoicing of
+                                   providers to commence in 2023.
+
+Deferral of HELP     •   The Australian Government guaranteed 2020 HELP advance payments
+recoveries               to higher education providers based on the estimates provided late in
+                         2019.
+
+
+
+                                                                                                   | 23
+Initiative           Description
+                     •   With enrolments expected to fall due to COVID-19, the repayment of
+                         any excess advances could be deferred over the period 2022 to 2029.
+                     •   This complemented the Australian Government's CGS funding
+                         guarantee, giving providers certainty about their teaching and learning
+                         resourcing for 2020.
+
+Tuition Protection   •   Payment of Tuition Protection Service levies were deferred for Higher
+Services Levies          Education Support Act 2003 (HESA) approved and Tertiary Education
+                         Quality and Standards Agency (TEQSA) Commonwealth Register of
+                         Institutions and Courses for Overseas Students (CRICOS) registered
+                         providers.
+
+Agreement of         •   An agreement was negotiated by the department with the
+International            international education regulators TEQSA, Australian Skills Quality
+Education                Authority (ASQA) and the Secretary of the Department of Education,
+Regulators and the       Skills and Employment for international students on a student visa to
+Secretary of the         be able to study online, not normally allowed under a student visa.
+Department of        •   The international education regulators provided guidance to the
+Education                sector on how this regulatory flexibility would be applied, and its
+                         effect from around March 2020 to 30 June 2023.
+
+Bringing students    •   Significant resources across Australian and state and territory
+back to Australia        governments were invested to try and bring cohorts of students back
+                         to Australia to resume their studies.
+                     •   The Australian Government provided policy leadership through a set
+                         of protocols while state and territory governments and universities
+                         were responsible for logistics.
+                     •   However, access to quarantine facilities was major obstacle and only
+                         63 students returned.
+                     •   Ultimately, these efforts did offer significant scaffolding strategies and
+                         learning opportunities for guiding future returns.
+
+Support for          •   Together with education providers and state and territory
+international            governments, the Australian Government provided over $1.5 billion
+students                 for a range of measures that targeted the needs of international
+                         students while in Australia, including:
+
+                               o   $200 million in funding for 300 charities and community
+                                   organisations to help vulnerable members of communities,
+                                   including international students
+                               o   Affected students could access emergency payments and
+                                   access to services and food relief, along with specific
+                                   services, including case work support for temporary visa
+                                   holders from the Australian Red Cross. The Department of
+                                   Social Services had a database of those community
+                                   organisations at https://serviceproviders.dss.gov.au
+                               o   New and extended temporary work opportunities in critical
+                                   sectors to support students experiencing financial hardship
+                                   to assist them in gaining employment
+
+
+
+                                                                                                 | 24
+Initiative             Description
+                                 o   Ongoing access to mental health and other welfare and
+                                     support services, and
+                                 o   A flexible approach in relation to student visa conditions
+                                     where COVID-19 and associated travel restrictions have
+                                     prevented conditions from being met, such as attendance
+                                     at class.
+
+Travel-Ban             •   A travel-ban exemption was developed for Year 11 and 12
+Exemption                  international students to allow them to enter Australia in
+                           circumstances that satisfied the Australian Border Force
+                           Commissioner.
+                       •   The department facilitated an application process from states and
+                           territories, based on school-level data that captured evidence of
+                           COVID status and compliance by the applying students.
+                       •   Sign off was needed by state and territory education departments,
+                           Chief Health Officers, and the Australian Government Department of
+                           Health before the department provided the resulting list of applicants
+                           to the Australian Border Force Commissioner.
+                       •   This was the largest single program of exemptions from travel bans
+                           during border closures.
+
+Waiving regulatory     •   The Australian Government waived regulatory charges for CRICOS-
+charges for CRICOS-        registered education providers during the pandemic. 2020 charges
+registered education       were refunded, 2021 and 2022 charges were waived.
+providers              •   $47.5 million from 1 January 2020 to 30 June 2021; $17.7 million from
+                           1 July 2021 to 31 December 2021; $7.1 million in 2022.
+                       •   The waiver covered the Annual Registration Charge and Entry to
+                           Market Charges and charges from ASQA and TEQSA.
+                       •   Savings varied as different ASQA and TEQSA charges were included in
+                           different tranches.
+
+Innovation Fund and    •   The Australian Government delivered the $9 million Innovation Fund
+the Innovation             2021 to support private English-language course providers and private
+Development Fund           higher education providers. Applicants from these groups were each
+                           eligible for up to $150,000 in relief funding where they could
+                           demonstrate the effect of Australia's border closures where they:
+
+                                 o   received more than 50 per cent of revenue from
+                                     international students in 2019, and
+                                 o   had international student revenue decline by 30 per cent or
+                                     more between 2019 and 2020.
+
+                       •   The Australian Government delivered another $9 million package
+                           through the Innovation Development fund 2021-22, and for which
+                           private English-language course providers and private higher
+                           education providers could apply for funding relief with criteria similar
+                           to those under the Innovation Fund 2021, but where international
+                           student revenue had declined by 30 per cent or more between 2019
+                           and 2021.
+
+
+
+                                                                                                  I 25
+ Initiative              Description
+                         •   Both packages were administered by English Australia and facilitated
+                             capacity development and supported a shift in business models to
+                             online and offshore delivery.
+
+ Research Block          •   Amendments to the CSG enabled universities to grant extensions to
+ Grants                      RTP scholarship periods of support where a student's course of study
+                             was being materially adversely impacted by COVID-19 restrictions.
+                         •   The Australian Government implemented a number of measures to
+                             safeguard the university research sector from the effects of the
+                             pandemic, including:
+
+                                    o   Allocation of an additional $1 billion through 2021 RSP
+                                        funding to assist universities with immediate financial
+                                        pressures and with recovery from the pandemic.
+                                    o   Amendments to the OGG to streamline conditions of grant
+                                        for the RSP to provide universities autonomy in directing
+                                        funding to areas most needed to address the challenges of
+                                        the pandemic.
+                                    o   Retention of existing RBG funding arrangements designed
+                                        to even out volatility in annual allocations that were
+                                        introduced in 2017, for an additional 12 months, until the
+                                        end of 2021.
+
+
+
+Pandemic impacts
+
+Immediate and short-term impacts
+The Australian Universities Accord Interim Report (June 2023) notes that the impacts of the
+COVID-19 pandemic have increased the pressure on students, academics and professional staff,
+disrupted enrolments and revenues; depleted financial resources for providers and for the
+Australian and state and territory governments; intensified short-term demand for domestically
+produced goods and services in key areas; and forced innovation and adaptation in the delivery of
+curriculum, research, services and support.
+
+The pandemic had significant impacts on enrolments at higher education institutions. Due to limited
+social and labour market activity, domestic enrolments increased to a record high in 2021 (an
+increase of 6.4 per cent from 2019). This trend in enrolments was observed across all equity groups.
+Anecdotally, the expansion of online mode of delivery for higher education courses appears to have
+increased accessibility for some of these cohorts. Data also shows higher education students were
+more likely to study fewer units of study during this time. A trend which has continued into 2022.
+This decreasing student load results in slower average course completion rates.
+
+By contrast international student enrolments declined by 25 per cent in 2021 (the peak year of
+impact) compared to pre-COVID levels in 2019. This led to significant declines in revenues and
+resources, placing greater pressure on services. In April 2020 Universities Australia (UA) initially
+estimated that COVID-19 could result in revenue decline of between $3 billion and $4.6 billion and
+put more than 21,000 jobs at risk in Australian universities.
+
+
+
+                                                                                                   I 26
+In June 2020 UA estimated revenue losses from 2020 to 2023 at $16 billion. Other analyses
+undertaken at this time estimated possible revenue losses to 2023 of a similar magnitude.
+
+The pandemic also affected university research operations, including disruption to domestic and
+international research student enrolments and completions, and restrictions on conducting
+research, teaching and learning on campus. The full impact of COVID-19 is emerging as more data is
+collected. Higher education staff data for 2021 shows reductions in staff levels for 'research only'
+staff were lower than for other job functions in the higher education sector. This appears to reflect
+measures taken to protect the research skills pipeline. However, higher education student data
+shows that in 2021 commencing enrolments fell in 'higher degree by research' courses whereas
+commencements in other postgraduate course types increased.
+
+Data on higher education expenditure and research income demonstrates there has been a decline
+in growth. ABS Higher Education Expenditure on Research and Development (HERD) data from the
+beginning of the pandemic show expenditure grew slower from 2018 to 2020 (an increase of
+$510 million) than from 2016 to 2018 (an increase of $1.28 billion). Data on unspent funding and
+expenditure for research block grants shows that universities spent around $750 million of the
+Australian Government's 2021 one-off injection of $1 billion provided through the RSP to alleviate
+financial pressures due to the pandemic. Research income data from the Higher Education Research
+Data Collection demonstrates stability in the ability of universities to conduct research over the
+pandemic. Research income grew 10.7 per cent from 2018 to 2020 compared 5.5 per cent for 2020
+to 2022. The long-term impact of the pandemic on university research will become clearer when
+2022 ABS HERD data is available in 2024.
+
+
+Ongoing or long-term impacts
+Following the opening of Australia's borders in mid-December 2021, international student
+enrolments began to recover slowly over the course of 2022, then grew more strongly in 2023. Since
+July 2023, year-to-date enrolments have exceeded pre-pandemic levels (in 2019) by 2-3 per cent.
+
+For Higher Education providers, the Australian Universities Accord Interim Report found:
+
+•   The COVID-19 pandemic accelerated the steady expansion of online learning.
+•   Many students with disability studied online or through hybrid options during the COVID-19
+    pandemic, and participation for this cohort rose over the period, demonstrating the success of
+    these models.
+•   Student ratings of their study experience have been consistently strong for some time but
+    declined sharply during the COVID-19 closures.
+•   The COVID-19 pandemic had a significant detrimental impact on the social and cultural life of
+    universities.
+
+
+Lessons learned and other observations
+The flexible nature of research funding enabled universities to direct funds to best address the
+challenges faced as a result of the pandemic. This ensured the quality of the research training
+system and of Australian research was maintained, allowing Australian researchers to play a
+significant role in the early response to the pandemic.
+
+
+
+
+                                                                                                    I 27
+The department's National Collaborative Research Infrastructure Strategy (NCRIS) provided effective
+support in addressing Australia's research-related COVID-19 challenges. The maturity and depth of
+expertise in NCRIS was able to swiftly pivot to pandemic priorities, including developing vaccines,
+informing our healthcare system response, designing treatments, and manufacturing protective
+equipment for frontline health workers.
+
+Other examples of flexible responses within the research system included:
+
+•   The NCRIS-funded Australian Centre for Disease Preparedness at CSIRO entered into a
+    partnership with the Norway-based Coalition for Epidemic Preparedness Innovations (CEPI) to
+    prepare for disease outbreaks.
+•   In January 2020, a CEPI-led consortium including CSIRO and the University of Queensland started
+    developing and testing potential vaccines, aiming to reduce development time from years to
+    weeks. Using the virus strain developed by the Doherty Institute, Australia was the first research
+    organisation outside of China to generate sufficient stock of the virus to enable pre-clinical
+    studies and research on COVID-19.
+•   In early 2023, further CEPI and Queensland Government funding was announced to support
+    clinical trials to compare how well the NCRIS-funded Therapeutics Innovation Australia's (TIA)
+    molecular clamp vaccine technology works in a COVID-19 vaccine. The clinical batch of this
+    vaccine was manufactured at the University of Queensland's National Biologies Facility, as part
+    of TIA's capability.
+
+
+
+
+                                                                                                  | 28
+

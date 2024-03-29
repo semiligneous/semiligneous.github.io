@@ -1,0 +1,151 @@
+      Submission to the Commonwealth Government COVID-19 Response Inquiry
+
+                                        Barry Kissane
+
+
+
+                                      15 December 2021
+
+I have mathematical and statistical training in each of my first two degrees (BSc
+(mathematics) and BEd from the University of Western Australia) and from postgraduate
+studies in both UWA and the Uni versity of Chicago, and have taught mathematics and
+mathematics education in schools and universities since 1971.1 have also taught university
+courses in research methods and statistics, so am well-qualified to read and interpret
+statistical research studies of various kinds, including published medical research studies.
+Although I hold a post of Emeritus Associate Professor of Mathematics Education of
+Murdoch University, this submission is personal and is not to be interpreted as representing
+the views of the University.
+
+First term of reference (Governance ...)
+The Commonwealth failed in its ready acceptance of the scale of the Covid pandemic without
+due diligence to the nature and extent of the disease in Australia. Accepting the 2020 WHO
+declaration of a pandemic without examining the details of the case, and the Australian
+details in particular, almost certainly encouraged community anxiety and subsequent political
+overreaction to the situation in Australia, with various excessive measures in different states.
+Misuse of PCR testing, with scant regard for false positives, and opaque use of test settings,
+was a major factor in this dereliction of duty, despite widespread discussion internationally of
+the inadequacy of PCR tests as a proxy for Covid-19 infection.
+
+Second term of reference (Key health responses ...)
+The persistent classification, with Government sanction, and even advertising, of vaccines
+developed by commercial companies as “safe and effective” was at no stage supported by
+credible independent evidence. It appears (extraordinarily) that the descriptions of vaccines in
+this way was based entirely on research conducted by the companies themselves, who have a
+clear and obvious vested interest in their acceptance, or on research published by people who
+had clear Conflicts of Interest, because of research and other sponsorship by pharmaceutical
+companies. The Government, through its agencies such as the Commonwealth Department of
+Health and the Therapeutic Goods Authority, has failed in its duty to adequately scrutinize
+such claims and to obtain and publicise independent reliable information so that both decision
+makers and citizens can make balanced judgements. Without such information widely
+available, any notion of ‘informed consent’ to be vaccinated has no meaning. Especially
+problematic, of course, is the effective mandating of vaccination for many employed people,
+who risked losing their livelihoods if they did not consent or who required more adequate
+independent advice before feeling able to do so.
+
+Regarding the effectiveness of medicines, there are two well-known metrics in the
+pharmaceutical industry, namely relative and absolute effectiveness, (e.g., Brown, 2021). It is
+inconceivable that the TGA and Commonwealth Health Departments were not aware of both
+metrics, and yet the Government tolerated the use of only one metric (relative effectiveness)
+and provided no information at all in the public domain about the other metric (absolute
+effectiveness). A figure of (around) 95% effective was commonly used in public health
+messaging - and, it seems, still is - to support vaccination campaigns, with minimal help for
+people to understand its meaning. As Brown (2021) reported, however, while the relative
+effectiveness of Pfizer and Moderna vaccines from their original studies was a reassuring
+95.1% and 94.1% respectively, the corresponding absolute effectiveness measures were
+merely 0.7% and 1.1% respectively. Thus, being vaccinated, according to the manufacturers
+themselves, reduced the chances of being infected with Covid-19 by about 1%. As Brown
+(2021) notes, various organisations (including, ironically, the FDA in the USA) have noted
+that it is critical for both measures to be routinely reported so that a balanced judgment
+regarding benefits and risks can be attempted. It is clearly impossible for people to do this
+when the benefits are inadequately described, and the Government failed completely to
+ensure that its public messaging was accurate.
+
+It is important that a lesson be learned from this failure and that any future Government
+messaging regarding pharmaceutical products be required to provide both measures in an
+easily understandable form for public consumption. It might be that a Number Needed to
+Treat measure might be preferable to a percentage measure, which is recognisably
+problematic for many people, as Gigerenzer (2006) has noted, when he observed that many
+people, including physicians, were unable to adequately interpret results of mammograms,
+and frequently did not understand the likelihood of extensive false positives in testing, even
+when test parameters seemed to reflect sound measures because the percentages were high.
+As Brown (2021) reported, the industry research from Pfizer and Moderna resulted in
+vaccines for which 142 vaccinations were needed to prevent a single Pfizer infection, with
+the corresponding figure for Moderna being 88. It seems likely that people might have been
+less comforted by these figures than by the published figures of relative effectiveness.
+
+To allow States to mandate vaccinations with such limited benefits and to effectively shut
+down national and state economies was a massive failure of Government. To further permit
+such measures to be used to support the vaccination of manifestly non-risk groups, such as
+children, younger people generally and pregnant women, compounded this error. It is not
+clear, because of the opacity and secrecy of communications, whether the failure resulted
+from negligent advice from authorities such as the TGA and the various health departments,
+Commonwealth and State, or from an inability of Ministers at the National Cabinet to
+comprehend what they were being told. Regardless of the mechanism, it is critical that such a
+situation not be allowed to recur in Australia.
+
+The safety of vaccines has been regularly stressed in Government messaging of various
+kinds, including public messaging. Yet adequate evidence to support this claim has not been
+provided by Government, and the safety claim has not varied significantly since the
+beginning of vaccination programs. Nor did it change when the Federal government changed,
+suggesting that the source of the claim was from government agencies such as the TGA and
+the Commonwealth Health Department, rather than solely from negligent politicians.
+
+From the outset of the vaccine research, the study of safety has been problematic. The early
+studies by vaccine manufacturers reported in-house work related to safety, and then promptly
+vaccinated the Control Group, so that ongoing safety studies are simply unavailable. It is not
+clear that the Australian government has established its own studies into the short and long
+term effects of Covid vaccinations, with a proper Randomised Control study, or whether it
+continues to rely on the advice of the manufacturers (and those they sponsor, such as
+researchers or the World Health Organisation) elsewhere. In a commercialised world, there is
+no justification at all for the Australian Government to rely on advice of others abroad in
+regard to monitoring and safeguarding the safety of its own citizens.
+
+Since the Covid-19 vaccines have begun to be used in Australia, regular, credible and
+independent reports of increasing problems with adverse reactions to them have been
+published abroad. Data on the safety or effectiveness of vaccines in Australia has been
+hampered by a reluctance of authorities to publish suitable data, and there seems to be no
+adequate records available for scholarly study of vaccine effects. Yet, there is clear evidence,
+in Australia and abroad (but only in countries where vaccination has been extensive) of
+significant excess mortality (not directly attributed to Covid-19), including national agencies
+like the Australian Bureau of Statistics. Several countries have now halted vaccinations for
+many groups of people, as a consequence of the reported adverse effects of vaccinati on, and
+yet nothing has changed in Australia at all. A major product used in Australia, from
+AstraZeneca, has long been withdrawn from use, while others are still used, and the official
+message today is still that the vaccines are safe and effective. This is quite unacceptable.
+
+Space precludes an extensive discussion here of the (now compelling) evidence that Covid-
+19 vaccines are unsafe for many people. A recent Australian publication of the Australian
+Medical Professionals Society (2023) has provided some 470 pages of extensive scholarly
+evidence of this problem, even though the Australian Government has recently refused to
+investigate it. Such published information needs to be considered by this Inquiry, while
+recognising that it necessarily relies on data only up to the present time. Longer-term adverse
+effects of Covid-19 vaccination need to be monitored far more effectively and systematically
+than has happened to date with the Database of Adverse Event Notifications (DAEN). The
+Government recently apologised to Thalidomide victims more than sixty years after
+Australia’s                        drew attention to its unwanted side-effects; the Inquiry must
+ensure that we do a lot better than that for the Covid-19 vaccines.
+
+The message of ‘safe and effective’ has been routinely and loudly amplified in media reports
+of various kinds, to the extent that any report in the public domain that offers an alternative
+perspective, or casts any doubt on the message, is derided as ‘misinformation’ or
+‘disinformation’, or both. It is quite impossible to believe that independent media agencies
+have all reached the same conclusions without some kind of Orwellian influences or
+coercion. If citizens such as myself can readily find extensive evidence validly questioning
+both parts of the mantra of ‘safe and effective’, it is beyond comprehension that the entire
+free press has not been able to do so.
+
+So, perhaps the biggest failure of Government actions in regard to Covid-19 is the virtual
+destruction of public confidence in Government itself and in the mainstream media. While,
+hopefully, the immediate effects of Covid-19 on both the economy and people’s health will
+dissipate in time - except for the unfortunate and growing number of people who will have
+adverse reactions to their repeated vaccinations - the long-term erosion of public confidence
+in once trusted agencies may well be irreversible. I hope that is not the case, and rely in part
+of this Inquiry to restore some confidence.
+
+References
+Australian Medical Professionals Society (2023) Too Many Dead - An Inquiry Into Australia’s Excess
+   Mortality. Canberra, AMPS. Available at https://amps.redunion.com.au/too-many-dead
+Brown, R.B. (2021) Outcome Reporting Bias in COVID-19 mRNA Vaccine Clinical Trials, Medicina.
+   57(3), 199; https://doi.org/10.3390/medicina57030199
+Gigerenzer, G. (2002) Calculated risks. New York: Simon and Schuster.
+

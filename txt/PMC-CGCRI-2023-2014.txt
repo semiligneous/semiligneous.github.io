@@ -1,0 +1,1209 @@
+J
+
+
+                    Australian Securities &
+                    Investments Commission
+
+
+
+
+    Commonwealth Government
+    COVID-19 Response Inquiry
+    Submission by the Australian
+    Securities and Investments
+    Commission
+
+    December 2023
+                                                                    Commonwealth Government COVID-19 Response Inquiry:
+                                                          Submission by the Australian Securities and Investments Commission
+
+
+
+
+Contents
+                            Executive summary..................................................................................3
+                            A     ASIC’s response to the COVID-19 pandemic................................ 5
+                                  Our work to maintain confidence in the financial system.................. 6
+                                  Our work to assist consumers........................................................... 9
+                                  Our work to assist business..............................................................11
+                                  Our collaborative approach with Government and regulators........ 14
+                            B      Lessons learned.............................................................................15
+                            Appendix A.............................................................................................. 18
+                            Appendix B..............................................................................................21
+                            Key terms................................................................................................23
+
+
+
+
+©Australian Securities and Investments Commission December2023                                                                      Page 2
+                                                             Commonwealth Government COVID-19 Response Inquiry:
+                                                   Submission by the Australian Securities and Investments Commission
+
+
+
+
+Executive summary
+
+
+              1                   ASIC welcomes the opportunity to make a submission to the
+                            Commonwealth Government COVID-19 Response Inquiry (Inquiry).
+
+              2                    ASIC is Australia's integrated corporate, markets, financial services, and
+                            consumer credit regulator. ASIC’s role is to:
+                            (a) maintain, facilitate and improve the performance of, and promote
+                                confident and informed participation in, Australia’s financial system;
+                            (b) efficiently and effectively administer, and take whatever action is
+                                necessary to enforce and give effect to, the laws of the Commonwealth
+                                that confer on ASIC functions and powers; and
+                            (c) receive, process and store information efficiently and quickly and
+                                ensure that information is available to the public as soon as practicable.
+
+              3                   ASIC’s submission focuses on our regulatory experience of the impact of the
+                            COVID-19 pandemic (pandemic) and the actions we took to:
+                            (a) keep the financial system operating efficiently and effectively;
+                            (b) support Australia’s financial services industry and our regulated
+                                population; and
+                            (c) protect consumers.
+
+              4                      ASIC’s submission also outlines our key learnings from the pandemic. We
+                            hope these learnings will assist the Inquiry.
+
+              5                      From the outset of the pandemic, ASIC was keenly aware of the very real
+                            risks and extraordinary demands the pandemic was placing on our markets,
+                            regulated populations and consumers. From March 2020, we focused on:
+
+                                 •    making sure that financial markets remained open and operated well
+                                     in a challenging environment, including through issuing directions to
+                                     large market participants to limit the number of daily trades when
+                                     trading volumes were putting undue strain on market infrastructure;
+
+                                 •    overseeing that liquidity risks were being managed by fund
+                                     managers, through our proactive monitoring of liquidity risk
+                                     responses and the levels of redemptions requested by members;
+
+                                 •    supporting consumers suffering financial hardship, including
+                                     granting relief to enable members to redeem from a registered
+                                     scheme on hardship grounds and monitoring deferred loan
+                                     repayment arrangements provided by financial institutions;
+
+
+
+
+©Australian Securities and Investments Commission December2023                                                Page 3
+                                                             Commonwealth Government COVID-19 Response Inquiry:
+                                                   Submission by the Australian Securities and Investments Commission
+
+
+
+
+                                 •   ensuring businesses remained resilient, for example, we granted
+                                     fundraising relief that assisted listed companies to raise over $41
+                                     billion in secondary raisings;
+
+                                 •   providing updated messages on our Moneysmart website on
+                                     common pandemic issues faced by consumers, such as guidance on
+                                     the implications of, and alternatives to, accessing the COVID-19
+                                     early release scheme (with our content viewed by over one million
+                                     consumers a month); and
+
+                                 •   safeguarding consumers from opportunistic scams and misconduct,
+                                     for example, banning a Gold Coast director from providing financial
+                                     services and engaging in credit activity for eight years for promoting
+                                     illegal access to the COVID-19 early release scheme.
+
+              6             Notwithstanding prolonged lockdowns, based on our monitoring work we
+                            found that the Australian financial services sector weathered the pandemic
+                            well. Our markets remained stable. Banks, fund managers and
+                            superannuation trustees did not experience liquidity issues. Consumer
+                            confidence remained high. Borrowers continued to make loan repayments
+                            following permitted deferral periods by lenders and company insolvencies
+                            decreased. Government measures to financially assist businesses and
+                            consumers contributed to this resilience.
+
+
+
+
+©Australian Securities and Investments Commission December2023                                                Page 4
+                                                             Commonwealth Government COVID-19 Response Inquiry:
+                                                   Submission by the Australian Securities and Investments Commission
+
+
+
+
+A         ASIC’s response to the COVID-19 pandemic
+
+
+
+                             We quickly adjusted our regulatory priorities in response to the pandemic
+                             and redeployed our staff to address areas of immediate concern.
+
+                             We focused on maintaining community confidence in the financial system,
+                             helping vulnerable consumers and assisting businesses to remain resilient.
+
+                             We worked closely with Government on pandemic measures and
+                             coordinated our regulatory response with our domestic and overseas
+                             counterparts.
+
+
+              7             At the time the pandemic was declared as a national public health emergency
+                            on 16 March 2020, our regulated population included approximately 23,260
+                            unlisted public companies, 2,085 listed companies, 437 responsible entities
+                            operating 3,712 registered schemes, 147 ADIs, 5,188 authorised credit
+                            licensees, 114 superannuation trustees, 26,793 financial advisers, 28
+                            domestic and overseas financial markets, 82 general insurers and 29 life
+                            insurers.
+
+              8             As announced by ASIC in March 2020, we took urgent steps to redesign our
+                            strategic priorities to respond to the changing environment during the
+                            pandemic and to mitigate the impact on our regulated population and the
+                            financial system: see Media Release (20-070MR) ASIC recalibrates its
+                            regulatory priorities to focus on COVID-19 challenges (23 March 2020).
+                            Our priorities became:
+                            (a) protecting consumers from harm at a time of heightened vulnerability;
+                            (b) maintaining financial system resilience and integrity;
+                            (c) supporting Australian businesses to respond to the effects of the
+                                pandemic;
+                            (d) continuing to identify, disrupt and deter the most harmful conduct,
+                                including through enforcement action; and
+                            (e) continuing to build our organisational capability in challenging times.
+
+              9             These priorities addressed issues such as the challenges to market conditions,
+                            vulnerability of consumers to unscrupulous conduct and pressures faced by
+                            business, as we saw these to be some of the greatest threats and harms
+                            arising from the pandemic.
+
+              10            We held daily Commission Co-ordination Group meetings to monitor the
+                            impact of the pandemic. We also discussed emerging issues with
+                            Government and our co-regulators and ensured that we were taking a
+                            consistent approach. This included attendance at meetings with the Council
+
+
+
+©Australian Securities and Investments Commission December2023                                                Page 5
+                                                                Commonwealth Government COVID-19 Response Inquiry:
+                                                      Submission by the Australian Securities and Investments Commission
+
+
+
+
+                             of Financial Regulators at a deputy-head level at least weekly to share
+                             information, intelligence and responses.
+
+               11            We redeployed significant organisational resources to focus on our pandemic
+                             priorities and an overview of our core work is outlined below. Importantly,
+                             the key functions of our normal day to day operations, including registry
+                             operations and services, breach and misconduct reports, and contact points
+                             for industry, remained available throughout the pandemic.
+
+
+
+Our work to maintain confidence in the financial system
+               12            The pandemic, and shut-down measures to contain it, caused a sudden and
+                             severe global economic shock. This resulted in a number of heightened risks
+                             to the financial system which we worked to stabilise.
+
+                             Intervention to assist the resilience of financial markets
+
+               13            We worked closely with exchanges to make sure that financial markets
+                             operated effectively and remained open. When trading initially spiked in
+                             response to the pandemic, we took urgent action to issue interim directions
+                             to large equity market participants to limit the number of trades they
+                             executed each day: see Media Release (20-062MR) ASIC takes steps to
+                             ensure equity market resiliency (16 March 2020). This avoided trading
+                             volumes putting a strain on the processing and risk management capabilities
+                             of market infrastructure and market participants, while still facilitating trades
+                             by retail clients.
+
+               14            We provided early guidance to assist market intermediaries to adjust quickly
+                             to alternative working arrangements whilst maintaining robust monitoring
+                             and supervision controls, including setting out our expectations as to the
+                             supervision of staff working remotely. We also regularly engaged with
+                             market intermediaries, such as investment banks, securities dealers and
+                             issuers of OTC derivatives, to understand and assess the ongoing impact of
+                             the pandemic and the effectiveness of their business continuity and
+                             supervision arrangements.1
+
+
+                              Early and ongoing engagement with stakeholders on
+                              liquidity and obligations to consumers
+
+               15            We identified our stakeholder population that would be most vulnerable to
+                             liquidity issues and/or dealing with consumers facing financial hardship in
+                             response to the pandemic and took proactive steps to liaise with them to
+                             message our expectations.
+
+
+
+1 See: Market Integrity Update - COVID-19 Special Issue - 31 March 2020 on the ASIC website.
+
+
+
+©Australian Securities and Investments Commission December2023                                                   Page 6
+                                                                  Commonwealth Government COVID-19 Response Inquiry:
+                                                        Submission by the Australian Securities and Investments Commission
+
+
+
+
+                               Engagement with responsible entities
+
+               16             Given the approximate $1.5 trillion in funds under management, we
+                              reminded responsible entities of registered managed investment schemes of
+                              their obligation to manage scheme liquidity and requested that they notify us
+                              if a scheme became non-liquid or if redemptions were suspended: see ASIC
+                              letter to responsible entities of registered schemes in the current COVID-19
+                                   ronm     (8 April 2020).
+
+               17             We also undertook a targeted review of the impact of the pandemic on
+                              scheme liquidity and asset values. Our review found that the selected
+                              schemes did not face serious investor liquidity challenges and that the
+                              responsible entities were responsive to valuation risks.
+
+                               Engagement with superannuation trustees
+
+               18             With increased demand for access to superannuation funds supported by
+                              Government reforms to introduce the COVID-19 early release scheme, we
+                              worked jointly with APRA to remind trustees of the need to act in
+                              accordance with their best interests duty and to monitor fund liquidity and
+                              trustee communications: see ASIC and APRA letter to superannuation
+                              trustees on impact of COVID-19 (1 April 2020). Our work included
+                              reviewing the websites of 50 trustees and seeking amendments to
+                              communications as appropriate (see paragraph 29(a) below).
+
+                               Engagement with lenders
+
+               19             As lenders reacted quickly to the pandemic, deferring repayments on more
+                              than 500,000 home loans, we worked jointly with APRA to provide clarity
+                              on issues of hardship and responsible lending: see, for e.g., ASIC responds to
+                              lenders ’ request for clarification on lending during the COVID-19pandemic
+                              (29 April 2020). We regularly met with lenders and consumer advocates to
+                              understand key issues and continued to monitor lenders responses to
+                              borrowers facing repayment difficulties and the status of temporary loan
+                              deferrals offered to borrowers.
+
+               20             Our ongoing oversight focused on ensuring that lenders offered borrowers
+                              assistance that genuinely met their needs and that borrowers were contacted
+                              in advance of any loan deferral expiring to outline available options. The
+                              vast majority of borrowers that exited a temporary deferral continued to
+                              make repayments and loans returned to a performing status.2
+
+                               Engagement with insurers
+
+               21             We set out our expectations for general and life insurers to handle claims
+                              with utmost good faith and to deal with complaints genuinely, promptly,
+
+
+2 See: APRA’s loan repayment deferral data: Sliming a light on credit risk on the APRA website.
+
+
+
+©Australian Securities and Investments Commission December2023                                                     Page 7
+                                                                 Commonwealth Government COVID-19 Response Inquiry:
+                                                       Submission by the Australian Securities and Investments Commission
+
+
+
+
+                              fairly and consistently. We also monitored insurers responses to consumers
+                              facing financial hardship. Where consumers were no longer able to pay
+                              premiums in full due to reduced income, we prompted insurers to implement
+                              measures to assist customers to maintain coverage: see ASIC sets
+                              expectations of life and general insurers following a review of insurers ’
+                              responses to consumers experiencing financial hardship during the CO VID-
+                              19 pandemic (22 April 2021).
+
+
+                              Assistance to listed companies
+
+               22             We recognised that listed companies may need to raise funds urgently to
+                              address the impact of the pandemic. To assist fundraising, we granted relief
+                              to enable listed companies to make Tow doc’ offers (including rights offers,
+                              placements and share purchase plans), even if they did not meet all the usual
+                              eligibility requirements: see Media Release (20-075MR) Facilitating capital
+                              raisings during CO VID-19 period (31 March 2020). As a result, over $41
+                              billion was generated from secondary raisings by 240 listed companies in
+                              the period from March to October 2020.3
+
+
+                               Monitoring solvency issues
+
+               23             We actively monitored companies facing solvency issues due to the
+                              pandemic and provided guidance to companies on the process for closing,
+                              winding-up or restructuring a company: see COVID-19: closing a company
+                              and where to get help (22 June 2020). We also published weekly updates on
+                              insolvency statistics to provide transparency on pandemic developments.4
+
+               24             We observed that the total number of companies entering an external
+                              administration or controller appointment for the first time was 7,362 for the
+                              year ended 30 June 2020 and this dropped to 4,235 for the year ended 30
+                              June 2021,5 This coincided with support measures introduced by
+                              Government, such as a temporary insolvent trading moratorium,6 as well as
+                              other support measures provided by financial institutions.
+
+               25             Further details of the work we undertook are set out in Annexure A.
+
+
+
+
+3 See: Senate Economics References Committee Treasury Laws Amendment (2021 Measures No. 1) Bill 2021: Submission by
+the Australian Securities and Investments Commission, June 2021, p 23.
+4 See: Insolvency statistics (up to 31 July 2022) on the ASIC website.
+5 See: Insolvency statistics - Series 1 Companies enterins external administration and controller appointments on the ASIC
+website.
+6 See: Treasury, Providing temporary relief for financially distressed businesses [fact sheet].
+
+
+
+©Australian Securities and Investments Commission December2023                                                      Page 8
+                                                                Commonwealth Government COVID-19 Response Inquiry:
+                                                      Submission by the Australian Securities and Investments Commission
+
+
+
+
+Our work to assist consumers
+               26             Issues faced by consumers during the pandemic included the need for
+                              information on how to navigate decisions regarding their finances, such as
+                              whether to access their investment or superannuation, and what resources
+                              were available if they were facing financial hardship. In the low interest rate
+                              environment, consumers were also more vulnerable to scams or riskier
+                              investments promoting high returns.
+
+
+                              Messages and resources
+
+               27             We focused on improving consumers’ financial skills, knowledge and
+                              efficacy and providing them with information and tools to help them make
+                              informed financial decisions during the pandemic. For example, we:
+                              (a)   Issued media alerts warning consumers to be alert to scammers taking
+                                    advantage of the pandemic environment. For instance, we warned
+                                    consumers not to transfer money to a suspicious investment opportunity
+                                    from Cash FX Group (which was not licensed to provide financial
+                                    services in Australia) that advertised investors could earn over 20% per
+                                    month and was accepting payment via crypto assets: see
+                                    Suspicious investment ‘opportunity ’from ‘Cash FX Group ’ | ASIC (6
+                                    October 2021). We directed consumers to tools to help them stay safe
+                                    online and protect themselves from misinformation: see, for e.g.,
+                                    Scammers talking advantage of COVID-19 to target small business (26
+                                    May 2021).
+                              <b)   Continually updated our Moneysmart website to reflect the common
+                                    financial decisions many consumers were navigating. This included
+                                    guidance on the COVID-19 early release scheme with messages for
+                                    consumers to consider alternatives, such as Government financial
+                                    assistance that may be available, and to take into account the long-term
+                                    financial impacts of accessing superannuation early: see Information for
+                                    consumers during COVID-19 (11 September 2020).7 Over one million
+                                    consumers visited ASIC’s Moneysmart website each month during the
+                                    pandemic.8
+                              (c)   Established an expert group on the financial wellbeing of young people
+                                    to identify and explore key issues affecting the financial lives of young
+                                    Australians: see Young people and money on the Moneysmart website.9
+                              (d) Ran targeted communications through our Moneysmart social media.
+                                  For instance, throughout September 2020, given the high levels of
+
+
+
+7 Once the COVID-19 early release scheme ceased, ASIC’s guidance on the scheme was archived from the Moneysmart
+website.
+8 See: ASIC Corporate Plan 2020-24: Focus 2020-21, p 2.
+9 A summary of the ideas and themes arising from the work of ASIC’s Expert Group on the financial wellbeing of young
+people is set out in its report, Young people and money (December 2021).
+
+
+
+©Australian Securities and Investments Commission December2023                                                    Page 9
+                                                              Commonwealth Government COVID-19 Response Inquiry:
+                                                    Submission by the Australian Securities and Investments Commission
+
+
+
+
+                                   temporary consumer loan deferrals, we reminded consumers to engage
+                                   with lenders in relation to their repayment obligations and financial
+                                   circumstances.10
+
+
+                             Refocused supervisory work
+
+              28            We changed our supervisory approach to focus on new areas of risk to
+                            consumers and conducted targeted surveillance activities.
+
+              29            We completed over 1,250 surveillances in the year ended 30 June 2020 and
+                            over 1,080 surveillances in the year ended 30 June 2021.11 Examples of the
+                            surveillance work we undertook to protect consumers included:
+                             (a)   Reviewing superannuation trustee websites to ensure that trustees acted
+                                   promptly to improve communications to members. The review covered
+                                   50 trustees that were collectively responsible for approximately 94% of
+                                   the $1.87 trillion in APRA-regulated superannuation industry assets
+                                   under management at that time. All the problematic communications we
+                                   identified were removed or amended quickly: see Review of how
+                                   superannuation trustees supported their members during COVID-19
+                                   (22 March 2021).
+                             (b) Monitoring buy now pay later products and the response by the sector
+                                 to the pandemic. The use of buy now pay later by consumers increased
+                                 by approximately 43% by number and value of transactions when
+                                 comparing June 2019 and June 2020.12 Our work included engaging
+                                 with consumer representatives on the use of alternative credit products,
+                                 especially by vulnerable consumers.
+                             (c)   Responding to reports of investment scams. Reports of misconduct
+                                   received by ASIC from March to May 2020 increased by 20%
+                                   compared to the same period in 2019 and this grew to over 200% in
+                                   early 2021 compared with the same time the previous year: see Media
+                                   Release (20-147MR) Rise in investment scams during COVID-19
+                                   pandemic (24 June 2020) and ^7 ci I see            2021:
+                                   reporting up more than 200% (12 March 2021).
+
+
+                            Targeted enforcement work
+
+              30            We shifted our enforcement priorities to protect consumers from misconduct
+                            arising from behaviour seeking to exploit the pandemic environment and
+                            opportunistic conduct such as scams, unlicensed conduct, and misleading
+                            and deceptive advertising.13
+
+
+
+10 See: ASiC’s Annual Report 2020-21, p 75.
+11 See: ASIC’s Annual Report 2020-21, p 31.
+12 See: Report 672 Buy now pay later: An industry update (REP 672), p 11.
+13 See: Report 666 ASIC Enforcement Update: Jammy to June 2020, (REP 666), P 5.
+
+
+
+©Australian Securities and Investments Commission December2023                                                Page 1
+                                                              Commonwealth Government COVID-19 Response Inquiry:
+                                                    Submission by the Australian Securities and Investments Commission
+
+
+
+
+              31             We commenced 134 investigations, 41 new criminal litigations and 50 new
+                             civil litigations in the year ended 30 June 2020 and 110 investigations, 53
+                             new criminal litigations and 83 new civil litigations in the year ended 30
+                             June 2021.14
+
+              32             Examples of the enforcement work we undertook to protect consumers
+                             included:
+                             (a)   an investigation leading to the arrest of a man who operated an alleged
+                                   scam and raised at least $370,000 from unsuspecting victims who
+                                   believed they were investing in legitimate investment companies: see
+                                   Media Release (20-422MR) Man arrestedfollowing suspectedfinancial
+                                   investment scam (15 October 2020);
+                             (b) commencing civil proceedings against Membo Finance Pty Ltd and its
+                                 credit representative for failure to act efficiently, honestly and fairly
+                                 when dealing with debtors in financial hardship: see Media Release (23-
+                                 037MR) ClearLoans penalised $6 million forfinancial hardship
+                                 misconduct and other Credit Act breaches during CO VID-19 (23
+                                 February 2023); and
+                             (c)   banning a Gold Coast director from providing financial services and
+                                   engaging in credit activity for eight years for promoting illegal access to
+                                   the COVID-19 early release scheme: see Media Release (23-099MR)
+                                   ASIC bans Gold Coast directorfor eight years for promoting illegal
+                                   early release ofsuper (17 April 2023).
+
+
+
+Our work to assist business
+              33             Industry faced significant uncertainty on how to comply with compliance
+                             obligations in a disrupted pandemic environment. We received feedback
+                             from industry that certain regulatory obligations were unduly burdensome to
+                             comply with or strict compliance would be practically difficult in the
+                             circumstances.
+
+
+                             Granting relief and no-action positions to assist industry to
+                             comply and meet the needs of clients
+
+              34             Throughout the pandemic, we used our discretionary powers to issue
+                             targeted relief and no-action positions to industry to remove the impact of
+                             certain compliance obligations that were onerous or created barriers for
+                             industry to respond to the needs of their clients. For instance, during the
+                             initial period of April 2020 to October 2020, we dedicated resources to
+
+
+
+
+14 See: ASIC’s Annual Report 2020-21, p 32.
+
+
+
+©Australian Securities and Investments Commission December2023                                                Page 11
+                                                             Commonwealth Government COVID-19 Response Inquiry:
+                                                   Submission by the Australian Securities and Investments Commission
+
+
+
+
+                            urgently issue nine legislative instruments and granted various individual
+                            relief instruments.
+
+              35            Examples of our work include:
+
+                            Relief and no-action position to assist companies to meet their obligations -
+                            We granted relief for listed and unlisted companies to have an additional
+                            month to lodge audited financial reports and adopted a ‘no action’ position
+                            for public companies to have an additional two months to hold their AGMs.
+                            This recognised that companies and auditors were focused on responding to
+                            the pandemic and required additional time to comply: see Media Release
+                            (21-061MR) ASIC adopts ‘no-action ’position and re-issues guidelines for
+                            virtual meetings (29 March 2021).
+
+                            Relief to assist consumers to access theirfunds - We granted relief to make
+                            it easier for lenders to issue debit cards to existing customers. This
+                            responded to the difficulties that consumers faced in accessing cash and
+                            approaching institutions during the pandemic and the need for online
+                            purchasing: see ASIC Corporations (COVID-19 - Distribution ofDebit
+                            Cards) Instrument 2020/401. We also granted relief for operators of
+                            registered managed investment schemes that had become frozen (i.e., that
+                            had suspended promoted redemptions) to permit members to exit the scheme
+                            on hardship grounds, such as where members needed to access their money
+                            for living or medical expenses: see ASIC Corporations (Hardship
+                            Withdrawals Relief) Instrument 2020/778.
+
+                            Relief and no-action position to assist access to financial advice - We
+                            granted relief in respect of the COVID-19 early access scheme to allow
+                            advisers not to give a statement of advice to clients (using instead a simpler
+                            record of advice) and to permit registered tax agents to give advice to
+                            existing clients. We also adopted a ‘no action’ position for superannuation
+                            trustees to provide intra-fund advice on the COVID-19 early access scheme.
+                            This assisted the provision of affordable and timely advice to clients on
+                            accessing superannuation: see Media Release (20-085MR) ASIC grants
+                            relief to industry to provide affordable and timely financial advice during the
+                            CO VID-19 pandemic (14 April 2020).
+
+              36            Further details of the relief and no-action positions we issued are set out in
+                            Annexure B.
+
+
+                            Release of guidance
+
+              37            We released sector-specific guidance to assist industry to understand their
+                            compliance obligations and to direct them to resources to respond to the
+                            issues they were facing during the pandemic, including:
+                            (a)   ongoing guidance on the appropriate approach to calling and holding
+                                  company meetings using virtual technology, in order to assist
+
+
+
+©Australian Securities and Investments Commission December2023                                               Page 12
+                                                                 Commonwealth Government COVID-19 Response Inquiry:
+                                                       Submission by the Australian Securities and Investments Commission
+
+
+
+
+                                    companies to comply with their obligations under temporary pandemic
+                                    measures and to promote continued investor engagement in meetings:
+                                    see ASIC guidelines for investor meetings using virtual technology (18
+                                    August 2021);
+                              (b) lists of frequently asked questions (FAQs) for stakeholders, including
+                                  financial advisers, companies, directors and auditors (with respect to
+                                  financial reporting and audit), superannuation trustees and responsible
+                                  entities: see Information Sheet 262 FAQs: COVID-19 information for
+                                  advice licensees andfinancial advisers (INFO 262),       -19
+                                  implications for financial reporting and audit: Frequently asked
+                                  questions (FAQs) and COVID-19 - Information for superannuation
+                                  trustees on the ASIC website, and Operating a managed investment
+                                  scheme during COVID-19 fl July 2020).15 These FAQs provided
+                                  guidance on ASIC’s areas of focus, ASIC’s expectations when dealing
+                                  with the impacts of the pandemic and practical tips to help stakeholders
+                                  overcome challenges caused by the pandemic;
+                              (c)   guidance to help small business operators to make financial decisions to
+                                    protect their business and to understand available resources, including
+                                    the insolvency reforms introduced by the Government and loan
+                                    repayment relief offered by lenders: see Information for small business
+                                    during COVID-19 (2 June 2020); and
+                              (d) the release of Information Sheet 245 Board oversight and discretion in
+                                  executive variable pay schemes (INFO 245) to assist boards and
+                                  remuneration committees of listed entities to make decisions on
+                                  executive pay in the challenging context of the pandemic: see Media
+                                  Release (20-133MR) Info sheet 245: Board oversight and discretion in
+                                  executive variable pay schemes (12 June 2020).
+
+
+                              Postponement of non-essential work
+
+               38             To enable industry to focus on immediate priorities and the needs of
+                              consumers during the pandemic, we postponed the commencement of certain
+                              work that would have imposed a significant regulatory burden and was not
+                              time critical. This included:
+                              (a)   taking a facilitative approach to compliance with ASIC policy guidance
+                                    in respect of various legislative reforms arising out of recommendations
+                                    from the Royal Commission into Misconduct in the Banking,
+                                    Superannuation and Financial Services Industry, including new design
+                                    and distribution obligations and breach reporting obligations; and
+                              (b) deferring areas of supervisory work requiring the collection of data, to
+                                  reduce the reporting obligations on industry, including the recurrent
+
+
+
+15 The FAQs for responsible entities have been archived from the ASIC website.
+
+
+
+©Australian Securities and Investments Commission December2023                                                   Page 13
+                                                             Commonwealth Government COVID-19 Response Inquiry:
+                                                   Submission by the Australian Securities and Investments Commission
+
+
+
+
+                                 managed funds data collection pilot, our work on grandfathered
+                                 conflicted remuneration and our review of life insurance advice.
+
+
+
+Our collaborative approach with Government and regulators
+              39            Our work in response to the pandemic was influenced and supported by the
+                            work of Government and our engagement with local and overseas regulators.
+
+              40            We worked closely with Government on temporary measures aimed at
+                            supporting businesses and consumers, such as the Corporations
+                            (Coronavirus Economic Response) Determination (No. 1) 2020, which
+                            facilitated the use of virtual technology to hold company meetings and
+                            electronic execution of company documents.
+
+              41            We coordinated our domestic pandemic responses with the Council of
+                            Financial Regulators Crisis Management Working Group, ensuring that each
+                            regulator took a consistent approach. We also regularly liaised with local
+                            regulators during the pandemic. For example, we worked closely with
+                            APRA to assess the short and long term impacts of the pandemic on our
+                            jointly regulated industry sectors and co-ordinated our supervisory work to
+                            reduce the burden on industry (see paragraphs 18 and 19 above).
+
+              42            On the global front, we participated in joint initiatives and sharing
+                            information on market developments, regulatory approaches and consumer
+                            protection measures, including:
+                            •    engagement with international standard-setting bodies, including
+                                 IOSCO, the IAIS, the IFIAR, the OECD and the Financial Stability
+                                 Board and counterpart overseas agencies in a coordinated approach to
+                                 international issues related to consumer protection, market integrity and
+                                 financial stability;
+                            •    working with IOSCO’s Asia-Pacific Regional Committee to bring
+                                 emerging concerns to the regional level; and
+                            •    co-leading the newly established IOSCO Retail Market Conduct Task
+                                 Force examining measures to address misconduct, as well as retail
+                                 investor and consumer protection issues.
+
+
+
+
+©Australian Securities and Investments Commission December2023                                               Page 14
+                                                                  Commonwealth Government COVID-19 Response Inquiry:
+                                                        Submission by the Australian Securities and Investments Commission
+
+
+
+
+           Lessons learned
+
+
+
+                                Our work and engagement during the pandemic reinforced:
+
+                                •    the importance of being flexible and refocussing our priorities as
+                                     needed;
+
+                                •    the benefits of a collaborative and consistent response to domestic and
+                                     global issues;
+
+                                •    the resilience of our regulated population to changes in market
+                                     conditions;
+
+                                •    the significance of technologically neutral compliance obligations in the
+                                     present climate.
+
+                                We consider that additional data gathering powers and digital reporting
+                                would enable us to better monitor and respond to potential significant
+                                market disruption in the future.
+
+               43             As an organisation, we reassessed our planned priorities and redeployed
+                              resources to address the greatest threats and harms arising from the
+                              pandemic environment, while still providing business and consumers access
+                              to our critical functions. Our workload significantly increased, given the
+                              heightened risk of significant consumer harm, and challenges in ensuring
+                              market integrity and the continued viability of companies and the economy.
+                              Ensuring that we remain agile and flexible as an organisation will safeguard
+                              our ability to respond effectively to future shocks.
+
+               44             We observed that the tools we implemented to respond to the pandemic were
+                              effective in maintaining financial stability and confidence in the financial
+                              system. We worked with exchanges and market participants to ensure that
+                              financial markets remained open and effective. We assisted industry through
+                              targeted relief and guidance. We protected consumers with messages,
+                              warnings and our supervisory and enforcement outcomes. Significantly, our
+                              pandemic responses received positive public feedback from the legal,
+                              governance, superannuation, insurance and restructuring sectors.16
+
+               45             Throughout the pandemic, we benefited from sharing insights and learnings
+                              with our stakeholders and peers. Our response to the pandemic was
+                              supported by our collaborative work with our regulated population,
+                              Government and our domestic and international counterparts. Our continuing
+                              regular liaison with Government, and relationships with our regulated
+
+
+
+
+16 See: Financial Regulator Assessment Authority, Effectiveness and Capability Review of the Australian Securities and
+  rvestments Commission [report], July 2022, paragraphs 3.60 and 3.85.
+
+
+
+©Australian Securities and Investments Commission December2023                                                      Page 15
+                                                               Commonwealth Government COVID-19 Response Inquiry:
+                                                     Submission by the Australian Securities and Investments Commission
+
+
+
+
+                             population and counterparts, will allow us to respond to future events and
+                             minimise the regulatory burden on industry.
+
+              46             Overall, based on our monitoring work, we found that our regulated
+                             population was resilient in response to the pandemic.17 Our markets
+                             remained stable. Banks, fund managers and superannuation trustees did not
+                             experience liquidity issues. Consumer confidence remained high. Borrowers
+                             continued to make loan repayments following permitted deferral periods by
+                             lenders and company insolvencies decreased. Measures introduced by the
+                             Government to financially assist businesses and consumers during the
+                             pandemic contributed to this resilience.
+
+              47             In the early stages of the pandemic, it was clear that industry was faced with
+                             significant disruption and uncertainty due to the absence of technological
+                             neutrality in the Corporations Act. For example, due to pandemic restrictions
+                             on public gatherings, companies were unable to hold annual general
+                             meetings in person and directors could not sign documents using wet
+                             signatures as required. Interim and subsequent reforms by Government have
+                             largely resolved these issues. However, this demonstrated the importance of
+                             technology neutral compliance obligations for industry.
+
+              48             Inevitably, we found that opportunistic scams and misconduct targeting
+                             vulnerable consumers increased during the pandemic and continue to be
+                             prevalent. It was necessary to focus our supervisory and enforcement work
+                             on protecting consumers from this harm. In response, we have retained
+                             scams and cyber and operational resilience among ASIC’s core strategic
+                             projects and introduced new technology to disrupt investment scam and
+                             phishing websites from targeting consumers.
+
+              49             Our ability to identify the key pandemic risks faced by industry and
+                             consumers, and monitor industry’s response, was impeded by the absence of
+                             data on our regulated population. For example, we do not receive recurrent
+                             data from issuers of unlisted financial products and had to seek targeted
+                             information from a selection of industry participants using our formal notice
+                             powers to monitor the impact of the pandemic. The absence of data on our
+                             broader population limits our ability to make more holistic observations
+                             about the impact of the pandemic on industry and consumers.
+
+              50             Based on our experience, additional data gathering powers would enhance
+                             our capacity to monitor and respond to domestic and global issues. This is an
+                             issue that we are continuing to engage with Government on. For instance,
+                             our recent public submission to the Government’s Review of the regulatory
+                            frameworkfor managed investment schemes includes recommendations to
+                             increase our data capabilities through the introduction of a legislative
+
+
+
+17 See: ASIC Corporate Plan 2021-25: Focus 202/ 22. p 7.
+
+
+
+©Australian Securities and Investments Commission December2023                                                 Page 16
+                                                                 Commonwealth Government COVID-19 Response Inquiry:
+                                                       Submission by the Australian Securities and Investments Commission
+
+
+
+
+                              framework for the recurrent collection of data on the funds management
+                              sector.18
+
+               51             Our ability to use the data we do collect to gain meaningful insights and
+                              inform our regulatory responses during the pandemic was made more
+                              challenging and resource intensive due to the absence of compulsory digital
+                              financial reporting (i.e. reporting in a machine-readable format). For
+                              example, we were required to manually review company financial reports to
+                              assess whether they reflected the impact of the pandemic. In contrast, in
+                              other jurisdictions such as the United States, digital financial reporting is
+                              mandatory. Mandating lodgement of documents, such as financial reports, in
+                              digital format would allow us to make greater use of the data we collect. It
+                              would also improve transparency in capital markets, thereby reducing
+                              systemic risk.19
+
+               52             In conclusion, the Australian financial services sector fared well during the
+                              pandemic, aided by our actions throughout the pandemic to readjust our
+                              regulatory priorities and work to stabilise markets, protect and inform
+                              consumers and minimise the regulatory burden on industry. Crucially, we
+                              collaborated closely with Government and counterparts to ensure an
+                              informed and consistent regulatory response. We continue to monitor
+                              emerging issues and market changes, and use our experiences gained during
+                              the pandemic to assist us to respond to future domestic or global events.
+
+
+
+
+18 See: Review of the regulatory framework for managed investment schemes: Submission by the Australian Securities and
+Investments Commission, September 2023, p 46-47.
+19 This issue was highlighted in Productivity Commission Inquiry into Data Availability and Use: Submission by the
+Australian Securities and Investments Commission, August 2016, p 7-8.
+
+
+
+©Australian Securities and Investments Commission December2023                                                   Page 17
+                                                             Commonwealth Government COVID-19 Response Inquiry:
+                                                   Submission by the Australian Securities and Investments Commission
+
+
+
+
+Appendix A
+
+Examples of other measures in response to the pandemic
+
+  Date             ASIC action                                       Details
+
+
+  April 2020       Released guidance to liquidators on               Set out the ability for liquidators to
+                   dealing with challenges of the                    apply for a no-action position if
+                   pandemic                                          they faced compliance issues and
+                                                                     that we would waive late fees
+                   ASIC Corporate Insolvency Update -                arising from the pandemic
+                   Issue 15 | ASIC
+
+  6 May            Released our observations about                   Highlighted that we had observed
+  2020             initial pandemic trading by retail client         that retail investors were engaging
+                                                                     in short term trading strategies
+                                                                     unsuccessfully attempting to time
+                                                                     price trends (which had
+                             U etail i                      Jr       contributed to our initial directions
+                   volatile markets | ASIC                           to market participants 20-062MR
+                                                                     ASIC takes steps to ensure equity
+                                                                     market resiliency | ASIC)
+
+  7 May            Released reminder to directors on                 Set out important considerations
+  2020             trading during the COVID-19                       for directors (including directors of
+                   pandemic                                          the responsible entity of a listed
+                                                                     managed investment scheme)
+                   Reminders on director trading during              regarding the acquisition and
+                   COVID-19 | ASIC                                   disposal of securities and other
+                                                                     financial products issued by their
+                                                                     listed entity
+
+  14 May           Issued correspondence to market                   Outlined that while we had lifted
+  2020             participants                                      relevant directions on market
+                                                                     participants, we expected all equity
+                   Letter to all eguity market participants          market participants to take
+                   (asic.gov.au)                                     reasonable steps to ensure the
+                                                                     number of trades matched from
+                                                                     their orders are capable of being
+                                                                     handled by their internal
+                                                                     processing and risk management
+                                                                     systems and support the fair and
+                                                                     orderly operation of Australian
+                                                                     equity markets
+
+
+
+
+©Australian Securities and Investments Commission December2023                                               Page 18
+                                                             Commonwealth Government COVID-19 Response Inquiry:
+                                                   Submission by the Australian Securities and Investments Commission
+
+
+
+
+  12 June          Released INFO 245: Board oversight                Helped boards and remuneration
+  2020             of executive variable pay decisions               committees navigate decisions on
+                   during the COVID-19 pandemic                      executive variable pay, in the
+                                                                     context of COVID-19
+                                IP    et 2 5 Be
+                   oversight and discretion in executive
+                   variable pay schemes | ASIC
+
+  June to          Monitored buy now pay later products              The use of buy now pay later
+  November         and the response by the sector to the             increased by approximately 43%
+  2020             COVID-19 pandemic. Released Buy                   by number and value of
+                   now pay later: An industry update:                transactions from June 2019 to
+                   Report 672                                        June 2020. We engaged with
+                                                                     consumer representatives and
+                   Buy now pay later: An industry update             closely monitored the use of small
+                   (asic.qov.au)                                     amount and alternative credit
+                                                                     products, especially by vulnerable
+                                                                     consumers
+
+  June 2020        Established the Corporate                         The Panel met once in 2019-20
+                   Governance Consultative Panel in                  and twice in 2020-21 to discuss
+                   2020 to enable ASIC to gain a deeper              the impact of the COVID-19
+                   understanding of developments and                 pandemic; environmental, social
+                   emerging issues in corporate                      and governance issues; cyber
+                   governance practices.                             resilience; and insolvency reforms
+
+                   Members of this Panel include listed
+                   company directors, industry
+                   association representatives,
+                   institutional investors and academics
+
+  November         Released an update on the impact of               Since April 2020, we made
+  2020             the pandemic on our assessment of                 additional reguisitions of all AFS
+                   licensees and professional registrants            and credit licence applicants to
+                                                                     clarify the impact of the COVID-19
+                                                                     pandemic on their businesses
+
+                   REP 671 Licensing and professional
+                   registration activities: 2 20 update |
+                   ASIC
+
+  30 April         Released our findings on our review               Our review found that the selected
+  2021             of registered managed investment                  retail managed funds did not face
+                   schemes and liguidity                             serious investor liguidity
+                                                                     challenges during the height of
+                   21-1       SIC              etail                 COVID-19 market disruption, and
+                   managed funds responded well to                   that their liguidity frameworks were
+                   COVID-19 challenges in 2020 | ASIC                generally adeguate
+
+
+
+
+©Australian Securities and Investments Commission December2023                                               Page 19
+                                                             Commonwealth Government COVID-19 Response Inquiry:
+                                                   Submission by the Australian Securities and Investments Commission
+
+
+
+
+  10 August        Released our findings on our review               Our review found the selected
+  2021 "           of the valuation practices of                     responsible entities were
+                   responsible entities of registered                responsive to the increased
+                   schemes                                           valuation risks during the review
+                                                                     period. They continued to provide
+                   21-212MR ASIC finds good practices                timely valuations of their illiguid
+                   from COVID-19 review of managed                   assets, including by increasing the
+                   funds’ valuation of illiguid assets |             freguency of valuations, expanding
+                   ASIC                                              the sources of information to
+                                                                     benchmark valuations and
+                                                                     assumptions. They also continued
+                                                                     to be able to obtain and rely on
+                                                                     external valuations.
+
+  26 August        Released INFO 249: Frozen funds -                 Updated guidance on new relief
+  2020             Information for responsible entities,             measures for operators of frozen
+                   and Revised RG 136: Funds                         funds to facilitate withdrawals by
+                   management: Discretionary powers                  members facing financial hardship
+                                                                     during the COVID-19 pandemic
+                   Frozen funds - Information for
+                   responsible entities | ASIC
+
+  22 April         Wrote to general insurers and life                Outlined our expectations for
+  2021             insurers setting out our expectations             dealing with consumers during the
+                   responding to consumers in financial              pandemic, including that a range
+                   hardship                                          of support options should be
+                                                                     offered and that there should be
+                   Letter to general insurers and Letter to          prominent disclosure of key
+                   I    surei                                        pandemic exclusions and
+                                                                     limitations
+
+  9                Released guidance on areas of focus               Outlined our expectations for
+  December         for financial reporting given the impact          financial reports to assess and
+  2021             of COVID 19                                       explain the impact on COVID-19
+                                                                     on valuations and provisions and
+                   21-342MR ASIC highlights focus                    that assessments of solvency and
+                   areas for 31 December 2021 financial              going concern were appropriate
+                   reports under COVID-19 conditions |
+                   ASIC
+
+
+
+
+©Australian Securities and Investments Commission December2023                                               Page 20
+                                                             Commonwealth Government COVID-19 Response Inquiry:
+                                                   Submission by the Australian Securities and Investments Commission
+
+
+
+
+Appendix B
+
+ Key pandemic related instruments and no-action positions
+
+  Date           Legislative instrument/No                  Benefit to business
+                 action position
+
+
+  20 March       20-068MR Guidelines for                    Provided a temporary no-action position
+  2020           meeting upcoming AGM and                   to facilitate an additional two months for
+                 financial reporting reguirements           companies to hold the AGM
+                 | ASIC
+
+  2 April        ASIC Corporations (Trading                 Facilitated capital raisings by allowing
+  2020           Suspensions Relief) Instrument             listed entities suspended for up to 10
+                 2020/289                                   trading days (compared to previous 5) to
+                                                            access low-doc capital raisings
+
+  14 April       Temporary no-action position               Provided a temporary no-action position
+  2020           for expanded intra-fund advice             to facilitate the provision of intra-fund
+                 on early release of                        advice on the COVID-19 early release
+                 superannuation relating to                 scheme
+                 COVID-19 | ASIC
+
+  15 April       ASIC Corporations (COVID-                  Facilitated retail clients receiving timely
+  2020           19—Advice-related Relief)                  and affordable financial product advice
+                 Instrument 2020/355
+
+  25 April       ASIC Corporations (Extended               Allowed unlisted entities up to one
+  2020           Reporting and Lodgment                    additional month to complete financial
+                 Deadlines—Unlisted Entities)              reports and have those reports audited
+                 Instrument 2020/395
+
+  25 April       ASIC Corporations (COVID-19                Facilitated ADIs providing their existing
+  2020           - Distribution of Debit Cards)             customers with debit cards
+                 Instrument 2020/401
+
+  28 April       ASIC Corporations (Extended               Allowed listed entities up to one additional
+  2020           Reporting and Lodgment                    month to complete financial reports and
+                 Deadlines—Listed Entities)                have those reports audited
+                 Instrument 2020/451
+
+  27 May         ASIC Corporations (Deferral of             Provided relief in relation to the
+  2020           Design and Distribution                    commencement of the design and
+                 Obligations) Instrument                    distribution obligations (DDO) for six
+                 2020/486                                   months
+
+
+
+
+©Australian Securities and Investments Commission December2023                                               Page 21
+                                                             Commonwealth Government COVID-19 Response Inquiry:
+                                                   Submission by the Australian Securities and Investments Commission
+
+
+
+
+  28 May         ASIC Credit (Deferral of                   Provided relief in relation to the
+  2020           Mortgage Broker Obligations)               commencement of the mortgage broker
+                 Instrument 2020/487                        reforms for six months
+
+  24 June        ASIC Corporations (COVID-19                Facilitated the electronic lodgement of
+  2020           Email Lodgment Service—ASIC                documents for the purposes of relief
+                 Corporations (Wholly-owned                 under ASIC Corporations (Wholly-owned
+                 Companies) Instrument                      Companies) Instrument 2016/785
+                 2016/785) Instrument 202 (612
+
+  28 August      ASIC Corporations (Hardship                Facilitated REs of registered schemes
+  2020           Withdrawals Relief) Instrument             making withdrawal payments to members
+                 202 (778                                   on hardship grounds
+
+  21             ASIC Market Integrity Rules                Relieved market participants from the
+  October        (Securities Markets) Class                 reguirement to have accreditations of their
+  2020           Waiver Instrument 2020/870                 advisers renewed on 30 November 2020
+
+
+
+
+  14             1     rto      si ice          cil        Provided a temporary no-action position
+  January        of Australia outlining no-action          from provisions that reguire documents to
+  2021           position                                  be given to clients within five business
+                                                           days of specified events for the duration
+                                                           of the temporary adjustment in Australia
+                                                           Post’s performance standards
+
+  29 March       21-061 MR ASIC adopts ‘no­                Provided a temporary no-action position
+  2021           action’ position and re-issues            for the holding of virtual meeting pending
+                 guidelines for virtual meetings |         Government reforms
+                 ASIC
+
+  1 April        ASIC Corporations (Virtual-only           Facilitated listed companies, unlisted
+  2022           Meetings) Instrument 2 122/129            companies together with listed and
+                                                           unlisted registered schemes, to hold
+                                                           virtual-only meetings of their members for
+                                                           an extended period beyond the expiry of
+                                                           the current temporary relief measures
+                                                           introduced by the Treasury Laws
+                                                           Amendment (2021 Measures No. 1) Act
+                                                           2021
+
+
+
+
+©Australian Securities and Investments Commission December2023                                               Page 22
+                                                              Commonwealth Government COVID-19 Response Inquiry:
+                                                    Submission by the Australian Securities and Investments Commission
+
+
+
+
+Key terms
+
+
+                             Term                      Meaning in this document
+
+                             ADI                       Authorised deposit-taking institution
+
+                             ASIC                      Australian Securities and Investments Commission
+
+                             APRA                      Australian Prudential Regulation Authority
+
+                             Corporations Act          Corporations Act 2001, including regulations made for the
+                                                       purposes of that Act
+
+                             Council of Financial      The CFR is the coordinating body for Australia's main
+                             Regulators (CFR)          financial regulatory agencies. There are four members:
+                                                       APRA, ASIC, the Australian Treasury and the Reserve
+                                                       Bank of Australia
+
+                             COVID-19 early            Eligible Australian and New Zealand citizens and
+                             release scheme            permanent residents were able to apply online through
+                                                       myGov to access up to $10,000 of their superannuation
+                                                       before 1 July 2020. They were also able to access up to a
+                                                       further $10,000 from 1 July 2020 until 31 December 2020
+
+                             COVID-19 pandemic         A global outbreak of coronavirus - an infectious disease
+                                                       caused by the severe acute respiratory syndrome
+                                                       coronavirus 2 (SARS-CoV-2)
+
+                             Financial hardship        When a consumer has difficulty making loan and debt
+                                                       payments or meeting their other basic financial needs
+
+                              IOSCO                    International Organization of Securities Commissions
+
+                              IAIS                     International Association of Insurance Supervisors
+
+                              IFIAR                    International Forum of Independent Audit Regulators
+
+                             Managed investment        Has the meaning given in s9 of the Corporations Act
+                             scheme
+
+                             Moneysmart website        ASIC’s website for consumers and investors
+
+                             No-action position        A no-action letter in which we state to a particular person
+                                                       that we do not intend to take regulatory action over a
+                                                       particular state of affairs or particular conduct
+
+                             OECD                      Organisation for Economic Co-operation and
+                                                       Development
+
+                             OTC                       Over the counter
+
+                             Relief                    The exercise of ASIC’s exemption or declaration powers
+                                                       in the form of an instrument
+
+
+
+
+©Australian Securities and Investments Commission December2023                                                Page 23
+                                                             Commonwealth Government COVID-19 Response Inquiry:
+                                                   Submission by the Australian Securities and Investments Commission
+
+
+
+
+                             Term                     Meaning in this document
+
+                             Responsible entity       A responsible entity of a registered managed investment
+                                                      scheme as defined in s9 of the Corporations Act
+
+                             Retail client            Has the meaning given in s9 of the Corporations Act
+
+
+
+
+©Australian Securities and Investments Commission December2023                                               Page 24
+

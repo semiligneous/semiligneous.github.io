@@ -1,0 +1,187 @@
+     THE UNIVERSITY OF
+
+     SYDNEY
+
+Professor Kirsten McCaffery PhD FAHMS
+NHMRC Leadership Fellow
+Director, Policy and Prevention
+Director, Sydney Health Literacy Lab
+Sydney School of Public Health
+
+
+14th December 2023
+
+Re: SHELL COVID Inquiry response
+
+
+ISSUE: We welcome the opportunity to respond to the Commonwealth Government COVID-19 Response Inquiry. In our
+response we directly address terms of reference (TOR) #8 (as below)
+
+
+TOR #8: Mechanisms to better target future responses to the needs of particular populations (including across genders,
+age groups, socio-economic status, geographic location, people with disability, First Nations peoples and communities and
+people from culturally and linguistically diverse communities).
+
+Improving public health communication for priority populations: Health literacy and the COVID-19 pandemic response
+The COVID-19 pandemic represented an unprecedented test of the capacity of state and federal agencies to communicate
+evolving public health information rapidly and effectively. In Australia it proved very challenging to achieve effective
+communication for people with diverse health literacy, culture and language and this resulted in important gaps in
+communication in these groups.
+
+The Sydney Health Literacy Lab's COVID-19 research https://www.sydneyhealthliteracylab.org.au/covidl9-
+publications/category/COVID-19 provides evidence and examples to support a strengthened public health communication
+response in the future that is relevant to TOR #8. A brief summary of some of this work is described below.
+
+Health literacy disparities: Health literacy refers to the personal skills and capacities as well as the informational and
+organisational environment that enables people to find, understand and use health information and services to manage their
+health. Australians with lower health literacy levels and those who spoke a language other than English at home had poorer
+understanding about COVID-19 symptoms, prevention, and social distancing measures, and were more likely to endorse
+COVID-19 misinformation (McCaffery et al 2020; Dodd et al 2021; Pickles et al 2021). Some underserved groups also
+experienced greater psychological and financial impacts of COVID-19 (Muscat et al 2022) in addition to the well documented
+poorer COVID-19 health outcomes (AIHW 2022).
+
+The health literacy environment: COVID-19 created a challenging information environment, and for much of the pandemic,
+Australian COVID-19 public health information was complex, with information translated into languages other than English
+often hard to find or unavailable (Wild et al 2021; Seale et al 2022). Much information was written at a level of English
+suitable for people with higher education (e.g. school reading grade 11/12 or higher) rather than the level recommended to
+enable a general audience to read it easily (Grade 8) (Mac et al 2021). While this improved over time, the availability of
+translated information was inconsistent and not always up to date. Some translated materials were 'uncontextualised text­
+heavy resources' and therefore difficult to understand (Seale et al 2022).
+
+The distinct needs of different culturally and linguistically diverse communities: Different communities had unique needs
+for COVID-19 messaging. For example, there were distinct patterns in the types of COVID-19 information sources people used
+(e.g. some groups found much of their information from overseas whereas others relied on the Australian news media, Ayre
+et al 2022). There were also important differences by age (e.g. young groups obtained information via social media, while
+older groups relied on family and community members, Ayre et al 2021). Understanding how people from different
+communities access health information and then utilise these communication channels is crucial for effective health
+communication and good health literacy. Recognising also that patterns of communication are dynamic and need regular
+
+
+
+Sydney School of Public Health                                                     ABN 15 211 513 464
+                                                                                   CRICOS 00026A
+128B, Edward Ford Building (A27)
+The University of Sydney                  W sydneyhealthliteracylab.org.au
+NSW 2006
+Australia
+                   THE UNIVERSITY OF
+
+                   SYDNEY
+
+monitoring is important. Embedding work to understand communication channels across diverse communities would be
+ideally integrated early into any pandemic communication response.
+
+Misinformation and health literacy: We found a consistent association between misinformation beliefs with health literacy
+and digital health literacy across 3 national Australian surveys between April to July 2020, with stronger endorsement of
+misinformation also associated with younger age, male gender, lower education level, and speaking a language other than
+English at home (Pickles et al 2022). A further study of younger adults in Australia aged 18-49 years (who had not been
+vaccinated at the time of the survey, July-August 2021) found high endorsement of misinformation with up to two thirds of
+participants agreeing with at least one misinformation belief about COVID-19 vaccines. Misinformation beliefs were
+significantly associated with lower health literacy, lower education, less knowledge about vaccines, lower perceived personal
+risk of COVID-19, as well as lower confidence and trust in government and scientific institutions (Pickles et al 2021, Nickel et
+al 2022).
+
+Strategies to address health literacy and working with priority populations include:
+There are a range of strategies that can be adopted to support better public health communication to diverse communities
+as those described in TOR#8.
+1. Systematic adoption of best practice health literacy approaches in health communication and uptake of organisational
+     health literacy frameworks (as described https://www.cdc.gov/healthliteracy/index.html) and summarised in a review
+     paper by McCaffery et al (2023).
+2. Community-based and evidence informed approaches described by Zachariah et al (2022) demonstrate community
+     models for working effectively with the culturally and linguistically diverse community in Western Sydney. This model
+     operated by creating networks to work responsively with trusted community advisors, community champions and in
+     partnership with academic researchers providing evidence on specific community needs.
+3. Health literacy sensitive health information design informed by behaviour change research (e.g. Bonner et al 2023) to
+     support behavioural health advice.
+4. Providing support for locally led co-designed projects with small grants for projects that address health literacy needs for
+     different priority populations. Using existing community-based mechanisms to provide local input can help deliver
+     resources that strengthen health literacy in local communities. Successful examples of this occurred during the COVID-19
+     pandemic, when small grants were awarded and overseen by Aboriginal Community Controlled Health Organisations
+     (Stanely et al 2021) and the Federation of Ethnic Communities' Councils of Australia (FECCA 2022).
+5. Utilising social media channels and understanding what works to communicate to different sectors of the Australian
+     population.
+
+Your sincerely
+
+
+
+
+Professor Kirsten McCaffery, FAHMS, Director Sydney Health Literacy Lab
+On behalf of the SHeLL COVID research team*
+
+
+
+
+Sydney School of Public Health                                                         ABN 15 211 513 464
+                                                                                       CRICOS 00026A
+128B, Edward Ford Building (A27)
+The University of Sydney                    W sydneyhealthliteracylab.org.au
+NSW 2006
+Australia
+                                                                                                                                   2
+                   THE UNIVERSITY OF
+
+                   SYDNEY
+Key references
+1. McCaffery KJ, Dodd RH, Cvejic E, et al. Health literacy and disparities in COVID-19-related knowledge, attitudes, beliefs
+    and behaviours in Australia. Public Health Research & Practice. 2020;30(4).
+2. Dodd RH, Pickles K, Nickel B, Cvejic E, Ayre J, Batcup C, Bonner C, Copp T, Cornell S, Dakin T, Isautier J, McCaffery KJ.
+    Concerns and motivations about COVID-19 vaccination. Lancet Infect Dis. 2021 Feb;21(2):161-163. doi: 10.1016/S1473-
+    3099(20)30926-9. Epub 2020 Dec 15. PMID: 33338440; PMCID: PMC7832277.
+3. Pickles K, Cvejic E, Nickel B, et al. COVID-19 Misinformation Trends in Australia: Prospective Longitudinal National Survey.
+    J Med Internet Res. 2021;23(l):e23805.
+4. Muscat DM, Ayre J, Mac O, et al. Psychological, social and financial impacts of COVID-19 on culturally and linguistically
+    diverse communities in Sydney, Australia. BMJ Open. 2022;12(5):e058323.
+5. Australian Institute of Health and Welfare 2022. www.aihw.gov.au/reports/australias-health/australias-health-2022-
+    data-insights/about
+6. Seale H, Harris-Roxas B, Heywood A, et al. The role of community leaders and other information intermediaries during
+    the COVID-19 pandemic: insights from the multicultural sector in Australia. Humanities & social sciences
+    communications. 2022;9(l):l-7.
+7. Wild A, Kunstler B, Goodwin D, et al. Communicating COVID-19 health information to culturally and linguistically diverse
+    communities: insights from a participatory research collaboration. Public Health Research & Practice. 2021;31(l).
+8. Mac OA, Muscat DM, Ayre J, Patel P, McCaffery KJ. The readability of official public health information on COVID-19.
+    Medical journal of Australia. 2021;215(8):373-375.
+9. Seale H, Harris-Roxas B, Heywood A, et al. Speaking COVID-19: supporting COVID-19 communication and engagement
+    efforts with people from culturally and linguistically diverse communities. BMC public health. 2022;22(l):l-1257.
+10. Ayre J, Muscat DM, Mac O, et al. COVID-19 Testing and Vaccine Willingness: Cross-Sectional Survey in a Culturally
+    Diverse Community in Sydney, Australia. Health Equity. 2022;6(l):965-974.
+11. Ayre J, Muscat DM, Mac O, et al. Main COVID-19 information sources in a culturally and linguistically diverse community
+    in Sydney, Australia: A cross-sectional survey. Patient Education and Counseling. 2022;105(8):2793-2800.
+12. Pickles K, Cvejic E, Nickel B, Copp T, Bonner C, Leask J, et al. COVID-19 Misinformation Trends in Australia: Prospective
+    Longitudinal National Survey. Journal of medical Internet research. 2021;23(l):e23805-e.
+13. Pickles K, Copp T, Meyerowitz-Katz G, Dodd RH, Bonner C, Nickel B, et al. COVID-19 Vaccine Misperceptions in a
+    Community Sample of Adults Aged 18-49 Years in Australia. International journal of environmental research and public
+    health. 2022;19(ll):6883.
+14. Zachariah D, Mouwad D, Muscat DM, Ayre J, Nutbeam D, McCaffery KJ. Addressing the Health Literacy Needs and
+    Experiences of Culturally and Linguistically Diverse Populations in Australia during COVID-19: A Research Embedded
+    Participatory Approach. J Health Commun. 2022 Jul 3;27(7):439-449. doi: 10.1080/10810730.2022.2118910. Epub 2022
+    Sep 19. PMID: 36120983.
+15. McCaffery KJ' Ayre J, Dodd R, Pickles K, Copp T, Muscat D, Nickel B, Cvejic E, Zhang M, Mac O, Isautier J, Cornell S, Wolf
+    MS, Bonner C. Disparities in public understanding, attitudes and intentions during the Covid-19 pandemic: the role of
+    health literacy. Information Services & Use, vol. 43, no. 2, pp. 101-113, 2023.
+16. Bonner C, Batcup C, Cvejic E, Ayre J, Pickles K, Copp T, Cornell S, Nickel B, Dhahir M, McCaffery K. Addressing Behavioral
+    Barriers to COVID-19 Testing with Health Literacy-Sensitive eHealth Interventions: Results From 2 National Surveys and 2
+    Randomized Experiments. JMIR Public Health Surveill. 2023 Jun 29;9:e40441. doi: 10.2196/40441. PMID: 37172319;
+    PMCID: PMC10337324.
+17. Stanley F, Langton M, Ward J, McAullay D, Fades S. Australian First Nations response to the pandemic: A dramatic
+    reversal of the 'gap'. Journal of paediatrics and child health. 2021;57(12):1853-1856.
+18. The Federation of Ethnic Communities' Councils of Australia. COVID-19 Small Grants Projects.
+    https://fecca.org.au/smallgrantproiects/
+19. Taba M, Ayre J, Freeman B, McCaffery K, Bonner C. COVID-19 messages targeting young people on social media: content
+    analysis of Australian health authority posts. Health Promot Int. 2023 Apr l;38(2):daad034. doi:
+    10.1093/heapro/daad034. PMID: 37099680; PMCID: PMC10132623.
+20. Nickel B, Pickles K, Cvejic E, Copp T, Dodd RH, Bonner C, Seale H, Steffens M, Meyerowitz-Katz G, McCaffery K. Predictors
+    of confidence and trust in government and institutions during the COVID-19 response in Australia. The Lancet Regional
+    Health-Western Pacific, 2022; 23(100490). doi: 10.1016/j.lanwpc.2022.100490
+
+
+
+
+Sydney School of Public Health                                                        ABN 15 211 513 464
+                                                                                      CRICOS 00026A
+128B, Edward Ford Building (A27)
+The University of Sydney                   W sydneyhealthliteracylab.org.au
+NSW 2006
+Australia
+                                                                                                                              3
+

@@ -1,0 +1,136 @@
+Thank you for the opportunity to make a submission and raise my views and experiences about
+the Government’s COVID-19 response. I’m a researcher who considered biosecurity for a PhD
+topic before COVID-19 and the pandemic made it clear that we were not ready.
+
+I hope that the inquiry focuses on pandemic prevention. More than any other global catastrophic
+risk, we are able to prevent novel pathogens from emerging and to identify and eliminate them if
+they do. Given the huge human and economic costs of pandemics - and that pandemics worse
+than COVID-19 are possible - prevention should be our top priority.
+
+The paper “The costs and benefits of primary prevention of zoonotic pandemics” (Bernstein
+2022) makes the economic case for a focus on pandemic prevention. The paper shows that -
+even on pessimistic assumptions and without considering the potential impact of emerging
+technologies - significant investment in pandemic prevention is overwhelmingly justified.
+
+In light of that analysis, the new Australian Centre for Disease Control should focus on efforts to
+prevent novel pathogens from emerging and being able to control them if they do.
+
+
+My submission goes primarily to ‘preventive health measures’ in terms of reference 3.
+
+Sources:
+
+The costs and benefits of primary prevention of zoonotic pandemics - PMC (nih.gov)
+
+I believe that the Australian government should be investing in better Indoor Air Quality (IAQ) to
+reduce the risks of future pandemics. Australians spend at least 9 % of their time indoors and
+every year, Australians fall ill as a result of exposure to airborne pathogens while indoors. Worse
+still, respiratory transmission is a primary transmission route for pandemics. Therefore, reducing
+respiratory transmission will not only result in less illness for Australians but also safeguard us
+against the next pandemic. In addition to proven approaches and technologies, there are
+promising, effective, and scalable interventions, such as Ultraviolet germicidal irradiation
+(UVGI), which Australia could be supporting in the hopes of deployment before the next
+pandemic.
+
+The Lancet COVID-19 Commission Task Force has proposed Non-infectious Air Delivery Rates
+(NADR) as measurable goals for ventilation and filtration targets that protect against infectious
+disease transmission. Air delivery rates to different sized rooms can be compared using the
+normalised measure of Air Changes per Hour (ACH) - the number of times the volume of air in
+a room is exchanged with fresh, pathogen-free air each hour. Ventilating a room with fresh
+outdoor air while exhausting air in the room reduces the concentration of pathogens in the air
+produced by the room's occupants. Filtration and disinfection technologies can achieve
+comparable effects to ventilating a room with fresh air can be measured by Equivalent Air
+Changes per Hour (eACH) - the number of ACH required to achieve the same reduction in
+pathogen concentration.
+
+Traditionally, air changeovers are achieved through opening a window or having an HVAC
+(Heating, ventilation, and air conditioning) system installed. The Air Safety to Combat Global
+Catastrophic Biorisk report summarises the cost-effectiveness of different mechanical IAQ
+interventions. A modern HVAC system costs $135 USD per ACH, assuming it is updated to
+current standards for filtration and air delivery rates. However, many buildings do not have an
+HVAC system installed and are often not ventilated - schools, cafes and restaurants, homes,
+and smaller and older workplaces are just some examples of poorly ventilated spaces that we
+visit every day. Modern HVAC systems can be expensive or difficult to retrofit into buildings but
+represent an important step towards delivering non-infectious air. However, there are more
+cost-effective technologies that are easier to retrofit and could be widely adopted to keep
+Australians safe and healthy indoors.One example is portable air cleaners using HEPA filters
+which are estimated to cost approximately $110 USD per eACH and are simple to retrofit into
+buildings that are unsuitable for HVAC.
+
+Ultraviolet germicidal irradiation (UVGI) is the use of ultraviolet light to inactivate or kill
+pathogens such as bacteria, fungal spores and viruses. UVGI lights in indoor spaces could
+decrease the number of pathogen particles in the air in a safe, scalable and simple manner.
+Upper room UVGI lamps use 254nm wavelength UV light to sterilise the air in the top of rooms
+as it circulates and cost approximately $14 USD per eACH. Far-UVC lights are a newer
+innovation that can bathe an occupied room in far-UVC wavelengths. It uses a shorter
+wavelength of 222nm, which appears to be safe for skin and corneas yet it still inactivates the
+comparatively smaller pathogen particles. Unlike other interventions, Far-UVC has potential to
+reduce short range and conversational distance transmission and sterilise surfaces, in addition
+to reducing long-range airborne transmission like mechanical ventilation, portable air cleaners
+and 254nm UVGI. It is estimated to cost $15-46 per eACH, however, still requires additional
+R&D to make it cost-effective and scalable.
+
+The diagnostic and wastewater infrastructure and talent built up over COVID-19 response
+should not be wound down but proactively pivoted for public health. Clinical metagenomics,
+wastewater testing and the testing of airports, cruises and other ports of entry could provide
+welcome data to improve the National Notifiable Diseases Surveillance System (NNDSS) and
+provide a volume of samples to test routinely with metagenomic sequencing for novel
+pathogens. Keeping this diagnostic infrastructure ‘warm’ would also mean that in the next
+pandemic, diagnostic capability could expand more easily, which we know first-hand is essential
+to halting community transmission of a pathogen.a testimony to the U.S. House
+Hearing on “Biosecurity for the Future: Strengthening Deterrence and Detection” said:
+         “Sustainably financed systems for early detection and robust response can stop
+         outbreaks at the source before they evolve into global pandemics”
+
+Any early detection system must be robustly financed into perpetuity and resistant to funding
+cuts, and one way to do this is to have a public health monitoring system that is consciously set
+up to be useful both in “peace-time” and health emergencies.
+
+I think the inquiry should familiarise itself with the diagnostics of different sampling types like:
+     •       Clinical diagnostics
+     •       Wastewater monitoring and,
+   •       Airports, cruises and other ports of entry.
+
+It should also familiarise itself with technology developments around:
+     •      Metagenomics (both clinical and wastewater)
+     •      CRISPR-based diagnostics
+     •      Improvements to and multiplexing of PCR and LAMP
+
+It should also familiarise itself with the many emerging cost-effectiveness and effectiveness
+models, as well as obstacles on such systems in literature to inform the design of an early
+detection system. For example:
+
+   •   Sharma et al (2023) Threat Net: A Metagenomic Surveillance, Health Security estimates
+       that for $400-800 million dollars it would have a 95% change of detecting a novel
+       SARS-CoV-2 like respiratory pathogen after 10 emergency department presentations
+       and 79 infections across the US
+   •   The pre-print by Liu et al (2023) Quantitatively assessing early detection strategies for
+       mitigating COVID-19 and future pandemics estimates that hospital monitoring could
+       have detected COVID-19 -1000 cases earlier. Wastewater surveillance could provide an
+       early warning for pandemics with long incubation periods. Different pathogens would suit
+       different early detection sampling and platforms.
+   •   Wegryzyn et al (2022) Early Detection of Severe Acute Respiratory Syndrome
+       Coronavirus 2 Variants Using Traveler-based Genomic Surveillance at 4 US Airports,
+       September 2 21-January 2022, Clinical Infectious Diseases provided early-warning
+       variant detection, reporting the first US Omicron BA.2 and BA.3 in North America.
+   •   Liang et al (2023) Managing the Transition to Widespread Metagenomic Monitoring:
+       Policy Considerations for Future Biosurveillance, Health Security outlines a number of
+       policy obstacles that need to be overcome for a public health monitoring system with
+       seguencing as it’s backbone to be successful over the next decades
+
+How well we handle the next pandemic will largely be a function of how guickly we can detect
+and understand it. Every element of the terms of reference hangs off this. On that basis, early
+pathogen-agnostic detection systems need to be invested in now to get ahead of the next
+pandemic. With how necessary PCR diagnostics were in controlling case numbers before
+vaccine uptake was high, in my opinion, it would border on negligence if we don’t improve our
+diagnostics ability before the next pandemic pathogen outbreak. I recommend the Inguiry direct
+the new CDC to explore the benefits of a pathogen-agnostic early detection system for both the
+near-term public health benefits and the long-term early detection pandemic warning system.
+
+I think pandemics are one of the most important issues of our time, and expert assessments
+that the risk of pandemics is increasing are alarming. I think this inguiry should carefully
+consider how future pandemics could start and ensure it makes specific recommendations to
+reduce their likelihood. This should include the known mechanisms that have been with humans
+since time immemorial, such as zoonoses, as well as more recent risks, such as lab leaks, and
+emerging threats, such as engineered pathogens.
+

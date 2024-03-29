@@ -1,0 +1,173 @@
+                THE UNIVERSITY OF
+
+                SYDNEY
+
+
+
+
+Commonwealth Government COVID-19
+         Response Inquiry
+
+
+
+            Submission
+
+       Brain and Mind Centre
+        University of Sydney
+
+
+
+
+            December 2023
+Introduction
+
+Thank you for the opportunity to make this submission to the Inquiry. The challenges posed by
+COVID-19 were extraordinary and remain threatening. There is much to be commended about the
+way Australia responded to these challenges, but also some key lessons which could better prepare
+us for future threats.
+
+Dynamic modelling represents vital new expertise in helping us to understand and organise to
+respond to fluid situations, such as that posed by COVID-19.
+
+About the Brain and Mind Centre
+
+
+The University of Sydney's ai ai j IVI d Centre is a network of researchers and clinicians who
+partner across borders and disciplines in pursuit of a common goal: to develop better treatments for
+conditions of the brain and mind and improve health outcomes now and for future generations. Our
+multidisciplinary research teams are at the forefront of brain and mind sciences. We seek answers to
+some of the world's greatest health challenges, including:
+
+•   Childhood development and behaviour, such as autism and behavioural disorders
+•   Youth mental health and addiction, including youth, addiction, gambling and mental health
+    policy
+
+Under our economics and systems science stream, we also provide research and ideas on how best
+to design a contemporary mental health system, fit for purpose in the 21st century. We are
+developing next generation clinical and systems-based decision support tools, utilising participatory
+systems modelling approaches. We harness data science methods and innovation from across
+disciplines in order to achieve advances in the mental health and mental wealth of young people.
+
+COVID-19 Related Research
+
+Dynamic Systems Modelling
+
+We have presented information to the Australian public regarding the capacity of dynamic systems
+models to maki th rr st       invesi nents in mental health. Our paper in Nature outlined the major
+challenges and priorities to ensure that models are used to reliably guide policy and allocate
+resources.
+
+At the outset of the COVID-19 pandemic, systems models were rapidly deployed in many countries
+to estimate the likely trajectories of transmission, mortality, and health system burden, to determine
+the most impactful mitigation strategies, and to most effectively allocate limited resources. We
+modelled multiple COVID-19 trajectories and showed that the optimal mental health strategies were
+consistent across these scenarios.
+
+The COVID-19 pandemic demonstrated the significant value of systems modelling in supporting
+proactive and effective public health decision making despite the complexities and uncertainties that
+characterise the evolving crisis.
+
+The same approach is possible in the field of mental health. However, a commonly levelled (but
+misguided) criticism prevents systems modelling from being more routinely adopted, namely, that
+the presence of uncertainty around key model input parameters renders a model useless.
+
+
+
+                                                                                                        2
+This recent study explored whether radically different simulated trajectories of suicide would result
+in different advice to decision makers regarding the optimal strategy to mitigate the impacts of the
+pandemic on mental health. This study demonstrates that robust decision making can occur even in
+the presence of significant uncertainty about the social and economic impacts of covid-19 on mental
+health.
+
+Another recent paper, currently under review, compares simulation results for a set of progressively
+more refined models with data on psychological distress, suicide, intentional self-harm
+hospitalisations, and mental health-related ED presentations published after our initial projections
+were released in July 2020. We show that our apparent overestimation of the mental health impacts
+of COVID-19 was due primarily to our assumption that new cases of moderate to very high
+psychological distress emerging as a result of the pandemic could be considered equivalent to pre­
+pandemic cases (with the same per capita rates of spontaneous recovery and suicidal
+behaviour). The results suggest that accommodating the influence of prior mental health on the
+psychological effects of population-wide social and economic disruption is likely to be essential for
+accurately forecasting the mental health impacts of future public health crises as they arise.
+
+Suicide Modelling
+
+With considerable recent resources allocated to suicide prevention and universal aftercare, we have
+used systems modelling and simulation to consider population-level decision making for best
+strategic allocation of limited resources. We have shown that impactful youth suicide prevention
+requires a combination of social connectedness programs, technology-enabled coordinated care,
+post-attempt assertive aftercare, reductions in childhood adversity, and increasing youth
+employment. Together, these measures could effectively reduce self-harm hospitalisations (suicide
+attempts) by 28.5% and suicide deaths by 29.3%. Introducing additional interventions beyond the
+best performing suite of interventions produced only marginal improvement in population level
+impacts, highlighting that 'more is not necessarily better.'
+
+Other Initiatives
+
+The Centre provided a serie               rs entitled "Flattening the mental health and suicide curve
+post-COVID-19 - Beyond prevention, which active interventions will help?" One of these webinars
+discusses dynamic models and interventions to inform decision-makers responding to the mental
+health and suicide prevention crisis due to COVID-19. Another focused on youth mental health from
+the perspective of seven carers who have had experience in or are ongoingly supporting their young
+person to navigate the mental health system. This webinar, led by the carers themselves, explored
+topics such as the difficulties in supporting loved ones with suicidal thoughts and behaviours. We
+openly discuss the potential to make positive changes to mental health advocacy, access, stigma and
+discrimination to #FlattenthelVlentalHealthCurve.
+
+Members of our Centre also contributed to development of papers comparing Australia's response
+to COVID-19 with other parts of the world, specifically in relation to mental health.
+
+
+
+
+                                                                                                    3
+Our Key Findings
+
+Modelling published by the Brain and Mind Centre found that employment programs are the single
+most effective strategy for mitigating the adverse mental health impacts of the COVID-19 crisis. This
+work underscored the importance of sustaining the duration of the program, indicating that
+extending employment programs (primarily JobKeeper and JobSeeker) from May 2021 to May 2022
+could prevent an additional 9,272 ED presentations, 1,114 self-harm hospitalisations, and 123 live
+losi :o       over the period 2020-2025.
+
+These findings focused largely on working age populations and men.
+
+Other modelling explored COVID-19's impact on women, finding they had been disproportionately
+affected by the pandemic through structurally imposed vulnerabilities, likely to increase the mental
+health gender gap particularly as a result of increased rates of job loss due to their greater
+representation in precarious employment and ineligibility for JobKeeper. This report recommended
+that gender-informed policies are needed, combining economic, social, and mental health services
+interventions with a gender equity lens.
+
+Our COVID-19 modelling found that associated social disruption had greatest adverse impacts on
+young people. We were able to suggest a suite of services to address these impacts, combining
+social connectedness programs, technology-enabled care, post suicide-attempt care, Direct Access
+to specialist services, and increased capacity in psychologists, psychiatrists, mental health nurses,
+social workers, occupational therapists and other skilled allied service practitioners. Such a
+combination could yield the maximum benefit for reducing psychological distress, self-harm
+hospitalisations (10.6%), suicide deaths (11.2%), and mental health related Emergency Department
+(ED) presentations (9%).
+
+While modelling enables new capacity to identify problems and their potential solutions, our final
+key finding over this period was that as they currently stood, Australian mental health services were
+inadequate and not able to respond effectively to this scale of social disruption.
+
+Conclusion
+
+
+Systems modelling and simulation offers a robust approach to leveraging best available research,
+data, and expert knowledge in a way that helps decision makers respond to the unique
+characteristics and drivers of mental illness and suicidality. These models are evolving rapidly. The
+Brain and Mind Centre is a leader in this process. There is now compelling evidence to indicate the
+merit of increased use of these modelling techniques to plan and organise better and more accurate
+responses to mental illness, including in times of crisis.
+
+Centre staff would be delighted to discuss our work in systemic modelling and in response to COVID-
+19, with the Inquiry, at your convenience.
+
+
+
+
+                                                                                                        4
+

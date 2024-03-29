@@ -1,0 +1,173 @@
+14 December 2023
+
+Robyn Kruk AO
+Independent Chair
+Commonwealth Government Covid-19 Response Inquiry
+
+
+Member of the public submission:
+
+Introduction:
+
+We seek to raise a number of matters which we believe will help inform both current and future responses to
+population threats such as those that occurred following the declaration of the COVID-19 emergency/pandemic.
+Specifically, we seek to draw attention to vaccine approval, distribution, public health messaging, treatment
+pathways and the compensation scheme instigated for the management of COVID-19.
+The Commonwealth response in procuring vaccines and the role of government in informing the general public of
+any associated risks should be the focus of extensive examination. Early understanding of mortality associated with
+COVID-19 led to compulsory vaccine mandates, while in hindsight it is likely that there was an over-estimation of
+'lives saved' or inaccuracies in the estimation of the balance of risks, especially for our younger population. True
+informed consent could not be established given the novel nature of the new virus, however emerging evidence of
+vaccine risk was not countered by explicit public messaging or a repositioning of Australia's COVID-19 strategy. For
+example, to continue offering the AstraZeneca ('AZ') vaccine (ChAdOxlnCoV-19 Oxford-AstraZeneca) without a
+significant education campaign to health professionals and the general public most likely contributed to delayed
+diagnosis and in some cases death. Supply chain logistics for the availability of essential drugs for the management
+of mild, moderate or catastrophic side effects appeared unorganised despite engagement between public and
+private hospitals facilities. State/Commonwealth responsibilities across the health sector during this time
+demonstrated the fragmentation that exists, with primary care and aged care receiving messaging from the
+Commonwealth while the hospital sectors were largely responding to State requirements.
+
+It would be our preference to speak to the issues raised to ensure there is sufficient clarity in the detail provided
+given the limitations associated with a written submission.
+
+Sporadic distribution of vaccines:
+    •       Procurement of vaccines was managed by the Commonwealth
+    •   State distribution appeared uneven and became further skewed by local authorities determining rollout
+        requirements. For example, large public hospitals made choices for other services within district areas as to
+        both the type of vaccine and the quantity that would be distributed at any given time. This unusual
+        methodology restricted vaccine roll-out and delivery efficiency. The lack of a standard approach again
+        demonstrated the State/Commonwealth fragmentation interfering with process proficiency. During a
+        national emergency of this nature, there should be provision for a single, unified and consistent national
+        approach.
+
+Public Health messaging:
+    •   Despite being established in 1998, the emergence of the Australian Technical Advisory Group on
+        Immunisation (ATAGI) rose in prominence during the pandemic. ATAGI in itself was an example of a
+        centralised approach to providing public and health professional confidence in what was being asked of the
+        population during this period. Coupled with weekly reports from the Therapeutic Goods Administration
+        (TGA), both departments offered a cohesive narrative at least for the first year - 2020. Information became
+        less clear with inconsistencies appearing between State advisors, Chief Medical Officers and the
+        Commonwealth, researchers and epidemiologists. By June 2021, and with with each new variant that
+        emerged, information became inconsistent and often confusing.
+    •   Initial advice - vaccinate as soon as possible regardless of age then was amended to being vaccinated
+        outweighed any risk associated with a vaccine. As the Delta variant emerged, the advice was made more
+        general again - seek whichever vaccine may be available. While international data identified an increasing
+        risk profile for both dominant vaccines (AZ and Pfizer), messaging became more confused with
+        recommendations to visit a GP to assess personal risk (despite the triggers for severe or catastrophic
+       reaction being unknown - which remains the case). The developing risk settings led to public confusion and
+       impacted vaccine uptake, with a community divide occurring between 'anti-vaxers' and those vaccinated,
+       further compounding confusion through fear. The AZ vaccine was eventually withdrawn November 2023.
+May 2021:
+       https://www.health.gov.au/news/joint-statement-from-atagi-and-thanz-on-thrombosis-with-
+       thrombocytopenia-syndrome-tts-and-the-use-of-covid-19-vaccine-astrazeneca
+   "TTS is a rare condition with a different mechanism to most other causes of thrombosis and/or thrombocytopenia. Among case reports, there are no known
+   markers for increased risk for TTS.
+   Based upon this, the following groups of people can receive COVID-19 Vaccine AstraZeneca:
+         •                People with a past history of venous thromboembolism in typical sites, such as deep vein thrombosis or pulmonary embolism
+         •                People with a predisposition to form blood clots, such as those with Factor V Leiden, or other non-immune thrombophilic disorders
+         •                People with a family history of clots or clotting conditions
+         •                People currently receiving anticoagulant medications
+         •                People with a history of ischaemic heart disease or cerebrovascular accident
+         •                People with a current or past history of thrombocytopenia.
+               Vaccination against COVID-19 remains the best way to prevent severe illness and death from COVID-19. The benefits of vaccination are many
+               and include protection against severe illness and death from CO VID-19 for the individual, as well as indirect benefits for the community. The risk
+               of potential outbreaks of COVID-19 is ever-present. The Australian population remains largely unimmunised and susceptible to COVID-19 risks."
+ATAGI-October 2021
+        "           ATAGI stresses that vaccination is a key public health intervention to prevent infection, transmission and severe disease due to SARS-CoV-2. ATAGI
+        recommends CO VID-19 vaccination for all Australians from 12 years of age."
+        "ATAGI also noted that the TGA have been reporting a detailed breakdown of Australia's confirmed and probable TTS cases weekly using the CDC
+        Criteria. ATAGI noted these data suggest that the severity of TTS appears to be higher in younger women. These differences by sex are not seen in
+        older people."
+TGA - 2 November 2023
+        "The Vaxzevria (AstraZeneca) vaccine is no longer available for use in Australia. Almost 14 million doses of Vaxzevria (AstraZeneca) were administered
+        when it was in use."
+
+
+Treatment and Drug Supplies:
+   Drugs required to treat severe and catastrophic complications of the AZ vaccine were in short supply. For
+   example, intravenous Bivalirudin® required special sourcing despite being a mainline treatment for Vaccine-
+   induced Immune Thrombotic Thrombocytopenia (VITT) and formed part of the recommended THANZ protocol
+   https://www.thanz.org.au/documents/item/590 and https://www.thanz.org.au/documents/item/591
+        Key points Date published: 23 May 2021 Type: News; Audience: General public
+        TTS, also known as vaccine induced thrombotic thrombocytopenia (VITT), is a rare newly identified condition with a different mechanism to
+        other causes of thrombosis. Among case reports, there are no known markers for increased risk for TTS/VITT.
+        The risk of TTS is not likely to be increased in people with the following conditions, and people in these groups can receive CO VID-19 Vaccine
+        AstraZeneca:
+        TTS can be treated effectively. Guidance on the identification and management of TTS is available from the Thrombosis and Haemostasis
+        Society of Australia and New Zealand.
+   •    Subsequent supply of ongoing drugs therapies for the management of unresolved risk factors relating to
+        VITT has also complicated care regimes:
+        https://www.tga.gov.au/safety/shortages/information-about-specific-shortages/about-warfarin-shortage-
+        2023
+   •    Disruption to critical supply chains continues as an issue with over 400 drugs in short or no supply in
+        Australia. Lack of a central procurement model for critical supplies - PRE, medication, medical devices to
+        ensure uninterrupted supply (and continue with a 'war chest') appears unsuccessful. Larger volume
+        purchasing would likely prioritise Australia for available stock/shipment.
+
+Impact and ongoing care needs
+   •    The Commonwealth recognition of ongoing health care needs for those who suffered vaccine induced
+        injuries/conditions has been slow or non-existent. While there has been superficial discussion around
+        mental health support for those with 'long COVID' symptoms, other conditions and their on-going care have
+        been largely ignored, with patients incurring significant debt and time imposts to manage unresolved health
+        impacts e.g. weekly to monthly blood tests - clotting profiles: medications e.g. warfarin; iron deficiency
+        secondary to anticoagulation treatments especially in women. In a number of cases, the trigger for the
+        antibody response that was responsible for clot formation (which remains unknown) remains active and
+        therefore has a 'lifelong' consequence for those impacted.
+   •    The Commonwealth through the development of an Australian Centre for Disease Control should give
+        consideration to a scheme not dissimilar to that provided to Veterans (Gold Card) for those with proven
+       vaccine injuries to ameliorate the disease burden over the person's lifetime and provide the person with
+       certainty of access to ongoing treatment.
+       https://www.dva.gov.au/get-support/health-support/veteran-healthcare-cards/veteran-gold-card
+
+Legal indemnity and interpretation
+   •       A spokesman for the federal health department said the government was |
+                                          ■and had agreed to indemnify the drug companies due to |
+
+       (https://www.smh.com.au/politics/federal/morrison-government-grants-indemnity-for-covid-19-vaccine-
+       side-effects-20201008-p5636o.html).
+   •   By indemnifying the vaccine companies AstraZeneca and Pfizer, the Commonwealth has contractually agreed
+       to cover any losses or damage caused by these companies, specifically any adverse reactions to their
+       vaccines.
+   •   The Commonwealth's COVID-19 Vaccine Compensation Scheme appears to have failed in assuming this
+       onus. The scheme was poorly conceived placing significant obligation upon especially those with already
+       proven vaccine injuries (i.e. reported to TGA); is inadequately staffed and c ra :d, and fails in achieving
+       timely and regular communication with claimants and ultimately, does not adhere to the High Court's
+       interpretation of an indemnity's 'make good' obligation in Andar Transport Pty Ltd v Brambles Ltd.
+   •   There is a sense of abandonment by the Commonwealth government with the scheme itself being
+       impersonal. There appears to be a general lack of oversight o^ssessments, outcomes, and determinations.
+       (For example: a claim filed on            and followed                   a nd                    has not
+       had any review or acknowledgement response. (To date not a single communication in response, not even a
+       simple automated confirmation email upon submission). Services Australia's approach is simply - do not
+       ask. https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-
+       scheme?context=55953
+
+Data, learning and lost momentum
+   •   The impact of COVID-19 upon the various population groups is one that requires greater examination
+       including but not limited to: the community divide created for those who objected to vaccination and those
+       that followed mandates; those who contracted long COVID-19; those that incurred vaccination injuries and
+       ongoing conditions; those that were prevented from visiting loved ones in hospital or at funerals and the
+       overall investment to prevent lives lost,
+   •   New vaccines are e ergin to deal with SARS-Cov2 variants - have we applied the same public disclosure
+       and monitoring 'guard rails' to their release? Vaccine 'technology' should be explored with greater care until
+       rare and catastrophic side effects causative factors are better understood. In both instances, greater public
+       disclosure is required.
+
+Research
+   •   Th Commonwealth should require drug companies to continue researching the effects of their vaccines
+       even after roll-out to ensure that they find what triggers and creates such significant adverse events. While
+       Australia's mortality rate was lower, this appears to be related to the timing off the vaccine roll out in
+       Australia and our ability to take advantage of international learnings rather than a 'best practice' outcome.
+   •   A 'mandatory investigation' clause should be included in any agreement that considers the transfer of
+       liability/indemnity arrangements to ensure that complete onus is not taken away from the pharmaceutical
+       companies. More importantly, this would better align with their manufacturer responsibilities under the
+       Australian Consumer Law ('ACL').
+   •   Australia's product liability regime for 'defective goods' is set out in the ACL. 'Goods' have a safety defect if
+       their 'safety is not such as persons generally are entitled to expect'. Under the ACL, a manufacturer is liable
+       to compensate an individual if the goods have a 'safety defect' and the individual suffers injuries because of
+       the defect. This means that as the manufacturer of the vaccine, drug companies have a responsibility to
+       research and understand why their goods are defective.
+
+
+We request this submission remain private - no publication of names.
+We may be contacted - details:
+

@@ -1,0 +1,149 @@
+                           Submission to the COVID-19 Response Inquiry
+                This submission is relevant to the first two areas of review in the terms of reference.
+
+
+
+About the author.
+I am a retired occupational hygienist. Occupational hygiene is the science of anticipating,
+recognising, evaluating and controlling health hazards in occupational environments. In almost all
+workplaces, the vast majority of health hazards that occupational hygienists deal with are airborne
+ones. My first job in occupational hygiene was in the South Australian Department of Public
+Health where I established for the first time in South Australia the ability to measure airborne
+asbestos and airborne respirable crystalline silica by the currently accepted methods in order to be
+able to control those airborne health risks.
+
+
+Summary.
+This submission is concerned with three very important failures during Australia's response to
+Covid-19. These failures continue to the present day. They are:
+     1. A failure to understand the implications of the scientific findings about the airborne
+        transmission of the SARS-CoV-2 virus, and therefore the range of expertise needed to
+        properly respond to the epidemic.
+     2. A gross failure in public health messaging, particularly as it relates to airborne
+        transmission, but also more broadly.
+     3. A failure to properly use Australia's Workplace Health and Safety (WHS) legislation to
+        control the airborne transmission of the virus.
+
+
+Airborne transmission of the SARS-CoV-2 virus.
+The Lancet Commission carried out a very detailed and very well documented review of the
+response to the Covid-19 pandemic. They were critical of the time it took the WHO to
+acknowledge the role of airborne transmission and said1:
+    A paradigm shift in how we view and address the transmission of respiratory infectious diseases is underway.118
+    Airborne transmission in both the near-fields and the far-fields is a crucial, if not dominant, exposure pathway for
+    SARS-CoV-2 and other respiratory viruses. Laboratory, field, modelling, and case studies have shown that airborne
+    transmission through the inhalation of a virus-laden aerosol is important, if not dominant, for COVID-19.119132
+    Although transmission can occur through touch, it is rare for respiratory viruses, and touch and spray transmission
+    are not likely to contribute to widespread transmission or superspreading events. As nearly all transmission occurs
+    indoors, the way in which we design and operate building ventilation and filtration systems can reduce transmission.
+
+This submission does not address how long it took the various Australian health authorities to
+acknowledge the science of airborne transmission of the SARS-CoV-2 virus, but points out that it is
+an extremely important question, as Australia's response to future new health threats must be
+flexible and must change and adapt to scientific knowledge as it evolves.
+
+
+
+ The Lancet Commission on lessons for the future from the COVID-19 pandemic, page 13. Report first published online on September 14, 2022
+https://doi.org/10.1016/ 50140-6736(22)01585-9 Superscript numbers in the section quoted refer to the documents cited in the Commission's
+report.
+                                                           January 4, 2024.
+Submission by David Hamilton to the Covid-19 Inquiry                                                                                  Page 2
+
+Once the science of the airborne transmission of the virus had been accepted, however, numerous
+changes to Australia's response arrangements should have happened immediately. Most
+importantly, the top expert groups advising National Cabinet should have been widened to
+include people with established expertise in the management and control of airborne health
+hazards, such as aerosol scientists, occupational hygienists, and ventilation engineers. Australia is
+fortunate to be well supplied with people with a wide range of relevant expertise, and it should be
+a matter of national shame that several of the prominent names from OzSAGE2 were not, and are
+still not at the centre of national advice.
+Another key outcome from updated scientific understanding of the transmission of the virus
+relates to the role of masks. It should have been realised that the aerosol sizes masks needed to
+block were some orders of magnitude smaller than originally thought, and that this called for
+respiratory protection that had been certified to at least P2 standard in AS/NZS 17163. Neither cloth
+masks nor surgical masks are so certified and are therefore not fit for the purpose of protecting
+wearers against the transmission of the virus. Nevertheless, some Australian health authorities still
+recommend such masks, or for example, fail to distinguish between mask types while showing
+footage of masks that are not P2 respirators4.
+
+
+Public Health Messaging.
+Health risk messaging was an important part of my job as an occupational hygienist, particularly
+when I was employed in industry. The clear absence of buy-in for Covid precautions such as mask
+wearing amongst significant (and vocal) sections of the population is evidence of the failure of
+public health messaging. The Inquiry will hopefully dig very hard into this aspect of Australia's
+response.
+When the airborne nature of the transmission of the SARS-CoV-2 virus was properly understood,
+much of the earlier public health messaging about the primary importance of hand sanitising and
+social distancing indoors turned out to have been wrong, but no attempt was made to correct the
+record. Yes, more recent messaging may now mention ventilation, but how many Australians
+realise that our fundamental understanding of how the disease is transmitted from person to
+person has changed since the early days of the pandemic? If I had so badly mishandled health risk
+messaging as an occupational hygienist working in industry I would have deserved to have lost
+my job.
+
+
+Relevance of Australia's Workplace Health and Safety (WHS) Legislation.
+Workplace Health and Safety is regulated in Australia by States and Territories, through a system
+of nationally harmonised legislation and other requirements5. These include a Model WHS Act,
+Model WHS Regulations, and Model WHS Codes of Practice6. The model WHS Act imposes a
+range of general duties which are intended to be universally applicable to all Australian
+workplaces. Section 19 starts as follows7:
+
+
+
+2 https://ozsage.org/member-list/
+3 Australian/New Zealand Standard 1716:2012 Respiratory protective devices. Standards Australia and Standards New Zealand, 13 February 2012.
+4 https://wwwhealth.gov.au/resources/videos/covid-19-video-staving-safe-from-covid-19?language=en at time 0.19. Department of Health and
+Aged Care, advertisement last updated 22 December 2023.
+5 A good overview of the arrangements can be found at https://www.dewr.gov.au/work-health-and-safety
+6 https://www.safeworkaustralia.gov.au/law-and-regulation/legislation
+7 https://www.safeworkaustralia.gov.au/sites/default/files/2023-12/model-whs-bill-23 november 2023.pdf page 28.
+
+                                                              fanuary 4, 2024.
+Submission by David Hamilton to the Covid-19 Inquiry                                                                        Page 3
+
+    19 Primary duty of care
+        (1) A person conducting a business or undertaking must ensure, so far as is reasonably practicable, the health and
+            safety of:
+            (a)            workers engaged, or caused to be engaged by the person; and
+            (b) workers whose activities in carrying out work are influenced or directed by the person, while the workers
+                are at work in the business or undertaking.
+        (2) A person conducting a business or undertaking must ensure, so far as is reasonably practicable, that the health
+            and safety of other persons is not put at risk from work carried out as part of the conduct of the business or
+            undertaking.
+        (3) Without limiting subsections (1) and (2), a person conducting a business or undertaking must ensure, so far as
+            is reasonably practicable:
+            (a) the provision and maintenance of a work environment without risks to health and safety; and
+
+
+These provisions are highly relevant to the management of the Covid-19 health risk in Australia
+because:
+    1. The laws are designed to be as universal as possible, covering all health risks in all
+       workplaces, including those operated by volunteer organisations.
+    2. Since "nearly all transmission occurs indoors"8 it is very hard to envision a building other
+       than a private dwelling which is not also a workplace for some or all of the people who go
+       there.
+    3. Therefore, minimising transmission of the virus in all Australian workplaces, as already
+       required in Australian WHS laws, should go a long way to reducing the incidence of Covid-
+       19 in Australia.
+Some further provisions of Australia's WHS laws are relevant. The Model WHS Regulations
+include the hierarchy of control9, the relevant components of which are, in descending order of
+preference:
+   •     Engineering controls - ventilation or air filtration in the case of the SARS-CoV-2 virus;
+    •        Administrative controls - testing and isolating infectious persons; and finally
+    •        Personal protective equipment - respiratory protection.
+Clearly, legislation that is not enforced will not reduce transmission. It is also clear that minimising
+transmission indoors by providing adequate ventilation cannot be achieved overnight. We have
+the legislative underpinning: what is needed are the programs to help every Australian workplace
+comply with existing laws which require minimising the transmission of the virus in all indoor
+workplaces.
+
+
+
+
+8 Lancet Commission as quoted on page 1 of this submission.
+9 https://www.safeworkaustralia.gov.au/sites/default/files/2023-08/model~whs-regulations-l august 2023.pdf regulation 36.
+                                                              January 4, 2024.
+

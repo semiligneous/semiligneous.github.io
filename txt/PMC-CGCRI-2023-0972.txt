@@ -1,0 +1,90 @@
+Submission from Geoffrey Taylor
+
+(I am relying on this in Scope: "Specific areas of review may include, but are not limited to”. So a
+little here on therapeutics.
+
+About me
+
+I am a retired professor in work health and safety, and decided to exchange information through
+Researchgate in a question I posed in March 2020 about use of existing drugs to tackle covid (1). I had
+already obtained the treatment protocol used in Wuhan early on                        and passed it to
+the WA health authorities.
+
+Repurposing medicines
+
+           M(2) had produced a grid of existing drugs and existing antiviral tests of them,
+           in NSW Health had produced a list of potential drugs to repurpose for covid including
+cepharanthine, an over the counter hair restorer in Japan. At that time we had none of the purpose
+created antivirals for covid which started to appear two years later. The first option I raised was
+ranitidine bismuth citrate, aimed at influencing cell pH.
+I later took part in a six continent online seminar in April 2021 to discuss deployment of ivermectin, after
+                   2020 Christmas review of the existing papers on it.
+
+Suggested improvements
+
+So this submission relates to suggested improvements in the deployment of some aspects of Australian
+science which arise from the experience of the last four years.
+
+I would like to see the Australian Academy of Science play a much larger role in coordinating the
+scientific therapeutic response to a pandemic, especially in regard to medicines which might nip it in the
+bud, an essential approach for viruses. Whatever our view on ivermectin, Peru, after^^^^^^^^^^l
+paper about its successful use in early 2020, went on to have a university make it. For our part we have
+numerous university organic chemistry departments. (btw^^^H was apparently the first pulmonologist
+to use ECMO in Peru). For Australia's part, we did not follow up with trials in Australia after the
+promising lab work by                      Also the TGA said depriving certain people with conditions
+other than covid of ivermectin supplies was one reason for heavily restricting its use for covid. Another
+was possible toxicity, although it had had extensive use in northern Australia and the UK's Chief Scientist
+in 2020 had allayed fears on that score over a decade ago, while the TGA had itself conducted an
+extensive fav                     ew not so many years ago. The trial registered in Parkville, Victoria never
+went ahead,                       here treated 600 patients with ivermectin. We did nothing about
+cepharanthine                          ivo animal trials in China. In relation to symptomatic treatment, I
+am not sure that                         ork in Pt Edward, South Africa recorded in the Kwazulu Medical
+Journal and explained online was ever taken up here. Mindful of the work of              and others on
+blackseed (Nigella sativa) I had just bought supplies when the first of the oral antivirals started to
+become available here. However given what happened to a number of medical practitioners, the one
+doctor from the subcontinent who had been a co-author of a trial report on Nigella would probably have
+been loath to speak about it here, having moved to the Australian AHPRA environment.
+So for its part, the Therapeutic Goods Administration needed to go into a pandemic mode with a more
+activist role instead of just saying come to us with your trials and $300,000 and we'll consider your
+repurposed medicine. Unlike the federal Health Department centrally, the TGA head was at least willing
+to engage with people with a genuine interest in dealing with an evolving menace. I experienced better
+engagement with the EU Health Commission than with our central department. However feedback
+suggested a tendency on the part of some ACMS members advising the TGA on medicines to report any
+attempt at direct contact as harassment. The corresponding body in the US had each member explain
+their vote online (operationalising continuous Australian democracy is a work in progress, as evidenced
+by eg. a still unlegislated national cabinet). It is also suggested that any delegations by the Minister for
+Health or the head of that Department be published in an easy to access site giving the delegate's name
+It was a real round the mulberry bush to find out whose decision an appeal could lodged against, the
+OAIC wasn't helpful, there are severe restrictions on the grounds of appeal to the AAT ( almost as if the
+drug companies were the only ones who might want to appeal), and the Ombudsman didn't seem keen
+to engage about a TGA decision which restricted a doctor's decision to do what he or she believed was
+in the patient's best interests at that time. This needs to change.
+
+Some simple things which could have been recommended from early on in the pandemic included
+iodine throat gargle to tackle the first symptoms of throat infection, carrageenan nasal spray readily
+available over the counter (based on favourable indications from hospital staff from Carvallo in
+Argentina), and Vitamin D supplementation if levels were low.
+
+I also hope the documents, which federal Health now produces to assist federal biosecurity authorities
+to operationalise quarantine of incoming ships, have been rewritten in a usable way, and that a
+department like DAWE with the legislated operational responsibility is suitably staffed to carry it out,
+and that any problems with a pandemic response are identified in trials. The one before covid
+apparently didn't pick up the weak spots, or if it did, they weren't fixed. The Uncle^^^^^^^^nd all
+approach to incoming cruise ships seems to have been sorted out by later in the pandemic.
+
+
+
+References:
+
+1. https://www.researchgate.net/post/COVID-19-Are-there-any-promising-suggestions-for-interim-
+medications-while-a-vaccine-is-being-developed
+
+2. Reference: Andersen, P.I.; lanevski, A.; Lysvand, H.; Vitkauskiene, A.; Oksenych, V.; Bjoras, M.;
+Telling, K.; Lutsar, I.; Dumpis, U.; Irie, Y.; Tenson, T.; Kantele, A.; Kainov, D.E. discovery and
+Development of Safe-in-Man Broad-Spectrum Antiviral Agents. International Journal of Infectious
+Diseases. DOI:https://doi.org/10.1016/j.iiid.2020.02.018
+
+3. Caly L., Druce J.D., Catton M.G., Jans D.A., Wagstaff K.M. The FDA-approved drug
+ivermectin inhibits the replication of SARS-CoV-2 in vitro. Antivir
+Res. 2020;178(104787).
+

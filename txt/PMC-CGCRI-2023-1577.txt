@@ -1,0 +1,166 @@
+                                                            UNSW
+                                                            Kirby Institute
+
+
+
+
+                     Commonwealth Government COVID-19 Response Enquiry
+
+                       Submission on behalf of Kirby Institute, UNSW Sydney
+
+
+
+About the Kirby Institute and our involvement in the COVID-19 response: The Kirby Institute
+at UNSW Sydney is an infectious diseases research centre with over 400 full-time equivalent
+staff, established in 1986 in response to the HIV epidemic. We have since become involved in a
+wide range of infectious diseases and had a major involvement in various aspects of the global,
+national and local response to the COVID-19 pandemic. Areas in which we were active include
+viral geno -and pheno-typing and characterisation, establishment of longitudinal cohorts to
+track the short and longer-term impact of infection, population surveillance, provision of
+point-of-care testing to Aboriginal and Torres Strait Islander communities in remote and
+regional settings, epidemiological analysis of the impact of interventions on case numbers and
+transmission and mathematical modelling to predict vaccine effectiveness. We can provide a
+full list of our publications on COVID-19 as needed. A number of our academic staff also served
+on national expert groups, both ongoing and ad hoc, that were asked to provide high level
+advice to government on various aspects of pandemic response.
+
+Based on these various experiences, we offer the following recommendations to the review,
+with a primary focus on the role of research and its interface with governmental decision­
+making and program implementation.
+
+     1.   Establish open, expert-driven processes to compile and synthesise scientific
+          evidence:
+
+What happened during the pandemic: Scientific evidence synthesized using widely agreed
+techniques is a key input for the development and implementation of health policy. A flood of
+scientific information emerged on key aspects of SARS-CoV-2, including occurrence,
+transmission, health outcomes, treatment and vaccine impact. Much of this information came
+in the form of preprints that had not been peer-reviewed. Evidence syntheses were
+undertaken by many organisations and individuals, including several resourced and set up by
+the Australian Government. Some of the publicly funded synthesis mechanisms were open and
+transparent, including the National COVID-19 Clinical Evidence Taskforce based at Monash
+University (see https://research.monash.edu/en/projects/national-covid-19-clinical-evidence-
+taskforce). Others such as the National COVID Health and Research Advisory
+(https://www.nhmrc.gov.au/about-us/leadership-and-governance/committees/national-
+covid-19-health-and-research-advisory-committee) operated in a much more constrained
+manner, with agendas and reports not made available beyond a very limited recipient list.
+Across the many initiatives there was massive duplication of effort as well as gaps and
+inconsistencies in the outputs of the various syntheses.
+
+Recommendation for improvement: (a) Identify broad areas in which urgent evidence
+syntheses may be required in a pandemic emergency, (b) Designate transparent, resourced
+mechanisms for undertaking syntheses in these areas, potentially involving the new Australian
+Centre for Disease Control (ACDC) in collaboration with recognised experts (c) Publish in a
+
+
+
+Kirby Institute
+Level 6, Wallace Wurth Building, UNSW SYDNEY NSW 2052 AUSTRALIA
+T +61 (2) 9385 0900 | E info@kirby.unsw.edu.au | kirby.unsw.edu.au | ABN 57 195 873 179
+publicly accessible forum regular updates on the agendas, methods and outcomes of the
+syntheses.
+
+    2.       Minimise barriers to developing and accessing key data sets
+
+What happened during the pandemic: There was an urgent need for a wide variety of real­
+time data sets to track the pandemic across the Australian population, monitor interventions
+and their impact, and predict the outcomes of policy options. There was also a need for
+integration across these diverse sets of data. Many of these data sets required new resources
+and collection processes. The governmental processes for determining methodologies and
+awarding contracts were often via professional consulting companies under broad service
+contracts, and not always subject to expert scrutiny, so may not have led to optimal systems
+and outcomes. Other issues included diverse approaches to collection and use of data across
+jurisdictions, restrictions on access to data sets that seemed to go well beyond the obvious
+requirements of individual privacy protection, and difficulties in linking the different datasets.
+
+Recommendation for improvement: (a) Develop a data strategy, potentially via the ACDC, that
+designates broad areas in which urgent data collection would be required in a pandemic
+emergency, (b) Identify partnership arrangements, potentially coordinated by the ACDC, for
+developing protocols and procedures, with associated budgets, to address data collection, (c)
+As appropriate, undertake pilot projects to develop the proposed methods during inter­
+pandemic periods, (d) For each data set, make access available in real time to suitably qualified
+research groups, under conditions related to publication and other dissemination of findings,
+(e) Design an a-priori format that facilitates the integration of diverse datasets. We note that
+the Kirby Institute's long-term role in compiling and analysing national HIV data sets, with high-
+level community and government input into regular reporting and other forms of
+dissemination, provides a strong model for such arrangements.
+
+    3.   Minimise barriers for accessing biological specimens for analysis by suitably
+         credentialled laboratories
+
+What happened during the pandemic: A range of public and private laboratories at the
+jurisdictional level were the primary recipient of routine specimens collected for SARS-CoV-2
+diagnosis. Specimens of public health importance were forwarded to designated laboratories
+at jurisdictional level, and hospitals had access to various specimens from admitted patients.
+Genomics surveillance networks were established to share information on viral sequences.
+ Meanwhile, research laboratories around the country developed techniques of value on
+characterising circulating viral sub-types and strains and understanding their properties but did
+not always have access to relevant specimens in a timely manner. The limitations were often
+due to differences in both willingness and ability to share viral isolates, sometimes constrained
+by various pieces of legislation or their interpretation. Biobanking and specimen access
+procedures have been effectively established for some infectious agents, including HIV but
+were not available in real time for SARS-CoV-2.
+
+Recommendation for improvement: (a) Establish biobanking arrangements that allow
+designated, pre-qualified public health, diagnostic and research laboratories to gain access to
+relevant specimens in real time, without compromising relevant public health functions, b)
+review the intent of acts that limited the safe sharing of viral swabs and isolates at
+jurisdictional and cross-jurisdictional level.
+
+
+
+
+                                                                                             Page | 2
+    4.   Ensure that Australia makes optimal contributions to the search for therapeutic
+         strategies
+
+What happened during the pandemic: The clinical trial response during the initial phase of the
+COVID-19 pandemic was disorganized and disconnected from the Australian health care
+system. Unlike what happened in the development of therapeutic guidelines for COVID-19,
+there was inadequate utilisation of Australia's considerable clinical infectious disease and
+clinical research expertise. Furthermore, a highly contentious issue that emerged with the
+pandemic was the choice of agents that should be considered for therapeutic trials and other
+forms of research into treatment. It was clear even at the time that some of the proposed
+agents were highly speculative (ivermectin, BCG and hydroxychloroquine for example), and
+that Australian clinical attention and resources should have been directed down pathways that
+were more likely to yield fruitful outcomes. However, multiple funding sources, some of them
+well outside the usual mechanisms for supporting therapeutic research, were quite influential
+in steering clinical sites and networks in these unhelpful directions. On the other hand, we
+missed the opportunity early in the pandemic to participate in some international trials of
+agents that had a better evidence base in their conception. The international REMAP-CAP
+network on treatment for community-acquired pneumonia had a strong Australian element to
+its leadership and was a substantial exception due to its well-established adaptive
+methodology and pre-approved clinical sites. Existing, externally-funded international
+networks with Australian sites, such as INSIGHT were under-utilised, while new and inevitably
+fragile networks were established at a time of extreme stress on the health care system. The
+relatively low number of cases in Australia through 2020 and early 2021 was of course a public
+health plus, but impacted local study enrolment and opportunities for Australian sites and
+patients to contribute to international studies were missed. This was subsequently addressed
+by the addition of Australian clinical research sites to the currently active global
+INSIGHT/STRIVE network (Strategies and Treatments for Respiratory Infections and Viral
+Emergencies) through MRFF funding in 2022 ( https://clinicaltrials.gov/studv/NCT05605093)
+but was too little too late.
+
+Recommendation for improvement: (a) Establish a high-level technical group on priorities for
+clinical research in the time of pandemic emergencies with the ability to advise on both large-
+scale national initiatives, and opportunities for international trial participation, (b) Ensure
+participation in international pandemic preparedness clinical trial networks to enable rapid
+mobilisation of sites and patient recruitment, (c) Establish reciprocal agreements between
+regulatory and governance bodies for review and approval of protocols that transcend
+jurisdictional (state and international) boundaries, (d) Provide ongoing support for Australian
+involvement in the currently operating large scale pandemic preparedness networks (REMAP­
+CAP and STRIVE) to continue operations in inter-pandemic periods, (e) Support more
+Australian clinical sites that are prepared to follow the advice of the national strategic group
+referred to above to engage in research initiatives and embed research activities in daily
+clinical management.
+
+
+
+Prepared by: Professors John Kaldor, Anthony Kelleher, Greg Dore, Gail Matthews and Deborah
+Cromer, Kirby Institute, UNSW Sydney
+
+
+
+
+                                                                                           Page | 3
+

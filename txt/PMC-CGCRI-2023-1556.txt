@@ -1,0 +1,153 @@
+Submission to the COVID-19 Response Inquiry by the National Centre for
+Immunisation Research and Surveillance (NCIRS) Australia, December 2023
+Key points
+The national response to the COVID-19 pandemic was swift, comprehensive and
+effective overall. In preparation for future pandemics and to leverage learnings from
+COVID-19 to improve health and wellbeing, consideration (with a focus on
+vaccination) should be given to:
+1. improving leadership and governance structures around vaccine procurement,
+   policymaking, and program design and delivery
+2. providing greater transparency around evidence and decision-making
+   underpinning vaccine recommendations
+3. establishing comprehensive, strategically designed, real-time national linked data
+   systems that include key health and other outcome variables, as well as greater
+   investment in rapid assessment of the effectiveness of vaccines, antivirals and
+   other interventions
+4. further developing and utilising evidence-based assessment of vaccine
+   acceptance and uptake, particularly in known high-risk, low-coverage populations,
+   to both improve routine vaccine update and enable rapid expansion of uptake in a
+   pandemic
+5. continuing to expand systems and conduct high-quality studies that monitor and
+   provide evidence to the public on vaccine safety while simultaneously countering
+   disinformation.
+
+Organisation statement and role in COVID-19 response
+NCIRS, Australia’s immunisation public health agency, was established in 1997 in
+conjunction with the National Immunisation Program. NCIRS provides expert
+technical support and leadership in national evidence-informed immunisation policy
+and guideline development; immunisation program development and evaluation;
+vaccine-preventable disease epidemiologic assessment; and monitoring of vaccine
+coverage, factors impacting uptake and vaccine effectiveness and safety. NCIRS is
+funded by the Australian Government (DoHAC, DFAT for work in the Indo-Pacific),
+the NSW Government, the World Health Organization, Gavi, the Vaccine Alliance
+and various research granting bodies.
+NCIRS’ contributions to the national COVID-19 pandemic response were diverse and
+multifaceted. Key examples of our work included:
+■ provision of comprehensive technical and scientific support to the Australian
+  Technical Advisory Group on Immunisation (ATAGI), including its COVID-19
+  Working Groups (>95 ATAGI meetings, >82 technical documents)
+■ presenting and disseminating disease- and vaccine-relevant technical information
+  to other key national groups and committees, such as the Australian Health
+   Protection Principal Committee, the Communicable Diseases Network Australia,
+   states/territories and others
+■ dissemination to key stakeholders of high-quality research and information on
+   COVID-19 vaccine candidate development, vaccine effectiveness and global
+   COVID-19 variants
+■ first and ongoing COVID-19 vaccine effectiveness analyses (in partnership with
+  jurisdictions and the Commonwealth) to monitor impact on severe disease
+■ expanding our national vaccine safety monitoring program, AusVaxSafety, to
+   conduct near-real-time COVID-19 vaccine safety surveillance (over 6 million
+
+
+Oncirs                     COVID-19 Response Inquiry                              1
+  surveys) and conducting extensive analyses of a range of potential adverse
+  events following immunisation
+■ designing and co-leading the Australian COVID-19 Serosurveillance Network’s
+  national serosurveys to measure SARS-CoV-2 antibody prevalence in target
+  populations
+■ studying COVID-19 transmission and severity in schools and early childhood
+  education and care settings in children and staff to inform school opening
+  practices.
+Responding to the Inquiry Terms of Reference
+ 1. Leadership and governance on vaccine procurement, policy and program delivery
+Early in the pandemic, substantial challenges occurred in vaccine procurement,
+planning for vaccine delivery and communication, in the context of initially
+constrained vaccine supply and adjustments to recommendations in the wake of
+serious albeit very rare adverse events. While greater capacity for effective strategic
+and operational management developed during the pandemic, the many lessons
+learned need to be incorporated into new plans and operational response strategies
+for future pandemics.
+A more strategic leadership and governance framework that is fit-for-purpose for
+future pandemics will best be established by improving these processes for
+Australia’s existing range of national vaccine programs (i.e. the NIP and separate
+COVID-19, Japanese encephalitis and mpox vaccine responses) now. This can be
+done most effectively under an Australian Centres for Disease Control (ACDC)
+whereby appropriate expertise can be sourced and coordinated. Development of a
+more strategic planning process around which vaccines the Australian public needs
+now and will need in the future is needed. Detailed analyses and synthesis of
+evidence will be required to inform this process. Timely, comprehensive and
+appropriately resourced monitoring and evaluation plans to assess all vaccine
+program outcomes and impacts are also needed, particularly as many new vaccines
+are becoming available. Strengthening national governance and oversight would
+assist program delivery, through the timely development of a comprehensive suite of
+training materials; requirements for immunisation providers and jurisdictional health
+authorities on vaccine administration, handling, logistics, scheduling and clinical
+administration; and consistent guidance for vaccine administration and responding to
+cold chain issues.
+2. Greater transparency of evidence-based decision vaccine policy making
+Trust is built on understanding. Transparency of processes, both within and by
+Government and to and from its peak advisory groups, was suboptimal at various
+times during the pandemic. While considerable evidence supported by sound expert
+input and consensus underpinned decision-making, this could not always be ‘seen’.
+Much greater and more timely analysis and publication of data, technical evidence,
+summary documents and presentations used for decision-making and meeting
+minutes - such as is done by the US Advisory Committee on Immunization
+Practices, the UK Health Security Agency and others - must occur and will build
+greater confidence and trust and more effective responses.
+3. Responding to health needs through high-quality and timely data
+There were many improvements in data availability to inform public health decision­
+making during the pandemic. However, access to timely, linked data that enables
+
+
+Oncirs                     COVID-19 Response Inquiry                               2
+better analyses to inform national monitoring of disease burden and impacts of
+interventions (vaccines, antivirals) needs further improvement. Data systems remain
+fragmented. During the pandemic, more timely national collation of disease
+notifications occurred, but these were unable to be linked to other data such as
+hospitalisation/ICU/mortality or vaccination status. This need remains unmet without
+a strategic plan underpinning it. Large states with greater workforce capacity were
+able to do some linkages and analyses, but methods were inconsistent, preventing
+harmonisation and leading to a ‘patchwork’ effect with information gaps.
+Efforts to set up real-time linked national data systems (beyond mortality data, which
+already exists in the AIR-PLIDA [formerly AIR-MADIP] resource), enabling nationally
+consistent analysis, should be accelerated and assessed through demonstration
+projects to test such systems outside of the acute pandemic situation. These
+systems should be refined in preparation for when there is an urgent need. Further
+work within the ACDC should be undertaken now. While NCIRS continues to work as
+permitted with strong expertise in such data assets, we call for a collaboratively
+derived and resourced preventative health strategic framework for analysis of large-
+linked datasets to drive evaluation of program implementation and outcomes.
+4. COVID-19 vaccine acceptance and uptake
+During the pandemic there was insufficient real-time evidence on factors influencing
+vaccine acceptance and uptake. This resulted in strategies not being optimally
+targeted to the context and needs of specific populations. In future pandemic
+responses, data collection on behavioural and social factors influencing vaccine
+uptake and other public health-related actions should be enhanced, made more
+frequent and be appropriately targeted in the context of a pandemic or an emergent
+disease. This work should be done in collaboration with priority populations for co­
+design and testing of tailored interventions. By working closely with experts,
+academics and networks (such as the NCIRS-coordinated Collaboration on Social
+Science and Immunisation), development, testing and rollout of near-real-time multi­
+modal interventions to improve acceptance and coverage is possible.
+5. Further strengthen systems for vaccine safety monitoring to promote confidence
+Through AusVaxSafety and enhanced Therapeutic Goods Administration and
+state/territory processes, Australia has become a global leader in the production of
+timely, high-quality vaccine safety post-market data. However, mis- and dis­
+information about vaccine safety abounds and may increase. Improvements in
+vaccine safety monitoring and public communication should include better planned
+and collaborative national coordination; national consistency of processes and data;
+and, most importantly, more detailed epidemiologic assessment for key select and
+concerning adverse events that occur after, but not necessarily from vaccines.
+Systems for spontaneous reporting and AusVaxSafety active monitoring should be
+augmented by both scheduled and, where needed, responsive, well-resourced
+epidemiological risk-association studies, using both large-linked data and detailed
+clinical case assessment. NCIRS has led the way on a small number of these
+studies, but more can be done to ensure strengthening of the evidence base for
+vaccine policymaking, communication strategies and accompanying resources.
+NCIRS welcomes the opportunity to expand on this response through participation in
+the Inquiry’s next stage of targeted stakeholder engagement, roundtables and
+workshops.
+
+
+Oncirs                     COVID-19 Response Inquiry                              3
+

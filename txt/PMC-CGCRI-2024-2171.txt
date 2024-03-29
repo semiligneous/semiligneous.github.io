@@ -1,0 +1,1430 @@
+                          OFFICIAL
+
+
+
+
+Department of Home Affairs (including Australian
+Border Force) and broader Portfolio, including the
+National Emergency Management Agency - Submission
+Commonwealth Government COVID-19 Response Inquiry
+December 2023
+
+
+
+
+                          OFFICIAL
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+
+          Table of Contents
+          Purpose and scope                                                              4
+          Overview                                                                       4
+          Governance                                                                     4
+                          Early governance arrangements                                  4
+                          National Coordination Mechanism (NCM)                          5
+          Health response and support                                                    6
+                          Health supports                                                7
+                          COVID-19 vaccines                                              7
+                          Data-driven decision making                                    7
+                          COVID-19 misinformation and disinformation                     8
+          International border                                                           8
+                          ‘Closing’ the border                                           9
+                          Intelligence and Data                                         10
+                          Operating a ‘closed’ border                                   11
+                          Reopening the border                                          16
+                  Challenges                                                            17
+                          Limitations of exercising penalty regimes                     17
+                          Operating environment                                         18
+          Industry support                                                             18
+                          Industry engagement                                           18
+                          Supermarket Taskforce                                         18
+                          Supply Chain Taskforce                                        18
+                          Commercial maritime industry                                  19
+                          Aviation industry                                             19
+                          COVIDSafe app                                                 20
+                          Global Business and Talent Attraction Taskforce               20
+                  Challenges                                                            20
+                          Quarantine impacts on commercial maritime industry            20
+                          Communication and information sharing                         20
+          Financial support                                                            20
+                          Pandemic payments                                             21
+                  Challenges                                                            21
+          Community engagement and support                                             22
+                          Community engagement                                          22
+                          Migrant support                                               22
+                          Online support to communities                                 23
+                  Challenges                                                            24
+                          Citizenship Program                                           24
+                          Translation and language services                             24
+
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab]
+National Emergency Management Agency -
+                                                                                   Page 2 of 27
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          Future planning and preparedness                                                    24
+                          Pandemic preparedness and resilience – lessons learned report        24
+                          Proposed border resilience reforms                                   25
+                          NEMA lessons management process                                      25
+                  Opportunities                                                                26
+                          Migration Act reforms                                                26
+                          Legislating the ABF’s functions                                      27
+                          Modernisation of border systems                                      27
+                          Intelligence information                                             27
+
+
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab]
+National Emergency Management Agency -
+                                                                                          Page 3 of 27
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+
+          Purpose and scope
+          The Department of Home Affairs (the department), including the Australian Border Force (ABF) and broader
+          Home Affairs Portfolio (the portfolio), including the National Emergency Management Agency (NEMA),
+          supported the Australian Government’s response to the novel coronavirus (COVID-19) pandemic. This
+          submission is provided to Ms Robyn Kruk AO, Professor Catherine Bennett and Dr Angela Jackson (the
+          independent panel), for the purpose of providing preliminary information and support to the Commonwealth
+          Government COVID-19 Response Inquiry (the inquiry), as announced by the Prime Minister, the Hon
+          Anthony Albanese MP, on 21 September 2023. This submission outlines the portfolio’s broad roles and
+          responsibilities in relevance to the inquiry’s terms of reference, including its contributions to the whole-of-
+          government response to the COVID-19 pandemic.
+          The department and portfolio welcome the opportunity to provide further information to the inquiry if required.
+
+
+          Overview
+          Throughout the COVID-19 pandemic, the portfolio pivoted its resources, focus and capabilities to respond to
+          the needs of the government in supporting the community. The experiences and lessons learned have
+          allowed the portfolio and its partners to enhance preparedness, build community resilience and position the
+          portfolio to manage future challenges.
+          The portfolio supported the whole-of-government response to the COVID-19 pandemic most notably
+          through:
+                   the management of the international border (closure, exemptions, import and export controls,
+                    subsequent reopening, sourcing of quarantine facilities, and industry engagement)
+                   crisis management and pandemic planning (including the National Coordination Mechanism (NCM),
+                    the responsibility for COVID-focused support payments, supporting supply chain issues, and joint
+                    taskforces with the Department of Defence)
+                   education and awareness including in the aged care sector
+                   contributing to the development of whole-of-government documents relating to Australia’s COVID-19
+                    response and pandemic preparedness
+                   redeployment of staff to support critical functions in other government agencies
+                   vaccine requirements for non-citizens intending to enter Australia
+                   visa and regulatory changes to support the labour market and ‘critical’ skills shortages, including
+                    shifting network of global visa processing officers to surge priority caseloads and prioritise onshore
+                    processing of applicants in critical sectors.
+
+
+          Governance
+            Terms of reference:
+            Governance including the role of the Commonwealth Government, responsibilities of state and territory governments,
+            national governance mechanisms (such as National Cabinet, the National Coordination Mechanism and the
+            Australian Health Protection Principal Committee) and advisory bodies supporting responses to COVID-19.
+
+
+          Early governance arrangements
+          Early government consideration of the impacts of COVID-19 occurred through the Cabinet Office Policy
+          Committee (COPC), the National COVID-19 Coordination Commission (NCCC) – later renamed the National
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab]
+National Emergency Management Agency -
+                                                                                                                    Page 4 of 27
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          COVID-19 Commission Advisory Board – and the National Cabinet. The former Secretary of the department,
+          Michael Pezzullo AO, along with the former Secretary of the Department of the Prime Minister and Cabinet
+          (PM&C), Phillip Gaetjens, were the two senior official members of the NCCC. The portfolio provided advice
+          to the NCCC, particularly on the supply chain issues that emerged at the onset of the pandemic. The NCCC
+          was pivotal in leveraging industry support and advice to national response efforts.
+          The Prime Minister, the Hon Scott Morrison MP, established COVID-19 briefings in late March 2020, which
+          brought together select Commonwealth department representatives with the Chief Medical Officer (CMO) to
+          discuss emerging COVID-19 issues and related matters. The portfolio, represented by the Deputy Secretary
+          of Emergency Management and Coordination, was a representative at these briefings and provided a rapid
+          conduit for advice between the portfolio, the CMO, the Prime Minister and industry.
+
+          National Coordination Mechanism (NCM)
+          On 5 March 2020, drawing on and complementing existing capabilities within the department and across the
+          portfolio, the Australian Government commissioned the NCM to respond to the multifaceted challenges of
+          the pandemic, with the primary focus being to provide shared situational awareness, coordinate lines of effort
+          and facilitate nationally consistent approaches to non-health-related planning and responses to COVID-19.
+          This included resolving complex issues such as the movement of resources and sector personnel and goods
+          across domestic borders, supporting vulnerable people – including through engagement with the
+          not-for-profit sector on home delivery and service options – and managing the repatriation of Australian
+          citizens, permanent residents and their immediate relatives to Australia.
+          The NCM facilitated collaboration, communication and coordination across the Commonwealth, states and
+          territories, industry bodies and the private sector, which enabled timely and comprehensive advice to be
+          provided to national leaders on practical solutions and emerging risks. This included operationalising police
+          powers, following the declaration of a biosecurity emergency under the Biosecurity Act 2015 (the Biosecurity
+          Act), to ensure safety and security at mass gatherings and police support at some supermarkets across
+          Australia following panic buying and some aggressive customer behaviour. The NCM also undertook
+          preparedness planning across a number of sectors and facilitated discussions with stakeholders regarding
+          supply chains and access to essential goods and services.
+          The NCM coordinated cross-jurisdictional response efforts for supply chain vulnerabilities, to ensure that
+          critical infrastructure and essential services in the national interest could be maintained and accessed.
+          For information relating to Supermarket Taskforce and Supply Chain Taskforce, refer to Industry Support
+          section.
+
+
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab]
+National Emergency Management Agency -
+                                                                                                              Page 5 of 27
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+
+          Health response and support
+            Terms of reference:
+            Key health response measures (for example across COVID-19 vaccinations and treatments, key medical supplies
+            such as personal protective equipment, quarantine facilities, and public health messaging).
+            Broader health supports for people impacted by COVID-19 and/or lockdowns (for example mental health and suicide
+            prevention supports, and access to screening and other preventive health measures).
+
+          The department aligned with the Department of Health and Aged Care (Health) and with Safe Work Australia
+          on measures to ensure pandemic health protection of critical frontline workers.
+          Health advice underpinned all elements of the portfolio’s response detailed in this report, including:
+                   advice on international epidemiology of COVID-19
+                   advice on occupational health protection and navigation of travel-specific medico-legal risks for
+                    critical workers who must traverse domestic and/or international borders restricted by the Public
+                    Health Orders
+                   facilitation of the design, review and clinical assurance of incoming traveller health declarations
+                   advice on health protection practices and policies for frontline staff at the border, using frameworks
+                    that consistently aligned with work health and safety legislation and processes for risk mitigation
+                   the design, implementation and assurance of health risk assessments and management for
+                    departmental staff and international travellers – including by contributing to formal operation-specific
+                    risk assessments
+                   recommendations for the review and relaxation of protection practices and processes as the
+                    pandemic evolved.
+          During the pandemic, the department’s Chief Medical Officer and the Clinical Team liaised with:
+                   state and territory health authorities
+                   Health
+                   Australian Federal Police (AFP) and state-based policing authorities
+                   port stakeholders (e.g. airport owners and operators)
+                   the Department of Foreign Affairs and Trade (DFAT).
+          Regular engagement occurred with Health through the Australian Health Protection Principal Committee
+          (AHPPC) and the NCM. The portfolio’s membership on this committee enabled Emergency Management
+           Australia (EMA), now NEMA in particular, to effectively respond to the non-health consequences generated
+          by COVID-19. EMA supported Health to conduct scenario planning and coordinate activity in their National
+          Incident Room, and facilitated whole-of-government shared understanding of actions by convening
+          Australian Government Crisis Committee and National Crisis Committee meetings (these have now been
+          replaced by the Australian Government Crisis and Recovery Committee). The National Incident Room was
+          also utilised as an information-sharing mechanism with states and territories to ensure compliance with the
+          National Health Security Act 2007.
+
+
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab]
+National Emergency Management Agency -
+                                                                                                                  Page 6 of 27
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          Health supports
+          On 23 March 2020, the Director-General EMA activated the Australian Government Disaster Response Plan
+          (COMDISPLAN) to support requests from states or territories in response to COVID-19.
+          A total of 373 requests for assistance were received from the Australian Government, states and territories
+          and non-government organisations. Requests included support with health planning, quarantine compliance,
+          contact tracing and vaccine rollout.
+          In response to the COVID-19 threat in the aged care environment, the Victorian Aged Care Response
+          Centre (VACRC) was established and led by the Commonwealth on 27 July 2020 in partnership with the
+          Victorian Government to coordinate a whole-of-government, industry and state response. VACRC, led by
+          EMA Assistant Secretary Crisis and Response was responsible for both the health response and the
+          consequence management, brought together agencies, experts and stakeholders in a unified coordinated
+          effort to strengthen COVID-19 preventative protection in the aged care sector supporting the delivery of a
+          safe environment for residents. VACRC coordinated workforce staffing, in-reach pathology, cleaning,
+          catering, infection control, PPE, transfer of residents to hospital, communications, clinical support and
+          identification of close contacts. VACRC also developed and implemented a prevention program that visited
+          and educated aged care facilities to undertake disease prevention actions.
+          As the consequences were easing and the ongoing need transitioned to being primarily health focused, EMA
+          transitioned out of the VACRC after around three months; VACRC ceased operations on 30 September
+          2022. VACRC stabilised the critical situation in two weeks, and in 100 days reached a point of zero cases in
+          aged care.
+          Throughout COVID-19, EMA facilitated multiple domestic and international deployments of Australian
+          Medical Assistance Teams (AUSMAT). Internationally, AUSMAT deployed to Japan to provide clinical
+          support to the assisted departure of Australians who were quarantined on the Diamond Princess cruise ship.
+          These citizens were repatriated to Australia then quarantined at Howard Springs Quarantine Facility (HSQF)
+          for a minimum of 14 days. Domestic AUSMAT deployments included:
+                   provision of clinical support to Australians quarantined at the HSQF – now the Centre for National
+                    Resilience
+                   joint deployment with the Australian Defence Force (ADF) to staff Burnie’s North West Regional
+                    Hospital (NWRH) following an outbreak of COVID-19 among its staff
+                   vaccine rollout in regional and remote areas of Australia.
+          On 30 September 2022, all Australian Government taskings were complete and COMDISPLAN was reverted
+          to standby.
+
+          COVID-19 vaccines
+          By early 2021, COVID-19 vaccines were available in Australia in limited quantities. A strategy needed to be
+          developed to coordinate the most effective rollout to ensure the vaccine targeted high-risk individuals and
+          essential workers in customer-facing roles. EMA facilitated ADF support to lead and assist the planning of
+          the National COVID-19 Vaccine Taskforce and included planning and logistical support from the ADF.
+          The department engaged across government on the COVID-19 vaccine strategy and, through its community
+          liaison network, assisted in delivering targeted vaccine and other public health messaging to vulnerable
+          culturally and linguistically diverse communities.
+
+          Data-driven decision making
+          In the early days of the pandemic, the functions of the department, portfolio and Health were critical to
+          shaping the government’s initial response and planning for a national strategy. As the agency responsible for
+          management of the movement of people and goods across the Australian border continuum, the
+          department’s data and analytics capabilities contributed to the whole-of-government response.
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab]
+National Emergency Management Agency -
+                                                                                                               Page 7 of 27
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          The department embedded data specialists within Health’s National Incident Room, charged with leading the
+          initial response to COVID-19, to bolster support, transfer relevant data capabilities and ensure streamlined
+          collaboration.
+          The department provided specialist data expertise to model pandemic scenarios and verify assessments
+          from other agencies contributing to government decision-making with regard to border controls. Initial efforts
+          focused on tracking the growth curve of the virus spread within the Australian community against scenario
+          projections. Efforts expanded over time to include a broader range of pandemic-related issues of interest to
+          the department and NCM.
+          As the pandemic progressed and Australia began developing contingencies for a return to normalcy, the
+          department pursued a forecasting and modelling effort, collaborating closely with Data61 and Health to
+          explore the potential for forecasting pandemic impacts globally. As part of this effort the department reviewed
+          over 50 epidemiological models and several leading open data sources.
+
+          Data matching support to the repatriation of Australians stranded offshore
+          The department collaborated closely with other agencies to support the repatriation of Australians stranded
+          offshore during the pandemic. This included a significant effort to repatriate Australian citizens and
+          permanent residents stranded in India in early 2021 following a COVID-19 wave and corresponding flight
+          ban. Working with Health, DFAT, the Australian Taxation Office and the Australian Passport Office, the
+          department led efforts to share, consolidate and analyse data to confirm citizenship and right of entry of
+          individuals seeking consular assistance. These efforts supported several repatriation flights in May 2021.
+          The department has since mirrored these processes – in part – in support of repatriation around other
+          events, such as the Afghanistan conflict in 2022.
+
+          COVID-19 misinformation and disinformation
+          In the 2020–21 Budget, the government provided $62.8 million over five years to strengthen Australia’s
+          social cohesion and community resilience in the COVID-19 recovery period. Funding included $37.3 million
+          over four years to promote Australian values, identity and social cohesion, and to counter malign
+          information. During the pandemic, the department monitored social media content for harmful
+          misinformation and disinformation about COVID-19 and COVID-19 vaccines and referred content to digital
+          industry for review, based on criteria and advice from Health.
+          Between 16 March 2020 and 19 May 2023, 4,726 social media posts were referred to digital industry for
+          review against their content policies and terms of service, of these, 3,098 were actioned by the relevant
+          social media company with content removed or its distribution reduced. The contract supporting the COVID-
+          19 misinformation and disinformation referrals expired on 30 June 2023 and was not renewed, and the
+          Department no longer undertakes this function.
+
+
+          International border
+            Terms of reference:
+            International policies to support Australians at home and abroad (including with regard to international border
+            closures, and securing vaccine supply deals with international partners for domestic use in Australia).
+
+
+          Australia’s border controls helped mitigate the COVID-19 pandemic shock by delaying the transfer of the
+          virus and providing much-needed time for domestic health responses to be established. In doing so, border
+          management proved to be a key component of Australia’s national response in keeping the public safe from
+          the early – and arguably most severe – phases and impacts of the pandemic.
+          Throughout the implementation and enforcement of enhanced biosecurity and border measures for trade
+          and travel, the ABF was at the forefront of the Australian Government’s response to the pandemic.
+
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab]
+National Emergency Management Agency -
+                                                                                                                         Page 8 of 27
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          In airports, the ABF rapidly updated procedures for incoming passengers and implemented new programs
+          and capabilities to reduce the likelihood of transmission.
+          Australia’s border management in response to the COVID-19 pandemic can be considered in three key
+          phases: ‘closing’ the border, operating a closed border, and a staged reopening of the border.
+
+          ‘Closing’ the border
+          Though subject to considerable restrictions, Australia’s international border never fully closed. In a practical
+          sense, low levels of travel continued, though inward travel restrictions prohibited most temporary visa holders
+          from travelling to Australia – subject to limited exceptions – and outward travel restrictions prohibited most
+          Australian citizens and permanent residents from leaving Australia – also subject to limited exceptions.
+          The Australian Government announced that Australia would close the international border to all non-
+          residents from 2100 AEDT on 20 March 2020. The inwards travel restriction policy – alongside the traveller
+          exemptions process – was used to manage traveller volume, and give permission to cohorts of travellers
+          (such as diplomats and flight crew), and individuals to travel to Australia. Subsequent decisions and
+          directions by the Minister for Health, the Hon Greg Hunt MP, under the Biosecurity Act, authorised the
+          outward travel ban on Australian citizens and permanent residents. The Minister for Health also authorised a
+          requirement for airline operations to take all reasonable steps to comply with requirements.
+          In the absence of a targeted legislative framework comprising clear border management powers and
+          authority by the Minister responsible for the management of Australia’s border, an emergency determination
+          made under the Biosecurity Act can prevent travel from a particular country or countries for a period of time.
+          However, this was found to be an imprecise mechanism not capable of supporting the full suite of incoming
+          travel restrictions: there was no ability to immediately limit volume of non-citizen arrivals at scale based on
+          country of origin, travel pathways or exposure to a pathogen/disease outside of the Biosecurity Act. During
+          the pandemic there were over 1.5 million visa holders offshore, yet at some points in time, only space in
+          quarantine for around 3,000 arrivals into Australia per week.
+          Aviation measures
+          During the pandemic, and in addition to other processes, the ABF used the Advanced Passenger Processing
+          (APP) system to monitor both inward and outward travel and enforce restrictions – APP was also used to
+          advise airlines of foreign nationals who were seeking to enter Australia and whose visas were likely to be
+          cancelled on arrival as they had not been assessed (through the exemptions system) as posing an
+          acceptably low risk to the health of the Australian community. The APP system provides a mechanism for
+          airlines to confirm with the ABF’s Border Operations Centre (BOC) that travellers have authority to travel to
+          or from Australia and have appropriate visas or travel documents.
+          The ABF’s Airline Liaison Officers (ALOs) also performed a critical role, particularly as entry requirements
+          evolved and the number of countries subject to travel bans increased. ALOs based overseas and in Australia
+          worked closely with airlines to identify passengers who did not meet Australia’s entry requirements, including
+          by identifying the transit routes taken by passengers and by validating passengers’ citizenship, residence
+          and spousal claims. ALOs also provided a time-critical communication channel to airlines offshore, providing
+          up-to-date information on Australia’s entry requirements and assisting with the implementation of restrictions
+          at very short notice.
+          Maritime measures
+          On 15 March 2020, the Australian Government announced a ban on international cruise ship arrivals – with
+          exceptions for 32 vessels already en route to, or in, Australian waters at the time of the announcement. This
+          was followed, on 18 March 2020, by the Minister for Health’s determination, under section 477(1) of the
+          Biosecurity Act, to prohibit the arrival at an Australian port of any international cruise ship that had left a
+          foreign port. The restrictions included direct arrivals and round-trip cruises.
+          Two measures were put in place to enforce Australia’s cruise ships settings. The first, implemented on 15
+          March 2020, saw nine ports commonly used by international cruise ships re-appointed as ports under s15(3)
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab]
+National Emergency Management Agency -
+                                                                                                               Page 9 of 27
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          of the Customs Act 1901 (Customs Act); each of the re-appointments stated that the port is a port ‘only for
+          the purposes in relation to ships which are not international passenger cruise ships’.
+          The practical result of these re-appointments was that it became an offence under subsection 58(1) of the
+          Customs Act to bring an international passenger cruise ship into any of the re-appointed ports unless
+          permission had been granted by the ABF under subsection 58(2). The second measure, the 16 March 2020
+          Biosecurity Determination, meant that an international cruise ship must not enter a port in Australia – unless
+          permission was granted by the Comptroller-General of Customs (the ABF Commissioner), which could only
+          be provided on the basis that the ship was in distress or emergency circumstances existed, or the ship had
+          departed a port outside Australian territory before the end of 15 March 2020 and was bound directly for a
+          port in Australian territory.
+          In the weeks that followed, a sustained and targeted ABF effort saw the departure of all 32 internationally
+          flagged cruise ships and their 20,000 or so crew from Australian waters; the last vessel to leave an
+          Australian port departed on 28 April 2020.
+          On 18 April 2022, the Minister for Home Affairs and the Minister for Trade, Tourism and Investment
+          announced the resumption of international cruise ships arriving and departing from Australian ports.
+          The Ruby Princess
+          On 19 March 2020, passengers disembarked from the cruise ship Ruby Princess in Sydney. These included
+          multiple passengers who had presented with acute respiratory symptoms who would later test positive to
+          COVID-19. This scattering of passengers into the Australian community led to far-reaching public health (and
+          human) consequences: an estimated 663 (39.4%) Australian passengers and 191 (16.6%) crew from the
+          Ruby Princess contracted COVID-19 and there were 28 associated deaths. The reach of the Ruby Princess
+          COVID-19 outbreak extended beyond its passengers and crew, with an estimated 62 secondary and tertiary
+          cases in the Australian community linked to the outbreak.
+          On 27 March 2020, following the disembarkation of passengers on the Ruby Princess, the Minister for
+          Health, the Hon Greg Hunt MP, made a determination under subsection 477(1) of the Biosecurity Act to
+          prohibit the operation of cruise ships capable of carrying more than 100 passengers in Australia until 15 June
+          2020. This was achieved by restricting cruise ship entry to Australian territory and requiring ships entering
+          Australian territory to leave immediately, as well as restricting cruise ship entry to Australian ports, and
+          requiring the operator of a foreign cruise ship in Australian territory to leave that territory as soon as
+          reasonably practicable. Additionally, after March 2020, aircraft and cruise ships were prevented from arriving
+          at some ports by reappointing ports under section 15 of the Customs Act to limit the scope of as to which
+          customs clearances could be conducted within the port. This was a resource-intensive process and a poor
+          mechanism for implementing short-to-medium term limitations on arrivals.
+          On 15 April 2020, the New South Wales government announced a Special Commission of Inquiry, as well as
+          a criminal investigation, into the disembarkation of passengers from the Ruby Princess. The August 2020
+          report of the Special Commission of Inquiry into the Ruby Princess made no recommendations directed
+          towards the department or ABF, noting that it was ‘crystal clear’ the ABF has ’no relevant responsibility for
+          the processes by which, by reference to health risks to the Australian community, passengers were permitted
+          to disembark from the Ruby Princess.’ Further, the report found that, ‘the ABF (and, for that matter, the
+          Department of Home Affairs) do not bear any responsibility for the Ruby Princess mishap.’ 1
+
+          Intelligence and Data
+          The department surged more than half of its intelligence resources into supporting the government’s
+          response efforts and implementing contingency arrangements to maintain coverage of critical border threats
+          and operational activities.
+
+
+
+
+          1 NSW Government, The Special Commission of Inquiry into the Ruby Princess, August 2020, p. 27, accessed 18 December 2023.
+
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 10 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          Enforced by the ABF, the department effectively implemented the government’s border movement control
+          measures, with Intelligence Division providing targeted insights and indicators across a range of COVID-19
+          related themes, including:
+                   the production and distribution of false COVID-19 vaccination and test certificates
+                   attempted importations of fake treatments or substandard products
+                   predicted impacts to high level border threats and border exploitation methodologies
+                   indicators to inform operational planning to prevent the transmission of COVID-19 into the Torres
+                    Strait area
+                   predictions on the post-pandemic border threat environment.
+          The department also surged intelligence resources to support the NCM by providing insights on a range of
+          strategic topics including:
+                   vaccine distribution
+                   attempted exports of short supply and critical goods such as personal protective equipment (PPE)
+                    and COVID-19 test kits
+                   broader efforts to identify and counter misinformation on social media.
+
+          Operating a ‘closed’ border
+          The international border environment was continuously evolving over the period of border restrictions.
+          Fourteen individual health determinations relating to international travel were made during the course of the
+          COVID-19 pandemic. Other priorities included the availability of quarantine places for returning Australian
+          citizens and permanent residents, information flows to states and territories, managing supply chain
+          constraints, and managing international access for critical sectors (e.g. implementing travel exemptions for
+          cohorts with critical skills or working in a critical sector to support the pandemic response).
+          Following Australia’s first confirmed COVID-19 case on 25 January 2020, the ABF established
+          Operation Pincer to coordinate, in a controlled manner, the emergency repatriation of Australians and
+          citizens of New Zealand and Pacific Island countries. More than 700 people were evacuated from Wuhan,
+          China, Tokyo and Japan, after disembarking the Diamond Princess cruise ship. Working with the DFAT and
+          Health, the ABF facilitated passengers to board flights, clear customs and immigration processes mid-flight,
+          and then transfer to quarantine facilities at North West Point on Christmas Island or Howard Springs in
+          Darwin before returning home.
+          Operation Pincer further enabled the ABF’s work with partner agencies (Commonwealth, state and territory)
+          and industry, including airlines, to implement the government’s decisions and strengthen border measures –
+          many of these measures being unprecedented and implemented within hours of being announced.
+          On 11 March 2020, Operation Pincer was consolidated under Operation Bandora, and collectively focused
+          on four key operational priorities:
+                   implementing border processes in line with government directions on COVID-19
+                   facilitating the return of Australians in a managed way
+                   ensuring the maintenance of critical ABF functions
+                   minimisation of health risks to officers.
+
+          Multi-stakeholder operations to support management of the border
+          Operation Bandora was the ABF’s overarching operation to manage the border during the pandemic.
+          Additional specific taskforces, operations and networks where set up to respond to increased risks during the
+          pandemic, which included:
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 11 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+                   Taskforce Quadrant: established by the AFP, ABF, Australian Criminal Intelligence Commission
+                    (ACIC) and Australian Transaction Reports and Analysis Centre (AUSTRAC) to focus on the
+                    prevention and disruption of non-commercial exports of certain goods designated as essential to
+                    Australia’s COVID-19 response, including PPE and medical supplies.
+                   Operation Hangfire: established by the ABF in response to the pandemic to combat the diversion of
+                    essential goods and protect the community from counterfeit or illegitimate goods (such as counterfeit
+                    COVID-19 test kits) and to prevent trade based money laundering from the commercial sale of
+                    unapproved or counterfeit critical consumables.
+                   Operation Gilfast: established by the ABF to manage the operational and tactical component of
+                    reopening of Australia’s border in accordance with the government’s National Plan to Transition
+                    Australia’s National COVID-19 Response (the National Plan). Reopening the border was a complex
+                    task, subject to unexpected changes as international travel systems recommenced operations. The
+                    ABF worked closely with airlines, airports, international partners, Commonwealth agencies and the
+                    states and territories to support the gradual reopening of Australia’s international borders.
+                   Operation Overarch: established by the ABF following the Prime Minister’s announcement on
+                    19 March 2020 to close Australia’s border with Papua New Guinea and give effect to
+                    implementation of enhanced border measures in the Torres Strait. A deter, detect, intercept and
+                    response posture was established and maintained through an ABF-led joint agency taskforce
+                    supported by Maritime Border Command.
+          On 12 July 2021, the department established the COVID Border Measures Group to coordinate planning for
+          the graduated reopening of international borders and travel in accordance with the National Plan. The
+          COVID Border Measures Group provided a single, centralised point to coordinate with government and
+          industry partners.
+          In addition, PM&C established a Deputy Secretary-level COVID-19 Deputies Interdepartmental Committee
+          (IDC) to coordinate response actions across the Australian Government. The IDC covered all aspects of
+          COVID-19, from breakouts, vaccination, quarantine, returning Australians and domestic and international
+          movements. The department supported this work, as bespoke arrangements aligned to quarantine
+          availability were needed in response to crises such as the port explosion in Lebanon and evacuations from
+          Afghanistan.
+          The department and PM&C co-chaired the COVID Deputies Risk and Response Working Group with a focus
+          on key areas requiring consideration and integration across government including; reopening, modified
+          quarantine, role of vaccination in reopening and public messaging.
+
+          Repatriation
+          At the beginning of the COVID-19 pandemic, repatriation efforts focused on assisting Australian citizens and
+          permanent residents seeking to leave Wuhan and Hubei provinces in China. This repatriation effort
+          subsequently broadened to the rest of China and then the rest of the world as more locations were impacted
+          by the virus and travel limitations.
+          Quarantine formed an integral part of the border measures architecture. Supported by the department, the
+          ABF led the establishment of quarantine facilities at North West Point (Christmas Island) and Howard
+          Springs (Northern Territory). And supported by the NCM’s engagement with states and territories, the ABF
+          led the establishment of a national quarantine (hotel) framework and for engaging on traveller and
+          information flows for quarantine planning. Of the many measures applied, the quarantine system’s
+          robustness and capacity was a central determinant of traveller volumes including the repatriation of
+          Australians – particularly prior to Australia’s vaccine rollout. As Australia’s vaccination coverage increased,
+          and COVID-19 restrictions eased, quarantine requirements were gradually reduced and eventually removed
+          for international arrivals.
+
+
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 12 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          These decisions essentially established international passenger ‘caps’ as a means to control traveller
+          volumes in the public interest. Passenger caps were linked to state and territory administered quarantine,
+          creating a connection between traveller volumes, post-border requirements and quarantine capacity.
+          As passenger caps on flights into Australia’s major international airports became a function of quarantine
+          capacity set by the states, which in turn dictated permitted passenger volumes, negotiation with states and
+          territories was required to give effect to ‘above cap’ or ‘outside cap’ allocations for persons travelling to
+          Australia who might otherwise not be able to, in light of exigent or emergency circumstances, including
+          humanitarian purposes.
+
+          Travel exemptions process
+          The portfolio managed the travel exemptions process for the government. A blended team of Departmental
+          officers, made up of mostly visa officers, and ABF officers was set up at short notice to manage the task in
+          support of the ABF Commissioner. While the government broadly determined which categories of travellers
+          were automatically exempt from Australia’s inward travel restrictions, implementation relied on portfolio
+          systems and the cooperation of airlines (supported by the ABF’s ALO Program) to check that individuals had
+          not only the correct visa, but also the appropriate travel exemption. Granting an exemption was an indication
+          that the person had been assessed as posing an acceptable risk to the health of the Australian community,
+          taking into account the Government’s policy settings and the desirability of certain cohorts being given
+          greater access to come to Australia. Within this structure, and authorised by the Prime Minister, the ABF
+          Commissioner and authorised decision-makers had discretion to grant individual exemptions for people not
+          in an automatic exemption category. These inward travel exemption arrangements were a policy-based
+          administrative control, supported by a health-based visa cancellation power in the Migration Act 1958 (the
+          Migration Act). Other exemption considerations included prioritising quarantine places for certain non-
+          citizens (particularly those bringing state-sponsored critical skills, and gradually including students
+          undertaking medical degree courses commencing placement, Commonwealth-funded postgraduate research
+          students and, eventually, those part of the International Student Arrival plans), or compelling and
+          compassionate circumstances or, later, vaccination status.
+          To ensure individuals with critical skills were still able to enter Australia, travel exemptions to border closures
+          were made available for certain cohorts, such as visa holders recruited under the Pacific Labour Scheme
+          (PLS), holders of Business Innovation and Investment Program (BIIP) (subclass 188) visas, employer-
+          sponsored visa holders nominated to work in an occupation on the Priority Migration Skilled Occupation List
+          (PMSOL), those travelling at the invitation of the Australian Government for the purpose of assisting in the
+          COVID-19 response, or those with critical skills or working in a critical sector in Australia.
+          The travel exemption process was initially undertaken using an email-based system (20 March to
+          17 July 2020), which was superseded by a purpose-built service delivery platform that made it easier to
+          submit and track travel exemption requests (refer to Online support to Communities for further details).
+
+          By the time it was closed, the travel exemptions process had involved decisions on nearly 1.2 million
+          requests for inbound and outbound travel exemptions.
+
+          Incoming passenger information
+          Although entry restrictions were in place following the international border closure on 20 March 2020, exempt
+          travellers were able to return to Australia but required to quarantine in state and territory arranged
+          accommodation. It became clear in the introduction of border measures that the paper-based Incoming
+          Passenger Cards were not a suitable tool for managing border and health risks: data was only available to
+          health officials days after a flight’s arrival, and data retrieval and analysis was a manual process. Therefore,
+          in late March 2020, the physical COVID-19 Declaration Card was introduced to capture passenger
+          information, including contact details, to specifically support the mandatory 14-day isolation requirements in
+          effect at the time; even so, the Declaration Card was affected by legibility and data quality, and states and
+          territories required further information to service increased contact-tracing capabilities and to support
+          mandatory quarantine arrangements.
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 13 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          Given these challenges, presented during a rapidly changing situation and the ongoing need to manage
+          potential COVID-19 outbreaks, the department was tasked with providing an electronic process that
+          travellers could use to provide information for quarantine planning and contact tracing purposes.
+          To meet this need, the department worked with APP system owners to develop and launch within 6 weeks a
+          pilot form of the electronic Australia Travel Declaration (ATD), followed by a full roll-out to all international
+          passengers in early December 2020. The ATD enabled the electronic collection of critical health information
+          on vaccination status and international travel history – including traveller contact details in Australia, flight
+          details, vaccination information, quarantine requirements and traveller health status – for all passengers
+          between three and seven days before their scheduled flight to Australia.
+          This information enabled the government to determine any required quarantine arrangements, and allowed
+          relevant state or territory health departments to contact travellers should they come in contact with someone
+          who had tested positive for COVID-19. The ATD was also designed to indicate whether a traveller was
+          eligible for quarantine-free travel, such as the safe travel zone arrangement between Australia and
+          New Zealand. The ATD achieved effective contact-tracing, quarantine planning and support for safe travel
+          zone arrangements and was configured in a way that enabled the ability to flexibly respond to government
+          priorities and announcements. For example, within a day of an outbreak occurring in Auckland,
+          New Zealand, the department was able to amend questions within the ATD to check whether travellers had
+          been in any hotspots to determine eligibility for quarantine-free travel – effectively preventing any further
+          spreading of the New Zealand outbreak within Australia. The ATD was subject to multiple amendments, at
+          times on a daily basis, to meet the evolving policy and operational imperatives. The ATD proved to be a very
+          dynamic and responsive system, receiving positive feedback on the ease of use.
+          On 13 September 2021, the Australian Government announced a permissions capability in preparation for
+          reopening Australia to international travel at scale and to allow for the efficient movement of travellers. The
+          purpose of this whole-of-government reusable platform was to progressively support the digitisation and
+          modernisation of service delivery within the portfolio and across the Australian Public Service, including
+          visas, import permits, personnel identity cards, licences and registrations. The first product resulting from the
+          permissions capability was the delivery of the Digital Passenger Declaration (DPD) which aimed to facilitate
+          the quick and secure collection of incoming passenger information, and to provide biometrically anchored,
+          digitally verified COVID-19 vaccination details. With the Permissions Capability program forming a key part of
+          the government’s agenda, the delivery of the DPD was a departmental priority to support the safe and
+          graduated reopening of Australia’s international borders. The DPD pilot took place in December 2021, and
+          was deployed at scale throughout Australian airports in February 2022, officially replacing the ATD.
+          Those travelling by sea were also required to complete the Maritime Travel Declaration (MTD), which was
+          implemented on 14 April 2022 to collect critical information (including health information) to support the
+          resumption of cruise travel and maritime travel more broadly.
+          From 6 July 2022, the Australian Government announced that all COVID-19 border restrictions would be
+          lifted, with international travellers to Australia no longer required to complete the DPD or the MTD to declare
+          their COVID-19 vaccination status.
+
+          Safe travel zones
+          In October 2020, a safe travel zone (STZ) was established with New Zealand, reflecting the low COVID-19
+          case numbers and effective quarantine regimes in Australia and New Zealand at the time (and a Green/Safe
+          country risk assessment). This enabled quarantine-free travel between the two nations, though the majority
+          of quarantine-free flights were from New Zealand to Australia. The STZ served as a testing ground for
+          implementing new health requirements for passengers, new technological capability to collect and
+          disseminate information, and a new operational environment at airports for processing passengers at the
+          border. Flights were separated into ‘red’ and ‘green’, with different requirements set out for each.
+          The STZ with New Zealand was paused with the mid-2021 arrival of the Delta variant in the Australian
+          community and did not fully resume until both countries removed restrictions in the first half of 2022. The
+          strategy of establishing bilateral travel routes continued to be explored until mid-February 2022.
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 14 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          During the second half of 2021, Australia continued to pursue bilateral international STZ arrangements with
+          several countries, establishing arrangements with Singapore, Japan and the Republic of Korea; the
+          quarantine-free travel arrangements applied only to fully vaccinated citizens of those countries, travelling
+          directly from their country of nationality. These arrangements effectively ceased (along with the arrangement
+          with New Zealand) on 21 February 2022, when Australia reopened to all fully vaccinated visa holders,
+          without the need to apply for an individual travel exemption.
+          A departmental evaluation of the Singapore STZ found that there were efficiencies in permitting the
+          graduated resumption of travel through STZs during periods with strict border measures in place. Australia’s
+          STZ arrangement with Singapore was successful in testing Australia’s vaccination and pre-border health
+          policy settings, and served to alleviate the significant resourcing pressures on both the department’s Travel
+          Exemptions Team and the ABF’s Border Operations Centre.
+
+          ACT-based quarantine arrangements
+          On 12 July 2021, at the request of the ACT Government, the department became the Commonwealth
+          coordinator for ACT-based quarantine arrangements for ministers, government officials and their travelling
+          parties, collectively termed Returning Government Officials (RGO).
+          Initially, all parties agreed that the RGO quarantine process would be coordinated by the department, with
+          the ACT Government retaining effective control over the following arrangements:
+                   accommodation, which was initially provided by the Australian National University at the Liversidge
+                    Court Apartments for a period of six months, commencing in September 2021
+                   all health care arrangements, including COVID-19 testing, managed by ACT Health
+                   compliance arrangements, provided by ACT Policing.
+          In addition to the above, on 23 August 2021, due to the COVID-19 outbreak within the ACT, ACT Health
+          advised they no longer had capacity to manage the RGO program, and the Liversidge Court Apartments
+          were taken offline for ACT Health’s public health response. Initially this was for an eight week period until
+          18 October 2021.
+          A new agreement was reached, nominating the department as the coordinator of the RGO quarantine
+          process, effective from 1 September 2021. ACT Health retained effective control and provided approval for
+          each arrangement entered into by the department. In order to manage the RGO quarantine requirements
+          within the ACT, the department contracted:
+                   18 Airbnb properties from September to 30 November 2021
+                   Sonic HealthPlus – provision of COVID-19 testing on days 1, 5 and 13 of a traveller’s isolation period
+                    and additional daily self-testing kits as required by travellers quarantining in approved apartments
+                   Kamberra – accommodation cleaning
+                   Crowne Chauffeurs – transport from the ACT port of arrival to the RGO’s quarantine accommodation
+                    – where a private vehicle was not available.
+          There were limited sources of information available to inform the department’s specific requirements or
+          expectations when managing these arrangements. The department developed these elements individually
+          on an ongoing basis as required. Furthermore, due to the nature in which the department assumed this
+          responsibility, there was difficulty achieving recognition from other stakeholders that the department had
+          appropriate authority for these arrangements, despite clear expectations provided by the ACT Government
+          that the department was in fact responsible for them. These arrangements could have benefited from clearly
+          defined and transparent roles and responsibilities within and across government to ensure the smooth
+          operation and delivery of outcomes.
+
+
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 15 of 27
+National Emergency Management Agency -
+Submission
+                             [Please select Protective Marking from the Home Tab]
+                                                    OFFICIAL
+          ACT Health announced that, from 1 November 2021, fully vaccinated international travellers returning to the
+          ACT would no longer need to quarantine. The department subsequently terminated its role as the
+          coordinator of the RGO process on 17 November 2021.
+
+          Reopening the border
+          The department supported the development of the National Plan. The National Plan was designed to
+          transition Australia from pre-vaccination settings focused on continued suppression of community
+          transmission, to post-vaccination settings focused on living with COVID-19 and rebuilding Australia’s
+          economy.
+          Based on modelling prepared by Health and the Department of the Treasury (Treasury), together with the
+          Doherty Institute, the National Plan contained four phases, with progression based on the vaccination rates
+          of the national population at the time (those eligible and over 16). The National Plan provided a national-level
+          ‘strategy’ with broad triggers and more specific objectives for the relaxation of COVID-19 controls (both
+          domestic and international).
+          The staged reopening of Australia’s international border occurred across four phases, outlined in the
+          National Plan:
+                   Phase 1: The removal of passenger caps and outwards travel restrictions on fully vaccinated
+                    Australian citizens, permanent residents and their immediate families
+                         o    1 November 2021 – passenger caps ended and outwards travel restrictions were removed
+                              for fully vaccinated Australian citizens, permanent residents, and their immediate family
+                   Phase 2: The removal of border restrictions on fully vaccinated skilled, student, and humanitarian
+                    cohorts, along with working holidaymaker and provisional family visa holders
+                         o    21 February 2022 – fully vaccinated visa holders were able to travel to Australia without
+                              seeking exemption
+                   Phase 3: The removal of border restrictions for all fully vaccinated visa holders
+                   Phase 4: The removal of all remaining travel restrictions, including uncapped inbound arrivals
+                    regardless of vaccination status
+                         o    9 September 2022 – the requirement to declare vaccination status, requirement to declare
+                              14-day travel history, and the mask mandate for international flights was removed, marking
+                              the conclusion of the COVID-19 border measures.
+          The Australian Government’s approach to reopening Australia’s international border passed through several
+          different strategies, based on:
+                   the number of COVID-19 cases in the community
+                   the emergence of new variants
+                   the availability of vaccines
+                   the vaccination status of the Australian population (considering vaccination rates nationally, in
+                    individual jurisdictions and among various age cohorts)
+                   economic and social drivers
+                   the decisions of state and territory governments in removing quarantine and domestic border
+                    restrictions.
+          To reopen the border, the department used existing systems capabilities, including a graduated rollback of
+          the pandemic settings of the APP and visa systems. The reopening model – based on citizenship status (for
+          Australians) and, subsequently, visa subclasses – meant the department had systems available to limit
+
+
+
+Department of Home Affairs (including Australian   OFFICIAL
+Border Force) and broader Portfolio, including the
+                             [Please select Protective Marking from the Home Tab] Page 16 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          volumes in some way, as only those who were outside Australia with an eligible visa were able to travel at
+          reopening points. ABF’s Operation Gilfast operationalised the reopening of the border.
+
+          Challenges
+          Australia’s migration framework is not designed to give effect to a border closure and there is no clear legal
+          power to ‘close the border’ in an emergency. The department’s ability to manage border closure and
+          reopening during the COVID-19 pandemic relied on a fragmented system of policy settings, spread across a
+          range of legislative frameworks and Commonwealth portfolios, with the addition of targeted external media.
+          A key legislative gap identified in the management of the international border related to the legal power to
+          directly control flow of volume of Australian citizens and visa holders travelling to Australia in an emergency
+          situation or to select and prioritise the travel of certain travellers.
+          While incoming passenger caps imposed under the Air Navigation Regulation 2016 (administered by the
+          Department of Infrastructure, Transport, Regional Development and Communications) were used to limit the
+          volume of passengers entering Australia to ensure that quarantine capacity was not overwhelmed,
+          passenger caps applied to airlines (not individuals), and were therefore a blunt instrument, as there was no
+          scope to differentiate between citizens and non-citizens.
+          The government prioritised quarantine places for returning Australian citizens, permanent residents and their
+          families. As visa holders have a legal right to enter Australia (subject to being immigration cleared on arrival),
+          they were competing for quarantine places, which could not be managed through passenger caps. Inwards
+          travel restrictions policy (including the travel exemptions regime) was one of the measures used to manage
+          the inward flow of temporary visa holders. This was a policy-based border control tool administered by the
+          department.
+          The limitations outlined here demonstrate that this reliance on a range of cross-agency policy and
+          operational frameworks to achieve government objectives poses enforcement and implementation
+          challenges and raises considerable legal risks, should the need for border closures arise in the future.
+          Furthermore, this arrangement was at times unclear to the general public, state and territory governments
+          and industry, including aviation and maritime sectors.
+
+          Limitations of exercising penalty regimes
+          As COVID-19 cases and vaccination rates increased domestically, there were challenges in exercising visa
+          cancellation powers. Insufficient flexibility and utility in the penalty regimes during the pandemic resulted in
+          disproportionate penalties that were also difficult to administer; for example, during the period when a ban
+          was imposed on inward travellers from India, a fine of up to $66,600 and/or five years imprisonment was set
+          on any individuals breaching an exclusion period, which was perceived as excessive – but it was the only
+          legal option available at the time (later upheld by the High Court). Additionally, the fine would have had to be
+          issued under a prosecution in the courts, and could not be issued as an infringement notice.
+          While it would have been operationally practical to issue infringement notices for not completing the DPD,
+          ATD and MTD, this was not an option that could be easily pursued under the existing framework. So the only
+          enforcement mechanism available was the cancellation of visas at the border in certain circumstances.
+          In addition, there were limited powers available under the Air Navigation Act 1920 to impose penalties for
+          non-compliance of travel requirements implemented by the department. The reliance on airlines to ensure
+          travellers’ eligibility for travel against complex criteria meant that there were gaps in how the requirements
+          were able to be enforced pre-border, particularly where there were no enforceable penalties that applied to
+          airlines that could shape their incorporation of passenger compliance into operations. A cohesive legislative
+          power, and proportionate authority to enforce border entry rules, would support strong and forceful
+          messaging to industry and the public to comply with implemented travel requirements.
+
+
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 17 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          Operating environment
+          The ABF operates on behalf of over 25 agencies at the border, managing thousands of alerts and profiles
+          (for goods and people) and is the second highest revenue raiser for the Commonwealth (collecting
+          $18.36 billion in 2022–23).
+
+
+          Industry support
+            Terms of reference:
+            Support for industry and businesses (for example responding to supply chain and transport issues, addressing labour
+            shortages, and support for specific industries).
+
+
+          Industry engagement
+          To support the Australian Government’s response to the COVID-19 pandemic, the department also
+          established a community of interest with critical infrastructure owners to enable a coordinated approach to
+          requests for information and to enable effective cross sector engagement. The department facilitated
+          industry participation in weekly Crisis Coordination Centre briefings, allowing for communication with industry
+          stakeholders on emergency management responses. On average, there were 90 participants per briefing,
+          which supported collective understanding of the complexities facing industry supply and community demand.
+          Where required, meetings were held virtually to ensure social distancing could be maintained.
+          Throughout the course of the pandemic and the evolving COVID-19 situation in and beyond Australia, the
+          department also engaged with and provided information to various industries, stakeholders and temporary
+          visa holders regarding the work-condition flexibilities that were afforded to various industries.
+
+          Supermarket Taskforce
+          Through the NCM, the Australian Government established the Supermarket Taskforce on 18 March 2020.
+          The Taskforce brought together major supermarket executives, relevant peak bodies, industry
+          representatives – including supply chain entities – the not-for-profit sector, states and territories, and local
+          authorities to discuss and resolve the issues supermarkets were facing due to COVID-19 and to ensure all
+          Australians could continue to access essential items.
+          This effort included working with the Australian Local Government Association and local councils to adjust
+          trucking curfew arrangements to ensure that curfews did not impede the restocking of supermarkets. The
+          Supermarket Taskforce was a testament to the department’s ability to work flexibly in support of domestic
+          security and prosperity priorities, and the strong collaborative relationships developed with food and grocery
+          and transport stakeholders have been maintained across the portfolio – enabling swift and effective crisis
+          responses post-COVID-19.
+
+          Supply Chain Taskforce
+          On 10 January 2022, the department established the Supply Chain Taskforce to mitigate the consequences
+          of COVID-19 related supply chain crises and disruptions, including shortages of diesel exhaust fluid
+          (DEF/AdBlue), as well as workforce absences and non-health impacts due to COVID-19, and sudden
+          demand onset for Rapid Antigen Testing kits, sanitiser and PPE. These issues were managed alongside
+          other supply chain crises brought about by flooding in regional and remote South Australia in February and
+          March 2022 associated with ex-Tropical Cyclone Tiffany, damage to road and rail infrastructure, and adverse
+          weather and extensive flooding on Australia’s east coast.
+          The Supply Chain Taskforce supported Treasury and broader government efforts to minimise challenges
+          experienced across national supply chains. Actions taken to achieve this included:
+
+
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 18 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+                    working with the major supermarkets and the AHPPC to develop interim guidance on permissions
+                     and restrictions for workers in food and grocery supply to reduce workforce absences in the food
+                     and grocery sector
+                    development of Interim Guidance on the Permissions and Restrictions for Essential Workers,
+                     supporting actions to increase the availability of workforce through a series of visa measures with
+                     immediate effect
+                    developing a revised Protocol for Defence Assistance to the Civil Community in COVID-19 to
+                     recalibrate requests for ADF support to state and territory led responses to the pandemic.
+          The NCM conducted 117 meetings and associated working groups addressing supply chain stabilisation and
+          other matters requiring national coordination were conducted by the Supply Chain Taskforce until its
+          transition to the NCM on 30 June 2022.
+
+          Commercial maritime industry
+          Responsible for the movement of over 98% of Australia’s imports and exports by weight, the commercial
+          maritime industry remained critical to Australia’s economy and trade flow during the border closure. Maritime
+          crew on commercial vessels, excluding cruise ships, remained eligible to be granted a Maritime Crew visa
+          and were permitted entry to Australia, subject to relevant state and territory health controls. Maritime crew on
+          commercial vessels did not need to apply for a travel exemption provided they either arrived on their vessel
+          or were travelling to Australia to join a vessel. Crew were not subject to the mandatory 14-day quarantine
+          requirements. Nonetheless, crew had to follow quarantine requirements or self-isolation rules of the
+          jurisdiction in which they arrived regardless of holding a travel exemption. Some jurisdictions allowed crew to
+          proceed direct to the vessel or undertake isolation until such time that they could sign on, while some did not.
+          Crew that arrived in Australia on their vessel were generally restricted on board for the duration of their stay.
+          In addition to the intense industry engagement needed to operate the closed border and then gradual
+          reopening, the department supported the Department of Infrastructure, Transport, Regional Development
+          and Communications from the initial stages of the government’s COVID-19 response, in fortnightly meetings
+          held with the maritime industry to discuss and provide advice on key issues, including the arrangements for
+          the entry and departure of maritime crew and the restriction of cruise ship operations.
+
+          Aviation industry
+          Implementing the government’s policy decisions to protect the Australian community from the risk of
+          COVID-19 transmission from international arrivals depended heavily on industry adopting new passenger
+          facilitation processes along the entire traveller journey. There was a pressing need for close and
+          collaborative engagement with industry to enable the successful delivery of the National Plan.
+          From the introduction of COVID-19 restrictions in early 2020, the department actively engaged with state and
+          territory agency representatives and the aviation sector – airlines, airports, the International Air Transport
+          Association (IATA) and the Board of Airline Representatives – to operationalise the government’s pandemic
+          response. A concerted whole-of-government approach was taken to consulting and sharing information with
+          industry stakeholders. This included the ABF’s leading joint briefings with Health and the Department of
+          Agriculture to ensure alignment and operationalisation of evolving border settings in both the aviation and
+          maritime sectors. Close engagement with industry, complemented by the provision of accurate, timely and
+          up-to-date information, was critical to the success in closing and then reopening the international border.
+          Though there was no change to Australia’s aviation security posture during the pandemic, the government
+          worked closely with airlines, airports and other government agencies to ensure that Australia’s aviation
+          security requirements could continue to be met alongside the implementation of various COVID-19-related
+          measures at airports.
+          Following consideration of a Reopening Plan by government in mid-2021, the department established a new
+          stakeholder forum with key stakeholders from across the aviation sector, government, and states and
+          territories, targeting those who would be impacted most by the border reopening plans for international air
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 19 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          travel. The NCM was used to establish the first meeting of the Border Reopening Stakeholder Forum, which
+          was the primary mechanism used by government to engage with the aviation sector on border reopening
+          matters.
+
+          COVIDSafe app
+          In April 2020, the government agreed to the development of a COVID Safe app to support state and territory
+          health agencies in contact tracing. The development of the app was modelled on a similar product being
+          used by the Singapore government. While the department had involvement in the initial stages of the app’s
+          development, it was subsequently developed and implemented by the Digital Transformation Agency.
+
+          Global Business and Talent Attraction Taskforce
+          The Global Business and Talent Attraction Taskforce (GBTAT) was established in September 2020 to
+          amplify efforts to identify, target and attract global high-value businesses and exceptional talent to relocate to
+          Australia to boost Australia’s economic recovery from COVID-19.
+
+          Challenges
+          Quarantine impacts on commercial maritime industry
+          The inconsistency in quarantine requirements between states and territories made for a very complex
+          environment for industry, as some crew were unable to sign onto a vessel due to jurisdiction-specific
+          quarantine periods. In addition, maritime crew changes were constrained by reduced flights, state and
+          territory quarantine requirements, and barriers to crews leaving their country of origin. Some crew were also
+          unable to quickly depart Australia after signing off a vessel due to the lack of flights out of Australia and
+          border controls in destination countries.
+
+          Communication and information sharing
+          The pandemic demonstrated the need to increase information sharing with smaller government and industry
+          stakeholders. This has subsequently been addressed, but there is further opportunity to develop a network of
+          state and territory contacts to which the ABF’s ALOs could refer airlines if differing health restrictions are in
+          place. Furthermore, the pandemic highlighted that when establishing emergency measures, communications
+          should clearly outline the legislative basis for the measures as well as the nature of the mechanisms to
+          monitor their effectiveness and continuing need for such measures.
+          Another complexity in industry engagement emerged due to the multiple carriers that an international
+          traveller may use on their journey to Australia; though the department and the ABF established productive
+          relationships with the airlines that operated or had plans to operate flights to Australia, there was no direct
+          engagement with any airlines managing flights that connected with the primary airlines the department or the
+          ABF were engaged with. This meant there were many passengers who could commence their journey to
+          Australia with an airline that had limited understanding of Australia’s vaccination or border entry
+          requirements.
+
+
+          Financial support
+            Terms of reference:
+            Financial support for individuals (including income support payments).
+
+
+          The former National Resilience and Recovery Agency, now NEMA, had policy responsibility for the
+          implementation of the Pandemic Leave Disaster Payment (PLDP), the High-Risk Settings Pandemic
+          Payment (HRSPP) and the COVID-19 Disaster Payment. Services Australia was the delivery agency for the
+          payments, which were made available through myGov.
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 20 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          Pandemic payments
+          All three payments were made available to Australian residents and eligible working visa holders with the
+          intent to financially support people to self-isolate or comply with lockdown restrictions so as to help stop the
+          spread of COVID-19.
+
+          Pandemic Leave Disaster Payment (PLDP)
+          In August 2020, the PLDP was announced to provide lump-sum financial assistance to individuals unable to
+          earn an income because they were required or recommended to self-isolate or quarantine, or were caring for
+          a person required to isolate, as a result of COVID-19.
+          The PLDP concluded on 14 October 2022.
+          Over $2 billion was paid out, with over 3 million claims granted.
+
+          High-Risk Settings Pandemic Payment (HRSPP)
+          On 15 October 2022, the new HRSPP was established. The HRSPP provided financial support to workers in
+          high-risk settings, including aged care, disability care, Aboriginal and Torres Strait Islander healthcare,
+          hospital care and custodial settings who were unable to work due to testing positive for COVID-19.
+          The HRSPP concluded on 31 March 2023 with consideration of the end of lockdowns and the need to
+          transition to living with COVID-19.
+          Over $32 million was paid out, with over 44,000 claims granted.
+
+          COVID-19 Disaster Payment
+          On 3 June 2021, the COVID-19 Disaster Payment was announced to support people whose hours of work
+          had been affected by lockdowns or movement restrictions where their location area was also declared a
+          Commonwealth hotspot.
+          On 6 August 2021, states and territories agreed to targets in the National Plan. The COVID-19 Disaster
+          Payment was rolled back gradually as states and territories reduced lockdown restrictions based on
+          increased vaccination rates in the community.
+          Over $12.8 billion was paid out, with almost 6 million claims granted.
+
+          Challenges
+          The introduction of the PLDP and COVID-19 Disaster Payment demonstrated limitations within the existing
+          disaster payment framework under the Social Security Act 1991 (the Social Security Act). For example, the
+          Disaster Recovery Allowance cannot be paid to temporary visa holders, however the government wanted the
+          payments to be available to people on temporary visas (with work rights).
+          Both payments (as well as the HRSPP) were therefore introduced as a grant under the Financial Framework
+          (Supplementary Powers) Regulations 1997, as the existing legislative framework for disaster payments did
+          not have the flexibility necessary to provide the required financial support arrangements.
+          While these payments were only temporary measures, they demonstrated a need to ensure flexibility is built
+          into primary legislation to allow the Australian Government to set, by ministerial determination, criteria such
+          as payment recipients, payment rate, method of payment, and payment duration to address the specific
+          requirements of a disaster event.
+          The Independent Review of Commonwealth Disaster Funding, commissioned by the Australian Government
+          and led by Mr Andrew Colvin AO APM (Independent Reviewer), will provide its final report in April 2024.
+          COVID-19 and pandemic payments are outside the Colvin Review’s terms of reference, as the review’s
+          focus is on natural disasters. However, the Colvin Review will consider and report on areas of reform
+          required to ensure that Australian Government arrangements for disaster funding support a system that is
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 21 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          scalable, sustainable, effective, equitable, transparent and accessible. This will include looking at
+          Commonwealth disaster payments to individuals affected by natural disasters such as bushfires and floods;
+          such payments include the Australian Government Disaster Recovery Payment and hardship payments
+          made under the Disaster Recovery Funding Arrangements (jointly funded by the states and territories and
+          the Commonwealth).
+
+
+          Community engagement and support
+            Terms of reference:
+            Community supports (across early childhood education and care, higher education, housing and homelessness
+            measures, family and domestic violence measures in areas of Commonwealth Government responsibility).
+            Mechanisms to better target future responses to the needs of particular populations (including across genders, age
+            groups, socio-economic status, geographic location, people with disability, First Nations peoples and communities
+            and people from culturally and linguistically diverse communities).
+
+
+          Community engagement
+          Throughout 2020–21, the department’s Regional Directors and Community Liaison Officers (CLOs)
+          increased engagements with key community stakeholders to address issues relating to COVID-19 and to
+          provide information and support to communities. Through targeted engagement, provision of in-language
+          Community Health information, and enlisting the support of trusted community leaders, the CLO Network
+          contributed to efforts to improve community understanding of public health factors related to COVID-19,
+          reduce rates of vaccine hesitancy and increase participation in the vaccine rollout.
+          The department also supported the Prime Minister, portfolio ministers and others to host national
+          roundtables with leaders from Australia’s diverse communities. These fora provided a platform for
+          communities to voice their concerns in relation to the pandemic, and for government to provide key
+          messages of support for these communities.
+
+          Migrant support
+          Over the COVID-19-impacted period, more than 75 concessions and visa adjustments relating to temporary
+          and permanent visa programs were introduced that sought to support those disadvantaged by COVID-19
+          and assist with rapid economic recovery after the pandemic. These temporary measures also enabled those
+          visa holders with the required skills to remain in Australia, to help fill skills shortages in critical industries such
+          as health, disability, aged care, agriculture, food processing, childcare and tourism and hospitality. These
+          measures included:
+                   the introduction of a COVID-19 ‘concession period’ for certain cohorts of visa applicants and holders,
+                    including those who were on a pathway to permanent residence, disadvantaged by border closures,
+                    travel restrictions and restrictions imposed on businesses. Applicants for certain visas were able to
+                    access a number of visa eligibility concessions which applied during, or were otherwise linked to, the
+                    ‘concession period’
+                   extended visa validity periods and flexible enforcement of visa conditions for temporary visa holders;
+                    for example, removal of the six month work limitation period, and flexibility to the ‘specified work’
+                    eligibility for second or third visas for Working Holiday Makers (WHMs) in critical sectors, the ability
+                    to work beyond the 40-hours-a-fortnight limitation for student visa holders. Seasonal Worker
+                    Programme (SWP) and PLS workers were also able to extend their stay in Australia to support the
+                    agriculture sector and other critical sectors
+                   the making available of a COVID-19 Pandemic Event ‘visa’ in April 2020 within the existing
+                    Temporary Activity (subclass 408) visa, which was intended to address labour shortages in critical
+                    sectors during the pandemic while also ensuring visa holders remained lawfully onshore. Temporary
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 22 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+                    visa holders working in critical sectors who were unable to depart Australia and were not able to
+                    apply for another visa were able to apply free of charge
+                   The introduction of the PMSOL on 2 September 2020, in consultation with government and the
+                    National Skills Commission, which prioritised the processing of nomination and visa applications for
+                    employer-sponsored visas in critical occupations. The PMSOL identified occupations that filled the
+                    critical skills needed to support Australia’s economic recovery from COVID-19
+                   Visa Application Charge refunds or exemptions for those who may not have been able to travel to
+                    Australia due to border closures.
+          In addition to the numerous visa changes and adjustments, the department used its network of global visa
+          processing officers to pivot to priority caseloads, support those already in Australia, and migrants outside
+          Australia who could meet travel-exemption criteria.
+          For the 2020–21 program year, the Migration Program moved towards an equal split between the Skill and
+          Family streams, which was designed to assist in meeting the Migration Program planning levels during the
+          height of the COVID-19 travel restrictions, when the ability of new migrants to enter Australia was
+          significantly affected. This enabled the department to focus on partner visa applications – mainly from
+          applicants in Australia – to maximise benefits of the annual Migration Program.
+          For Skilled visas, visa processing shifted focus to applicants already in Australia and those applicants in
+          critical sectors and occupations to support Australia's response to the pandemic and drive economic
+          recovery.
+          The department remained committed to managing the Citizenship Program by quickly adapting its approach
+          to citizenship ceremonies, allowing approved applicants, who would ordinarily attend an in-person citizenship
+          ceremony in their local community, to attend a ceremony online. From 31 March to 30 June 2020, more than
+          45,000 individuals acquired citizenship through online ceremonies, and almost 50,000 acquired citizenship
+          via online ceremonies in 2020–21.
+
+          Online support to communities
+          The department’s Global Service Centre and websites played a role in providing information to clients and
+          the Australian community. During the pandemic, the department’s online presence was redeveloped to
+          provide a consistent and comprehensive source of information on visas, citizenship, travel restrictions and
+          support services. The department launched new websites, including ‘COVID-19 and the border’ to provide
+          clear information about the impact of the pandemic on visa and border arrangements. The ‘COVID-19 in your
+          language’ website, launched in April 2020, provided a fact sheet in 63 languages about COVID-19 and
+          related vaccines to culturally and linguistically diverse communities. The ‘Misinformation and truths about
+          coronavirus (COVID-19)’ fact sheet was developed in consultation with Health and was also available on the
+          ‘COVID-19 in your language’ website.
+          Travel Exemption Portal
+                   In mid-2020, the department rapidly established a travel exemption process, and online web form to
+                    facilitate requests from travellers seeking transit through Australia’s international border. Due to
+                    rapidly increasing requests volumes at the time, the online web form was replaced with a more
+                    robust travel exemption portal, and expanded processing capability managed by the department and
+                    ABF. The travel exemption portal provided a single point of engagement for the traveller to request,
+                    and track the progress of their exemption request. The portal provided departmental and ABF
+                    officers with a centralised capability to receive, triage and process high volumes of requests.
+          Repatriation Portal
+                   In mid-2021, DFAT and the department jointly established an online registration capability for
+                    non-citizens to request consular assistance to facilitate their return to their country of origin. The
+                    department rapidly established a Repatriation Portal through which non-citizens could submit a
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 23 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+                    request for repatriation that was then assessed and facilitated by DFAT. The portal provided a
+                    centralised capability for DFAT and departmental staff to jointly manage this cohort of travellers
+                    impacted by the closure of international borders.
+
+          Challenges
+          Citizenship Program
+          The COVID-19 pandemic also demonstrated a vulnerability in the Citizenship Program, whereby applicants
+          who were required to sit the citizenship test were unable to do so, as the test is currently only available
+          in-person. The department is taking steps to explore online test options, to reduce vulnerability to future
+          disruptions to face-to-face client services.
+
+          Translation and language services
+          The department is responsible for the Australian Government’s Multicultural Access and Equity Policy, the
+          Australian Government Language Services Guidelines, the Translating and Interpreting Service (TIS
+          National), the Free Interpreting Service and the Free Translating Service, as well as managing the
+          Commonwealth’s relationship with the National Accreditation Authority for Translators and Interpreters
+          (NAATI). Lessons learnt from the pandemic provide opportunities to consider access and equity
+          improvements for populations with limited English language proficiency, to ensure that information in
+          languages other than English is readily available, accessible and of high quality.
+          One review in 2022 into Australia’s response to COVID-192 found that mortality rates in Australia for
+          culturally and linguistically diverse communities were more than two-and–a-half times higher than for others,
+          with these communities often relying on ‘international news sources that provided advice that did not
+          necessarily match that coming from the Australian Government’.
+          The pandemic also identified a capability gap in the ongoing need for clearer, more accurate and timely
+          messaging in languages other than English for multicultural communities. The department is also working on
+          key priorities that aim to address information shortages and improve access to information in languages
+          other than English, including for First Nations and deaf and hard of hearing communities, as part of the
+          Multicultural Framework Review and in response to the recommendations of the Royal Commission into
+          Violence, Abuse, Neglect and Exploitation of People with Disability.
+
+
+          Future planning and preparedness
+            Terms of reference:
+            The Inquiry will consider opportunities for systems to more effectively anticipate, adapt and respond to pandemics in
+            areas of Commonwealth Government responsibility.
+
+
+          Pandemic preparedness and resilience – lessons learned report
+          The department has previously undertaken a review of its response to the COVID-19 pandemic, through the
+          internal Border Preparedness and Resilience Review (the Review).
+          Commencing in April 2022, the Review focused internally on the department’s border management
+          responsibilities during the COVID-19 pandemic. The objectives of the Review were to:
+                   undertake a review of ‘lessons identified’ to validate lessons from 2020 to 2022 that should be
+                    integrated into planning and operational settings to ensure continual improvement is occurring
+
+
+
+          2 Paul Ramsay Foundation, Fault Lines: an independent review into Australia's response to COVID-19, October 2022, pp. 22, 62,
+          accessed 18 December 2023.
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 24 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+                   develop interim procedural guidance to manage border aspects of pandemics, applied in the event of
+                    a new COVID-19 variant or virus of concern.
+          The Review, finalised in October 2022 and provided to the COVID-19 Inquiry independent panel on 16
+          November 2023, recommended 13 actions relating to the role of the portfolio and its responsibility for the
+          various aspects associated with closing and reopening the border, most notably centred around:
+                   the absence of a targeted legislative framework that contains clear border management powers and
+                    authority by the minister responsible for the management of Australia’s border
+                   the department’s influence in the absence of a robust legislative authority vested in its minister, to
+                    make decisions about the international border (particularly during a crisis)
+                   the need for well-managed coordination and communication across all levels of government and
+                    industry stakeholders
+                   the integration of established scientific information with real-time data emerging from the frontlines,
+                    to inform agile changes in policies and procedures as health risks evolve (e.g. from viral mutation),
+                    with real-time confirmation from information supervised by registered clinicians
+                   the need for centralised health intelligence to support planning for border related measures at, or
+                    ahead of, the border
+                   the need for targeted assurance activities performed by appropriate clinical personnel with expertise
+                    in operational constraints and environments, to ensure that decisions are implemented in an
+                    effective and timely way
+                   consideration as to how to manage the significant resource and systems capability impacts for the
+                    department and ABF caused by the COVID-19 pandemic.
+
+          Proposed border resilience reforms
+          The department plays a critical role in building Australia’s national resilience across the full crisis spectrum.
+          Working closely with NEMA, the department leads on national resilience policy and strategy to ensure the
+          Commonwealth has the necessary policy, legislation and capability to manage an increasingly dynamic
+          strategic environment. The department is progressing a number of lines of effort that will enable Australia to
+          remain resilient in the face of concurrent and competing domestic crises, including:
+                   developing a National Resilience Framework to bolster Australia’s ability to anticipate, prevent,
+                    absorb, adapt to and evolve from crises
+                   exploring options to enhance the Commonwealth’s crisis response and recovery capabilities and
+                    national capacity; this endeavour aims to reduce reliance on the ADF when responding to nationally
+                    significant crises
+                   undertaking a non-statutory review of Commonwealth emergency management powers (the EM
+                    Powers Review), with a particular emphasis on the National Emergency Declaration Act 2020 (the
+                    NED Act), to determine whether the Commonwealth’s current emergency management legislative
+                    setting is fit for purpose for the changing environment
+                   undertaking work on national civil preparedness and planning for nationally significant crises
+                   assessing the impacts and risks resulting from, or exacerbated by climate change and the green
+                    energy transition, and developing options to address any critical national security vulnerabilities.
+
+          NEMA lessons management process
+          NEMA undertook a lessons management process using the Observations–Insights–Lessons Identified–
+          Lessons Learned (OILL) Model outlined in the Australian Emergency Management Handbook – Lessons
+
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 25 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          Management. A total of 109 observations were collected across the COVID-19 event, which have been
+          coded, themed and grouped into key insights, which include that:
+                   implementation of the NCM created integration challenges for the Crisis Coordination Centre (CCC –
+                    now the Australian Government National Situation Room)
+                   the Crisis Coordination Team (CCT) and CCC adapted and evolved to manage the complex
+                    operation
+                   CCT and CCC briefings and handovers were occurring, but attention was needed to raise the
+                    standard
+                   communication of processes and sharing of information in complex operations remains a challenge
+                   ongoing communication from leaders around roles and responsibilities as operations unfold is critical
+                   managing multiple data sources through human resources creates issues for CCC products
+                   perceptions of the role versus the reality for surge when working in a crisis
+                   equipment and technology issues.
+          The National Crisis Exercising and Lessons Capability in NEMA designs and implements preparedness
+          activities including, exercises, training, masterclasses and lessons processes, to uplift capability across the
+          Australian Government, states and territories, industry and community organisations. Lessons identified from
+          COVID-19 have been validated through exercises.
+
+          ABF lessons learned
+          Drawing from the OILL Model, the ABF completed several lessons learned processes. Post pandemic
+          lessons and reflections include the need for or importance of:
+                   proactively looking for and identifying opportunities to inform and promote the ABF’s role,
+                    responsibilities, limitations and required timeframes for changes to existing processes at the border
+                    when a whole-of-government response is required
+                   strengthening and aligning of processes for the processing of large numbers of COVID-positive
+                    passengers and crew – particularly in the maritime domain
+                   increasing interconnectivity and collaboration domestically and inter-nationally – particularly in the
+                    area of strengthening the integration and interoperability of technologies, systems and data
+                   timely, clear and multi-channel communications across all levels of stakeholders – internally, across
+                    government agencies and with industry
+                   simplifying and streamlining governance models – particularly around communicating and managing
+                    change in ICT environments
+                   addressing workforce gaps in technical (predominantly ICT) and policy streams
+                   balancing operational and non-operational functions, particularly in the areas of recording keeping
+                    and capturing strategic policy and program decisions
+                   transforming organisational policies, procedures and processes around shifting ‘crisis’ management
+                    and into a business-as-usual function
+                   early clarification of agency roles and responsibilities to avoid confusion and delays.
+
+          Opportunities
+          Migration Act reforms
+          Enhancing the scope of health risks in the Migration Act – or including pre-emptive sections that come into
+          effect when an epidemic or pandemic is identified – could provide an opportunity to increase Australia’s
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 26 of 27
+National Emergency Management Agency -
+Submission
+                            [Please select Protective Marking from the Home Tab]
+                                                   OFFICIAL
+          pandemic preparedness through strengthened legislative provisions that enable uplift or visa refusal, as well
+          as visa cancellation.
+          Currently, if it becomes necessary to implement inwards travel restrictions, it would be done through policy,
+          supported by the visa cancellation power in the Migration Act and relate to people who are neither citizens
+          nor permanent residents (or their immediate family). Non-citizens travelling to Australia who are not exempt
+          may be considered for visa cancellation under s116(1)(e) of the Migration Act on the basis that they may
+          present a health risk. There is however no current specific reference to COVID-19 or human coronavirus in
+          the health requirement.
+
+          Legislating the ABF’s functions
+          The ABF is considering the benefits of legislating its functions in the Australian Border Force Act 2015 (Cth)
+          to establish and describe the ABF’s roles and responsibilities so as to provide clarity to both partners and the
+          public on its remit and powers.
+          The ABF was criticised in 2020 by the media and public for its handling of the Ruby Princess cruise ship
+          incident because it was believed that the ABF had, or should have had, powers to prevent disembarkation of
+          unwell passengers. The Special Commission of Inquiry into the Ruby Princess report found that the relevant
+          legislative provisions make it ‘crystal clear’ that the ABF has no relevant responsibility for the processes by
+          which, by reference to health risks to the Australian community, passengers were permitted to disembark
+          from the Ruby Princess 3.
+
+          Modernisation of border systems
+          Through increased effectiveness and efficiencies when transacting across Australia’s border, the
+          modernisation of border systems (including the adoption of artificial intelligence) will play an increasingly
+          important role in pandemic preparedness and response. Border modernisation will streamline documentation
+          processes, aid in efficient health screenings and facilitate real-time monitoring, improving the ABF’s ability to
+          promptly identify and respond to both health and non-health-related border risks. Enhanced border systems
+          will also improve the flow of seamless information exchanges, domestically and internationally, supporting
+          collaborative efforts to contain and manage pandemics (noting that the information exchanges can only
+          occur if lawful under Australian law).
+          The ABF considers the modernisation of border systems a key priority that will contribute to Australia’s
+          economic and security objectives, increase Australia’s pre, at and post border public health measures, and
+          provide enduring positive returns on investment for the government and Australian community.
+
+          Intelligence information
+          In future pandemics, the government’s information requirements may be better expressed publically as a
+          need for situational awareness and advice, rather than ‘intelligence’, to avoid any popular misunderstanding
+          of government’s activities and responses.
+          In responding to the COVID-19 pandemic, the government required quick and accurate information about
+          developments. This was often expressed in terms of the requirement of ‘intelligence’ to inform the
+          government’s response to the pandemic. While the term ‘intelligence’ has a meaning that makes it relevant
+          to describe the information required by government, use of the term ‘intelligence’ in a pandemic response
+          context brings connotations not desirable in a government response to a public health emergency.
+          Clarity around the unique role intelligence can play, combined with clarity around the distinction with
+          government’s general information requirements as suggested above, will support more effective government
+          response to pandemics in future.
+
+
+
+
+          3   NSW Government, The Special Commission of Inquiry into the Ruby Princess, August 2020, p. 27, accessed 18 December 2023.
+
+
+Department of Home Affairs (including Australian  OFFICIAL
+Border Force) and broader Portfolio, including the
+                            [Please select Protective Marking from the Home Tab] Page 27 of 27
+National Emergency Management Agency -
+Submission
+

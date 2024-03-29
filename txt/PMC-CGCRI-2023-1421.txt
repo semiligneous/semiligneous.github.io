@@ -1,0 +1,175 @@
+Dr Melissa McCann
+
+15th December 2023
+
+
+
+Commonwealth Government COVID-19 Response Inquiry
+
+I am general practitioner currently practicing in North Queensland and have over 15 years experience as a medical
+practitioner. Prior to completing my medical training I qualified as and worked as a pharmacist. I have developed a
+special interest in COVID-19 vaccine adverse events prompted by reports of adverse events from patients and I have
+over the past almost 2 years been involved in advocacy, literature review and a clinical workload including persons
+with severe events following vaccination. I have also been involved in initiating a class action in the Federal Court
+seeking compensation for damages and losses consequent to those adverse events1
+
+By way of submission to this inquiry; the Committee tasked to review the Commonwealth Government's response to
+the COVID-19 pandemic and make recommendations to improve response measures in the event offuture pandemics;
+I outline below a number of observations and recommendations based on my experiences as a health care
+professional during and following the COIVD-19 pandemic.
+
+In response to the specific areas of review-
+
+    1.   Governance including the role of the Commonwealth Government, responsibilities of state and territory
+         governments, national governance mechanisms (such as National Cabinet, the National Coordination
+         Mechanism and the Australian Health Protection Principal Committee) and advisory bodies supporting
+         responses to COVID-19.
+
+
+         The COVID-19 pandemic was characterised by neglect for well-established pandemic response plans and
+         established pathways for vaccination approval, purchase and distribution and the justification for these
+         deviations from established legislative pathways ought to be examined by this committee. For example, the
+         detailed Australian Health Management Plan for Pandemic Influenza, AHMPPI, August 20192' appears to
+         have been entirely ignored. Notably, this extensive plan contains no mention of 'lockdowns', border closures
+         or mandatory vaccination policies; whereas such policies have unpinned the COVID-19 pandemic response.
+
+
+         Specifically, the COVID-19 vaccination program was administered outside of the National Immunisation
+         Program. Vaccine listing for the National Immunisation Program (NIP) requires a recommendation by the
+         Pharmaceutical Benefits Advisory Committee (PBAC) that a vaccine is clinically and cost effective for the NIP3.
+         The National Immunisation Strategy 2019-20244 outlines the National Immunisation Program governance,
+         and the supply and monitoring of NIP vaccines, and notably contains no mention of Covid 19 vaccines; these
+         being administered outside of this program5.
+         In 2005, the National Heath Act 1953 was amended to provide for the evaluation of cost-effectiveness of
+         vaccines by the Pharmaceutical Benefits Advisory Committee (PBAC), in order to provide a more consistent
+         and transparent process for recommending vaccines for Australian Government funding6.
+         Under these arrangements, the National Health Act 1953 requires that, before a vaccine is provided for free
+         through the NIP or subsidised under the Pharmaceutical Benefits Scheme, the PBAC must undertake a
+         thorough and objective assessment of its clinical efficacy and cost-effectiveness (value for money), in
+         comparison with other available treatments.
+         The PBAC then provides advice to the Minister for Health. The Act does not allow for ministerial or
+         departmental discretion to list a vaccine on the NIP in the absence of this recommendation. As part of the
+         legislative changes in 2005, existing vaccines on the NIP were listed on the National Health (Immunisation
+         Program - Designated Vaccines) Determination.
+         PBAC recommendations are given in response to vaccine sponsor submissions and with these legislative
+         changes, ATAGI was given a strengthened role in providing technical advice to the PBAC on new vaccines, and
+         specific vaccines expertise was added to the PBAC. I would emphasise the COVID-19 vaccines have not been
+         evaluated by the PBAC and to this day continue to be administered outside of the NIP.
+     In addition, the National Immunisation Committee (NIC) has not met since 20197and the absence of this
+     Committee during one of the largest national immunisation programs requires explanation by the
+     Department of Health. The established governance framework includes for the NIC to establish time frames
+     for reviewing and responding to AEFI (Adverse Events Following Immunisation) reports in consultation with
+     the state and other jurisdictions and to outline the escalation protocols for an emerging signal and establish
+     benchmarks for alerts.
+     The provision of the COVID-19 vaccination program, Operation COVID SHEILD8, with complete failure to
+     utilize existing pathways for program evaluation, purchasing and administration requires the review of this
+     committee.
+
+
+     Further, the governance structure utilising National Cabinet, as opposed to established governance
+     frameworks such requires detailed scrutiny by this committee.
+     Intentionally or otherwise, the National Cabinet effected a deviation from the democratic process of
+     accountability to the public and such democratic principles of disclosure and transparency, and the process
+     by which exemptions from the Commonwealth Freedom of Information Act 1982 were determined requires
+     transparent review9. Presuming the intention of the National Cabinet was not to allow governmental
+     decision making absent the democratic right for public scrutiny, the outcome of precisely that is highly
+     alarming, particularly when decisions made under the shroud of National Cabinet resulted in substantial
+     harm and suffering to the public. Such consequential decisions as lockdowns, border closures, vaccination
+     purchase agreements and vaccination mandates must be subjected to vigorous review within the scope of
+     this inquiry to more effectively anticipate, adapt and respond to pandemics in areas of Commonwealth
+     Government responsibility; and ultimately to ensure that the mistakes of this pandemic will never be
+     repeated.
+
+
+
+2.   Key health response measures (for example across COVID-19 vaccinations and treatments, key medical
+     supplies such as personal protective equipment, quarantine facilities, and public health messaging)
+
+
+     Perhaps simplest to contemplate if these key response measures could have been managed any worse, and
+     work backwards from there; it is almost difficult to know where to begin.
+     Lockdown and quarantine facilities have been characterised by human rights violations and even resulted in
+     deaths of 'inmates'10,11 - the utter antithesis of facilities utilised for the purposes of improving public safety.
+     Public health messaging was focused on the goal of every citizen being vaccinated, rather than a goal to
+     ensure the public health and safety during the pandemic12. This resulted in perverse advertising and public
+     messaging at times, including advertising campaigns targeted at young children, and offering rewards for
+     vaccination13,14,15. This public messaging at times crossed clearly into contravention of advertising standards
+     for therapeutic goods, even taking into consideration the considerable leniency provided for advertising
+     COVID-19 vaccines by the Therapeutic Goods Administration 2022 Permission. For example, this Permission
+     disallowed 'statements to the effect that COVID-19 vaccines cannot cause harm or have no side effects and
+     any statement regarding COVID-19 vaccines that is false or misleading'; and was required to be balanced and
+     factual and non-promotional, for example 'presenting comprehensive information that doesn't emphasise the
+     benefits over, for example, the risks and limitations'. Few among us could have traversed the pandemic
+     without being subjected to promotional statements that entirely emphasized benefits over risks and
+     limitations, promoted false information in the form of advertising unapproved indications such as prevention
+     of transmission and suggested the COVID-19 vaccines could not cause harm.
+
+
+     Adequate governance over the public health messaging and related advertising campaigns appears to have
+     been entirely absent and requires the careful review of this inquiry.
+
+
+     Finally, the COVID-19 vaccinations have been perhaps the most egregious health response measure in
+     recorded history. The success of a vaccination campaign is not measured by the percentage of population
+     who were convinced to be vaccinated, despite this being reported by various official sources as evidence of a
+     successful program16. A successful vaccination campaign ought to result in the majority of vaccinated persons
+not becoming infected with the disease the vaccines were designed to protect against. A successful
+campaign would result in reduced number of cases and reduced transmission of disease throughout a
+population following the vaccination campaign. It ought to result in small numbers of adverse events after
+vaccination and such events comparable with traditional vaccines. It ought to result in an overall reduction in
+severe disease, deaths caused by the disease and reduction in overall excess mortality across a population.
+
+
+By every measure the COVID-19 vaccination campaign has been a complete failure despite the multibillion­
+dollar investment17,18.
+
+
+The alarming and extraordinary number of adverse event reports to the TGA DAEN database and number of
+claims to the COVID-19 compensation scheme are measures of the harm caused by the vaccines. While most
+likely this represents substantial under reporting of the adverse events, these reports are still extremely
+alarming.
+
+
+Each report or claim represents an individual who took the COVID-19 vaccines on the basis that the benefits
+would vastly exceed any rare and inconsequential risk (and that risk 'far less than the risk of COVID-19
+disease') when such claims were not based on scientific evidence; and information contradictory to such
+claims was actively suppressed by the same persons making the egregious false advertising and promotional
+claims. Or alternatively, took the vaccine as a consequence of a vaccination mandate and therefore without
+free and informed consent.
+
+
+I believe this Committee ought to make a recommendation of public apology.
+
+
+An apology to the Australian public for the harms consequent to the pandemic mismanagement including
+impacts of lockdowns and harms from the use of novel genetic vaccines which the majority of the population
+was mandated to receive, contrary to all principles of medical ethics, might go some way to begin
+acknowledgment for the harms caused.
+
+
+
+1.            https://www.covidvaxclassaction.com.au
+2.    https://www.health.gov.au/sites/default/files/documents/2022/05/australian-health-management-plan-
+      for-pandemic-influenza-ahmppi.pdf
+3.            https://www.health.gov.au/sites/default/files/nip-vaccine-listing.pdf
+4.    https://www.health.gov.au/resources/publications/national-immunisation-strategv-for-australia-2019-to-
+      2024
+5.            https://www.legislation.gov.au/Details/F2023C01051/Download
+6.            https://pbac.pbs.gov.au/information/about-the-guidelines.html
+7.            https://www.health.gov.au/committees-and-groups/national-immunisation-committee?language=und
+8.    https://www.health.gov.au/resources/publications/op-covid-shield-national-covid-vaccine-campaign-
+      plan
+9.            https://federation.gov.au/national-cabinet/terms-of-reference
+10.           https://www.theleader.com.au/storv/8179430/hotel-quarantine-criminal-civil-cases-to-run-together/
+11. https://www.abc.net.au/news/2023-ll-24/investigation-into-legality-of-covid-mandatory-
+      quarantine/103146634
+12.           https://www.health.gov.au/our-work/covid-19-vaccines/campaign
+13. https://www.smh.com.au/business/consumer-affairs/green-light-for-businesses-to-offer-vaccine-
+      rewards-20210607-p57vuy.html
+14. https://www.canberratimes.com.au/storv/7612191/canberras-voung-superheroes-called-to-join-the-
+      fight-against-covid-19/
+15.           https://www.swslhd.health.nsw.gov.au/mediacentre/mediareleases/2022/220110.pdf
+16.           https://wwwl.racgp.org.au/ajgp/2022/september/strategies-effective-in-optimising-covidl9-vaccine
+17.           https://www.abs.gov.au/statistics/health/causes-death/provisional-mortalitv-statistics/latest-release
+18.           https://ourworldindata.org/covid-cases
+

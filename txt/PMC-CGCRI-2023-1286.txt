@@ -1,0 +1,220 @@
+    illumma*
+Illumina Australia submission to the Commonwealth Government
+Covid-19 Response Inquiry.
+Illumina1 is a world leader in genomics. Our global mission is to improve human health by unlocking the
+power of the genome. To date, over 90% of all genomics data produced globally has been generated
+using Illumina Next Generation Sequencing and Array Genotyping technologies. In Microbial Genomics
+we have a strong record of innovation enabling novel microbial research, genomics-based surveillance
+of pathogens and antimicrobial resistance in public health agencies, as well applications in human health
+and infectious diseases.
+
+We bring decades of collective expertise in microbial genetics and genomics acquired through years of
+experience working with key customers on implementation of genomics-based applications around the
+world. Our customers include key public health laboratories across Australia including the University of
+NSW, NSW Health Pathology, the Microbiological Diagnostic Unit Public Health Laboratory (MDU PHL),
+University of Sydney, Northern Territory Pathology and Queensland Health Forensic and Scientific
+Services (QHFSS).
+
+Illumina has a strong footprint in Australia, including our partnership with the University of Melbourne
+and Invest Victoria to establish The Advanced Genomics Collaboration (TAGC). The TAGC enables multi­
+disciplinary collaborations to use the power of genomics to create world-leading, commercially
+successful biomedical projects and businesses that make healthcare more effective, efficient and
+affordable for everyone.
+
+Illumina Australia has been actively contributing to genomic public policy formation in Australia. For
+example, Illumina Australia's general manager is on the Australian government's Expert Advisory Group
+on the formation of Genomics Australia, and Illumina provided submissions to the review of Health
+Technology Assessment policy and methods and the recent government consultation on the RNA sector.
+
+The thoughts and opinions expressed in this document are given through our unique lens as a global
+provider of genomic technology solutions to both researchers and public health scientists.
+
+The role of genomics in the COVID-19 pandemic
+
+The COVID-19 pandemic brought genomics to the forefront of public health surveillance, providing
+unprecedented speed and scale to the pandemic response. The technology generated invaluable
+insights that accelerated the globe's response to the COVID-19 pandemic, including the identification of
+the causative pathogen of COVID-19, SARS-COV-22 and creating genomic sequence information that
+underpinned the development of both IVD detection tests3 and mRNA vaccines4. Throughout the
+
+1
+    www.illumina.com
+
+    CDC. CDC Museum COVID-19 timeline. Centers for Disease Control and Prevention.," 05 January 2022. https://www.cdc.gov/about/history/sars/timeline. [Accessed 28 September 2022]
+
+    Carter LJ, Garner LV, Smoot JW, et al. "Assay Techniques and Test Development for COVID-19 Diagnosis," ACS CentSci, vol. 6, no. 5, pp. 591-605, 2020.
+4
+    FDA, "Commissioner O of the. FDAApproves First COVID-19 Vaccine," 23 August 2021. [Online], Available:. https://www.fda.gov/news-events/press-announcements/fda-approves-first-
+covid-19-vaccine#:~:text=Today%2C%20the%20U.S.%20Food%20and . [Accessed 5 October 2022],
+pandemic, sequencing of the SARS-COV-2 genome enabled the identification of mutations and new­
+strains of the virus and informed public health management guidance and strategy5. Genomic
+technology has played a critical role in the global fight against COVID-19.
+
+The COVID-19 pandemic accelerated the adoption of genomic technology in the public health
+management of other conditions such as influenzae6, and tuberculosis7. Additionally, research and
+development funding has been allocated to further expand the scope of genomic technologies in
+applications to environmental surveillance, biosecurity management, wastewater surveillance, and
+antimicrobial resistance surveillance.
+
+Key observations from the pandemic in Australia:
+
+With initial rapidly released MRFF-Coronavirus Research Response funding8 from the Australian
+Government, leading public health laboratories conducted critical research to develop and implement
+genomic technology to support the Australian population through the pandemic. The rapid realisation of
+funds put Australia in a strong position as it enabled the accelerated development of core genomic
+surveillance platforms that formed a strong foundation for informing routine activities throughout the
+pandemic. For example, funding enabled the development and national adoption of the Austrakka
+programme that helped achieve national real-time genomic surveillance of the SARS-COV-29. While
+existing government initiatives such as this, helped to demonstrate the utility of genomic surveillance,
+this and other subsequent research has not been expanded into a clear, long-term national strategy for
+advancing viral genomic surveillance. This also creates uncertainty for business with regards to present
+and future technology investments.
+
+Early access to national funding also sought to remedy the patchwork state of readiness across the
+country as significant variations in capacity and capability were observed in different jurisdictions. Some
+States pivoted their routine pathogen surveillance activities to SARS-COV-2 sequencing, repurposed
+technologies and developed new workflows to meet their state's needs, while other States without any
+capacity or capability relied on larger states for their genomic surveillance needs. This inequity of
+capability could be attributed to the state-based governance framework for genomic surveillance
+activities where the financial requirements for establishing genomic surveillance capabilities were out of
+reach for smaller States.
+
+Owing to its nascent and often underappreciated contribution of genomics to the pandemic, we noted
+an absence of national procurement guidance, and insufficient engagement with industry to facilitate
+the incorporation of genomic technologies into the national pandemic response. This resulted in ad-hoc
+and sometimes opportunistic10 actions being carried out to secure the resources needed to diagnose
+
+
+
+  "A genomics-based approach to global public health surveillance," 2022 https://sapac.illumina.com/areas-of-interest/microbiology/public-health-surveillance/genomic-
+surveillance.html?scid=2022-225QR7416&catt=QR%20Code%20-%20Tradeshow%20-%20Brochure. [Accessed 13 December2023],
+& Datta S, Budhauliya R, DasB, Chatterjee S, Veerm VV. "Next-generation sequencing in clinical virology: Discovery of new viruses," World J Virol., vol. 4, no. 3, pp. 265-276, 2015
+
+  WHO, "Use of targeted next-generation sequencing to detect drug-resistant tuberculosis," World Health Organisation, 2023
+
+  Australian Government Department of Health and Aged Care "Medical Research Future Fund Report on the Coronavirus Research Response," Australian Govern mnet Department of Health
+and Aged Care, 2023.
+g
+  Seemann, T., Lane, C.R., Sherry, N.L. et al. "Tracking the COVID-19 pandemic in Australia using genomics.," Nat Commun, p. 4376, 2020.
+10
+     "Ground breaking partnership delivers 10 million COVID-19 tests and equipment," Ministers Department of Health and Aged Care, 29 April 2020. [Online]. Available:
+https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/ground-breaking-partnership-delivers-10-million-covid-19-tests-and-equipment. [Accessed 13 December 2023],
+and conduct genomic surveillance of COVID-19 samples. Establishing transparent procurement
+frameworks, would enable suppliers to enhance their agility in responding to sudden spikes in demand,
+enabling a more effective and coordinated pandemic response to safeguard public health.
+
+We encourage the adoption of a concerted whole-of-government approach in managing future
+pandemics, and welcome the Australian Government's commitment to creating the Australian Centre
+for Disease Control to help provide national oversight into the management and response of future
+outbreaks/ pandemics11.
+
+While the Australian Government addressed demand for more health care workers by increasing
+funding for health workforce and training programmes through the National medical workforce
+strategy12, we however, could not identify a specific strategy to address the acute shortage of workers
+with pathogen genomics expertise. The COVID-19 pandemic highlighted the shortage of appropriately
+trained workforce in pathogen genomics, which is in part being addressed by academic insitutes such as
+the University of Melbourne who have developed a bespoke Microcertification course in pathogen
+genomics that upskills the existing workforce13. Efforts like this must be supported and expanded.
+
+The pandemic also highlighted a lack of an appropriately trained/educated workforce to provide the
+necessary capacity for increased demands during outbreaks.
+
+Recommendations to consider for future pandemic management:
+
+The threat of future outbreaks is ever present. Therefore to ensure Australia is better prepared for
+future outbreaks Illumina offers the following recommendations:
+
+Ensure genomics remains a core pillar in future pandemic preparedness programmes.
+
+The value of genomics to inform public health strategy was repeatedly demonstrated throughout the
+pandemic, and should remain at the forefront of public health surveillance. Incorporating genomics into
+plans for pandemic preparedness or communicable diseases e.g., the Australia Health Management Plan
+for Pandemic Influenza14 enables a proactive approach to monitoring, understanding, and responding to
+infectious diseases, significantly enhancing our ability to tackle and mitigate the impact of pandemics.
+Expanding access to pathogen sequencing will aid in creating a global pandemic early warning system by
+enhancing geographic coverage and catalysing efforts to detect new epidemics before they spread
+widely, and to monitor their transmission in real-time for a more targeted and precise response.
+
+Pathogen sequencing will also contribute to research and development efforts for new vaccines,
+diagnostics, and treatments for current and emerging infectious diseases.
+
+National governance of genomic implementation would ensure consistency and equitability in data
+creation and sharing.
+
+
+
+11                                                                                                                                 -
+     Australian Government, Statement of I nte nt Working toether to support the Australian Centre for Disease Control, Australian Government, 2023.
+12                                                                                                                                -
+     Australian Government, Statement of I ntent Working toether to support the Australian Centre for Disease Control, Australian Government, 2023
+13
+     University of Melbourne, "Microbial Genomics," University of Melbourne, [Online], Available: https://study.unimelb.edu.au/find/microcredentials/microbial-genomics-bioinformatic-
+analysis-basics/. [Accessed 13 Decebmer 2023],
+14
+   Australian Government, Department of Health "Australian Health Management Plan for Pandemic Influenza," 2019.
+ Recommendation 1: The Australian Government, like many others worldwide, should provide
+ guidance on the use of genomics as critical infrastructure in pandemic preparedness programmes
+ and establish transparent, nationally consistent, procurement and governance frameworks.
+
+
+
+Establish multi-sector engagement forums to ensure supply of critical infrastructure
+
+The Australian government should facilitate the establishment of multi-sector, multi-stakeholder fora to
+ensure holistic assessment of convergent critical technologies, including genomics, biological sensors,
+remote sensors, advanced computing (AI/ML), and robotics. In order to accelerate adoption and to
+facilitate cooperation among different stakeholders (academia, industry, end users) the government
+should establish a set of strategic policy and investment priorities with mid-term and long-term
+objectives for ensuring that Australia remains at the forefront of public health disease management.
+
+
+ Recommendation 2: The Australian Government facilitate more open multi-stakeholder fora to
+ accelerate the adoption of emerging technologies in pandemic preparedness.
+
+
+
+Increase investment in a skilled workforce to combat future outbreaks.
+
+Federal investment in public health education has been reduced over the last decade, yet the COVID-19
+pandemic clearly demonstrated the value of public health workforce in a health crisis. Designated
+Federal investment in training and education is needed to ensure that Australia has a workforce that is
+capable and ready to pivot in public health emergencies.
+
+
+ Recommendation 3: The Australian Government designate funding for essential capacity building
+ in the public health genomics workforce.
+
+
+
+Global cooperation and sharing of best practices
+
+The global community learned from the last pandemic that we are interdependent, and we need to
+work together to effectively tackle the pandemic. We need to work together to expand genomic
+sequencing capacity by building capacity, providing technical support, learning from one another's
+experiences, and through building a shared platform of best practices. In Singapore for example, to
+complement clinical testing in monitoring the spread of COVID-19, the government conducted
+wastewater surveillance as the virus may be found in stools or respiratory discharges of infected
+individuals, including those with mild or no symptoms. The testing of wastewater provides an indication
+of COVID-19 transmission in the community.
+
+ Recommendation 4: Australia develop and foster closer cooperation with regional research
+ institutions and other countries for better preparedness against future pandemics.
+Illumina stands ready to work with the Australian government and its institutions to build on Australia's
+existing pandemic preparedness capabilities. We would be happy to discuss this further with the
+Committee.
+
+
+
+For any questions please contact:
+
+Robert McBride
+General Manager
+Illumina
+
+
+or
+
+Martin Hutagalung
+Government Affairs Director
+Illumina
+

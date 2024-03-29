@@ -1,0 +1,271 @@
+13 December 20203
+
+
+
+
+"he Burnet Institute’s
+response to The
+Commonwealth Government
+COVID-19 Response Inquiry
+
+
+
+
+                       Burnet
+                        reach for the many
+Executive summary
+In this submission we focus on high-level outcomes of the COVID-19 pandemic in Australia and identify lessons to assist planning
+for the next pandemic and ending those we currently have. We conclude that Australia's COVID-19 mitigation strategy in 2020­
+21 was remarkably successful; tens of thousands of lives were saved, and these savings were sustained over subsequent years.
+This approach provides key guidance to address future pandemic threats. But we should also aim to achieve this goal without
+harsh restrictions on movements at both the local (stay-at-home) and macro (border closure) levels. The dual goals of 1)
+preserving health of the community and 2) maintaining open societies (often wrongly presented as mutually exclusive) should
+form the backbone of future responses. We suggest ways this can be achieved based on the principles of strong preparation,
+leaving no one behind, and engaging communities. This Burnet Institute response is informed by preliminary results from a
+program of work being undertaken to examine the comparative health, social, and economic cost of COVID to Australia.
+
+Burnet Institute
+Burnet made interdisciplinaryj global^ national^                         and state-level contributions supporting
+evidence-based COVID-19 policyj including in:
+•   Modelling: The COVASIM model informed Victorian, NSW and Commonwealth public health policy, including supporting
+    Victoria's Roadmap: Delivering the National Plan and National Framework for Managing COVID-19 in Schools and Early
+    Childhood Education and Care (1, 2).
+•   Public Health and Epidemiological Research and Capacity: Burnet capabilities delivered technical capacity into governments
+    and provided timely and high-quality data to inform and impactful policies. For example, the Optimise Study - a partnership
+    between the Burnet and Doherty Institutes - rapidly reported longitudinal cohort data to government and community and
+    parametised models.
+•   Laboratory Research: Burnet laboratories informed COVID-19 vaccine, antiviral, and diagnostics development.
+•   International response: The Burnet supported large health program adaptations in Myanmar and PNG to respond to COVID-
+    19, and contributed to multilateral mechanisms of support, such as the COVAX mechanism in a number of ways.
+The Burnet Institute, the Doherty Institute, and the University of Melbourne are foundation partners of the Australia    Institute
+for Infectious Disease (AIID), supported by the Victorian Government. Housing the largest critical mass of public health
+professionals in the Southern Hemisphere, the AIID will be well positioned to work with governments to prevent, prepare and
+respond to current and future pandemics and health emergencies.
+
+Global context of the health impacts (excess mortality) of COVID-19 in Australia
+The COVID-19 pandemic created unprecedented global health, scientific, social and political challenges. With 7 million confirmed
+COVID-19 deaths and 25 million related excess deaths so far, for the first time in 70 years, life expectancy in all regions has
+decreased (3, 4, 5). COVID-19 was the 3rd leading cause of death in Australia in 2022 (6). While the emergency phase is over,
+COVID-19 remains the major infectious disease of concern, including through the significant negative impacts of long COVID.
+The IMF projected the pandemic will cost the global economy US$13.8 billion by 2024 (7). COVID has directly and indirectly
+impacted health systems and halted or reversed progress on other global and domestic health priorities.
+Country-level excess mortality per person, the best comparative COVID health impact indicator, is provided in Attachment 1.1.
+Comparisons of excess death show the quality of Australia's response in 2020-2021 (pre-vaccine and pre-Omicron) compared
+to other countries, and the marked difference in comparative effectiveness of Australia's response in 2022-2023 (post-vaccine
+and post-Omicron). In 2020-21, Australia's excess deaths per person was 33 times lower than the UK, 46 times lower than the
+USA, and 61 times lower than South Africa. In 2022-23, Australia's excess death per person became more closely aligned with
+countries like the UK, USA, and South Africa (1.2, 0.9, and 0.7 times that of Australia, respectively).
+
+Insights on Australia's response to the COVID-19 pandemic
+Below we reflect of the relative success of COVID-19 phases that correspond to the \latior I P            nsit n Australia's
+COVID-19 Response.
+
+2020-2021 - Acting fastj decisivelyj and equitably led to large and sustained comparative
+health gains
+Australia's rapid deployment of public health COVID mitigation strategies, including border closures and quarantine1, resulted
+in zero community transmissions across significant parts of the country over significant periods, preventing the substantial
+morbidity and mortality seen in other countries. Public health responses worked to contain several outbreaks across three
+successive COVID waves (L, Delta, first Omicron outbreak in Nov 2021) (Attachment 1.2) and protected Australia's health system.
+
+
+1The three pillars of the response included Test, Trace, Isolate and Quarantine (TTIQ), Public Health and Social Measures
+(PHSM), and Vaccination. Pillars missing, but crucial, included community-centric approach and 'care and support'.
+
+Burnet Institute: Commonwealth COVID-19 Response Inquiry | 13 December 2023                                               Page 1
+Large parts of Australia experienced a predominately COVID-free and lock-down free 2020-2021, with the exception of
+Melbourne and parts of Sydney (Attachment 1.2). Internal border controls and pre-emptive containment strategies were largely
+concentrated in Melbourne and 12 LGAs in Sydney, corresponding with areas vulnerable to ports of entry into Australia, Hotel
+Quarantine networks, and population density. This globally unique federated response was largely effective, but resulted in
+inequitable health, economic, and social burden across Australia. Alleviation of this burden was delayed by Australia's late
+COVID-19 vaccine rollout (commencing Feb 2021) relative to other developed countries. Vaccine coverage was lower than other
+countries in early 2021, due predominately to limitations in the vaccine acquisition program and supply constraints (see H; n
+review). Once widely available, vaccine intention increased rapidly (8). High coverage was further facilitated public health
+education and messaging, by vaccination blitzes, expanded Vaxzervia eligibility, and mandatory vaccination requirements.
+
+2022-2023 - A reversal in Australians relative global advantage in protecting lives
+Towards the end of 2021, Australia was progressing along a phased exit plan (National Transition Plan), with gradual reopening
+aligned to vaccine coverage targets. The emergence of the highly transmissible Omicron variant in Nov/Dec 2021 precipitated a
+strategy change, accelerating opening and policies oriented to a 'living with COVID-19'. In just a few months a large proportion
+of Australia were infected for the first time, the rapid spread of Omicron overwhelmed surveillance systems (9), and previous
+public health strategies, such as TTIQ became obsolete. Some adaptive public health strategies were introduced, in particular
+changes those centred on rapid antigen testing (e.g., COVID testing policies in schools to maximise in person learning (1)).
+Duringtransition, there was a perception that allowing Omicron to spread through a vaccinated population (strengthened hybrid
+immunity), would not result in the same risk of severe disease and death as Delta if high-risk individuals were protected. Between
+January 2022 and July 2023, Australia has had over 28,000 excess deaths (Attachment 1.1).
+After the first Omicron wave, the COVID-19 response strategy became unclear. Despite the release of the COVID-19 Health
+Management Plan for 2023, no clear consensus emerged on balancing strategies to reduce transmission versus managing COVID-
+19 "like the flu". In July 2022, in response to BA.4/BA.5 variants, the winter update AHPPC statement emphasised a need for
+collective action to reduce transmission to save lives, the health system and the economy, but resulted in little action by
+governments. Australia does not yet have a clear strategic framework, targets, or public health program for managing COVID-19
+into the future.
+A lack of clear government response during this phase appeared based on assumptions that a social or political licence to enact
+COVID-19 public health responses was no longer present among a weary and fatigued population. While likely true for restrictive
+measures adopted in the first phase, which would not be appropriate nor proportionate to the public health risk posed in 2022­
+2023, a middle ground was largely not pursued. The short-term and least disruptive strategies to dampen transmission proposed
+in the winter update AHPPC statement (e.g., wearing masks in crowded indoor environments) would have helped preserve
+health and health systems. But despite these strategies also aligning with the policy position of the National Cabinet and
+Australian Government that emphasised "personal responsibility" for COVID prevention, widespread COVID-91 health
+promotion or related government communication did not occur.
+
+2023 and onwards - Ongoing management of COVID-19 in Australia
+A community-centred response: Community must be at the centre of sustainable COVID management. While an emphasis on
+"personal responsibility" remains key, governments must subsidise access and promote the tools necessary to help individuals
+reduce risk for themselves and others (10). Cohort data from 2021-22 showed most Victorians voluntarily adopted personal risk
+reduction strategies perceived as proportional (11), demonstrating that emphasising individual responsibility can be effective
+and sustainable if public health messaging effectively communicates the benefits. However, a reliance on personal responsibility
+must also consider the potentially disproportionate affect this may have on vulnerable communities (12).
+Community-centred responses must balance interventions that are effective at preventing health impacts and those that least
+disrupt and are most acceptable, in order to ensure high coverage/uptake and minimise social and economic burden. The focus
+should be on: 1) sustaining vaccine uptake; 2) sustaining testing; 3) a clean indoor air strategy to reduce systemic risk; and 4)
+effective strategies to address Long-COVID (as identified in the National Inquiry into Long-COVID and Repeated Infection
+Sustaining vaccination: Similar death rates between countries in the Omicron era suggests cross-variant, infection-based
+immunity is not sufficiently protective without vaccination. COVID-19 vaccine intention reached 99% in mid-2021 (8), but by
+mid-2022 this had reduced to 60% intention to seek a booster (Attachment 1.3). Research is crucial to gain a nuanced
+understanding of gaps in current vaccine uptake intent (beyond demographics and considering socio-cultural and structural
+factors) to inform renewed and targeted health promotion and systems interventions to improve and maintain vaccine coverage.
+Testing and treatment: Sustaining testing and ensuring equitable access to affordable tests is vital. Supporting access to tests
+and encouraging their use will help prevent cases by informing individual-level preventive behaviours (e.g., isolation, mask­
+wearing) and enable timely treatment with effective antivirals for those at high-risk (19).
+
+
+
+Burnet Institute: Commonwealth COVID-19 Response Inquiry | 13 December 2023                                               Page 2
+Clean indoor air: Enhancing indoor air quality via effective and scalable interventions like ventilation is a minimally disruptive
+strategy. This approach supports respiratory health, lowers infection risk, including COVID-19, and protects against airborne
+pollutants. Governments should support the public and private sector to implement clean air strategies and promote the role
+clean air in supporting a healthier environment and general well-being. These strategies will mitigate risk in future pandemics.
+Addressing the accruing long-COVID burden: Long COVID has wide-ranging effects on personal wellbeing, the healthcare system,
+and the economy, but the magnitude of its long-term impact is not fully understood (13). Ongoing acute COVID-19 infections
+will increase cases of long COVID and contribute to future health, social, and economic burden. Thus, managing long COVID
+should focus on minimising transmission through the strategies listed above and promoting community awareness to reduce
+risk, while also investing in research and clinical management.
+
+Pandemic preparedness - community centred, sub-national, and global pandemic governance, and
+research-government partnership
+The key principles for pandemic preparedness that COVID-19 has highlighted include: 1) being "passively ready" by investing in
+improved indoor air standards and investing in science to have countermeasures ready and adaptive; 2) equity-based financing
+and delivery mechanisms to ensure equitable sub-national and international access to countermeasures; and 3) investing in
+social science and community engagement to ensure tools are appropriate, acceptable, and adopted when they are needed.
+Community at the centre and a focus on equity
+During the COVID-19 pandemic, disparities emerged in both policy impacts and transmission risks among different cohorts and
+future pandemic policies must address the underlying socio-ecological drivers of this disparity. For example, culturally and
+linguistically diverse communities experienced disproportionate mental health impacts, financial hardships (14), and stigma and
+racism, including through the enforcement of COVID-19 policies (15). In addition, social, cultural, or financial conditions
+influenced ecological risk through increased contact exposures due to factors like residing in lower-cost, densely populated, or
+shared built environments, or in larger household sizes. Targeted policy adjustments and broader societal changes to tackle
+structural inequities will minimise of the negative impacts of future pandemics and pandemic responses. Increased research and
+practice emphasis needs to be placed on social science and community engagement to better understand and address the social
+and behavioural drivers of transmission. Burnet Institute's Optimise study is an example; maintenance of a longitudinal cohort
+to capture changes in pandemic attitudes and impacts, alongside qualitative community engagement research, informed policies
+that aligned to dynamic public health challenges (16,17).
+National governance must balance an evidence-informed unified approach with tailored and local
+responsiveness
+COVID-19 crossed Commonwealth and State/Territory areas of responsibility, requiring increased inter-governmental
+cooperation. Our federated system of government had advantages; circumstances varied between geographies, justifying
+bespoke local responses (e.g., National Framework for Managing COVID-19 in Schools and Early Childhood Education and Care
+guidelines allowed states to adopt different screening strategies, as recommended by Burnet and Doherty Institutes in
+Commonwealth-commissioned modelling (1)). But divergent government priorities also blurred lines of responsibility and led to
+divisive practices (e.g., different border control policies). A future pandemic governance model must ensure an evidence-
+informed and unified national approach, with a framework for local responsiveness. Here, while a future Australian Centre for
+Disease Control (ACDC) is an important development, its ability to provide advice independent of government will be crucial.
+Future pandemics need a science-based and coordinated global response
+Limited international coordination during the COVID-19 pandemic delayed information and data sharing and led to inequities in
+response capabilities (e.g., vaccine distribution) and impacts. Aligning with interconnected global health challenges, effective
+pandemic governance in Australia should promote a response that transcends borders (see Burnet submission to the
+Department of Health and Department of Foreign Affairs and Trade Pandemic Accord consultation). This is not just because, as
+a global citizen, we have responsibilities to contribute to the safety and protection of our region, but because pandemics
+transcend borders; control strategies and capabilities in one country affects others. Averting future pandemic risks requires early
+detection and intervention and requires a global approach to surveillance and preparedness.
+Collaboration between government and research institutions is crucial
+A hallmark of the Australia evidence-informed COVID-19 response was cooperation between government and public health,
+clinical, and laboratory research experts, and the trust of governments to enact policy based on the expert advice received.
+Epidemic modelling played a key role in shapingthe COVID-19 response, particularly in the initial phases of the pandemic when
+empirical data was absent or emerging. Maintaining and enhancing research and inter-governmental cooperation, including a
+commitment to share data, expertise, and resources, will be crucial to underpinning future preparedness and effective,
+consistent, and equitable pandemic responses. The AIID initiative, and the way it will work with government and its partners,
+such as the ACDC, will play a vital role in enhancing coordination and response capacity for future pandemics.
+
+
+
+
+Burnet Institute: Commonwealth COVID-19 Response Inquiry | 13 December 2023                                                Page 3
+References
+1. Abeysuriya, R.G., Sacks-Davis, R., Heath, K., Delport, D., Russell, F.M., Danchin, M., Hellard, M., McVernon, J., Scott, N.,
+   2023. Keeping kids in school: modelling school-based testing and quarantine strategies during the COVID-19 pandemic in
+   Australia. Front, public Heal. 11,1150810. https://doi.org/10.3389/fpubh.2023.1150810
+2. Scott, N., Palmer, A., Delport, D., Abeysuriya, R., Stuart, R.M., Kerr, C.C., Mistry, D., Klein, D.J., Sacks-Davis, R., Heath, K.,
+   Hainsworth, S.W., Pedrana, A., Stoove, M., Wilson, D., Hellard, M.E., 2021. Modelling the impact of relaxing COVID-19
+   control measures during a period of low viral transmission. Med. J. Aust. 214, 79-83. https://doi.org/10.5694/mja2.50845
+3. World Health Organisation, 2023. WHO Coronavirus (COVID-19) Dashboard, https://covidl9.whc nt/?mapFilter=deaths,
+   Viewed 15 December 2023.
+4. Giattino, C., Ritchie, H., Ortiz-Ospina, E., Hasell, J., Rodes-Guirao, L, Roser, M., 2023. Excess mortality during the
+   Coronavirus pandemic (COVID-19). Published online at OurWorldlnData.org. Retrieved from:
+   'https://ourworldindata.org/coronavirus' [Online Resource]. Viewed 15 December 2023.
+5. Schbley, J., Aburto, J.M., Kashnitsky, I. et al. Life expectancy changes since COVID-19. Nat Hum Behav 6, 1649-1659 (2022).
+   https://doi.org/lC L038/s41562-022-0145: 3.
+6. Australian Bureau of Statistics, 2023. Cause of Death 2022. Published online at
+   https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia/latest-release . Viewed 15 December 2023.
+7. Gopinath, G., 2022. A Disrupted Global Recovery. Published online at IMF Blog.
+   https://www.imf.org/en/Blogs/Articles/2022/01/25/blog-a-disrupted-global-recovery. Viewed 15 Dec 2023.
+8. Heath, K., Altermatt, A., Saich, F., Pedrana, A., Fletcher-Lartey, S., Bowring, A.L., Stoove, M., Danchin, M., Kaufman, J.,
+   Gibney, K.B., Hellard, M., 2022. Intent to Be Vaccinated against COVID-19 in Victoria, Australia. Vaccines 10.
+   https://doi.org/10.3390/vaccinesl0020209
+9. Altermatt, A., Heath, K., Saich, F., Lee Wilkinson, A., Scott, N., Sacks-Davis, R., Young, K., Stoove, M., Gibney, K.B., Hellard,
+   M., 2023a. Estimating the proportion of Victorians infected with COVID-19 during the Omicron BA.l epidemic wave of
+   January 2022 in Australia. Aust. N. Z. J. Public Health 47, 100007. https://doi.Org/10.1016/j.anzjph.2022.100007
+10. Hellard M, Motorniak D, Tse WC, Saich F, Stoove M. Engaging with communities to encourage adoption of a harm
+   reduction approach to COVID-19. Aust N Z J Public Health. 2023 Apr;47(2):100022. doi: 10.1016/j.anzjph.2023.100022.
+   Epub 2023 Mar 22. PMID: 36963122; PMCID: PMC10031063.
+11. Tse, W.C., Altermatt, A., Saich, F., Wilkinson, A.L., Heath, K., Young, K., Pedrana, A., Hill, S., Gibbs, L, Stoove, M., Gibney,
+   K.B., Hellard, M., 2023.1 know what you did last summer: a cross-sectional study of personal COVID-19 risk reduction
+   strategies used by Victorian adults, December 2021-January 2022. Aust. N. Z. J. Public Health 47,100068.
+   https://doi.Org/10.1016/j.anzjph.2023.100068
+12. Delport, D., Sacks-Davis, R., Abeysuriya, R.G., Hellard, M., Scott, N., 2023. Lives saved by public health restrictions over the
+   Victorian COVID-19 Delta variant epidemic wave, Aug-Nov 2021. Epidemics 44, 100702.
+   https://doi.Org/10.1016/j.epidem.2023.100702
+13. Altermatt, A., Wilkinson, A.L., Heath, K., Nguyen, T., Thomas, A.J., Young, K., Ke, T., Zhang, Y., Gibbs, L, Pedrana, A., Lusher,
+   D., Stoove, M., Gibney, K., Hellard, M., 2023b. The long and the short of it: long COVID burden and impact in a cohort with
+   past COVID-19 infection. 3rd Australasian COVID-19 Conference. Brisbane, Australia.
+14. Saich, F., Heath, K., Altermatt, A., Menon, V., Munari, S., Merner, B., Hill, S., Shearer, F., Gibbs, L, Coelho, A., Fletcher-
+   Lartey, S., Stoove, M., Gibney, K., Hellard, M., 2021. The Optimise Study: Impacts of the COVID-19 response on culturally
+   and linguistically diverse communities. Melbourne, Australia.
+15. Merner, B., Hill, S., Meagher, N., Fletcher-Lartey, S., Abbott, S., Kapoor, G., Karimi, M.D., Rios, L, Semaan, N., Wamawungo,
+   D., Saich, F., Coelho, A., Shearer, F., Gibbs, L, Hellard, M., Gibney, K., 2021. Optimise Study: Community Engagement Group
+   for Culturally and Linguistically Diverse Communities. Melbourne, Australia.
+16. Gibbs, L., Thomas, A.J., Coelho, A., Al-Qassas, A., Block, K., Meagher, N., Eisa, L, Fletcher-Lartey, S., Ke, T., Kerr, P., Kwong,
+   E.J.L., MacDougall, C., Malith, D., Marinkovic Chavez, K., Osborne, D., Price, D.J., Shearer, F., Stoove, M., Young, K., Zhang,
+   Y., Gibney, K.B., Hellard, M., 2023. Inclusion of Cultural and Linguistic Diversity in COVID-19 Public Health Research:
+   Research Design Adaptations to Seek Different Perspectives in Victoria, Australia. Int. J. Environ. Res. Public Health 20.
+   https://doi.org/10.3390/ijerph20032320
+17. Nguyen, T., Thomas, A.J., Kerr, P., Stewart, A.C., Wilkinson, A.L., Nguyen, L, Altermatt, A., Young, K., Heath, K., Bowring, A.,
+   Fletcher-Lartey, S., Lusher, D., Hill, S., Pedrana, A., Stoove, M., Gibney, K., Hellard, M., 2023. Recruiting and retaining
+   community-based participants in a COVID-19 longitudinal cohort and social networks study: lessons from Victoria,
+   Australia. BMC Med. Res. Methodol. 23, 54.
+
+
+
+
+Burnet Institute: Commonwealth COVID-19 Response Inquiry | 13 December 2023                                                   Page 4
+AUSTRALIA
+
+
+85 Commercial Road
+Melbourne, Victoria, 3004
+t + 61 3 9282 2111
+e
+
+OVERSEAS                                 ©    burnet.edu.au/support-us
+
+                                         © /b urnetinstitute
+We have offices or representatives in
+Australia, Papua New Guinea                  @Burnetlnstitute
+and Myanmar, and also contribute to
+activities in other Asian, Pacific and   in) Burnet Institute
+African countries.
+
+For more information, contact us
+                        r call
+                                                                         Burnet
+                                                                         reach for the many
+Burnet Institute: Commonwealth COVID-19 Response Inquiry | 13 December 2023   Page 6
+

@@ -1,0 +1,194 @@
+                                                                     ••••••
+                                                                     ••••••
+                                                                  •••••••••
+                                                                  •••••••••
+                                                                  •••••••••
+                                                                                      AEA
+                                                                                      Australasian
+                                                                                      Epidemiological
+                                                                                      Association
+
+Submission to Commonwealth Government
+COVID-19 Response Inquiry
+
+Introduction
+The Australasian Epidemiological Association (AEA) is the only professional society in Australia and
+New Zealand dedicated to developing and promoting the discipline of epidemiology. Representing
+over 700 members we do this through:
+
+    •        promoting excellence and innovation in the practice of epidemiological methods
+    •        communication of issues relevant to epidemiologists
+    •        advocating for funding, capacity building and policy development
+    •   strategic alliances with related organisations to maintain high standards in teaching and
+        research and to promote the use of evidence in health-related policy making and clinical
+        practice.
+
+As part of these activities, we engage in advocacy on key issues related to the discipline of
+epidemiology. Addressing the issues arising from the Commonwealth Government's response to
+COVID-19 is an important aspect of this given the central role of epidemiology and epidemiologists in
+the pandemic from its initial occurrence, during the emergency phase, and presently as it continues.
+
+The 3-page restriction placed on submissions to this Inquiry do not, in our view, enable a full
+appreciation and study of the Commonwealth's response to COVID-19. Resultantly, this submission
+only addresses a few areas, not necessarily more important than others, but ones which AEA has
+previously identified as pandemic preparedness, response, and management issues that have and
+continue to be poorly addressed. Our recommendations would provide a significant enhancement to
+Australia's pandemic threat and response capability and capacity.
+
+We welcome this opportunity to provide these recommendations and would request participation at
+future roundtables, workshops, or hearings that this Inquiry may hold to discuss this submission and
+related matters.
+
+Public Health Profession
+At the commencement of the pandemic, it became very clear to AEA members working or seconded
+as part of State and Territory government surge workforces that there was a lack of central, strategic,
+coordination of the response. In particular, the lack of support, for epidemiologists and
+biostatisticians working in challenging and novel environments became a source of frustration for
+those on the frontline1.
+
+Responding to a pandemic of this scale and impact was a new experience for many. Additionally, this
+pandemic presented problems because there were rigid beliefs based on transmission dynamics of
+previous coronaviruses that prevented earlier adoption of more effective public health interventions.
+These issues highlighted that there were, and continue to, be systemic challenges and problems,
+stemming from the underfunding of public health.
+
+Greater investment in public health not only builds professional capacity but also system capacity in
+relation to pandemic preparedness and response measures. This investment is critical to improve the
+current surveillance systems to facilitate the rapid detection and appropriate response to cases. Of
+additional benefit, not only would this enhance Australian capacity but given our role in Oceania it
+would also assist in preparing, protecting, and responding to communicable disease outbreaks in our
+region.
+
+                                      AEA Submission to Commonwealth Government COVID-19 Response Inquiry
+                                                      ||||J|||f|j||^^         | www.epidemiology.org.au
+                                                                      ••••••
+                                                                      ••••••
+                                                                   •••••••••
+                                                                   •••••••••
+                                                                   •••••••••
+                                                                                       AEA
+                                                                                       Australasian
+                                                                                       Epidemiological
+                                                                                       Association
+Recommendation 1: That a central body (such as the proposed Australian Centre for Disease
+Control (ACDC)) be utilised in the development, training, and upskilling of epidemiological surge
+workforces for use in public health emergencies or disasters.
+
+Rec mmeni iti n^: That a support and mentoring program be developed for use during the
+deployment of epidemiological surge workforces during public health emergencies or disasters.
+
+Policy cohesion and data integration
+A major source of frustration, confusion, and potentially serious negative consequences was the
+disparate nature of COVID-19 public health information that was provided by the various
+jurisdictions. Whilst some of this may be accounted for by differing circumstances within these
+jurisdictions at various times during the pandemic there were many instances where settings were
+similar (or appeared similar) but the advice was sometimes at odds.2 Confusing or inaccurate health
+information is not only detrimental to the advancement of public health protections but also serves
+to potentially undermine trust in public health and public health professionals.3
+
+Ultimately, being able to bring together national, state and local health agencies to serve as a trusted
+source of guidelines to ensure consistency in processes for public health, emergencies and disasters,
+not only serves as an expert point of reference but to also reduce silos in public health. However,
+Australian health data are fragmented and challenging to access. At present, there must be pre­
+approval from custodians for data use. The idea that every use of data requires project specific
+custodian approval is too slow and disjointed impacting on the health of the Australian population.
+
+Facilitating harmonisation of data collection, management, linkage and analysis to support timely,
+consistent and accurate epidemiological insights relating to disease prevention and control efforts
+can provide significant benefits to population health and safety at times of an emergency, disaster, or
+as is current, a pandemic. Together with investment to develop Australia's public health research
+environments, enabling the use of linked data in clinical trials, observational studies and other public
+health and clinical research to generate policy-relevant intelligence, will enhance the nation's
+capacity to respond to future pandemics.
+
+A legal framework to inform how national data linkage is conducted, who can access these data and
+how would need to be developed.
+
+Recommendation 3: That a central body (such as the proposed Australian Centre for Disease
+Control (ACDC)) be utilised in the provision of independent advice on public health interventions
+relating to public health emergencies or disasters.
+
+Recommendation 4: That funding be provided for the integration and linking of relevant health
+related data systems and that such systems be made accessible for national surveillance, research,
+analysis, planning, and response to public health emergencies or disasters.
+
+Recommendation 5: That a community engagement program be established to ensure that
+community voices are represented in the development of public health policy, surveillance, and
+research plans using routinely collected data.
+
+Inclusivity
+Populations and communities who are at risk of the worst health outcomes have historically been
+excluded from public health policy development. Likewise, health information is often inaccessible
+and/or culturally irrelevant to marginalised and under-served populations. Recent data showed that
+in Australia, those living in disadvantage or poverty were three times more likely to die from COVID
+
+                                       AEA Submission to Commonwealth Government COVID-19 Response Inquiry
+                                                                               | | www.epidemiology.org.au
+                                                                                 ••••••
+                                                                                 ••••••
+                                                                              •••••••••
+                                                                              •••••••••
+                                                                              •••••••••
+                                                                                                     AEA
+                                                                                                     Australasian
+                                                                                                     Epidemiological
+                                                                                                     Association
+compared to those in more privileged positions.4 The AEA believes it is important that the
+Commonwealth government works in partnership with such populations/communities in the
+development of health policy and information, including in the design of policy evaluation.
+Bioethicists are also central to ensuring that public health policy considers the immediate and long­
+term affects of different interventional strategies.
+
+Additionally, the COVID-19 pandemic has increased fear and anxiety of minorities heightening their
+experience of racism.5 Structural racism is commonly regarded as a critical global public health
+problem but there is a lack of guidance and leadership from governments to address power
+imbalances that underpin it. The AEA believes that the Commonwealth must be positioned to
+address racialised health inequalities given its impact during public health challenges.
+
+Importantly, in relation to First Nations peoples, the AEA believes that the Commonwealth
+Government should seek to enagage with leadership from Aboriginal and Torres Strait Islander peak
+health organisations, such as the Lowitja Institute, the National Aboriginal Committee Controlled
+Health Organisation, Australian Indigenous Doctors' Association, and the Congress of Aboriginal and
+Torres Strait Islander Nurses and Midwives as part of addressing these challenges. Supporting
+Indigenous peak health organisations and leaders to take charge of the COVID-19 response for First
+Nations peoples and listening to these voices at each level of Government proved to be a shining
+example of how health services can meet the needs of First Nations peoples and reduce gaps in
+health outcomes.6
+
+Recommendation 6: That a consumer and community engagement framework, which must be
+underpinned by, and promote, genuine partnership and include processes and support for building
+the capacity of communities to contribute public health emergencies or disasters policy
+development, be established relating to public health emergencies or disasters.
+
+Recommendation 7: That CALD communities and First Nations peoples be a high priority in the
+development of communication and engagement strategies relating to public health emergencies
+or disasters.
+
+On behalf of the AEA Council
+
+Dr Abbey Diaz, PhD
+President
+15 December 2023
+
+
+References
+1                                                                     Uncertainty: Evaluation of a COVID-19 Surge
+Workforce Support Program, Australia 2020-2021. Global Biosecurity, 2021; 3(1).
+2^^^^^|(2021, Aug 20). 'Horribly exposed': ACT chief minister attacks Gladys Berejiklian's handling of NSW Covid crisis.
+The Guardian, https://www.theguardian.com/australia-news/2021/aug/20/horribly-exposed-act-chief-minister-attacks-
+gladys-berejiklians-handling-of-nsw-covid-crisis
+
+          B    COVID-19 Misinformation Trends in Australia: Prospective Longitudinal National Survey. J Med Internet Res.
+2021 Jan 7;23(l):e23805. doi: 10.2196/23805
+4 Australian Bureau of Statistics (2022). Deaths due to COVID-19: socio-economic status (SEIFA).
+https://www.abs. gov.au/articles/covid-19-mortality-australia-deaths-registered-31-january-2022#death-due-to-covid-19-
+country-of-birth
+5facially minoritized people's experiences of racism during COVID-19 in Australia:
+A qualitative study. Aust N Z J Public Health. 2023 Jun;47(3):100033. doi: 10.1016/j.anzjph.2023.100033
+6                                                      ^^^^^2021), Australian First Nations response to the pandemic: A
+dramatic reversal of the 'gap'. J Paediatr Child Health, 57: 1853-1856. https://doi.org/10.llll/jpc.15701
+
+
+                                             AEA Submission to Commonwealth Government COVID-19 Response Inquiry
+                                                                                           | | www.epidemiology.org.au
+

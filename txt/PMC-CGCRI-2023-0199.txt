@@ -1,0 +1,161 @@
+9 December 2023
+
+Robyn Kruk
+Panel Chair
+COVID-19 Response Inquiry
+
+
+
+
+I’m an academic within the School of Psychology at the University of Queensland. While I obviously
+have concerns about the mental health impact of pandemics, I’m writing as I’m more concerned about
+the psychological biases that make it hard for most of us to think clearly about the risks from
+pandemics. I think those biases will make it easy for us to prioritise the wrong things when we try to
+support industry and business (Terms of Reference #5). I also think it may lead us to under-value the
+most important types of health response measures (Terms of Reference #1) and preventative health
+measures (Terms of Reference #2).
+
+In short, our biases will lead us to focus too much on pandemics that closely mirror COVID-19, and
+significantly under-prepare for the risk of pandemics that are worse. The 'Availability' bias makes us
+overemphasise risks that easily come to mind like COVID-19, overshadowing less salient but more
+devastating threats.1 'Hindsight Bias' can falsely assure us that future pandemics will be predictable
+and similar to past events, leading to complacency. 'Scope Neglect' makes it hard for us to feel the
+difference between a pandemic with a fatality rate of 0.1%, 1%, and 10%,1 when the latter would
+cause a complete breakdown of civilization. 'Overconfidence' bias means our brains round down
+small risks of catastrophic pandemics to zero.1 We cannot round down a small risk to zero. A 1%
+chance each year of a pandemic killing 10% of Australia is an ‘expected death toll’ 25 times higher
+than our annual road toll.2 For these reasons, the federal government must focus on preventing
+catastrophic outcomes. I think it can best do that by supporting businesses and industry to: 1) create
+pandemic-proof personal protective equipment, and 2) invest in better indoor air quality.
+
+In the context of Terms of Reference 5, support for industry, including in the context of labour
+shortages, I recommend that the Inquiry consider the paper by MIT academics and the Geneva
+Centre for Security Policy titled “Securing Civilisation Against Catastrophic Pandemics”.3
+
+The paper begins by unpacking ways that pandemic risk is increasing—in particular the possibility of
+engineered pandemics. The paper also makes a useful distinction between “stealth” and “wildfire”
+pandemics, which has deep implications for our policy response.
+
+Importantly, the paper goes on to explain that in a pandemic worse than COVID-19, workers who
+operate critical infrastructure may die or refuse to attend the workplace. If that happens, a modern
+interconnected society would rapidly collapse. The second-order consequences from a lack of
+electricity causing cascading failures in other critical sectors would far exceed the immediate
+consequences of the virus. Imagine your local hospital without electricity or clean water.
+
+When the Inquiry thinks about support for industry, the primary goal of that support should be keeping
+the lights on during a future, worse, pandemic. If critical infrastructure fails, other questions like
+financial support or community support rapidly become irrelevant or impossible.
+
+Among the various recommendations, Gopal et al argue that “pandemic-proof personal protective
+equipment” (P4E) is essential to dealing with the risk of failing critical infrastructure. The argument for
+P4E is that essential workers (such as those critical to providing food, water, power, law enforcement)
+need the confidence that they can continue to work without endangering themselves and their loved
+ones. The paper provides requirements for what this kind of equipment would need to look like.
+The paper also includes discussions about definitions of essential workers, ways of preparing the
+workforce and supply chain, and a discussion of social and technological approaches to slowing the
+spread of future pandemics.
+
+I recommend that the inquiry read Securing Civilisation Against Catastrophic Pandemics and treat it
+as a foundation stone for other recommendations.3 That is, our first priority has to be actions that take
+these worst-case scenarios off the table. Action against other elements of the terms of reference are
+only possible and impactful if we can be confident that we’re in a position to prevent a social collapse.
+I appreciate these risks are hard to imagine—many Australians won’t, or won’t like imagining
+them—that’s exactly why the federal government must take responsibility for preparing against them.
+
+Another key area the Australian government should invest in is better Indoor Air Quality (IAQ).
+Australians spend at least 90% of their time indoors and every year, Australians fall ill as a result of
+exposure to airborne pathogens while indoors. Worse still, respiratory transmission is a primary
+transmission route for pandemics. Therefore, reducing respiratory transmission will not only result in
+less illness for Australians but also safeguard us against the next pandemic. In addition to proven
+approaches and technologies, there are promising, effective, and scalable interventions, such as
+Ultraviolet germicidal irradiation (UVGI), which Australia could be supporting in the hopes of
+deployment before the next pandemic.
+
+The Lancet COVID-19 Commission Task Force has proposed Non-infectious Air Delivery Rates
+(NADR) as measurable goals for ventilation and filtration targets that protect against infectious
+disease transmission. Air delivery rates to different sized rooms can be compared using the
+normalised measure of Air Changes per Hour (ACH)-the number of times the volume of air in a room
+is exchanged with fresh, pathogen-free air each hour. Ventilating a room with fresh outdoor air while
+exhausting air in the room reduces the concentration of pathogens in the air produced by the room's
+occupants. Filtration and disinfection technologies can achieve comparable effects to ventilating a
+room with fresh air can be measured by Equivalent Air Changes per Hour (eACH) - the number of
+ACH required to achieve the same reduction in pathogen concentration.
+
+Traditionally, air changeovers are achieved through opening a window or having an HVAC (Heating,
+ventilation, and air conditioning) system installed. The Air Safety to Combat Global Catastrophic
+Biorisk report summarises the cost-effectiveness of different mechanical IAQ interventions.4 A modern
+HVAC system costs $135 USD per ACH, assuming it is updated to current standards for filtration and
+air delivery rates. However, many buildings do not have an HVAC system installed and are often not
+ventilated-schools, cafes and restaurants, homes, and smaller and older workplaces are just some
+examples of poorly ventilated spaces that we visit every day. Modern HVAC systems can be
+expensive or difficult to retrofit into buildings but represent an important step towards delivering
+non-infectious air. However, there are more cost-effective technologies that are easier to retrofit and
+could be widely adopted to keep Australians safe and healthy indoors. One example is portable air
+cleaners using HERA filters which are estimated to cost approximately $110 USD per eACH and are
+simple to retrofit into buildings that are unsuitable for HVAC.
+
+Ultraviolet germicidal irradiation (UVGI) is the use of ultraviolet light to inactivate or kill pathogens
+such as bacteria, fungal spores and viruses. UVGI lights in indoor spaces could decrease the number
+of pathogen particles in the air in a safe, scalable and simple manner. Upper room UVGI lamps use
+254nm wavelength UV light to sterilise the air in the top of rooms as it circulates and cost
+approximately $14 USD per eACH. Far-UVC lights are a newer innovation that can bathe an occupied
+room in far-UVC wavelengths.5 It uses a shorter wavelength of 222nm, which appears to be safe for
+skin and corneas yet it still inactivates the comparatively smaller pathogen particles.6 Unlike other
+interventions, Far-UVC has potential to reduce short range and conversational distance transmission
+and sterilise surfaces, in addition to reducing long-range airborne transmission like mechanical
+ventilation, portable air cleaners and 254nm UVGI. It is estimated to cost $15-46 per eACH, however,
+still requires additional R&D to make it cost-effective and scalable.
+
+Given that we have a mix of proven approaches for a variety of buildings and promising technology, I
+believe Australia should be investing in the deployment of what we know works and the research and
+development of what we know is promising. UVGI technology has the potential to make all indoor
+environments safe for Australians to occupy without fear of respiratory illness at an affordable price.
+Through supporting research and development in this technology, Australia can lower the burden of
+respiratory illness and protect against the next pandemic. It can also leverage the opportunity to
+become a world leader in developing technology that will no-doubt be in demand later.
+
+It might seem strange for a psychologist to be recommending technical solutions to a biological
+problem, but our track record shows these solutions are higher leverage for governments. We can't
+persuade people to drive safely all the time—we mandate all cars have seat belts, and enforce laws
+that all people use them. The risk of any one of us dying in a car accident is small—as is the risk of a
+truly catastrophic pandemic—but both are large enough for the government to take responsibility for
+addressing the risks. The government can save thousands of lives by enforcing road standards and
+laws—it could save millions of lives by preventing a catastrophic pandemic. The government will need
+to provide fewer mental health services to victims if it can prevent the next pandemic in the first place.
+Technical solutions like better pandemic proof personal protective equipment, and better indoor air
+quality, are evidence-based solutions the government has at its disposal, among other strategies
+outlined in the reports cited here. Overall, I hope the government does its best to overcome the biases
+that cause us to naturally underestimate catastrophic risks and focus its efforts on this kind of security.
+
+Yours sincerely,
+
+
+
+
+Dr Michael Noetel
+PhD, M App Psy, SFHEA
+Program Director, Master of Psychology
+School of Psychology
+The University of Queensland
+Brisbane Qld 4072 Australia
+
+
+
+1.   Yudkowsky E. Cognitive biases potentially affecting judgement of global risks. In: Bostrom N,
+     Cirkovic M, eds. Global Catastrophic Risks. Oxford Academic; 2008.
+     doi: 10.1093/OSO/9780198570509.003.0009
+2.   Fatalities data. Office of Road Safety. Accessed December 9, 2023.
+     https://www.officeofroadsafety.gov.au/data-hub/fatalities-data
+3.   Gopal A, Bradshaw W, Sunil V, Esvelt KM. Securing Civilisation Against Catastrophic Pandemics.
+     Geneva Centre for Security Policy; 2023.
+     https://www.gcsp.ch/publications/securing-civilisation-against-catastrophic-pandemics
+4.   Kieinwaks G, Fraser-Urquhart A, Kraprayoon J, Morrison J. Air Safety to Combat Global
+     Catastrophic Biorisk. 1 Day Sooner; Rethink Priorities; 2023.
+     https://rethinkpriorities.org/publications/air-safety-to-combat-global-catastrophic-biorisks-revised
+5.   Welch D, Buonanno M, Grilj V, et al. Far-UVC light: A new tool to control the spread of
+     airborne-mediated microbial diseases. Sci Rep. 2018;8(1):2752.
+     doi: 10.1038/S41598-018-21058-w
+6.   Hessling M, Haag R, Sieber N, Vatter P. The impact of far-UVC radiation (200-230 nm) on
+     pathogens, cells, skin, and eyes - a collection and analysis of a hundred years of data. GMS Hyg
+     Infect Control. 2021;16:Doc07. doi:10.3205/dgkh000378
+

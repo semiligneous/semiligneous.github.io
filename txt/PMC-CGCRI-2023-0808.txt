@@ -1,0 +1,139 @@
+Submission to the COVID-19 Response Inquiry Panel
+
+
+
+Dr Michael Baron
+
+CEO, Baron Consulting
+
+
+Dear Members of the COVID-19 Response Inquiry Panel.
+
+Thank you very much for initiating the investigation into the COVID-19 Response as well as for
+providing this opportunity for myself and others to contribute to work of the Panel.
+
+        1.          Introduction (Scope of the Submission)
+
+
+
+In recent years, I have been involved in a number of Digital Transformation/Data Analytics Projects.
+Therefore, since this is my knowledge domain - in my submission to the panel, I am going to focus
+exclusively on the Data Management & Analytics practices that have been taking place. As I am no
+expert on healthcare, I will refrain from looking beyond the Data Management/Analytics Issues and
+into medical sides of the COVID-19 response discrepancies that have been occurring, so paradigm of
+my submission does not shift from issues that I can fully appreciate and contribute in improving
+towards the ones where I may have some emotion-fuelled views but purely speculative perception of
+the operational environment and the processes.
+
+
+
+Furthermore, in the Year 2020 - I have already submitted my views on the Victorian Government's
+Inquiry into COVID-19 Contact Tracing System and Testing Regime where I focused on technology
+implementation & data analytics challenges at the State (aka Victorian) level. In this submission I
+would like to take an opportunity to share my observations on the modus operand! at the National
+level and attempt to pinpoint areas where national (as opposed to state/territory state ones) level
+responses to the COVID-19 could have been improved - particularly with activities that can be
+instrumental for building our resilience if faced with further pandemics in near or even not so near
+future.
+
+
+
+        2.          Understanding Analytical Challenges of the Pandemic Resilience
+
+
+
+When justifying rationale behind the Governments' response to the Pandemic, a number of
+seemingly logical reasons has been given. In this section, the author aims to explain what the
+analytical struggles have been all about as well as how the response landscape could have been
+improved back then and should be improved for the sake of Australia doing a better job should
+another pandemic happen.
+
+The 2 main arguments (and these arguments often tend to come hand-in-hand) "in defence" of the
+governments dubious-looking response have been:
+    •   COVID-19 happened "out of the blue" so we were caught by surprise. It was an extraordinary
+        situation that we could not plan for
+    •   When COVID-19 did occur - every effort was made to protect the people by reaching out to
+        those affected with offers of assistance and attempting to reduce the spread. This is all that
+        that the Australian Government could possibly be doing under such difficult and
+        extraordinary conditions.
+
+
+
+Below are the more in-depth explanations of those so-called excuses as well as some suggestions
+how the pandemic response landscape (as well as our resilience to pandemics at large) could be
+improved.
+
+
+
+2.1 The "Known Unknowns" -Are We in a Position to be Prepared for a Pandemic if We Do Not Know
+When It Is Coming, What Kind of Pandemic It is Going to Be & Even Whether It Is Coming or Not?
+
+
+
+One of the core arguments behind justifying our rather miserable response to the COVID-19
+pandemic has been built around impossibility of predicting disastrous events of such grand-scale.
+There were arguably no ways of knowing "it was going to happen" and consequently - difficult to
+plan for. When looking at the Australian Budget it is hard to find a section that looks specifically at
+building up resilience to the "known unknowns". Nor the concept of known unknowns tends to be
+incorporated into the predictive analytical activities currently undertaken by the Government
+Agencies responsible for planning and development to a sufficient extent (as I do not know for sure, I
+am more than happy to be proved wrong on this one). But then again - shall we simply surrender to
+the fact that this and further Pandemic are "impossible to predict"?
+
+
+
+The postulate discussed in the passage above may sound convincing at first sight but is no reason
+why governments can not be well-prepared for pandemic waves and in a position to have well-
+crafted agile responses under their sleeves. Contemporary Predictive Analytics forecasting
+techniques can comfortably (e.g. by Using Unsupervised Machine Learning Methods & Models)
+consider not one, not two...but a wide range of scenarios that a pandemic-to-come may evolve by.
+We DO NOT need to know when it is going to happen, what exactly the impact (e.g., how contagious,
+mortality and health impact rates etc.) is going to be & and even origins and exact pathways of the
+viruses in order to start preparing response roadmaps. The very fact that it may happen should be a
+reason good enough to get engaged in predictive response modelling and this (to the best of my
+knowledge) WAS NOT DONE!
+
+
+
+        2.2          Reactive COVID-19 Responses: Can they be Effective?
+
+
+
+
+Without getting engaged into discussion of effectiveness and socio-economic sustainability of the
+responses (e.g. lockdown & curfews) it is hard to argue that government agencies were not trying
+dramatic measures to contain the COVID-19 spread. However, it often appeared the responses were
+at least one step behind the newly unfolding challenges. This where predictive analytics could also
+assist (and should be assisting in future) with modelling of the courses of action that are likely to
+become essential to be undertake. Even some of the concrete blunders were not entirely surprising.
+For example the hotel quarantine breaches happened predominantly as results of tragic blunders of
+those responsible for managing the quarantines. But how unexpected were those blunders. Was
+there ever a realistic chance to any densely populated parts of Australia COVID free? True, we can
+sometimes pinpoint specific actions that have led to the quarantine breaches, insufficient testing,
+lack of medical resources etc. But it is quite transparent that if not for those actions...some other
+mistakes would have been made! COVID-19 did have to spread across all states, impact the elderly
+more, disrupt economic activities...and the list can go on and on.
+
+
+
+In order to mitigate impact of the COVID-19 pandemic better, It was essential to appreciate difficulty
+of the challenges realistically and accept that errors will be made and that the focus should be on
+early planning and forecasting of the scenarios where we are managing "society with COVID" rather
+than staying COVID-free! This would allow for better Predictive Analytics and consequently, in earlier
+and more accurate planning.
+
+        3.   Building-up the Pandemic Resilience (Summary of Recommendations)
+
+As this submission is to be limited to 3 pages only, only the condensed version of the
+recommendations (key points) can be included.
+
+In a nutshell, the Australian Government needs to focus on developing Covid/Pandemic Predictive
+Analytics Programs further by the means of:
+
+    •   Accepting the "known unknowns" concept and planning for events that may be difficult to
+        define accurately, yet can be predicted and planned for "in case" they do take place
+    •   Proactive as opposed to Reactive planning for Covid Response programs as well as response
+        programs for other potential Pandemics.
+    •   Once disrupted by COVID, the traditional environment tends to be hard to restore so covid
+        response planning should be focusing on Building Better rather than Rebuilding
+

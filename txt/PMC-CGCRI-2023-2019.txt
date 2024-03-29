@@ -1,0 +1,495 @@
+The Cabinet Office NSW
+Submission to the
+Commonwealth COVID-19
+Response Inquiry
+ 22 December 2023
+
+
+
+
+                               w
+
+
+
+
+                               NSW
+                               GOVERNMENT
+                    OFFICIAL
+                                                                     OFFICIAL
+
+
+
+
+Executive Summary......................................................................................................................... 2
+1      Governance and interjurisdictional decision-making architecture............................................3
+2      Delineation of responsibilities in public health responses........................................................ 4
+       2.1             Quarantine and International Airports......................................................................... 4
+       2.2             Cruising.......................................................................................................................... 5
+       2.3             Vaccine, community testing and treatment rollouts................................................... 5
+       2.4             Aged care, disability and primary care......................................................................... 6
+3      Coordination of community and financial supports................................................................... 7
+       3.1             Public Messaging and Communications .......................................................................7
+       3.2             First Nations Supports.................................................................................................. 8
+       3.3             Financial Supports........................................................................................................ 8
+       3.4             Supply Chain Issues....................................................................................................... 9
+       3.5             Data and Information Sharing......................................................................................10
+4      References/other materials..................................................................................................... 11
+
+
+
+
+Executive Summary
+Australia had a world-leading response to the COVID-19 pandemic across a range of
+measures. This outcome was enabled by strong health care systems, well developed
+emergency response capabilities and robust governance structures.
+COVID-19 challenged our federated system of government, our healthcare and economic
+systems in an unprecedented way. Notwithstanding the successes, there are areas which
+could be improved to ensure greater preparedness for future pandemics. Future planning
+and preparedness must consider new knowledge and technologies gained through the
+pandemic, particularly for vaccine development. It must also consider a range of scenarios
+and not be confined to the COVID-19 characteristics.
+Noting the Inquiry Terms of Reference, this submission focuses on challenges experienced
+at the interface of Commonwealth and state and territory responsibilities. In particular,
+challenges relating to governance, the delineation of responsibilities in public health
+responses, and the coordination of community and financial supports. Across many areas of
+the pandemic response responsibility for delivery was, pragmatically, determined by
+necessity rather than first principles or overall efficacy. These issues warrant further
+review.
+The NSW Cabinet Office welcomes the opportunity to make a submission to the
+Commonwealth’s COVID-19 Response Inquiry. Several reviews have been conducted in NSW
+and lessons from these reviews are being implemented. Many of the lessons are relevant to
+the national review. NSW government agency officials welcome the opportunity to meet
+with the Inquiry Panel to discuss issues reflected in this submission in further detail.
+
+
+Note: This is an officials level only document and does not represent a NSW Government
+submission.
+
+
+
+
+                                                                     OFFICIAL
+                                               OFFICIAL
+
+
+
+
+1       Governance and interjurisdictional
+        decision-making architecture
+National Cabinet was an effective forum for quick, consensus decision making in the early
+pandemic
+•    Given Australia’s federal structure, National Cabinet was an appropriate and effective governance
+     body to facilitate rapid, nationally-consistent decision-making on key aspects of Australia’s public
+     health response. For example, early decisions on broad public health and social measures
+     informed by the Australian Health Protection Principal Committee (AHPPC)’s advice contributed
+     to lower national mortality rates in the early stages of the pandemic than most other countries.
+•    National Cabinet’s decisions were heavily influenced by health advice in the early phase of the
+     pandemic. However, as decisions moved from emergency response to national re-opening plans,
+     governance and advisory structures evolved to include more social and economic evidence e.g.
+     the economic benefits of essential workers returning to workplaces.
+•    National Cabinet was most effective when agreeing overarching strategic settings or principles to
+     guide state and territory implementation of a national approach e.g. the National Framework for
+     Managing COVID-19 in Schools and Early Childhood Education and Care. First Ministers were less
+     equipped to make detailed operational judgements and this work was quickly devolved to the
+     officials’ level network, the National Coordination Mechanism (NCM), which effectively
+     coordinated operational agencies to achieve practical outcomes. For example, the Supermarket
+     Taskforce was particularly influential in assisting the business and retail sector navigate complex
+     Public Health Orders and stabilise supply chains.
+
+For Further Investigation
+1.   Establishing processes and governance structures to ensure National Cabinet is advised on
+     health, economic and other social considerations, even in emergency decision-making phases.
+2. Clarifying the relationship between health agencies such as ATAGI, the AHPPC and a future
+   Australian Centre for Disease Control (CDC) and their respective roles in informing National
+   Cabinet decision-making.
+3. Considering how the NCM can be utilised in future crises. The effectiveness of the NCM has
+   continued to be displayed through varied responses to crisis, such as repatriation and recent
+   cyber incidents.
+
+
+
+
+                                               OFFICIAL
+                                                 OFFICIAL
+
+
+
+
+2        Delineation of responsibilities in public
+         health responses
+2.1       Quarantine and International Airports
+
+The absence of national quarantine arrangements required states and territories to fund
+and deliver border control measures beyond their constitutional remit
+•     This required significant ongoing state and territory resources which had to be diverted from
+      other aspects of the public health response and was in addition to other public safety
+      responsibilities.
+•     The state-by-state approach also created difficulties in acquitting funding for returned
+      travellers who undertook quarantine in a jurisdiction other than their place of residence.
+
+Case Study
+•     NSW successfully quarantined more than 265,000 returned Australian citizens and travellers
+      from March 2020 to April 2022, more than any other jurisdiction. This included a substantial
+      number of citizens from other states and territories. Early in the period, NSW was quarantining
+      50 per cent of all international arrivals into Australia.
+•     NSW oversaw the operational functions of Sydney Airport for passengers and aircrew
+      returning to Australia through NSW, including screening, collection and testing, and other
+      processes related to the health of passengers and crew.
+•     NSW Health was responsible for receipt and assessment of applications for exemption from
+      the Public Health Orders for Air Transportation, Maritime and Interstate travellers. In 2021,
+      NSW processed more than 15,200 applications and granted more than 5,200 applications for
+      exemptions for people to farewell deceased loved ones or support ill family members.
+•     The hotel quarantine system relied heavily on NSW police and health resources. At times
+      during domestic outbreaks, NSW had to reduce hotel quarantine capacity to allow for the
+      diversion to critical government resources to manage the lockdown.
+•     Despite these pressures and challenges, NSW also worked closely with the Commonwealth to
+      facilitate urgent repatriation flights from Afghanistan, above and beyond existing capacity, to
+      support the arrival, quarantine, and future care of this cohort - through the coordination of
+      additional humanitarian and settlement supports.
+For Further Investigation
+1.    Improved planning, funding, and operationalisation of quarantine arrangements in a future
+      pandemic, including pre-screening options for returning travellers.
+2. A Commonwealth delivered, centralised approach to managing hotel quarantine in the event of
+   a future pandemic, in line with the Commonwealth’s role in managing international border
+   arrangements and biosecurity risks.
+
+
+
+
+                                                 OFFICIAL
+                                                OFFICIAL
+
+
+
+
+2.2      Cruising
+
+States led the safe resumption of cruising
+•    Early in 2020, cruise ships were identified as environments conducive to COVID-19 outbreaks
+     and the Cth implemented a national biosecurity ban on entry of international cruise ships. In
+     2022, the Cth indicated its intention to lift the ban, but there were no nationally consistent
+     protocols for the safe resumption of cruising.
+•    In the absence of a national protocol, NSW was tasked by National Cabinet to develop a
+     multi-jurisdictional protocol for COVID-19 management on cruise ships, in close partnership
+     with the cruise industry, Commonwealth, Victorian, Queensland, and Western Australian
+     Governments. This protocol was adopted by Australian jurisdictions and effectively supported
+     the safe resumption of cruising nationally.
+
+For Further Investigation
+1.   Centralised approaches to the implementation of a nationally consistent protocol.
+2. Roles and responsibilities for developing health protocols that cut across jurisdictions.
+3. Centre for Disease Control (CDC) as the co-ordinator of centralised approaches to
+   intelligence-gathering, risk assessments and international best practice approaches.
+
+
+
+2.3      Vaccine, community testing and treatment rollouts
+
+Procurement delays and failure to utilise established delivery mechanisms hampered
+the vaccination and testing program
+•    While vaccine procurement was appropriately a Commonwealth responsibility, the roles and
+     responsibilities for distribution, eligibility, and administration (particularly for priority
+     groups) were not well defined outside traditional state and territory vaccination roles and
+     responsibilities. This led to challenges in rapid implementation, public confusion and delay.
+•    The rollout could have better leveraged states’ and territories’ established strengths in
+     supply chains and logistical expertise. Public demand for mRNA COVID-19 vaccines
+     outstripped supply during early phases of the vaccine rollout.
+•    The Commonwealth has embedded some of the innovations made during the pandemic,
+     such as the initiative to fund administration by pharmacists for National Immunisation
+     Program (NIP) vaccines. This initiative will increase access and general vaccination capacity
+     for a future pandemic. However, other health care professionals, such as nurses in GP
+     practice, were not appropriately funded to increase the sustainability of vaccination
+     capacity.
+
+For Further Investigation
+1.   Capacity to rapidly establish community PCR testing, at-home testing and vaccination
+     including through primary care providers using normal national immunisation program
+     logistics and implementation approaches.
+2. Supply and administration of vaccines and testing capacity in regional, rural and remote
+   Australia, including remote Aboriginal communities.
+3. The coordination of workforce and supply and stockpiling of PPE and other essential
+   equipment, including ventilators and PPE (early in the response) and PCR and rapid antigen
+   test kits, testing equipment and treatments (later in the response, and as the pandemic and
+   testing capabilities evolved, and treatments became available).
+
+
+
+                                                OFFICIAL
+                                                    OFFICIAL
+
+
+    4. Roles and responsibilities in areas of primary care, including community pharmacists and
+       Aboriginal Community Controlled Health Services.
+
+
+
+2.4          Aged care, disability and primary care
+
+    States and territories took on additional responsibilities to deliver public health responses
+    in aged care homes and disability group homes, which they were not resourced to do
+    •    The Commonwealth’s primary responsibility for aged care and disability was, due to necessity,
+         deputised by states and territories. This included the provision of workforce support, infection
+         prevention control (IPC) expertise, resources such as PPE and RATs, and crisis management
+         support.
+    •    This exerted significant pressure on an already strained workforce, and the support was not
+         adequately recognised with appropriate funding.
+    •    Primary care services, including Aboriginal Community Controlled Organisations (ACCOs),
+         looked to NSW Health for the provision of PPE early in the pandemic. NSW Health also
+         supported primary care services in aged care and disability services when outbreaks occurred.
+
+Case Study
+•       Early in the pandemic, aged care facilities and primary care services looked to NSW Health for
+        the provision of PPE, testing supplies and workforce when staff were either unwell, in quarantine
+        or unwilling to work with COVID-19 patients. This meant NSW Health needed to rapidly scale
+        assistance to distribute supplies and to provide workforce at short notice. It also led to the
+        provision of mass testing clinics and scaling of testing when GPs and pathology collection
+        centres moved away from routine provision of these services.
+•       Mechanisms for the rollout of vaccines and rapid antigen testing in aged care facilities were
+        often implemented late and experienced delays, meaning that NSW Health needed to urgently
+        coordinate teams to enhance testing or immunisation in areas where outbreaks of COVID-19
+        were occurring.
+For Further Investigation
+1.      Roles and responsibilities for vaccine administration in the Aged and Disability care context.
+2. National procurement and delivery of key supplies (PPE, ventilation equipment, vaccines, tests
+   and testing equipment, treatments).
+3. Workforce capacity, training, and scalability.
+4. Emergency management capability of residential aged care facilities, disability and community
+   primary care and appropriate integration into established government response structures.
+
+
+
+
+                                                    OFFICIAL
+                                                 OFFICIAL
+
+
+
+
+3 Coordination of community and financial
+  supports
+3.1       Public Messaging and Communications
+
+Public communication of health advice was not always timely and consistent across levels
+of government, nor sensitive to needs of different community groups
+•     Public messaging on vaccination, quarantine and lockdown requirements were issued by local,
+      state and federal government agencies without central coordination. Time lags in national
+      communications also meant there was some misalignment with jurisdictional differences in the
+      health situation and decision making.
+•     Social media, marketing and general communications were poorly coordinated and
+      insufficiently tailored to address the concerns of local communities and mitigate
+      misinformation. Issues with translated materials also led to a lack of trust across
+      communications at all levels of government. Earlier partnerships with communities to address
+      misinformation would have improved communication, noting this is a shared responsibility of
+      States and Territories and the Commonwealth
+•     At times, communication from the Commonwealth was authorised unilaterally, and missed an
+      opportunity to draw upon states’ and territories’ expertise in the local context and
+      understanding how communications are best received by multicultural groups.
+
+Case Study
+•     Several major national communications campaigns were launched without prior consultation
+      with states and territories. This included the ‘Arm yourself tv and print vaccination campaign at
+      the height of the second wave in mid-2021 which caused distress to culturally and
+      linguistically diverse communities, many of whom regarded the slogan to be confusing or
+      combative.
+•     The unilateral authorisation did not leverage the expertise states, territories, and local
+      organisations in community engagement, which could have ensured the campaign was
+      effective in achieving its desired outcomes.
+•     Tailored messaging and drawing on multicultural expertise within communities is necessary
+      for appropriate translation of content and effective communication with the whole community.
+
+For Further Investigation
+•     Strategies for ensuring consultation with state, local governments and community groups is
+      informed by experts with a deep understanding of community and cultural needs.
+•     Governance for greater alignment of federal, state and local messaging.
+•     The coordination and streamlining of public health messaging regarding vaccine safety,
+      eligibility, and dosage recommendations.
+
+
+
+
+                                                 OFFICIAL
+                                                   OFFICIAL
+
+
+
+
+3.2          First Nations Supports
+
+    Governments did not always serve First Nations communities in culturally aware and
+    safe ways
+    •    Many of the issues outlined in this submission were felt more acutely by Aboriginal
+         communities. This was largely driven by mainstream methods of delivery which did not fully
+         account for structural impediments, historic issues and inequities faced by Aboriginal
+         households and communities.
+    •    First Nations service delivery often lacked clear roles and responsibilities between levels of
+         government, adequate funding, tailored communications, implementing activities, and
+         relevance to the specific cultural needs of communities.
+    •    Adjustments to mainstream service delivery and communications were often insufficient to
+         address the needs of Aboriginal communities and contributed to lower vaccination rates in
+         these communities.
+
+Case Study
+•       NSW has over 60 discrete Aboriginal communities (DACs) which are largely isolated and have
+        unreliable access to mainstream media, infrastructure, and services. DACs demographics,
+        social networks and cultures are distinct from mainstream communities.
+•       Governments’ ‘tailored’ First Nations communications, for keeping safe, vaccinations, services
+        and lockdowns generally involved small adjustments to mainstream approaches - and were
+        slow to develop. Delays meant people were sourcing information from platforms and trusted
+        people or sources, which spread misinformation. Government communications (format,
+        content, relevancy) did not effectively combat the misinformation.
+•       The local Aboriginal services who had existing relationships were also relied upon heavily to
+        provide insights into local issues, needs and priorities, as data was inaccurate or unavailable.
+        This meant that services not funded to provide support were playing a leading role, while those
+        with funding were unable to reach into Aboriginal communities where needed.
+Further Investigation
+•       Policies and processes for cultural appropriateness and awareness, and removing systems
+        which create and/or perpetuate inequities for Aboriginal people.
+•       A mechanism for strategies which are co-designed with relevant Aboriginal community-
+        controlled organisations for emergencies, that work locally with regional, state, and federal
+        governments to provide culturally safe and responsive supports for Aboriginal people.
+•       Improving data sources and sharing across governments and trusted partners, to enable agile,
+        decision-making that responds to the right priorities, at the right level (local or regional) on
+        critical life-threatening issues.
+
+
+3.3          Financial Supports
+
+    Cooperation between levels of Government for Australia’s economic response was
+    generally good, but inconsistency in approach led to some duplication of effort
+
+    Case Study
+    •    The roles and responsibilities of the Commonwealth and state governments in relation to
+         financial support for individuals and businesses impacted by pandemic-related lockdowns
+         could have been more clearly defined.
+
+
+
+                                                   OFFICIAL
+                                                    OFFICIAL
+
+
+    •     The Commonwealth Government provided support to individuals through JobKeeper from
+          2020 until March 2021 which also served as a form of business support. However, the
+          Commonwealth did not agree to reintroduce JobKeeper during the Delta outbreak in 2021.
+    •     This left NSW to provide support to businesses directly until a new co-funded measure,
+          JobSaver, commenced on 26 July. NSW allocated significant resources to design and
+          implement JobSaver when systems already existed at a Commonwealth level that would
+          have facilitated roll-out of the program.
+    For Further Investigation
+    1.    Review pre-planning and modelling on economic and fiscal shocks to assist evidence-based
+          decision making.
+    2.      Roles and responsibilities for provision of individual and business supports.
+    3. Establishing a standardised national arrangement to address governance issues and provide
+       equitable supports to impacted individuals and businesses (e.g. similar to the Disaster
+       Recovery Funding Arrangements (DRFA)).
+
+
+
+
+3.4          Supply Chain Issues
+
+Inconsistent processes, rules and procedures for freight hampered the flow of goods and
+created a complex operating environment for business and government
+•        Workers directly moving freight such as heavy vehicle drivers and infrastructure maintenance
+         crews were not always explicitly included on lists of essential workers.
+•        NSW had to ensure appropriate exemptions to port entry restrictions were in place to facilitate
+         continued port operations whilst maintaining strict international border entry protocols.
+•        International border entry requirements and state and territory quarantine requirements were
+         particularly challenging for maritime crew seeking to enter Australia by air to replace vessel
+         crews at the end of their contracts. The complex and time sensitive coordination required
+         between entry approvals, flights, hotel quarantine and vessel timing enhanced this challenge.
+
+Case Study
+•        In the initial period of the pandemic, inconsistent public health requirements for truck drivers
+         and other key supply chain workers between jurisdictions created complexity for businesses
+         and caused delays in freight movement.
+•        Transport for NSW had to establish and operate eleven freight worker testing sites at the peak
+         of the response to assist heavy vehicle drivers to meet the different state border testing
+         requirements, as well as provide facilities that were suitable and accessible for these workers.
+•        The National Freight Movement Code (NFMC) successfully enabled the continued movement
+         of freight while restrictions were in flux, but this was not introduced until August 2021,
+         16 months from the onset of the pandemic.
+•        Disruptions to freight supply also created a high-risk situation for rural and remote
+         communities, who had limited access to vital items - such as food, water and healthcare.
+For Further Investigation
+1.       Establishing a standardised national procedure to enable continued movement of freight and
+         workers during a pandemic across land, air and sea borders.
+2. Establishing rapid responses for remote and regional-based people who require essential
+   supports, including food, water and medications.
+
+
+
+
+                                                    OFFICIAL
+                                                OFFICIAL
+
+
+
+
+3.5      Data and Information Sharing
+
+Data was not always shared between governments in a timely way, which limited the
+efficacy of public health and economic support measures
+•    Delivery of the vaccine rollout, testing and financial supports were hindered by access to data
+     sets held between different levels of Government. Challenges included regulatory,
+     governance and institutional barriers to information sharing, particularly between levels of
+     government.
+
+Case Study
+•    NSW was often unable to access the detailed data sets needed to target its public health
+     response in real-time. This included data held by the Commonwealth Government on
+     vaccination rates by geography and different cohorts. This data was eventually shared with
+     NSW demonstrating technical barriers could be overcome within existing legislative
+     frameworks.
+•    State and territories efforts to target distribution of rapid antigen tests to vulnerable cohorts
+     were similarly limited by an inability to access Australian Taxation Office (ATO) data. In NSW
+     this meant taking a broad approach to distribution through NSW government service centres
+     and community organisations.
+•    A lack of data (particularly ATO data) from the Commonwealth was a key barrier for NSW to
+     assess, implement and cost the NSW component of the Pandemic Leave Disaster Payment and
+     High-Risk Settings Pandemic Payment. Agreements between ATO and Service NSW were
+     needed for each program but were not in place until after programs commenced.
+•    Additionally, sharing of ATO data was critical for determining eligibility for business supports
+     and mitigating fraud.
+•    State and territory developed applications worked well to support public health and safety
+     measures such as venue check-ins and positive case notifications. However, integration of
+     vaccine certification with apps was slow to implement and the end solution was difficult to
+     navigate for users. This limited uptake and its utility as a compliance tool and epidemiological
+     data input.
+Further Investigation
+1.   Proactive data sharing arrangements between the Commonwealth and state and territories to
+     enhance national ability to make well-informed, targeted policy decisions.
+2. Embedded processes which provide a pathway to the Commonwealth and states and
+   territories sharing of data expeditiously to inform public health and economic responses.
+3. Access to, and quality of data to support Aboriginal Australians’ outcomes, across
+   government.
+4. Planning and coordination of key health data and certifications with government service
+   applications and technologies including cross-jurisdiction operability.
+
+
+
+
+                                                OFFICIAL
+                                               OFFICIAL
+
+
+
+
+4        References/other materials
+Further to the above, NSW invites the Inquiry to consider these supplementary materials drawn
+from previous NSW reports and inquiries.
+    •       As one system: The NSW Health System’s Response to COVID-19
+    •       As one system: The NSW Health System’s Response to COVID-19 - Progress Report
+    •   NSW Health commissioned report on the NSW public health response to the COVID-19
+        pandemic
+    •       Audit Office Report: New South Wales COVID-19 vaccine rollout
+    •       Audit Office Report: Coordination of the response to COVID-19 (June to November 2021)
+    •       Coordination of the response to COVID-19 (June to November 2021)
+    •   Report - Improving crisis communications to culturally and linguistically diverse
+        communities - NSW Legislative Assembly
+
+
+
+
+                                               OFFICIAL
+

@@ -1,0 +1,84 @@
+1 Dec 2023
+
+
+COVID-19 Response Inquiry Panel
+Department of Prime Minister and Cabinet
+Australian Government
+
+
+Dear Ms Kruk, Professor Bennett, and Dr Jackson
+Thank you for the opportunity to make a submission and share my views and experiences about the
+Commonwealth Government's response to COVID-19. My comments are primarily focused on Terms of
+Reference point 3: Preventative health measures.
+As a behaviour science researcher, I contributed to Australia's pandemic response by conducting a long-
+running survey of beliefs and behaviours among everyday Australians and how they coped with the impacts
+of COVID-19. This helped to provide evidence into public decision-making for the pandemic response. I am
+proud of the work I did in this survey, but I wish that it wasn't necessary.
+COVID-19 could have been prevented. Other pandemics can be prevented.
+My key message in this submission is the need to prioritise the prevention of future pandemics. Compared
+with other global catastrophic risks such as nuclear war, space weather, natural disasters such as
+supervolcanoes, and misused or misaligned artificial intelligence, it is within our power to prevent novel
+pathogens from emerging and to quickly identify, contain and eliminate them if they do. Given the human
+and economic costs of pandemics - and the fact that pandemics much worse than COVID-19 are possible -
+prevention should be our primary goal.
+The new Australian Centre for Disease Control should have as its top priority to prevent novel pathogens
+from emerging and controlling them if they do. Even on the most conservative assumptions, significant
+investment in pandemic prevention is overwhelmingly justified ("The costs and benefits of primary
+prevention of zoonotic pandemics", Bernstein et al, 2022).
+Australia should take the risk of engineered pandemics much more seriously. The terms of reference for the
+Inquiry focus on anticipating future pandemics - and the evidence shows that doing that effectively requires
+thinking about the possibility of humans designing, creating, and releasing dangerous and novel pathogens -
+and that this becomes easier every year, with advances in biotechnology and Al.
+                      (MIT Media Lab) has assessed that the technologies necessary to design, create and
+release dangerous and novel pathogens may become widely available by 2025.
+
+
+
+
+                                                    the market for synthetic DNA, speciality reagents, and Al
+                                                   y has continued to accelerate. With or without the additional
+risks of Al, synthetic DNA is likely the essential input that any malicious or negligent actor would need to
+engineer a pandemic.
+In October 2023, US President Biden made an executive order to improve screening of risky DNA sequences,
+best practices for access controls, technical guidances for effective screening, and robust oversight
+mechanisms.
+Australia regulates the importation of synthetic DNA, but could significantly improve its screening processes
+to be consistent with the US executive order. The Inquiry should recommend that the Commonwealth
+update its regulatory regime to be consistent with the US, by requiring labs importing DNA into Australia to
+apply these new screening procedures to all orders.
+Regulating synthetic DNA in this way will address one of the most pressing risks that Professors Esvelt and
+Schmidt highlight, but it's not an enduring solution. Steady advances in biotechnology and increasingly
+advanced Al are likely to be able to help people circumvent these regulations, especially as the pace of
+interlinked advances in Al and biotechnology continues to accelerate.
+For that reason, the Inquiry should recommend that DISR and DHAC work with the new CDC to develop
+minimum safety standards for "frontier Al models" that are deployed in Australia. These frontier Al models
+represent the state of the art, and include Large Language Models (LLMs) and Multimodal Foundation
+Models (MFMs) developed by companies like OpenAI and Google DeepMind. The intent of these standards
+on frontier Al models should be to ensure that models that pose biosafety risks are identified and restricted.
+Australia must clear expectations for companies that develop and deploy Al that frontier Al models with
+"dual-use" capabilities that could pose catastrophic risks are not welcome in Australia. Finally, we need to
+keep close tabs on advances in biotechnology to ensure the ability to engineer pathogens never becomes
+widely available.
+Despite the harm and suffering of COVID-19, there is an opportunity in this Inquiry to bring new ideas and
+perspectives to prevent and prepare for future pandemics. While that will require uncomfortable thinking
+about unexpected topics and emerging technologies, these are the issues that could have the biggest impact
+towards securing a healthier and safer future for Australians and all people of the world.
+
+
+Yours faithfully
+
+
+Alexander Saeri
+
+
+
+
+References
+    •        Esvelt, K. (2022). Delay, Detect, Defend: Preparing for a Future in which Thousands Can Release New
+        Pandemics. Geneva Centre for Security Policy: Geneva paper 29/22
+        https://dam.gcsp.ch/files/doc/gcsp-geneva-paper-29-22
+    •   Biden, J. (2023) Executive Order on the Safe, Secure, and Trustworthy Development and Use of
+        Artificial Intelligence. The White House.
+    •   Engineered Pathogens and Unnatural Biological Weapons: The Future Threat of Synthetic Biology -
+        Combating Terrorism Center at West Point
+

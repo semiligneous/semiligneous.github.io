@@ -1,0 +1,166 @@
+                      Submission of Evidence to the COVID-19 Response Inquiry Panel
+My name is Ralph Pain. I am a retired mechanical engineer. At times during the pandemic my wife and I
+cared for her then 87-year old father. We vowed not to infect him, and therefore chose the best immunity
+available. This we achieved by actively seeking and gaining immunity through infection.
+Concerns with the Government response:
+1. Coercion to take a medical procedure for an unapproved use
+Vaccines were mandated in some jurisdictions for those working with vulnerable people; we were told
+lockdown restrictions would be tied to the percentage vaccination rate in the population in some
+jurisdictions; and restrictions to travel and to other services were applied to those who had not been
+vaccinated.
+I think it is fair to infer that these vaccination policies were drawn from a premise that the injections would
+prevent transmission of the virus, and also that they were approved for that use. However, the Therapeutic
+Goods Administration (TGA) in its Australian PARs (Public Assessment Reports) explicitly denied that
+transmission was tested:
+    •           January 2021 for Comimaty (Pfizer), "The following questions have not yet been addressed:
+           •             Vaccine efficacy against asymptomatic infection and viral transmission."
+    •           February 2021 for AstraZeneca, "These studies were not designed to assess disease transmission".
+    •      August 2021 for Spikevax (Modema), "The pivotal study was not designed to assess the effect of
+           the vaccine against transmission of SARS-CoV-2 from individuals experiencing asymptomatic
+           infections after vaccination. Protection against asymptomatic infection is currently unknown ..."
+Further, as evidenced in Mettelman et al (2022)1, it was known that injections into the body, bypassing as
+they do the mucosal membranes of the upper airways, are not effective at provoking a mucosal immune
+response against respiratory viruses: "... designing effective vaccines that stimulate robust and protective
+immune responses in the respiratory mucosa has been an ongoing challenge. As a result, the majority of
+vaccines licensedfor influenza and SARS-CoV-2, with the exception of the LAIVs [Live Attenuated
+Influenza Vaccine, in the form of a nasal spray], are delivered distally and rely on systemic innate and
+adaptive immunity, which may not be sufficient for protection at mucosal sites."
+Moreover, as also pointed out in a separate submission by             all three AusPARs were approved
+only for the prevention of disease, and NOT for the prevention of transmission. For example, AstraZeneca:
+
+Approved        COVID-19 Vaccine AstraZeneca has provisional approval for the indication: Active immunisation of individuals
+                > _18 years old for the prevention of coronavirus disease 2019 (COVID-19) caused by SARS-CoV-2.
+I suggest, therefore, that health and government officials who imposed rules aimed at preventing the spread
+of the virus through vaccination cannot be deemed to have carried out their due diligence, and even if they
+can, by promoting the use of these vaccines for uses that were not approved by the TGA, I suggest they
+may have acted illegitimately, outside of the authority assigned to them.
+The illegitimacy of such actions compounded breaches of ethical rules defined in the ATAGI handbook,
+which required informed consent of the recipient even for approved uses of a drug. Further, they
+compounded breaches of natural law in a liberal democracy by not accepting other ways that a person may
+choose to not infect vulnerable people, such as by gaining natural immunity through infection.
+2. Restriction of use of safe therapeutical goods
+The Therapeutic Goods Act 1989 establishes a framework for ensuring the timely availability of therapeutic
+goods (i.e. medicines, medical devices and biological products) that are of acceptable quality, safety and
+efficacy/performance.
+
+
+1 Mettelman RC, Allen EK, Thomas PG. Mucosal immune responses to infection and vaccination in the respiratory
+tract. Immunity. 2022 May 10;55(5):749-780. doi: 10.1016/j.immuni.2022.04.013. PMID: 35545027; PMCID:
+PMC9087965.
+
+
+
+
+                                                                                                                               1
+Hydroxychloroquine was known to be effective against SARS-CoV-1 and had been stockpiled any many
+parts of the world. Ivermectin showed early promise as an antiviral against SARS-CoV-2. Both of these
+therapeutic goods had been used for decades and had well-known safety profiles, with ivermectin in
+particular having an excellent safety profile.
+However, the TGA restricted the use of hydroxychloroquine on 24 March 2020, and later, restricted the use
+of ivermectin on 10 September 2021.
+The suggestion that existing medicines with well-known safety profiles and already used off label should be
+restricted for use by prescribing doctors who see a benefit in using them for an individual patient in their
+care, seems to run counter to the role of the TGA, which is to ensure timely availability.
+Further, the reasons for restricting given by the TGA did not stand up to scrutiny. For hydroxychloroquine
+we were told there are concerns that its use ‘will create a potential shortage of this product in Australia’.
+This is difficult to defend anyway for a synthetic off-patent drug which many pharmaceutical companies
+could make at the time, but was especially difficult to defend given that Clive Palmer had donated a
+stockpile of the compound to the Government.
+We were also told that hydroxychloroquine had ‘well-known serious risks to patients’. However, these well-
+known risks are accepted for people with malaria and autoimmune disease. Surely they could also be
+accepted for treating covid, deemed so severe that the entire economy should be locked down, and for
+which doctors could prescribe safe doses with informed consent?
+For ivermectin, the first reason given for its restriction by the TGA is ironic: people who took it might
+decide they were safe from covid and not get vaccinated. The irony is that, as we have now seen, they did
+not restrict the anti-covid vaccines, the recipients of which catch and pass on covid, often repeatedly.
+Second, we were told that doses mentioned on social media were ‘significantly higher than those
+approved’. However, the medicine would be prescribed by a doctor, not by Facebook. The third reason was,
+again, fear of shortages for its approved indications. But there was a competitive pharmaceutical industry
+available to make abundant quantities of this synthetic off-patent drug.
+Given the inadequacy of reasons given for restrictions, the TGA exposes itself to scrutiny over whether its
+decisions may have aligned with the interests of any pharmaceutical companies which may have been
+developing alternative, potentially lucrative, treatments for covid at the time, rather than with the interests
+of ordinary people in Australia.
+3. Consideration of other approaches to the pandemic
+The Australian Health Management Plan for Pandemic Influenza (August 2019) appears to have been
+developed through democratic process. It refers to principles, in particular for: reducing the risk to
+vulnerable people; minimising disruption to the community and; ensuring that the rights of the individual
+are upheld as much as possible.
+There was information available near the beginning of the pandemic that the covid virus was even more
+contagious than the flu virus. For example, it was reported in March 2020 that covid was twice as
+contagious as influenza2. Further, there was an early source of mortality data that emerged in March 2020 in
+a study3 of the Diamond Princess, which emphasised that the covid virus shows "... strong effects of age
+and comorbidities on mortality risk". This article also provided a reasonably accurate estimate of fatality
+rate of 13% of those over 70s who had already developed symptoms of disease.
+With all this information it seemed it would be advantageous to implement the Health Management Plan.
+Adopting its principles, I suggested to my Federal MP by email at the end of February 2020, "... we need
+herd immunity to protect vulnerable people. Without a vaccine, herd immunity can be achieved if healthy
+
+
+2 https://www.abc.net.au/news/health/2020-03-20/how-coronavirus-covid-19-compares-to-flu/12073696
+3 https://pubmed.ncbi.nlm.nih.gov/32234121/ Russell TW, Hellewell J, Jarvis CI, van Zandvoort K, Abbott S,
+Ratnayake R; CMMID COVID-19 working group; Flasche S, Eggo RM, Edmunds WJ, Kucharski AJ. Estimating the
+infection and case fatality ratio for coronavirus disease (COVID-19) using age-adjusted data from the outbreak on the
+Diamond Princess cruise ship, February 2020. Euro Surveill. 2020 Mar;25(12):2000256. doi: 10.2807/1560-
+7917.ES.2020.25. 12.2000256. PMID: 32234121; PMCID: PMC7118348.
+
+
+
+
+                                                                                                                        2
+people volunteer to get the virus and then recover ... Amongst the first priority for going through the
+infection and recovery process would probably be healthy volunteer health professionals, so they can look
+after vulnerable people without infecting them." 4
+However, Australia did not follow key principles in its Health Management Plan and instead adopted an
+approach for preventing the spread of the virus that was similar to that adopted by the Chinese Communist
+Party. The Australian Government also pursued vaccines at a rate that seemed to me at the time to be
+reckless.
+Recommendations:
+1. Due diligence requirements.
+Health Officers should be clearly tasked with carrying out appropriate due diligence in relation to directions
+they impose for taking pharmaceutical drugs, which should as a minimum include a careful reading of the
+AusPARs for each drug, and also consulting with leading medical researchers such as immunologist,
+Professor^^^^^^^^|on the lack of effectiveness of achieving sterilising immunity in the upper airways
+through an injection that bypasses the mucosal membranes of the upper airways. I believe a Royal
+Commission should be established to find whether Officers breached any ethical rules or acted outside of
+the authority assigned to them such as by coercing people to accept a vaccine, an act exacerbated by the
+vaccine being unauthorised for preventing transmission.
+2. Conflict of interest requirements
+There is a possibility that the restricting of hydroxychloroquine and ivermectin was not in the best interests
+of people living in Australia, because both medicines had well-established safety profiles. I believe a Royal
+Commission should be established so that government bodies such as the TGA can be investigated to find if
+there is evidence of any conflicts of interest, including funding from the pharmaceutical companies whose
+products they regulate, or prospects of future employment by those companies for key TGA staff.
+3. Democratic and ethical process requirements
+Adherence to democratic processes can be achieved by: a) openly discussing and agreeing a target
+objective; then b) formulating a range of options for reaching that objective through open debate; before c)
+settling on a particular strategy that complies with established ethical standards.
+a) Australia's target objective was not openly discussed. Given that it seemed impractical to eliminate such
+a contagious virus that prevailed throughout the rest of the world, we were inevitably heading for herd
+immunity. We did not openly debate whether this immunity should be achieved through natural infection or
+through a vaccine. Rather, suggestions of natural immunity were ridiculed, b) Alternative options were not
+openly discussed, such as protecting just those who were known in advance to be vulnerable, or bolstering
+immune systems with vitamin D3, or using known available early treatments, c) Instead, the government
+seemed to close down dissenting views and to choose a strategy of simply delaying the inevitable by
+closing the national borders and locking down economic and social interaction of the whole population for
+an indeterminate period. Or, were we really waiting for the rushed development of novel-technology
+genetic vaccines that were not even being designed to prevent transmission? And when the novel
+technology arrived, although these vaccines were not approved for use in preventing transmission, the
+government successfully induced almost everyone to be injected several times, through coercion and
+inaccurate messaging about the prospect of protecting others.
+I believe a Royal Commission should be established to identify: governments and government bodies that
+did not adhere to democratic and ethical processes; inadequate processes that need to be overhauled and
+reinforced; governance frameworks that need to be re-established; conflicted government bodies that need
+to be dismantled and rebuilt; and individuals at fault who need to be given an opportunity to reflect.
+
+
+
+
+4 My MP replied on 10th March 2020, "... our Government is committed to ensuring that the virus does not spread, so
+that measures such as the ones you suggest won’t be necessary."
+
+
+
+
+                                                                                                                      3
+

@@ -1,0 +1,2566 @@
+Australian Government
+Department of Health
+and Aged Care
+
+
+
+
+      DEPARTMENT OF HEALTH AND AGED CARE
+   Submission to the Commonwealth Government’s
+                  COVID-19 Response Inquiry
+Contents
+1.     Introduction................................................................................................................................................... 3
+     1.1.          Submission scope........................................................................................................................... 4
+2.     The Department's health response during COVID-19.................................................................................. 4
+     2.1.          The Department.............................................................................................................................. 4
+     2.2.          Portfolio Agencies and Statutory OfficeHolders............................................................................... 5
+     2.3.          Other relevant agencies.................................................................................................................. 5
+     2.4.          Expert bodies/advisory groups andcommittees...............................................................................6
+     2.5.          Commonwealth/State relationship.................................................................................................. 7
+     2.6.          Key response outcomes.................................................................................................................10
+3.     Key health response measures................................................................................................................. 11
+     3.1.          National Medical Stockpile............................................................................................................ 11
+     3.2.          COVID-19 testing and pathology.................................................................................................. 13
+     3.3.          COVID-19 contact tracing............................................................................................................. 16
+     3.4.          COVID-19 vaccination................................................................................................................... 17
+     3.5.          COVID-19 treatments.................................................................................................................... 20
+     3.6.          Quarantine/repatriation arrangements.......................................................................................... 22
+     3.7.          Communication............................................................................................................................. 23
+4.     Broader health measures........................................................................................................................... 27
+     4.1.          Health care supports..................................................................................................................... 28
+     4.2.          Aged Care Support........................................................................................................................ 33
+     4.3.          Mental health and suicide prevention supports............................................................................. 35
+     4.4.          Impacts to screening programs and services............................................................................... 36
+5.     International Policies................................................................................................................................... 40
+     5.1.          Restrictions on travel to and from Australia.................................................................................. 40
+     5.2.          Travel requirements - masks, screening pre-departure testing, vaccination and declarations.. 43
+     5.3.          International partner engagement on vaccines and treatments.................................................... 44
+     5.4.          COVID-19 Deployments................................................................................................................ 45
+     5.5.          International engagement............................................................................................................. 45
+6.     Preparation and readiness for future responses........................................................................................ 46
+     6.1.          Evidence based decision making.................................................................................................. 47
+     6.2.          Key data assets, systems and capability...................................................................................... 47
+     6.3.          Workforce...................................................................................................................................... 48
+     6.4.          Aged care future state preparedness and response..................................................................... 48
+     6.5.          Supporting people from First Nations communities...................................................................... 49
+     6.6.          People with Disability.................................................................................................................... 49
+     6.7.          Supporting people from Culturally and Linguistically Diverse communities.................................. 50
+     6.8.          Communication with diverse groups............................................................................................. 51
+7.     Glossary...................................................................................................................................................... 52
+
+
+
+                                                                                                                                                                      2
+  1.    Introduction
+Australia’s response to the COVID-19 pandemic is internationally and domestically considered to be
+strong, largely well-coordinated and having saved lives.
+The Australian Government’s (the Government) immediate response to stopping transmission of the
+virus was focused on active and early suppression. The strategy featured restrictions on
+international travel, domestic test and trace and quarantine interventions. Decisions were made
+quickly, and COVID-19 response measures were implemented rapidly to manage what was a fast
+moving and uncertain health crisis.
+The initial response was multi-faceted. It focused on ensuring access to essential health services for
+its citizens both in Australia and the eventual repatriation for citizens who were overseas. The initial
+response also involved the planning and establishment of infrastructure to manage the increased
+pressure the health system was likely to face. The response was continually updated to remain fit
+for purpose based on emerging global evidence.
+The response shifted when the pandemic evolved and vaccines became available, ensuring
+widespread vaccination whilst monitoring health system capacity to manage outbreaks and
+protecting those most at risk.
+Australia’s health response was supported by an integrated suite of social, economic and education
+programs such as Jobkeeper, JobSeeker, Pandemic Leave Disaster payments and supports to
+facilitate remote learning. These programs contributed significantly to the health response’s
+success.
+In addition to the Government response to COVID-19, Commonwealth-State relations became
+crucial, with the National Cabinet playing a key role in coordination efforts. The pandemic required
+unprecedented collaboration between jurisdictions and the Commonwealth to ensure health
+services across the country were able to be mobilised during the pandemic.
+A key priority for the Government and the Department of Health and Aged Care (the Department) is
+to ensure that Australia can respond to any future pandemics. There have been many learnings
+throughout COVID-19 that have led to new policies and programs of work that increase Australia’s
+preparedness for any future pandemics. Many of these are already underway in the Department
+and across Government.
+The Government has established the interim Australian Centre for Disease Control (CDC) to
+continue to prepare for public health emergencies through:
+   •       multi-jurisdictional training exercises,
+   •       improving the national public health surveillance system, and
+   •       building capability in One Health and health security.
+The Australian CDC will further leverage the lessons from COVID-19 and be fundamental to
+Australia’s capacity to deal with future pandemics. It will boost national communication, co­
+ordination, and collaboration across jurisdictions, as well as build emergency response capacity,
+strengthen prevention, detection and monitoring of communicable disease.
+The nexus between public health, social and economic system capabilities will be key for the
+Australian CDC. Future pandemic response mechanisms must again be seen as broader than a
+health response. Further consideration is needed on what capabilities are developed, including
+onshore and sovereign manufacturing, and emergency response provision of key health and aged
+care supports.
+Nevertheless, to ensure we are well positioned for any future pandemic it has been important to
+examine both what went well and look for opportunities for improvement.
+
+
+
+
+                                                                                                       3
+         1        .1.     Submission scope
+This submission addresses Terms of Reference relevant to the Department. It provides a holistic
+view of Australia’s health response through the input of the Department portfolio agencies, advisory
+groups, and committees.The Department’s health response during COVID-19.
+
+
+    2.    The Department’s health response during COVID-19
+
+    Relevant Term(s) of Reference: Governance including the role of the Commonwealth
+    Government, responsibilities of state and territory governments, national governance
+    mechanisms (such as National Cabinet, the National Coordination Mechanism and the
+    Australian Health Protection Principal Committee) and advisory bodies supporting
+    responses to COVID-19.
+
+This section will include:
+•     2.1 - The Department’s COVID-19 response
+•     2.2 - Portfolio agencies
+•     2.3 - Other relevant agencies
+•     2.4 - Expert bodies/advisory groups and committees
+•     2.5 - Commonwealth/State relationship
+•     2.6 - Key response outcomes
+         2.1.           The Department
+Australia has a well-established and strong health protection framework. COVID-19 tested every
+aspect of this framework. Professor Brendan Murphy AC, then Chief Medical Officer (CMO),
+declared COVID-19 a ‘Communicable Disease Incident of National Significance’ (COINS) on
+18 February 2020. This was almost a month ahead of the World Health Organization (WHO)
+declaring COVID-19 a pandemic. This COINS declaration lasted 1,340 days, ending on 20 October
+2023, making it the longest health emergency in Australia’s history.
+The size, scale and length of the pandemic was unlike anything the Department had dealt with. The
+Department embraced two roles in response. The first was the primary national coordination point
+and advisory body for the health response. The second involved implementing measures to bolster
+the capacity of the health and aged care sectors to respond to the pandemic. The Department
+worked with Government to rapidly secure additional funding for the health and aged care response,
+ensuring measures were proportionate and scalable. This saw the Department take on new and
+expanded responsibilities including sourcing and distributing personal protective equipment (PPE),
+COVID-19 tests and treatments, and managing the National COVID-19 Vaccine Program.
+The National Incident Centre (NIC) (formerly the National Incident Room) in the Office of Health
+Protection and Response (OHPR) led the Department’s early response in the pandemic. The NIC
+was staffed by expert medical advisers, epidemiologists, pandemic policy, communications, public
+health and logistics specialists. OHPR acted as the National Focal Point (NFP) for Australia, fulfilling
+our obligations under the WHO International Health Regulations (IHRs) as the conduit between all
+levels of government and our international partners.
+The Department then repositioned as the response expanded, mobilising staff from across the
+organisation to areas of priority and pausing all non-critical work. In the early stages of the
+pandemic in 2020 movements and secondments from across Australian Public Service (APS)
+supplemented the Department’s workforce. Recruitment in the Department accelerated by mid-
+2020. An additional 776 ongoing and non-ongoing employees were recruited in that year. In 2021, a
+further 1,688 employees were employed to primarily support the Aged Care Group and the COVID-
+
+
+                                                                                                      4
+19 Vaccine Taskforce. This represented an 18% and 32% increase in headcount across these two
+years.
+The Outbreak Response and Aged Care COVID-19 Vaccine branches in the Aged Care Service
+Delivery Division are examples of new branches established to manage the threats to vulnerable
+population groups. The Department’s role in supporting residential aged care homes (RACHs)
+required a workforce available 24 hours a day, 7 days a week across Australia. At its peak in March
+2022, the Department had a surge workforce of 1,006 people.
+       2.2.            Portfolio Agencies and Statutory Office Holders
+The Health and Aged Care portfolio has 20 agencies, eight statutory office holders and five
+regulators. These authorities work alongside the Department to collectively deliver the
+Government’s health policies and programs. The roles of the Agencies were varied and
+strengthened Government’s ability to respond quickly and appropriately to the multitude of
+challenges that were faced each day of the pandemic.
+For example, the Aged Care Quality and Safety Commission (ACQSC), the national regulator of
+aged care services, played a central role in protecting the lives of older Australians in RACHs.
+ACQSC did this by providing COVID-19 related resources. This included information for providers,
+monitoring services and compliance with infection control arrangements. In addition, ACQSC
+developed clinical advice on vaccination and the appropriate use of antiviral medications specific for
+aged care settings. ACQSC also provided targeted education and monitoring to support higher risk
+residential services during outbreaks.
+The Australian Digital Health Agency, in partnership with the Department, accelerated the adoption
+of digital products and information services including electronic prescriptions. Australia achieved
+significant growth in consumers and clinicians viewing test results and vaccination information in the
+My Health Record application and website.
+The Australian Institute of Health and Welfare (AIHW) leveraged existing State and Territory
+relationships to:
+   •          monitor, report and provide advice in ‘real time’ on the impact of outbreaks,
+   •          restrictions on health system capacity, and
+   •          mental health service use.
+The National Blood Authority assisted through developing rapid access to blood products to treat
+thrombosis with thrombocytopenia, when this emerged as a rare side effect of COVID-19
+vaccination. This reduced the incidence of death and severe morbidity.
+Other portfolio agencies adjusted their role to add value to the Australian health response. For
+example, the Australian Industrial Chemicals Introduction Scheme worked with the sector to pivot
+their role. This allowed distillers who would normally only produce alcohol products for consumption
+to redirect their efforts into formulating these alcohol products for non-therapeutic hand sanitisers.
+More information on the Health Portfolio response is available in Attachment 1.
+       2.3.            Other relevant agencies
+ It was important for the Department to formally and informally partner with other Government and
+jurisdictional agencies. This ensured the COVID-19 health response aligned with the broader
+COVID-19 response.
+In early 2020 the Department provided advice to numerous agencies and sectors to support them to
+respond to the pandemic. As well as across the APS, this included advice related to airlines,
+supermarkets and other essential retailers, schools and universities, and public transport services.
+The Government and the Victorian Government established the Victoria Aged Care Response
+Centre (VACRC) later in 2020 to support the outbreaks in RACHs in Victoria, The VACRC, in
+collaboration with the Australian Medical Assistance Team (AUSMAT), brought together agencies,
+
+
+                                                                                                     5
+experts and stakeholders in a coordinated effort to create a safe environment for residents. This
+collaborative model was adopted in similar forms in other States and Territories.
+The Department also received significant support from other Government departments. For
+example, formal partnerships were established with the Department of Defence (Defence), to
+execute Operation COVID Shield. The Department worked closely with the Department of Foreign
+Affairs and Trade (DFAT) to assist with COVID-19 vaccine international donations. The Australian
+Defence Force (ADF) supported the aged care response providing on the ground support for the
+VACRC and RACHs in other aged care outbreaks across Australia. The Department worked with
+the National Indigenous Australians Agency and relevant State and Territory agencies to prepare for
+and respond to outbreaks in First Nations communities.
+The Department hosted Department Liaison Officers from the Australian Border Force (ABF), ADF,
+the Department of Agriculture, Forestry and Fisheries (DAFF), DFAT and the Department of the
+Prime Minister and Cabinet (PM&C).
+The Department continues to work with the Department of Social Services (DSS), the National
+Disability Insurance Agency (NDIA) and the Australian Bureau of Statistics (ABS) regarding the
+impact of COVID-19 on people with disability.
+This collaboration was central to the success of the Government’s national COVID-19 vaccine
+rollout in reaching many diverse and vulnerable population groups. In addition. It helped identify
+where uptake in particular geographic areas lagged behind the broader population.
+Critical to these arrangements is clarity of purpose, an understanding of the capabilities required to
+support the response and clear lines of accountability.
+      2.4.           Expert bodies/advisory groups and committees
+On 29 May 2020, the then Prime Minister announced a new Commonwealth/State governance
+architecture with National Cabinet at the centre. The Council of Governments (COAG) and
+associated structures, including COAG Health Council, were replaced with the exception of the
+continuation of the Australian Health Protection Principal Committee (AHPPC).
+
+Australian Health Protection Principal Committee (AHPPC)
+Following the establishment of the new National Cabinet, the AHPPC reported directly to National
+Cabinet for most of the COVID-19 pandemic. It no longer reported through the Australian Health
+Ministers Advisory Committee or Health Ministers. It met over 580 times. The committee played a
+vital role in supporting national cohesion, particularly early in the pandemic. While there were
+occasional differences among jurisdictions, the collaboration was genuine and consistent.
+The reorientation of the AHPPC away from reporting through Health Chief Executives and Health
+Ministers, meant the AHPPC was sometimes the sole adviser on health matters to National Cabinet
+and the primary Commonwealth/State coordination body. This change in scope for the AHPPC
+required the committee to meet up to three times per day. It also resulted in COVID issues
+sometimes being considered in isolation from broader health system issues. There was no formal
+governance arrangement involving Health Ministers in relation to the COVID health response.
+Health CEOs and Health Ministers informally came together to progress priority issues.
+
+Other key committees
+The Department leant on many of the existing expert committees and created new ones to ensure
+policy and program advice for COVID -19 responses were driven by expertise. In total more than 80
+committees were formally or informally used to guide the Department’s COVID-19 response.
+The Australian Technical Advisory Group on Immunisation (ATAGI), established in 1997 to provide
+advice in relation to immunisation policies and procedures, became the publicly trusted source of
+evidence-based advice on COVID-19 vaccinations. Other groups such as the AHPPC Aged Care
+Advisory Group, APPHC National Aboriginal and Torres Strait Islander Health Protection, COVID-19
+
+                                                                                                         6
+Disability Advisory Committee and COVID-19 Culturally and Linguistically Diverse (CALD) Advisory
+Committee were newly established to progress COVID-19 issues and have become enduring
+features of the Department’s consultation and engagement approach.
+A detailed list of many of the committees and advisory groups that supported the COVID-19
+pandemic response is at Attachment 2.
+
+ Key Learnings
+ Clarity of leadership, roles and clear governance structures are critical to support effective
+ emergency responses. This clarity is essential given the pace at which governance and advisory
+ committees work during health emergencies. In establishing the Australian CDC, it will be
+ important to ensure appropriate and clear governance mechanisms are in place to support
+ independent advice, across all emergencies, including health emergencies.
+ Governance mechanisms need to adopt a whole of government focus to ensure a ‘person
+ centred’ approach to pandemic planning and response. This supports an integrated response,
+ while protecting vulnerable cohorts. This will be a central consideration in the establishment of the
+ final Australian CDC.
+
+     2.5.                     Commonwealth/State relationship
+Australia has a world class health care system based on universal access to quality services.
+Responsibility for the health system is shared between the Commonwealth and State and Territory
+Governments as shown in Table 1.
+Table 1:
+
+
+    Australian Health System: Government Roles and Responsibilities "pre-pandemlc
+   The Australian, state and territory, and local governments share responsibility for running our health system.
+
+
+     Comm o nwea lth Res p o n sibi I i ties                                                 State & Territory Responsibilities
+      «    Medicare Benefits Schedule                                                        *   Management and administration of
+     •     Pharmaceutical Benefits Scheme                                                        pubSc hospitals
+                                                       Shared Responsibilities
+     •     Funding of vaccines                                                               *   Delivery of prevenlive heahh
+                                                 •   Funding for public hospitals                services, including some
+      «   Medical research grants                *   Preventive services, including cancer       immunisation
+     •    Private health insurance rebates           screening programs                      *   Community menial health services
+          and regulation                         •   Pallialive care funding                 •   Public dental clinics
+      *    Dental benefits Iw chiidreni          *   Digital h&alih                          *   Ambula nee and emergency
+      *    F unding for Aboriginal and Torfe'S   *   Mental health and suicide prevention        services
+           Slraii Islander primary care
+                                                 •   Responding to national health           *   Patient transport schemes
+     •     Primary Health Networks                   emergencies                             *   Food safety and handling
+      «    Regulation of therapeutic goods       •   Quality and safety                      *   Regulator!, inspection, licensing
+     •     Subsidised hearing, diabetes, and     *   Workforce, including workforce              and monitoring of heahh premises
+           incontinence services                     planning, registration and              •   Leading public health activities
+      *    Aged care                                 accreditation of h&alih professionals
+      •    National coordination and
+           leadership services
+
+
+
+
+Commonwealth responsibilities include setting national policies, contributing funding for public
+hospital services, and funding and regulating the aged care system. It also involves managing the
+Medicare Benefits Scheme (MBS) and the Pharmaceutical Benefits Scheme (PBS) and other
+targeted health funding programs. State and territory governments manage and fund a large
+proportion of the health care system, including managing public hospitals and service delivery,
+including public community-based health care services.
+Under the Australian Constitution, State and Territory Governments have primary responsibility for
+public health, including surveillance and response for human health. States and Territories have
+                                                                                                                                     7
+legislative powers enabling them to implement biosecurity arrangements within their borders that
+complement Commonwealth biosecurity arrangements as well as a broad range of other legislated
+public health and emergency response powers.
+Commonwealth-state relations for the management of public health and emergency responses were
+transformed during COVID-19, with the National Cabinet playing a pivotal role in coordinating the
+response to both the health and economic crisis.
+The pandemic required the Australian and State and Territory Governments to work together more
+closely than ever before to ensure the health system was able to respond to the pandemic. The
+National Partnership on COVID-19 Response (COVID-19 Partnership) was central to this
+collaboration.
+
+The National Partnership on COVID-19 Response
+The COVID-19 Partnership commenced in March 2020 and ceased on 31 December 2022. The
+COVID-19 Partnership provided States and Territories with immediate financial assistance for
+additional costs incurred by state health systems in responding to the COVID-19 pandemic. The
+COVID-19 Partnership was the biggest health response measure, accounting for almost a quarter of
+COVID-19 Commonwealth health spending ($14.26b).
+Under the COVID-19 Partnership, the Commonwealth paid 50% of costs incurred by States and
+Territories to diagnose, treat and manage COVID-19 in public hospital settings. The COVID-19
+Partnership also covered 100 % of costs associated with aged care prevention, preparedness, and
+response activities. This was in recognition that responsibility for aged care is primarily a
+Commonwealth responsibility. Under usual public hospital arrangements, as defined by the National
+Health Reform Agreement (NHRA), the Commonwealth contributes 45% of the efficient growth of
+services.
+These arrangements provided flexible Commonwealth support that allowed States and Territories to
+adopt local responses that changed over time. Key measures funded under this agreement included
+mass vaccination and testing clinics operated by the States and Territories and the private hospital
+viability guarantee program. The below table outlines what the COVID-19 Partnership funded,
+including how the Commonwealth funded new activities or bolstered Commonwealth/State public
+health, hospital and aged care funding.
+
+
+
+
+                                                                                                   8
+                                                                                                                                                             Not traditionally    Increase in
+                                                                                                                                                              Cwlth funded       Cwlth funding
+
+
+                                   Surveillance PCR testing: costs include pathology, test administration and clinic set up and running costs                                         z
+Payment
+Services
+
+
+
+
+                                                                                                                                                                    Z
+Hospital
+
+
+
+
+                                   Services to Medicare ineligible patients where there is no other non-out-of-pocket means of funding the services
+
+                                   All public hospital services to treat COVID-19                                                                                                     z
+                                   Rescheduled elective surgery subject to a 2018-19 baseline                                                                                         z
+                                   Private hospital equipment and workforce redeployment in public hospitals                                                        Z
+                                                                                                                                                                    Z
+     State Public Health Payment
+
+
+
+
+                                   Additional costs for public health activities, including communications, operations, responses to COVID-19 outbreak
+
+                                   Stockpiling of medical supplies: include treatments, PPE, RATs, medical equipment (e.g. ventilators).                            Z
+                                   Minor capital expenditure: supports creation of surge wards and changes to ventilation for negative pressure rooms.              Z
+                                   Upgrades to ICT systems related to COVID-19 activity                                                                             z
+                                   Services Provided in a Primary Care and/or Community Health Setting to manage outbreak of COVID-19, including to rural,
+                                   remote and/or First Nations Patients
+                                                                                                                                                                                      z
+                                   Emergency Public Health Response Staffing for Aged Care Facilities                                                                                 z
+                                   Additional non-clinical costs (e.g. increased hospital cleaning and cleaning of public transport)                                z
+                                   Costs associated with state and territory support for Commonwealth border force and airport screening                                              z
+                                                                                                                                                                    z
+ Schedule Schedule
+
+
+
+
+                                   Vaccine Dose Delivery Payment
+ Aged Care Vaccine
+
+
+
+
+                                   Vaccine Roll-out Support Payment                                                                                                 z
+                                   Support for Infection Protection and Control Training in Aged Care                                                                                 z
+                                   Outbreak Management and Preparedness                                                                                                               z
+Paramedic and Ambulance Service Expenditure (subject to a 2018*19 baseline)                                                                                         z
+Private Hospital Viability Guarantee                                                                                                                                z
+
+The COVID-19 Partnership leveraged existing public hospital funding governance and financial
+arrangements. This included using the Administrator of the National Health Funding Pool, as well as
+National Health Funding Body (NHFB) and the Independent Health and Aged Care Pricing Authority
+(IHACPA), to estimate, reconcile and ensure transparency and accountability for this investment.
+This complemented the other most significant Commonwealth/State health funding arrangement,
+the NHRA, and allowed public hospital funding to increase. The COVID-19 Partnership did not
+impact the NHRA’s long term spending as it was not structurally included into ongoing payments to
+States and Territories.
+The detail of the COVID-19 Partnership was varied through the pandemic emergency response to
+ensure it supported the health response as it evolved. This included the agreement of dedicated
+schedules for vaccine delivery funding and residential aged care support.
+In January 2023, the COVID-19 Partnership was replaced by the National Partnership for Priority
+Groups COVID-19 Testing and Vaccination (PGTV) as the emergency phase of the COVID-19
+pandemic subsided. The Commonwealth contributed 50% of the costs associated with COVID-19
+testing and vaccine dose delivery through the PGTV. These were considered the two most
+significant measures from the previous COVID-19 Partnership. The PGTV focused on priority
+population groups who were most at risk of severe COVID-19 infection or death. The PGTV expired
+on 31 December 2023.
+
+ Key learnings
+ The COVID Partnership was highly successful in providing necessary additional funding to States
+ and Territories for public health activities however it resulted in the Commonwealth funding
+ activities which were not traditionally funded by the Commonwealth. Consideration should be
+ given to how to best provide funding for jurisdictions in a future public health emergency and
+ enabling greater transparency in the public health funding component of the NHRA to ensure
+ public health units across Australia are able to respond to future pandemics.
+ The additional expenditure that States and Territories quickly invested in the pandemic to lift their
+ public health capacity suggests insufficient pre-existing capability and capacity. The new_______
+
+
+                                                                                                                                                                                                 9
+ Australian CDC may need to monitor capacity across all part of the system to ensure appropriate
+ levels of preparedness.
+
+       2.6.                Key response outcomes
+In November 2023, the AIHW published Health system spending on the response to COVID-19 in
+Australia 2019-20 to 2021-22'. This report found Australia ranked seventh lowest out of 36
+Organisation for Economic Co-operation and Development (OECD) countries in terms of additional
+health spending. Despite this, however, it found that Australia had the fifth lowest excess mortality
+during 2020 to 2022.
+
+COVID-19 Mortality
+The Department took many effective steps to safeguard and protect Australian lives but, tragically,
+the effects of COVID-19 were felt.
+In 2020, Australia recorded approximately 35 COVID-19 deaths per million of the population. In
+terms of international comparators, the United States had 1,041 deaths per million and the United
+Kingdom had 1,382 per million.
+Excess mortality is typically defined as the difference between the observed number of deaths and
+the expected number of deaths in a specified period and can be used to quantify changes in
+patterns of expected mortality.
+Australia’s comparatively low COVID-19 associated excess mortality rate reflects the effectiveness
+of public health measures and the resilience of the healthcare system. Continued vigilance,
+vaccination efforts, effective communication strategies and adherence to preventative health
+measures remained crucial as Australia navigated the pandemic. In addition, other factors such as
+influenza cases were also down in 2020, indicating public health and social measures had an
+impact on all circulating respiratory viruses in the community, not just COVID-19.
+During 2020, Australia recorded lower than expected total mortality rates (excluding coroner-
+certified deaths) compared with age-standardised mortality rates for the previous five years. This
+may be the result of Australia’s public health response limiting the general spread of disease during
+this period. This contrasts with other countries where excess mortality was observed in 2020 due to
+the impact of COVID-19.
+In December 2023, the ABS released updated official excess mortality estimates, detailing the
+number of deaths during the COVID-19 pandemic (2020-2023). This report compared to the number
+of deaths expected based on historical trends and adjusted for population changes. This report
+examined mortality due to all causes and found that COVID-19 was the main contributor to the
+recorded excess mortality from 2021 to 2023. Mortality experienced 11.7% higher than expected
+levels in 2022, however for the first eight months of 2023 reduced to 6.1%, meaning a move closer
+to expected levels.
+Some RACHs experienced significant outbreaks of COVID-19 early in the pandemicthat included
+large numbers of resident deaths. International evidence confirmed this was not unique to Australia,
+given the high risk setting of communal living conditions compounded with an already more
+vulnerable population. However, emerging evidence suggests there was not a substantial increase
+in the overall burden of disease for those in RACHs when compared to pre-pandemic fatal burden,
+due to the suppression of non-COVID related illnesses (such as influenza). Although COVID-19
+cases numbers increased substantially in the community and RACHs in the later years of the
+pandemic, COVID-19 survival rates also increased. This was likely due to decreasing disease
+severity with new virus strains, high uptake of COVID-19 vaccines and the increased use of antiviral
+treatments. In addition, the Government’s response to the Royal Commission into Aged Care
+
+
+
+ https://www.aihw.gov.aLi/reports/health-welfare-expenditure/health-svstem-spending-on-the-response-to-covid-19/contents/about
+
+                                                                                                                                 10
+Quality and Safety recognised the aged care sector as having been underfunded for decades and
+has taken strong action to address this.
+To understand vaccine effectiveness against COVID-19 and all-cause mortality, in October 2022 the
+department commissioned research from the National Centre for Immunisation Research and
+Surveillance (NCIRS). The study focused on approximately 3.8 million people aged 65 years and
+over - almost the entire Australian population in that age group, including those in RACHs. It found
+that, in the first half of 2022, COVID-19 vaccination and boosters were effective in protecting against
+death from COVID-192 by up to 93% compared to those who were unvaccinated. While vaccine
+effectiveness wanes over time, the effectiveness of boosters remained above 50% six months after
+receipt.
+
+
+     3. Key health response measures
+This section will cover:
+    Relevant Term(s) of Reference: Key health response measures (for example across
+    COVID-19 vaccinations and treatments, key medical supplies such as personal protective
+•     3.1 - National medical stockpile (inch PPE provision)
+•     3.2 - COVID-19 testing and pathology
+•     3.3 - COVID-19 tracing
+•     3.4 - COVID-19 vaccination
+•     3.5 - COVID-19 treatments
+•     3.6 - Government run COVID-19 quarantine/repatriation arrangements
+•     3.7 - COVID-19 communications campaigns
+Please refer to the relevant section for:
+•     Other Primary Care response measures and supports (Section 4)
+•     International partner engagements on COVID-19 vaccine and treatments (Section 5.3)
+        3.1.                National Medical Stockpile
+Established in 2002, the National Medical Stockpile (NMS) is Australia’s strategic reserve of
+supplies for national health emergencies. It includes PPE, drugs and vaccines. Supplementary
+stocks of these goods are held by State and Territory health authorities. Prior to the pandemic, the
+NMS typically made up to 10 deployments a year, mostly to State and Territory Governments for
+short periods of time (e.g. one-off deployments of antivenom in response to a single event).
+The NMS’s role expanded during the COVID-19 pandemic. Additional supplies of PPE, ventilators,
+primers, probes and reagents for COVID-19 testing, test kit components, and sample collection
+swabs were required. The COVID-19 pandemic has transformed the role of the NMS from short­
+term surge capacity to a large-scale, long-term, multi-product support for a significant proportion of
+the population.
+From the start of the pandemic the NMS made more than 260,000 deployments containing
+700 million units of PPE and other supplies. Deployment went to residential aged care providers,
+Aboriginal Community Controlled Health Organisations (ACCHOs), Government agencies, State
+and Territory Governments, National Disability Insurance Scheme (NDIS) providers, the Royal
+Flying Doctor Service (RFDS) and public hospitals. Further deployments were made via Primary
+
+
+
+2 The NCIRS “Effectiveness of COVID-19 vaccination against COVID-19 specific and all-cause mortality in older Australians: a population
+based study.
+
+                                                                                                                                    11
+Health Networks (PHNs) and the Living with COVID-19 program to GPs, GP-led Respiratory Clinics
+(GPRC) and pharmacies. This supported Australians to receive face-to-face health care including
+for COVID-19 vaccination and treatments.
+The Department had to manage extreme supply chain disruptions and unprecedented global
+demand and competition from other countries throughout 2020 and 2021. The Government and
+Department took measures to ensure preparedness, including:
+•   undertaking ‘worst case’ scenario modelling, particularly for procuring ventilators for hospitals,
+•   conducting substantial market intelligence research into global demand and supply chain
+    volatility to ensure adequate procurement of essential PPE and other equipment (such as
+    ventilators),
+•   ensuring adequate supply and low wastage of PPE as a percentage of total procurement
+    despite the challenges of unreliable supply chains in Australia and overseas, and
+•   effective pre-deployment of standard packs of PPE to RACHs ahead of subsequent waves of
+    COVID-19.
+This allowed the Department to manage stakeholder expectations and streamline the management
+of deployments, while ensuring provision of adequate supplies required by each jurisdiction.
+The Department, through the Therapeutic Goods Administration (TGA) ensured the stockpile met
+appropriate PPE standards, including undertaking laboratory testing to validate safety and
+performance, the Department used the Commonwealth Procurement Rules (CPRs) to facilitate
+commerce with legitimate sellers while safeguarding against potential scammers.
+States and Territories initially continued to purchase their own PPE and other supplies. However,
+the national approach to the NMS soon reduced jurisdictions and Government duplication of effort
+and supported stabilising demand through a deflationary effect on PPE price. It strengthened
+Australia’s ability to secure an adequate supply of PPE and other equipment, while also ensuring
+jurisdictions had access to supply as needed.
+Data and stock management are core requirements in health emergency management, particularly
+when the NMS is drawn upon for extended periods. For the Department, the significant and
+sustained procurement of PPE necessitated an interim solution to support the financial accounting
+for NMS COVID-19 products. By mid-2020 the Department had deployed the Finance Inventory
+Management Solution system which initially supported year-end reporting for FY 2019-20. This was
+progressively enhanced over the following year to become the core inventory management system
+for the NMS. From October 2021, the Department commenced use of a more advanced system,
+Microsoft Dynamics, which enhanced the NMS’ inventory management capability.
+The Department supported DFAT in their international regional health security efforts. This included
+deploying a range of NMS supplies as humanitarian aid to countries in our region affected by
+COVID-19 including Indonesia, India, Papua New Guinea, Fiji, Vietnam, Tonga and the Republic of
+the Marshall Islands.
+Following the release of the National COVID-19 Health Management Plan in late 2022, the NMS
+continued to provide a safety net for essential equipment and treatments. The NMS is an enduring
+capability that will continue to play a strategic role in responding to future health emergencies.
+
+
+
+
+                                                                                                         12
+ Key Learnings
+ The challenges of the COVID-19 pandemic have helped the Department identify areas of
+ improvement in the management of the NMS. These learnings have been supported by internal
+ and external reviews, including by the Australian National Audit Office (ANAO).
+ Australia must have access to adequate and reliable supply channels for PPE and other critical
+ equipment in a pandemic or other health emergency. This may include considering Australia’s
+ sovereign capabilities to produce those goods.
+ NMS procurements were largely successful during the pandemic. However, a stronger
+ preparedness and established emergency procurement process will further support the
+ Government’s ability to respond quickly with PPE and other NMS supply3. There has been
+ significant progress on this within the Department. The Department has secured sovereign supply
+ and the preparation of procurement arrangements for the supply of PPE and associated medical
+ supplies.
+ Preparedness is not limited only to COVID-19 and other respiratory diseases. The Department is
+ also considering how to ensure the NMS is prepared for other emergencies.
+ A successful NMS requires clear understanding of roles and responsibilities, particularly when
+ considering large scale coordination, procurement and deployment activities. Eliminating
+ duplication of effort and having pre-agreed stockpiling governance in place with all jurisdictions
+ will support effective outcomes in a future health emergency. In addition, transparency and
+ availability of inventory between the Commonwealth and jurisdictions is critical to mitigate risk and
+ ensure available product is supplied where most needed.
+ The Department has commenced work with all jurisdictions to strengthen the NMS as an enduring
+ capability, able to respond to any future pandemics and other health emergencies.
+
+       3.2.                COVID-19 testing and pathology
+Australia has an extensive network of public and private laboratories. Through this network, the
+pathology sector was able to progressively upscale testing capacity as caseloads increased.
+Testing was fundamental to Australia’s COVID-19 suppression strategy and integral to the Test,
+Trace, Isolate and Quarantine (TTIQ) principles to contain the spread of COVID-19.
+Testing enabled case surveillance and genomic sequencing, assisting health authorities to better
+understand COVID-19 and any variants of concern. The National Pathology Accreditation Program
+supported the nationwide delivery of high-quality testing.
+The aim of the Government was to provide all people in Australia with free access to adequate and
+appropriate COVID-19 testing, irrespective of Medicare status.
+The Department’s testing response was strengthened by financial support for public and private
+sector testing capacity, increased investment in testing technology and supplies, and the creation of
+new temporary MBS items for pathology testing. Shared funding with State and Territory
+Governments for COVID-19 testing4 was also provided under the COVID-19 Partnership.
+Australia’s technical advice on COVID-19 testing5 was provided by members of the Public Health
+Laboratory Network (PHLN), a sub-committee of AHPPC. This expert network published 11
+
+
+
+
+3 https://www.anao.qov.au/work/performance-audit/planninq-and-qovernance-covid-19-procurements-to-increase-the-national-medical-
+stockpile
+4 https://federalfinancialrelations.qov.au/sites/federalfinancialrelations.qov.au/files/2021-04/covid-
+19 response vaccine amendment schedule.pdf
+5 https://www.health.qov.aU/committees-and-qroups/phln#publications
+
+                                                                                                                               13
+guidance statements over the course of the pandemic. This ensured that as new evidence became
+available, best practice testing methodologies and techniques were communicated.
+
+Polymerase chain reaction (PCR) and Rapid Antigen Tests (RATs)
+PCR testing played a critical role in identifying COVID-19 cases particularly prior to RATs becoming
+readily available to the public. In partnership with State and Territory Governments, mass PCR
+testing clinics were established. PCR testing was essential when access to more sensitive testing
+was required. Australians were, and still are where applicable, able to access bulk-billed COVID-19
+tests under the temporary MBS items developed for COVID-19 pathology.
+ In January 2022, RATs were embedded as a diagnostic test in Australia’s testing regime following a
+joint statement by the PHLN and the Communicable Diseases Network Australia (CDNA), and
+support by the AHPPC. The TGA assessed over 100 RAT kits to ensure safe and effective kits
+were available to Australians.
+The Government, in partnership with States and Territories, provided free testing clinics with access
+to PCR testing and free RATs for those who needed them under public health orders.
+Up to 31 December 2023 the Government has funded:
+•    77.9 million COVID-19 PCR tests:
+          o    39.6 million MBS funded COVID-19 PCR tests, and
+          o    Around 43 million COVID-19 PCR tests under the COVID-19 Partnership
+•    Around 169 million COVID-19 RATs distributed to eligible sectors from the NMS.
+
+COVID-19 testing for those most at risk of severe disease
+The Government maintained a commitment to ensuring those most at risk of severe disease or
+illness had access to COVID-19 testing. The Department developed targeted PCR testing programs
+for vulnerable groups, including:
+•    Prioritised PCR testing for RACHs,
+•    Point of care testing for remote First Nations communities, and
+•    In-reach testing services to support those unable to attend a testing facility, as well as in RACHs
+     or supported independent living disability settings (SIL) where outbreaks were a higher risk.
+Further, RATs were directly provided to RACHs, ACCHOs, GPRCs, SIL disability care and RFDS to
+enable additional and easy access to screening in those settings.
+The COVID-19 Remote Point of Care Testing
+The National Aboriginal Community Controlled Health Organisation (NACCHO) and the Department
+identified early the need early to take action to reduce transmission and the possible outbreak of
+COVID-19 in First Nations communities. The COVID-19 Remote Point of Care Testing (POCT)
+program and use of RATs managed the detection of COVID-19 in First Nations communities. The
+POCT program was and remains highly successful. An independent review of the POCT program
+estimated that the Program prevented up to 122,000 infections and avoided between $337 million
+and $1.8 billion in healthcare costs6.
+
+
+Pathology in-reach testing in residential aged care
+
+
+
+
+6 https://www.health.gov.au/sites/default/files/2023-05/evaluation-of-covid-19-point-of-care-testing-in-remote-and-first-nations-
+communities O.pdf
+
+                                                                                                                                    14
+The Government engaged Sonic Healthcare from April 2020 to April 2023 to provide PCR testing
+services in RACHs that have active COVID-19 outbreaks. Over the life of the contract, over
+2.8 million COVID-19 PCR pathology laboratory tests were provided at over 3,200 RACHs.
+Once the program ended, the Department provided targeted communication to support aged care
+residents access COVID-19 testing via Medicare.
+Under the 2023 National COVID Health Management Plan, emergency in-reach COVID-19 PCR
+pathology testing services for RACHs was still available on request from 1 May 2023 to
+31 December 2023.
+
+The COVID-19 Rapid Test Concessional Access (CRTCA) Program
+From 24 January to 31 July 2022, the CRTCA Program provided eligible concession card holders
+access to up to 20 COVID-19 rapid antigen tests at no cost. The program was established within
+weeks of the revised PHLN/CDNA position recommending rapid antigen diagnostic testing be
+incorporated into Australia’s testing regime. The Program was delivered by over 5,600 community
+pharmacies and provided almost 70 million RATs. The funding was cost shared (50-50) with the
+Commonwealth and State and Territory Governments.
+
+Current COVID-19 testing strategy
+In 2022, Australia expanded testing for COVID-19 to include other respiratory illnesses (influenza
+and respiratory syncytial virus). This testing model increases efficiency by allowing prompt
+identification and treatment for respiratory illnesses with similar symptoms to COVID-19. The
+temporary COVID-19 MBS items were restructured to allow for this.
+Since late 2022, COVID-19 tests are no longer primarily a surveillance tool, but a diagnostic
+strategy to support access to antiviral treatments.
+
+Genomic sequencing strategy
+The Department relied on enhanced expertise to guide Australia’s national approach to COVID-19
+genome sequencing to support the COVID-19 response. Over the course of the pandemic the
+sequencing analysis was used to inform decision-making.
+
+ Key Learnings
+ The need for testing as a function of pandemic disease control, at the scale and capacity required
+ during COVID-19, was unforeseen and unprecedented in Australia.
+ Testing capacity
+ The PHLN COVID-19 After Action Review’ noted the pressures on laboratory systems to maintain
+ high daily testing rates. These challenges were exacerbated by overseas supply chain
+ interruptions and limited capacity to produce critical reagents in Australia on a large scale. The
+ report identified poor connectivity between different laboratory information systems that inhibited
+ rapid information sharing. Limited access to an expanded trained workforce and inadequate
+ surge support were other core challenges.
+ The new Australian CDC needs to play a role to ensure these issues are considered when
+ planning for future emergency responses.
+
+
+
+
+                                                                                                     15
+    Nationally consistent application of protocols and prioritisation
+    There was significant variability of testing requirements between jurisdictions, including as a
+    prerequisite to move between states. A nationally consistent protocol may reduce pressure on
+    PCR testing resources and infrastructure, enabling the rapid assessment of high-priority and/or
+    high-risk patients to be prioritised, especially during peak testing periods.
+    Increasing availability and test result turnaround of PCR testing in rural and regional areas needs
+    early consideration at a national level to ensure equity for rural and regional communities.
+    Compliance considerations
+    Nationally agreed testing protocols and parameters would support compliance with funding
+    arrangements for COVID-19 tests. COVID-19 testing had two components:
+    •    Diagnostic testing of symptomatic people following clinical review under the MBS, and
+    •    mass population screening at state-run sites funded under the COVID-19 Partnership.
+    State and Territory governments received advice from the Department that PCR tests conducted
+    for screening should be billed through the COVID-19 Partnership and not the MBS. This is due to
+    provisions in the Health Insurance Act 1973 which are aimed at ensuring MBS diagnostic services
+    are referred by an appropriate clinician, and to reduce duplication in public funding for health
+    services.
+    Guidelines for testing set at a state level and local billing practices often conflicted with this
+    advice. Some tests may not have met legislative requirements for a clinician to have reviewed a
+    patient before requesting a test.
+    Future responses to national heath emergencies would benefit from earlier strategic work
+    between the Commonwealth and jurisdictions to identify, mitigate and monitor areas of potential
+    non-compliance.
+
+          3.3.           COVID-19 contact tracing
+Contact tracing, or ‘Trace’, was essential to Australia’s COVID-19 suppression and contain the
+spread strategies, playing an integral role connecting all the TTIQ principles. The value for contact
+tracing pivoted, depending on low or high caseload environments across the pandemic. In the
+suppression phase, effective contact tracing allowed for appropriate and precise quarantine and
+isolation policy. During a high caseload environment, the identification of priority populations and
+those most at risk of infection and/or severe disease, saw contact tracing shift to automated
+processes. This included a focus on high-risk settings such as aged care and First Nation
+communities.
+A team of epidemiologists coordinated and funded by the Department and seconded to State and
+Territory health departments, support the data strategy, quality, transmission, and analysis of
+COVID-19 contact tracing and surveillance. This network of staff provided a link between
+jurisdictional and national epidemiological and policy review.
+COVIDSafe app
+The COVIDSafe app was launched in April 2020 to assist State and Territory health officials with
+manual contact tracing. From commencement to decommission on 16 August 2022:
+•       around 7.9 million users registered on the app, and
+•       792 users who had tested positive consented to upload their app data, resulting
+        in 1.7 million handshakes and 2,829 potential close contacts.
+
+
+
+
+                                                                                                         16
+The intent of the app was to reduce manual contact tracing; however, it faced many challenges. A
+2022 effectiveness evaluation7 of the app found that while it was well developed for consumer
+usability, it was perceived as burdensome for public health staff who undertook contract tracing. The
+app generated a large volume of data creating additional workloads. Public criticism of the app
+included fears of government tracking personal information. Despite taking privacy considerations
+seriously, management of this public perception could have been stronger to alleviate these
+concerns.
+Use of the app also declined over time as jurisdictions developed their own apps, including with
+integrated QR code systems.
+
+    Key Learnings
+    There was variability of contract tracing among States and Territories which impacted the overall
+    national COVID-19 approach.
+    COVIDSafe App
+    Future development and implementation of a similar COVIDSafe App would require a feasibility
+    review and evaluation. While a national system in theory should be effective, data access,
+    technical challenges, and cross jurisdictional overlap would need to be considered and assessed.
+
+        3.4.                COVID-19 vaccination
+The National COVID-19 Vaccination Program (the Program) was fundamental to Australia’s COVID-
+19 response. The Program was the first population level national vaccination rollout in Australian
+history, with the Government investing over $18 billion in vaccine and COVID-19 treatment supply.
+The first COVID-19 vaccine was administered on 21 February 2021 and by 31 December 2021,
+91.4% of people aged over 16 years in Australia were fully vaccinated. Approximately 78% of the
+population were vaccinated in 264 days. Australia achieve one of the highest COVID-19 vaccination
+rates in the world.
+As of 17 January 2024, almost 70 million COVID-19 vaccinations have been administered.
+The National COVID Vaccination Program
+The Program was guided by Australia’s COVID-19 Vaccine and Treatment Strategy8 (the Strategy).
+The Strategy was released in August 2020, and supported early access to, and delivery of, safe and
+effective COVID-19 vaccines. It highlighted five areas of focus: research and development;
+purchase and manufacturing; international partnerships; regulation and safety; immunisation
+administration and monitoring.
+This approach included centralising the purchasing, logistics and operations, as well as changes to
+the administration of the vaccines. The need to take a different approach was driven by the need to
+vaccinate the population quickly.
+The Program received considerable Ministerial oversight. The then Prime Minister announced
+Australia would achieve 4 million vaccinations by 31 March 2021. After several challenges, this
+target was not met (600,000 were achieved). Some of the challenges included:
+•     the schedule of vaccine deliveries could not be brought forward,
+•     vaccine distribution challenges such as cold chain breaches (CCBs),
+
+
+
+
+7 Effectiveness evaluation of digital contact tracing for COVID-19 in New South Wales, Australia - ScienceDirect
+8 Australians COVID-19 Vaccine and Treatment Strategy (health.qov.au)
+
+
+                                                                                                                   17
+•   the recalibration of the program following ATAGI recommendation regarding the AstraZeneca
+    vaccine,
+•   more complex vaccine administration protocols for the Pfizer BioNTech vaccine that had the
+    potential to increased vaccine administration errors,
+•   complexities in providing vaccinations for priority populations,
+•   insufficient cultural communication support for mobile, in reach vaccination clinics, and
+•   difficulties gaining access to the data required to report on program performance.
+Operation COVID Shield
+In June 2021, Lieutenant General John Frewen was appointed to lead Operation COVID Shield
+(OCS) to accelerate the vaccination rollout. OCS was a collaboration with ADF and existing
+Departmental staff. The military led planning and assessment teams worked with the existing
+taskforce to develop a Campaign Plan to meet the targets set out in the Government’s National Plan
+to transition Australia’s National COVID-19 Response.9 This Campaign Plan was underpinned by
+modelling undertaken by the Doherty Institute.
+The rate of residential aged care workers receiving their first COVID-19 vaccine increased from
+50% to 99.4% over a six-week period in 2021. Over the remainder of 2021, vaccine uptake
+increased significantly, particularly for at-risk groups. By 31 December 2021 over 91.4% of eligible
+people over 16 years in Australia had completed a primary course10, an increase of nearly 65%
+since mid-August 202111.
+In addition to the work of OCS, there are several potential reasons for the improved uptake
+including the improved vaccine supplies.
+
+Adverse events
+Australia’s first case of thrombosis with thrombocytopenia (TTS) was reported in April 2021
+following an individual receiving the AstraZeneca vaccine. As a result, on 8 April 2021, the
+Government accepted ATAGI advice that the Pfizer vaccine be used in those under 50 years of age
+given the increased risk of TTS in younger people. The vaccine program was recalibrated to bring
+forward additional cohorts to make use of the available AstraZeneca vaccine.
+Recalibration compounded program delays as most of the vaccine available in Australia at that time
+was AstraZeneca while most of the Australian population now required the Pfizer vaccine. Fears of
+adverse events from the AstraZeneca vaccine also increased vaccine hesitancy in the community.
+
+Logistics
+The vaccine rollout logistical operation required the capacity to act rapidly and flexibly to address
+new waves and virus variants as they emerged. The Department had not required logistical
+capability of this nature prior to the pandemic and built this capability over time.
+Preparedness for future pandemics will need to consider how the Government builds and maintains
+the capability to deliver end-to-end logistics and operations of this nature in an emergency. This
+may include drawing on the expertise across the Commonwealth and the private sector.
+
+Vaccine wastage
+Global demand outweighed supply of vaccines in the early stages of the Program, and vaccine
+wastage needed to be minimised. Challenges were faced due to vaccines arriving in multi-dose
+
+
+
+
+9 https://pmtranscripts.pmc.qov.au/sites/default/files/2022-06/national-plan-060821 O.pdf
+10 https://www.health.qov.au/sites/default/files/documents/2021/12/covid-19-vaccine-rollout-update-31-december-2021.pdf
+11 https://www.health.qov.au/sites/default/files/documents/2021/08/covid-19-vaccine-rollout-update-16-auqust-2021.pdf
+
+                                                                                                                          18
+vials which could not be stored once opened. Wastage rates were very low, at 0.72% in June 2021;
+and 5.12% in December 2021.
+Since mid-2022 demand for vaccination has fallen, resulting in Australia having an oversupply of
+vaccines. The priority has shifted from minimising wastage to ensuring vaccines are readily
+available. In January 2024 Australia’s wastage rate was 35.41%, remaining within the WHO
+acceptable levels (15% to 40%) for multi dose vials.
+The Department developed and implemented the COVID-19 Vaccine Administrative System
+(CVAS) to reduce waste and manage stocks. The program included agile procedures to reallocate
+excess stock to minimise wastage, working closely with manufacturers to align supply of vaccines,
+and facilitate international donations.
+
+Onshore mRNA manufacturing capability
+In March 2022, the Government signed a strategic partnership with Moderna, strengthening
+Australia’s capability to respond in the event of a future pandemic. This partnership establishes a
+domestic mRNA vaccine manufacturing capacity and capability. Under the agreement, the
+Government may purchase locally manufactured mRNA vaccines. Moderna will also have the
+capacity to supply the Government with non-pandemic vaccines through a supply agreement.
+Construction of the facility is underway, with mRNA respiratory vaccines expected to be available
+from the Melbourne facility in approximately August 2025.
+More information on COVID-19 vaccines is at Attachment 3.
+
+ Key Learnings
+
+ Program design
+ Vaccination programs need to be capable of enabling vaccine delivery to scale up and down
+ based on the phase of a pandemic and demand for the vaccine. For example, the Program took a
+ whole of population level approach at the start of the pandemic and has now moved to a more
+ targeted model. This is achieved by ensuring flexibility in approach across supply, distribution,
+ and access models.
+ It is also critical that vaccine programs have access to relevant data and intelligence. The
+ supporting data and reporting system that was at the core of the Program’s end-to-end
+ distribution model allowed vaccines to be directed to where they were needed.
+ A portfolio approach to vaccine purchasing, across brands, technology and establishing a
+ sovereign supply may also safeguard against the uncertainty of pandemic conditions. In an
+ emergency phase of a pandemic consistent vaccine supply is critical to protect against severe
+ disease or illness.
+ Engaging a wide range of health professionals across the private and public sector supported
+ Australia’s whole of population vaccination goal. Health professionals need to be supported by
+ adeguate training and advice to enable safe vaccine administration.
+
+ Supporting priority populations
+ As the pandemic progressed not all measures were egually effective across all population
+ groups. For example:
+     -   Some culturally and linguistically diverse communities were receiving different guidance
+         from family and friends in their country of origin, and
+     -   the needs of people with intellectual disability in terms of vaccination were guite different
+         from those with other disabilities.
+ The Department engaged the ABS to link Australian Immunisation Register data with the Person­
+ Level Integrated Data Asset to generate insights on vulnerable cohorts. These insights were_____
+
+                                                                                                         19
+ presented to advisory committees (including people with lived experience) and allowed the
+ COVID-19 Vaccine Program to be tailored appropriately to reach all segments of the population.
+ Consultation with at risk populations and diversity groups in the early stages of any health
+ response is essential to ensure measures are accessible and appropriate to meet their needs.
+ Engaging early with people with lived experience to design health responses will ensure
+ responses are appropriately informed. Consideration of a culturally appropriate response, health
+ liaison roles and community-based programs will enable better reach to at risk people.
+
+      3.5.           COVID-19 treatments
+As noted in Section 3.4, early work occurred to understand potential COVID-19 treatments for
+Australian purchase. Australia procured and implemented treatment options that worked alongside
+the vaccination rollout to help prevent serious disease, hospitalisation and fatality.
+Like the vaccine landscape, supply pressures and a competitive global market drove early
+procurement of treatment options and remaining informed about of clinical trials and research
+around the world. In some cases, supply arrangements were entered into while the treatments were
+in the end stages of clinical trials. It was unknown which treatments would be found safe and
+effective in clinical trial or if they would receive regulatory approval in Australia. How the COVID-19
+virus would develop was also unknown. Australia’s adaptability and prompt actions secured access
+to treatments as soon as they were commercially available and approved.
+The Department secured a diverse portfolio of COVID-19 therapeutics to treat different stages of the
+disease. Advanced purchase agreements (APAs) were established with six pharmaceutical
+companies. The APAs supplied hospitals with intravenous treatments such as remdesivir (Veklury®)
+for the treatment of moderate to severe COVID-19. The APAs also supplied oral antivirals
+nirmatrelvir and ritonavir (Paxlovid®) and molnupiravir (Lagevrio®), for the treatment of patients in
+the community at high risk of severe COVID-19 disease with mild to moderate symptoms.
+
+Access to Treatments
+Since February 2022, over 745,000 COVID-19 antiviral treatments have been deployed from the
+NMS to State and Territory health departments and other government departments, ACCHOs,
+RACHs and the RFDS. Stocks of Lagevrio® were pre-deployed to all RACHs.
+The NMS will continue to hold and distribute COVID-19 treatments until 30 April 2024. Oral antiviral
+treatments will then be provided through the PBS. State and Territory Governments will manage In­
+hospital treatments.
+The eligibility criteria for PBS subsidised antivirals focus on those most vulnerable to developing
+severe COVID-19 including older Australians (particularly those in RACHs), First Nations people
+and those who are immunocompromised. This ensures treatments are accessible and affordable
+and are provided to people at risk of severe illness, hospitalisation or death due to COVID-19.
+From 1 November 2022, medical practitioners and nurse practitioners were approved to
+add Lagevrio and Paxlovid to their Prescriber Bag supplies. This allowed swift commencement of
+treatment for aged care residents pre-assessed and deemed suitable for the administration of
+COVID-19 oral antiviral treatments.
+
+Pharmaceutical Benefits Scheme (PBS)
+Two oral antiviral treatments, Lagevrio® and Paxlovid® were listed on the PBS on 1 March 2022
+and 1 May 2022. As at 31 December 2023, over 1,244,090 PBS prescriptions for COVID-19 oral
+treatments have been dispensed, with over 819,090 prescriptions of Lagevrio® and 425,000
+prescriptions of Paxlovid. The total cost of these prescriptions to the Government is more than
+$1.4 billion. As at 5 January 2024, 86,909 prescriptions for Lagevrio (Molnupiravir) have been
+issued to residents in RACHs, with a further 8,048 prescriptions issued for Paxlovid (nirmatrelvir +
+ritonavir).
+
+                                                                                                       20
+Consistent with its PBS-related functions under the National Health Act 1953, the Pharmaceutical
+Benefits Advisory Committee (PBAC) continues to assess the effectiveness and safety of these
+medicines and the epidemiology of COVID-19. Several updates have occurred to the eligibility
+criteria for accessing COVID-19 antivirals in response to emerging evidence.
+Refer to Attachment 3 for further information.
+
+Provision of sound and evidence-based advice for clinicians on treatment options for
+COVID-19
+The National COVID-19 Clinical Evidence Taskforce (CET) was established in April 2020 to improve
+clinician confidence and adherence to best practice when managing COVID-19 cases. The CET
+was an independent group funded by the Department.
+The CET developed ‘living’ guidelines and recommendations for disease modifying treatments for
+the management of patients with suspected or confirmed COVID-19. Hospitals, the community and
+State and Territory health departments used these guidelines extensively in the development and
+prioritisation of COVID-19 care pathways.
+Funding for the CET was ceased by the Department on 31 December 2022, as part of the transition
+to managing COVID-19 within usual funding mechanisms,
+
+Compliance oversight to ensure consumer safety
+Part of the TGA’s role, is to investigate alleged importation, advertising, and supply contraventions
+of the Therapeutic Goods Act 1989 and relevant regulations. This includes prohibiting the
+advertising, import and supply of unapproved therapeutic goods and ensuring there is no
+unapproved advertising of therapeutic goods.
+The TGA exercised its full range of regulatory powers to protect the safety of Australians from false
+or misleading advertising practices of COVID products. This included:
+     •         Issuing 166 infringement notices,
+     •         issuing 153 direction notices (requiring certain steps be taken in relation to advertising)
+     •         entering into two enforceable undertakings, and
+     •         initiating other civil or criminal court proceedings12.
+Examples of specific cases undertaken by the TGA during COVID-19 can be found in Attachment
+4. The full library of cases is also available on the TGA website13.
+
+Ensuring only safe and effective COVID-19 treatments were available in Australia
+The TGA put a range of restrictions in place to ensure only safe and effective COVID-19 treatments
+were access by Australians. This included preventing the availability of COVID-19 treatments where
+there was limited or no evidence to support their efficacy.
+For example, the CET and the Advisory Committee for Medicines Scheduling provided advice that
+resulted in restrictions on the prescribing of oral ivermectin from 11 September 2021. The TGA
+medicines scheduling delegate lifted this restriction on 1 June 2023, noting the TGA still does not
+endorse off-label prescribing of ivermectin for the treatment or prevention of COVID-19.
+
+
+
+
+12 Infringement notices are an alternative to court action. Payment of such notices is voluntary and not an admission of guilt, however it
+can be an effective way of addressing non-compliance. The new regulatory framework has parallel criminal offence or and civil penalty
+provisions (for the same types of behaviour), and in general either approach may be taken by TGA investigators seeking to take
+regulatory action. Criminal offences have a higher burden of proof and tend to attract smaller pecuniary penalties but may have serious
+impacts on the ability to do business and may attract jail time. Civil contraventions tend to attract higher penalties and are particularly
+useful in relation to corporations.
+
+13 https://www.tga.gov.au/
+
+                                                                                                                                          21
+ Key Learnings
+ Early access to treatments for people in high-risk settings and at-risk populations remains a key
+ priority. Continuing to encourage high-risk patients to discuss treatment options with their GP
+ before testing positive to COVID-19 is important as new, more effective treatments become
+ available.
+ Pe-deployment of COVID-19 oral antiviral treatments such as Lagevrio to RACHs ensured older
+ Australians in residential aged care received prompt and effective treatment.
+ Creation of a rapid Health Technology Assessment (rHTA) pathway enabled the prompt
+ assessment of the effectiveness, safety, and cost-effectiveness of COVID-19 therapeutics. The
+ TGA’s full assessment of these therapeutics ensured safety was not compromised.
+ The rHTA pathway streamlined consideration by the PBAC of COVID-19 treatments for potential
+ PBS listing. Without the rHTA oral antivirals would have taken much longer to be listed on the
+ PBS.
+
+         3.6.               Quarantine/repatriation arrangements
+While the majority of returning Australians quarantined in hotel quarantine run by States and
+Territories, the Department supported the Government’s quarantine efforts.
+
+Repatriation Program
+The Department’s role in repatriation and quarantine arrangements provided essential support for
+vulnerable Australians stranded overseas. The Centre for National Resilience (the Centre) at
+Howard Springs in the Northern Territory (NT) provided a safe and effective environment to
+quarantine on entry to Australia. The facility supported Australia’s suppression strategy and enabled
+the Government to maintain tight quarantine at the border to protect Australians while vaccines and
+treatments were being developed.
+Established in October 2020, the Repatriation Program supported more than 22,000 stranded
+Australians and humanitarian visa holders across 141 flights to Australia. This was done with no
+incursions of COVID-19 between cohorts or into the Australian community. The Government
+provided support through a bilateral agreement14 that was varied several times to increase the
+facility’s capacity. This increased the quarantine capacity from 500 people to 2000 people per
+fortnight.
+The Centre was used to quarantine over 1400 humanitarian entrants, primarily from Afghanistan.
+Other humanitarian evacuees were uplifted and quarantined in other jurisdictions under separate
+arrangements. The Centre also supported the quarantine of the Australian Paralympic team
+following the 2021 Tokyo games.
+Prior to the Department’s engagement, the Government, via DoD, used Howard Springs to
+quarantine passengers repatriated from the Diamond Princess cruise ship docked in Japan, as well
+as Australians evacuated from Wuhan.
+Between 2020 and 2022, over 60,000 people quarantined at the Centre (both through the
+Repatriation program and to support the NT’s state-based quarantine).
+The Department also supported the Tasmanian Government hosting a repatriation flight; however,
+this arrangement was discontinued to allow Tasmania to focus on its state-based quarantine needs.
+The role of AUSMAT
+
+
+
+
+14 https://federalfinancialrelations.gov.au/agreements/provision-covid-19-quarantine-arrangements-northern-territorv-centre-national-
+resilit nee
+
+                                                                                                                                        22
+AUSMAT initially provided quarantine services at the Centre under an arrangement with the NT
+Government. Management of the Centre transitioned from an emergency health response to a
+larger, more sustainable recovery operation once capacity increased.
+The NT developed a state-led model for quarantine delivery, designed to meet the needs of the
+expanded Repatriation Program. The NT Public Health Unit and Emergency Management Centre
+assumed responsibility for managing the Centre, aligning with quarantine arrangements in other
+States and Territories. Around 65% of the clinical workforce previously contracted by AUSMAT
+remained at the Centre under NT Health management.
+
+The South Australian home quarantine app
+As the pandemic evolved, the Department partnered with jurisdictions to develop solutions for
+modified quarantine settings based on risk tiering. For example, the South Australian Home
+Quarantine Application (the SAHQ app) was developed by the South Australian Government to
+monitor home quarantine in South Australia. In late 2021, the app was expanded to act as a toolkit
+to guide those in home quarantine through testing, symptoms, support referrals and the quarantine
+itself.
+The SAHQ app was made available for Apple and Android users and adapted to meet home
+quarantine policy requirements of participating jurisdictions. Support was provided to relevant
+jurisdictions to operate trials. The trial concluded on 31 December 2021 with 157,253 people having
+used the app.
+An assessment of the trial found the app assisted in supporting the management of home
+quarantine and should be considered for future emergency responses.
+
+ Key Learnings
+ Genuine partnerships with jurisdictions and Commonwealth agencies need to be established with
+ clear definitions of roles and responsibilities.
+ The Commonwealth’s responsibility for overseeing the operations of quarantine facilities may
+ better sit with an agency whose remit covers other border controls. The Department’s role would
+ then be advisory, such as advice on incubation periods of virus or infection prevention and
+ controls.
+ The staged increase of quarantine capacity proved to be effective in supporting the repatriation of
+ Australians, while also balancing the risk to the community. This also helped to build a workforce.
+ For example, 145 additional nursing staff were upskilled as part of the Repatriation Program and
+ subsequently took up roles within the NT health system.
+ The quarantine experience at the Centre was largely well received with people having access to
+ support and other facilities not available in other arrangements (such as external balconies).
+ For future emergency responses, the establishment and use of quarantine facilities may again be
+ a critical function. The National Coordination Mechanism proved valuable when coordinating
+ issues that required multiple agencies operational and policy insights to implement quickly, like
+ quarantine arrangements.
+
+     3.7.            Communication
+From the outset of the COVID-19 pandemic, the Department’s communication functions addressed
+issues in real-time with solutions implemented quickly. The Department’s communication capability
+and channels strengthened throughout the pandemic.
+The Department was the source of truth for mainstream media in the early stages of the pandemic.
+Daily press conferences, regular media appearance of Departmental spokespeople and other
+communication from the Department became usual practice. The Department’s website and social
+
+
+                                                                                                   23
+media channels surged in popularity with Australians and people from other countries. Key
+messages were disseminated widely and quickly, shaping community behavior.
+As the pandemic progressed, this approach was complemented by the development of multi­
+channel, integrated approaches to communicating consistently and regularly with specific parts of
+the community. This included older people, aged care providers, recipients and residents, those
+living with disability, First Nations peoples, those from diverse cultural communities and relevant
+support bodies.
+A Department key priority was making information available and accessible. For example, closed
+captioning and Auslan interpreters were used during updates and media briefings. Tailored
+communication products and channels were developed in collaboration with stakeholders, and
+partnerships were established with community leaders to support them with messaging for their
+community.
+The Department also managed the COVID-19 communication strategy. The strategy had 30
+advertising phases and delivered an integrated and ongoing communication mix of owned, paid and
+stakeholder channels to maximise engagement with public health behaviors. Advertising was
+adapted and/or translated to ensure relevance to and accessibility by First Nations and culturally
+diverse communities.
+Weekly meetings with State and Territory Government counterparts linked strategies with state and
+territory communication activity. The Department was also a key contributor to weekly meetings of
+communication teams from across the Commonwealth. This enabled key messaging to be provided
+to agencies to share with their sectors and stakeholders, linkages to be made between
+communication strategies and content, and emerging issues to be identified and addressed quickly.
+Most advertising encouraged people to access the health.gov.au website, which was positioned as
+the ‘source of truth’. As Government messaging began to expand beyond health issues,
+Australia.gov.au was introduced as a single gateway to information about the pandemic and
+response measures. Health alert pages and resources have attracted over 160 million page views
+since the pandemic started.
+In close collaboration with jurisdictions, the Department published daily national COVID-19 cases
+along with other key indicators to complement the communications strategy and provide the public
+access to COVID-19 related data. As the pandemic progressed, the cadence of this reporting was
+adapted, eventually tapering from daily to weekly to the now-monthly reports.
+
+Initial communications focus
+The messages supporting the early phases of the COVID-19 communication program in 2020
+focused on increasing awareness of the importance of physical distancing, good hygiene, support
+for vulnerable groups, and COVID-19 testing information for Australians returning from overseas
+and at international borders.
+With the arrival of COVID-19 vaccines in early 2021, communication priorities shifted to promote the
+availability and importance of vaccines and how to access them. To support the Department’s
+vaccine communication program, the first phase of the COVID-19 vaccination advertising campaign
+provided Australians with information on the vaccine safety, testing and TGA approval process.
+Later phases focused on promoting eligibility cohorts for each phase of the rollout.
+
+Ongoing communications response
+As RATs became available in late 2021, communication focused on changes to testing
+requirements. Messaging promoted the availability of free RAT and PCR tests at testing facilities for
+people who were a close contact, had symptoms, or were instructed to test by a health authority.
+The Department maintained regular communication with the aged care sector on the importance of
+RAT test surveillance screening for all staff, workers and visitors.
+In July 2022, the Department began promoting the availability of COVID-19 oral treatments to
+eligible cohorts, including specific targeting of the aged care sector. This effort was supported by
+                                                                                                       24
+advertising with messaging focused on eligibility, prescription requirements to access the
+medication, and how the treatment can be taken at home.
+All phases of the advertising program were rigorously concept tested and ongoing public sentiment
+tracking informed future phases of the campaign. This monitoring demonstrated the shifts in
+community attitudes and behaviors that were achieved over the course of the pandemic.
+
+Maintaining engagement
+The Department used in house medical and healthcare expertise, to support over 90 press
+conferences, 200 media interviews and countless Facebook live updates (E.g. the Top 3 at 3) and
+webinars. Key departmental spokespeople included the CMO, Deputy CMOs, leadership of the TGA
+and the Chief Nursing and Midwifery Officer. The Department responded to over 4,000 media
+inquiries and 150,000 COVID related emails and received over 50,000 calls from vaccine clinics,
+GPs and pharmacies.
+Since January 2020, the Department published over 19,000 COVID-19 related posts on social
+media channels (Facebook, X, Linkedln, Instagram and YouTube). This resulted in more than
+1.6 billion impressions and over 49.5 million direct interactions. The Department’s social media pre­
+pandemic audience grew from 159,223 followers to over 1 million followers during, and since, the
+COVID-19 pandemic.
+The Department translated key health and vaccine information in 63 languages and established a
+priority line to support interpreter requirements for appointment bookings. The Department procured
+multicultural public relations strategists (Cultural Perspectives) and engaged with multicultural peak
+bodies to tailor resources and drive grassroots improvements in vaccination uptake.
+The Department partnered with social media and community organisations to produce engaging,
+educational videos featuring people with profile and well-known brands. Partnerships included
+Australian music group Teeny Tiny Stevies, podcasts like Happy Families, the V8 supercars and the
+ACT Brumbies.
+The Department attended more than 300 events to promote COVID-19 messaging. There were
+more than 9,300 shopping centre information kiosks helping more than 34,000 Australians with
+COVID-19 enquiries and vaccinations. To improve local communication efforts, population insights
+have been shared with jurisdictions since October 2021.
+
+Ensuring access to information
+The Department launched the “Vaccination update” newsletter for citizens as COVID-19
+vaccinations became available in Australia. At its peak, the newsletter was sent to more than 37,000
+subscribers weekly, sharing crucial advice relating to COVID-19 vaccines, oral antiviral treatments
+and protective behaviors. The newsletter has been leveraged to share information on other topics
+including winter preparedness and influenza campaign messaging.
+The Aboriginal and Torres Strait Islander Advisory Group on COVID-19 and its Communications
+Working Group were established to provide cultural insights and recommendations. First Nations
+communication products were developed and delivered to First Nations communities, including via:
+•   web pages dedicated to First Nations people - the COVID-19 vaccine web page and a COVID-
+    19 information web page,
+•   audio and video materials translated in up to 15 Indigenous languages,
+•   partnerships with Indigenous community leaders to communicate vaccine information, tackle
+    hesitancy and dispel misinformation,
+•   case study and spokespeople videos, videos featuring GP and health care workers, social
+    media content and radio scripts, and
+
+
+
+                                                                                                    25
+•   an e-newsletter with 1,039 subscribers providing updates on COVID-19 vaccination information,
+    COVID-19 facts, stories and resources.
+The pandemic highlighted the diversity of people with disability. The Department developed
+capability and established networks to ensure information and messages were shared in multiple
+formats, engaging disability organisations to help develop tailored messaging. For example, the
+Department engaged the NSW Council for Intellectual Disability and Down Syndrome Australia in
+September 2021 to develop targeted communication resources. The Department also published
+information in Easy Read.
+The Advisory Committee on the Health Emergency Response to COVID-19 for People with
+Disability, and its communications working group, were a key to developing tailored health
+messaging and identifying appropriate channels to share information.
+Between 7 February 2020 and 5 July 2023, over 540 aged care COVID-19 specific Protecting Older
+Australians newsletters were distributed, to support those in RACH. Over 80 aged care COVID-19
+webinars were held, that included ministers, department executives, in-house experts and key
+external stakeholders such as the Older Person Advocacy Network (OPAN).
+The Department used an evidence-led approach to communication and engagement, leveraging
+data to refine tactics and channels to better meet the needs of older people. This included radio
+advertising featuring family or carers, communicating through community groups, local councils and
+consumer advocates. Plain English, older voices (the Senior Australian of the Year and Aged Care
+Council of Elders members) and images of real people also increased engagement and relevance
+of communication activities for this audience.
+Further information on the aged care response can be found in Section 4.2.
+The Department established the national Culturally and Linguistically Diverse Communities COVID-
+19 Health Advisory Group to ensure effective engagement with multicultural communities. On 14
+February 2021 the Department launched the COVID-19 Vaccination Program - Culturally and
+Linguistically Diverse Communities Implementation Plan'5. This plan, informed by advice from the
+advisory group and support of specialist multicultural communication agencies, set out principles to
+ensure information was delivered in appropriate languages, formats and locations.
+From 1 January 2023, the group was renamed to the CALD Communities Health Advisory Group to
+reflect its expanded role to provide advice to shape health and wellbeing policies and programs for
+CALD communities across the Health and Aged Care portfolio.
+The Department also partnered with the Department of Home Affairs (DHA) to leverage the
+relationships between their community liaison officers and culturally diverse communities across
+Australia. The community liaison officers provided insights into local community sentiment and
+information needs and the Department provided them with messaging and products they could
+share with communities.
+
+Mental Health campaigns
+In response to reports of increased personal stress and anxiety in early 2020, several
+communication campaigns were developed. The "How's Your Head Today?" campaign addressed
+the significant physical, mental, and economic challenge and included videos, animations, radio
+advertisements and how-to guides were developed. Products featured themes of emotional
+wellbeing, keeping connected, recognising signs of poor mental health, seeking help, maintaining
+physical wellbeing and supporting young people.
+
+
+
+
+15 https://www.health.gov.au/resources/publications/covid-19-vaccination-proqram-culturallv-and-linguistically-diverse-communities-
+implementation-plan
+
+                                                                                                                                      26
+Trust in government messaging
+Community sentiment showed high initial trust in Government and the COVID-19
+messages. Through the first half of 2020, published monitors indicated that the perception the
+Government was doing a good job managing COVID remained high before declining in mid-2020.
+Confusion about messages primarily occurred when there was variation among jurisdiction in
+relation to the public health and social measures and vaccination requirements that differed with the
+nationally agreed guidance.
+
+Tackling COVID-19 misinformation and vaccine hesitancy
+The Department worked with peak bodies and other government agencies to distribute credible
+COVID-19 information to counter misinformation and address vaccine hesitancy. Social media ads
+were run and formally moderated throughout the public campaign. Comments were responded to on
+social media posts, correcting misinformation and directing people to the correct information on the
+health.gov.au, TGA and WHO websites. Prompt moderation of social media posts ensured the
+Australian public had access to safe and reliable information. The Department received and
+moderated over 50,000 comments per month during the peak of the pandemic.
+
+ Key Learnings
+ Early in the pandemic, the Department struggled to reach and engage younger audiences.
+ Identification and partnership with key social media platforms, enabled the Department to reach
+ these audiences in novel ways. Other key learning include:
+     •    Managing COVID-19 fatigue: As the pandemic progressed and ‘COVID fatigue’ set in,
+          maintaining engagement became challenging. The department realigned messaging to
+          focus on priority groups, promoting ATAGI’s updated recommendations on vaccination
+          and oral antiviral treatments to high-risk communities. The Department is still
+          communicating key messages about COVID-19, but the approach is similar to other
+          communicable diseases like influenza.
+     •    Communicating with diverse audiences: Leveraging existing channels and partnerships
+          with peak organisations, local influencers and trusted voices, is critical to effectively
+          deliver information to diverse audiences.
+     •    Use of data to target communications: The Department’s strategic use of COVID-19
+          vaccine data to identify locations and population groups with low vaccination uptake
+          allowed a highly targeted media buy through geo-targeted advertising placement.
+     •    Use of trusted experts: the CMO, CNMO and Deputy CMO provided a team of trusted
+          voices. Given the protracted COVID-19 emergency it was important to have more than
+          one person to allow for sustainability.
+ National Consistency: Establishing mechanisms to agree positions and an understanding of the
+ impact of differing messages on the community is necessary, especially where decisions are
+ made to deviate from agreed position.
+
+
+  4. Broader health measures
+ Relevant Term(s) of Reference: Broader health supports for people impacted by COVID-19
+ and/or lockdowns (for example mental health and suicide prevention supports, and access
+ to screening and other preventive health measures).
+
+This section will include:
+    4.1      - Health care supports
+    4.2      - Mental health and suicide prevention supports
+
+                                                                                                      27
+•   4.3 - Aged care supports
+•   4.4 - Screening and preventative health measure access
+Please refer to the relevant section for:
+•   3.1 - National Medical Stockpile including PPE provision
+•   3.2 - COVID-19 testing and pathology
+•   3.4 and 3.5 - COVID-19 vaccine and treatment rollouts
+•   5.1 and 5.2 - Travel restrictions and requirements, outbreak response and international
+    surveillance
+•   5.3 - International partner engagement on COVID-19 vaccine and treatments
+      4.1.           Health care supports
+The COVID-19 pandemic accelerated health reforms that may not have been achievable without the
+collective efforts of various governments, stakeholders and community groups. The pandemic also
+highlighted the need for flexible and scalable models of care, particularly within primary care.
+The Government invested in a range of health and care supports to reduce the spread of COVID-19
+and improve the resilience and performance of the health system. Many of these measures have
+improved health care access across Australia including access to virtual and other healthcare
+channels not previously available.
+The primary healthcare system, largely the responsibility of the Commonwealth, continues to play
+an essential role in the COVID-19 response. This includes assessing, testing and managing
+infectious respiratory disease patients, administering COVID-19 vaccinations and prescribing
+COVID-19 treatments. Primary care services continue to provide care for COVID-19 patients,
+including escalation to hospitals, managing patients after discharge from hospital, providing front
+line mental health services, and supporting patients with Long COVID symptoms.
+Some of the supports introduced in response to the pandemic have become embedded elements of
+the health system, such as expanded MBS telehealth items and electronic prescribing. Other
+enduring features include the national triage services through Healthdirect, better infection
+prevention and control (in primary and aged care) and the increased capability of PHNs to
+coordinate care in the community. Other elements, which provided temporary additional health
+system capacity to support the emergency response, were progressively scaled back over time.
+
+Medicare Benefits Schedule and Pharmaceutical Benefits Scheme amendments
+During the pandemic, the Government introduced a wide range of additional services under the
+MBS and PBS to support healthcare provision via virtual/digital channels. These adjustments were
+aimed at reducing the risk of community transmission of COVID-19 and provide protection for both
+patients and healthcare providers. These changes ensured patients had access to essential health
+services, and relieved pressure on hospitals by enabling healthcare providers to manage COVID­
+positive people in the community. This also supported GPs, allied health providers and specialists to
+continue providing essential health care services during periods where patient or provider
+movement was restricted by lock downs.
+MBS Telehealth
+From March 2020 to 31 December 2023, 169.3 million services have been provided to more than
+20 million patients. Over the same period, more than 100,000 health professionals have provided
+MBS telehealth services and $8.4 billion in benefits have been paid.
+Many amendments were made to the MBS to support access to health services and mitigate the
+risk of COVID-19 transmission. The rapid deployment of MBS telehealth measures aligned with the
+Australian Health Sector Emergency Response Plan for Novel Coronavirus’.
+
+
+                                                                                                      28
+The rapid expansion of telehealth services (which included video and phone consultations) was
+staged according to the health needs of the community. It was also informed by regular consultation
+with stakeholders including experts, patients, and the latest available research. Implementation of
+targeted items for smoking cessation, mental health, and blood borne virus and sexual reproductive
+health occurred alongside general telehealth items. Support for admitting health professionals to
+consult with their patients in hospital via telehealth also occurred.
+Refinements were made to a range of telehealth services as COVID-19 impacts and use of
+telehealth items were observed. Consideration was given to quality of care, and how telehealth can
+support equivalent outcomes to in-person care, given common clinical requirements for telehealth
+and face-to-face services.
+Telehealth evolved over time, with most of the telehealth items introduced now becoming a
+permanent feature of the health landscape. This included increased access to a broader range of
+telehealth compared to before the COVID-19 response, particularly for GPs, specialists, nurse
+practitioners and allied health professionals.
+Telehealth measures specific to the COVID-19 response have also evolved over time. Current
+temporary telehealth measures include:
+    -   long telephone consultations for eligible patients’ assessments for suitability of COVID-19
+        oral antiviral medicines.
+    -   Patients with a recently confirmed COVID-19 diagnosis or suspected infection requiring
+        confirmation via PCR pathology tests can access MBS telehealth services from any
+        available GP.
+These measures will cease 30 June 2024.
+Lessons from the COVID-19 response have informed the MBS’ response capability for future
+natural disasters. Legislated provisions now enable increased access to MBS GP telehealth
+services in affected regions, as identified by States and Territories.
+On 1 March 2023, the MBS Review Advisory Committee (MRAC) formally commenced a post­
+implementation review of telehealth arrangements. The scope of the post-implementation review of
+telehealth included:
+•   Permanent and temporary MBS funded telehealth services.
+•   The MBS Review Taskforce’s Telehealth Principles, which were published in 2020 and have
+    informed policy to date.
+•   The appropriateness of current settings for video and telephone consultations to ensure the right
+    balance of access, quality, and safety.
+The review has been informed by targeted and public consultation as well as engagement with
+health experts, peak organisations, researchers, and consumers who have provided evidence and
+advice. Interim advice from MRAC was provided to the Government in late 2023, and final
+recommendations will be provided by 31 March 2024. The Government will consider MRAC’s final
+advice and recommendations in due course.
+Other MBS changes
+From 8 November 2021 to 31 December 2022, a temporary MBS item was available to support
+medical practitioners providing clinically relevant face-to-face treatment to COVID-19 positive
+patients.
+The Government also made available temporary MBS items to improve multidisciplinary care
+access, to support residents of aged care homes deconditioning due to COVID restrictions and
+inactivity. These items included up to an additional 5 physical therapy sessions and up to 2
+additional exercise physiology group services per calendar year.
+E-prescribing
+
+                                                                                                      29
+E-prescribing was originally part of the 2018/19 Budget. The intent was that by 2022 all prescribers
+and pharmacists would have access to electronic prescribing and dispensing. The COVID-19
+pandemic saw this measure brought forward for implementation in May 2020. This expedited roll­
+out, alongside a growth in pharmacy delivery services, enabled patients to access medications
+without being limited by lockdowns, COVID-19 infection, or location. It also reduced the risk of
+infection among health professionals by limiting exposure to COVID-19 positive patients.
+From March 2020 to 31 December 2023 over 191 million electronic prescriptions (e-scripts) were
+issued, by more than 78,000 prescribers (GPs and nurse practitioners). E-prescribing has become a
+permanent feature of the Australian health system with over 98% of pharmacies across Australia
+now able to dispense medication to patients via e-prescriptions.
+
+General Practice-led Respiratory Clinics (GPRCs)
+GPRCs were established early in the pandemic to conserve PPE and divert people with mild to
+moderate respiratory symptoms from other general practices and public hospitals, particularly
+emergency departments.
+The initial purpose of GPRCs was to assess patients with respiratory symptoms and carry out PCR
+tests to confirm diagnoses. Although not part of the original objectives, disease surveillance became
+an important component of the program. GPRC scalable capacity was an important part of
+Australia’s response, successfully reducing the burden on key parts of the primary care
+infrastructure.
+From January 2022, GPRCs began providing treatment services to COVID-19 positive patients
+through face-to-face and telehealth consultations, including the prescription of anti-viral
+medications.
+At the peak, there were 150 GPRCs nationally providing primary care services to individuals,
+including those ineligible for Medicare, at no cost to the patient. Gap analysis and needs
+assessments determined the site locations. Equitable access to relevant care during COVID 19 was
+the key criterion. During the program, which ran from March 2020 to February 2023, GPRCs
+collectively delivered more than:
+•   3.5 million consultations for patients presenting with respiratory illness,
+•   3 million tests for COVID-19,
+•   2.3 million COVID-19 vaccine doses, and
+•   80 thousand COVID-19 positive consultations.
+GPRCs serviced people from 2,540 postcodes nationally, covering 99.8% of the population.
+General Practice-led Respiratory Clinic Panel
+The GPRC Panel includes 111 existing accredited general practices with suitable infrastructure,
+infection prevention controls and workforce. It will be held in reserve to respond at short notice to a
+future respiratory health emergency, if necessary.
+In non-emergency times, participating practices provide their usual services through standard MBS
+items.
+
+Primary Health Networks
+PHNs were established in 2015 to improve the efficiency and effectiveness of health services.
+During the pandemic, PHNs initially assisted in PPE distribution to primary care providers. More
+than 34.5 million units of PPE were provided via PHNs.
+The role of PHNs evolved throughout the pandemic, with PHNs bringing together their local
+knowledge and ability to bridge elements of the health care system provided by the Commonwealth
+and state and territory governments. The PHNs developed regional community pathways for
+
+
+                                                                                                      30
+COVID-19 positive people, while ensuring plans were in place for management and escalation
+through the community health system.
+Between October 2021 and June 2023, PHNs were funded to commission home visits to avoid
+unnecessary escalation of patients to hospital. PHNs commissioned medical services, GPs,
+Aboriginal Health Workers, nurse practitioners and practice nurses to undertake home visits for
+treatment of COVID-19 symptoms, or for other medical needs that could not be delivered by
+telehealth.
+In the first half of 2023, PHNs contacted over 1,400 disability accommodation settings to ensure
+residents had appropriate access to primary care providers. PHNs support disability
+accommodation to arrange vaccinations, on or off-site, with local primary care providers and further
+support the development of relationships between the accommodation and primary care providers.
+
+Other Health Supports
+Healthdirect Australia (Healthdirect)
+Healthdirect is a national health information and advisory service. The pandemic brought about a
+systemic change as to how all States and Territories use Healthdirect.
+Healthdirect operated the National Coronavirus Helpline (NCH) from March 2020 to
+December 2023. The NCH handled almost five million calls and operated 24 hours a day, seven
+days a week. The NCH also included a free interpreting service and had several dedicated priority
+lines providing support to:
+•    COVID-19 positive patients,
+•    aged and disability care workers,
+•    First Nations peoples, and
+•    people with disability, their carers, family and friends.
+Healthdirect also operated the Living with COVID (LwC) program from January 2022 to
+October 2023. The LwC included a helpline connect COVID-19 positive consumers to the right level
+of care. The LwC helpline handled more than 560,000. The CSIRO’s digital health and research
+program conducted an independent evaluation of the LwC program16. It found that the LwC helpline
+adapted well to changing circumstances such as snap lockdowns and ‘spikes’ in case numbers,
+increased health literacy and enabled members of the public to make informed decisions about their
+care. The evaluation found the LwC helpline successfully connected consumers to primary care
+enabling early intervention and was deployed as a scalable model for patient triage and care
+access.
+Both helplines were transitioned to sustainable business as usual arrangements within the
+Healthdirect suite of services.
+Healthdirect provided other services to support Australians during the pandemic. For example, the
+Easy Vaccine Access (EVA) concierge call back service addressed access barriers. The EVA
+supported more than 17,000 vaccine bookings. In addition, the COVID-19 symptom and antiviral
+eligibility checker was created and is available in 11 languages. This tool was accessed by more
+than 16.2 million uses.
+COVID-19 Practice Incentives Program (PIP)
+The Practice Incentive Program encourages general practices to continue providing quality care,
+enhance capacity, and improve access and health outcomes for patients. The COVID-19 PIP was
+
+
+
+
+16 https://media.healthdirect.orq.au/publications/CSIRO Livinq-with-COVID-proqram-evaluation.pdf
+
+                                                                                                   31
+established to encourage continuity of care and follow-ups for patients receiving the COVID-19
+vaccine.
+General practices needed to be accredited under the Royal Australian College of General
+Practitioners (RACGP) Standards and follow the National Vaccine Storage Guidelines to be eligible
+participants. This provided assurance that selected practices had cold chain management
+processes in place and effective procedures to maintain the shelf life and potency of the COVID-19
+vaccines. General practices could claim $10 per eligible patient that received both first dose and
+second dose of a COVID-19 vaccine at the same practice.
+A total of 8,217 practice payments were made to general practices under this program.
+Later in 2021, the COVID-19 In-reach Vaccination Incentive was introduced to support general
+practices undertake in-reach COVID-19 vaccination services for aged care and disability support
+workers in their workplace. Once the minimum threshold for workers had been met, it was
+expanded to allow payments for in-reach services to residents in aged care homes or disability
+residential facilities.
+General practices could claim $1,000 for a minimum of 50 COVID-19 assessment services through
+an in-reach vaccination clinic, with additional payments of $20 per service to a worker or resident
+thereafter. A total of 74 practice payments were made to general practices who undertook in-reach
+vaccination services.
+Strengthening Medicare - General Practice Grants Program
+The Government provided funding from April 2023 for the Strengthening Medicare - General
+Practice Grants Program. General Practices and eligible ACCHOs can access the program to
+expand patient access and improve their services across Australia.
+The program provides a one-off grant (between $25,000 to $50,000 based on practice size and
+accreditation status) to each general practice and eligible ACCHO to make investments in
+innovation, training, equipment, and minor capital works in one or more of three investments
+streams:
+•   enhance digital health capability,
+•   upgrade infection prevention and control arrangements to increase capacity to treat COVID-19
+    positive and other respiratory patients in a general practice setting, and
+•   maintain and/or achieve accreditation.
+
+
+
+
+                                                                                                  32
+Key Learnings
+The Australian health system was largely able to adapt to COVID-19-related movement restrictions
+through substituting face to face care modalities with virtual care modalities. While this was
+successful for many interventions, it did not suit all types of care. The full impact of the emergency
+phase of the pandemic on the long-term health of people who many have missed health care due
+to lock downs and restrictions is likely unknown.
+The role of primary care is critical in every Australian health emergency response. Throughout the
+pandemic, primary care providers have demonstrated their value, quickly adapting their services
+and dealing with challenges for patients and health professionals. Detailed consideration of the role
+of primary care in emergency response preparedness is vital to ensure Australia can move quickly
+in future possible pandemics.
+Defined roles and responsibilities of primary care providers would benefit future preparedness,
+while maintaining flexibility to respond appropriately depending on the emergency health situation.
+Considering the role of PHNs in future emergency responses should also occur. PHNs potential
+contribution should be clearly defined, and they should participate in pre-pandemic planning
+exercises.
+For the GPRC program, lessons were recognised and applied through the development of an
+emergency response capability via the GPRC Panel. Other key lessons from the original GPRC
+program include:
+•   Reliance on temporary infrastructure was not sustainable from a financial or health perspective,
+    and
+•   Engaging general practices through contracts reduces data integrity as consultations are not
+    centrally recorded and fees are not linked to an individual practitioner’s provider number.
+
+      4.2.             Aged Care Support
+Support for older Australians was central to the Department’s response planning. From the
+beginning of the pandemic, the Department supported aged care providers to implement measures
+to prevent or reduce the risk COVID-19 from entering RACHs. This included providing:
+        o    on-site vaccinations,
+        o    guidance around IPC protocols and managing visitations to aged care homes,
+        o    daily monitoring and case management,
+        o    regular on-site PCR testing, and
+        o    provision of surge workforce, PPE and RATs when outbreaks occurred.
+The Department published the first overarching plan for management of COVID-19 for Australia
+through the AHPPC on 31 January 2020. This was followed by a specific National COVID-19 Aged
+Care Plan that National Cabinet endorsed in August 2020. The plan outlined the national approach
+for supporting the aged care sector to prevent, prepare, respond and recover from COVID-19.
+This plan was further updated in late 2020 to consolidate learnings from the initial phases of the
+pandemic and included specific guidance, information and tools to support aged care recipients,
+their families, the aged workforce and providers of aged care services. As the pandemic evolved,
+more targeted guidance was developed to support the sector, including winter and summer
+preparedness plans.
+The aged care sector’s initial response to COVID-19 took a strong risk averse approach. At times,
+this meant implementing stringent restrictions on visitations and movement within and between
+RACHs. The Department supported providers to increase their IPC and emergency planning
+capabilities. This included providing regular guidance around furloughing staff and visitation to
+
+                                                                                                      33
+RACHs based on AHPPC advice. As preparedness capabilities increased the sector moved
+towards a risk-based approach that balanced the need for strong IPC protocols with the physical,
+social and emotional needs of older people. This change was supported by high vaccination rates
+among residents of aged care homes and oral antivirals treatments becoming available.
+Outbreaks impacted the health and well-being of residents through the direct impact of COVID-19
+infections and beyond with broader health issues linked to isolation and quarantining requirements.
+Repeated COVID-19 waves also impacted aged care staff, with COVID-19 related furloughing and
+isolation requirements exacerbating existing workforce shortages across the sector.
+
+Key aged care support
+Most RACHs experienced at least one COVID-19 outbreak. The Department provided additional
+supports for RACHs to deal with these outbreaks, such as directly reimbursing facilities for the costs
+incurred of dealing with an outbreak and additional funding to ensure the viability of homes. A range
+of workforce supports including supplementary workforce through agency staff and deploying ADF
+personnel and upskilling existing workforce through IPC training were also provided.
+Further details on additional supports provided to the aged care sector and older people during
+COVID-19 can be found at Attachment 5.
+
+ Key learnings
+ Throughout the pandemic there was tension between restrictions applied to and by aged care
+ services and the settings that were applicable to the broader community. This created a
+ challenge for the sector in balancing the human rights of aged care residents to interact with
+ family, friends, loved ones and carers, with the real risks to health and lifespan of residents.
+ Noting these tensions, the impact of COVID-19 on residential aged care has been significant, with
+ over 6,000 COVID-19 related resident deaths in aged care over the course of the pandemic.
+ Since 2020, there has been a significant reduction in COVID-19 case mortality in aged care from
+ 33% of cases in 2020 to 1.6% of cases in 2024. This reduction is due to a range of factors
+ including greater preparedness of the sector and the availability of effective vaccines and
+ treatments.
+ The pandemic occurred concurrently with the Royal Commission into Aged Care Quality and
+ Safety, which highlighted deficiencies in the aged care system and recognised the system was
+ already under strain. The Royal Commission also noted the aged care system was not
+ adequately prepared to respond to a significant outbreak, such as the COVID-19 virus. Some of
+ the key challenges in the sector’s response included:
+ •   turnover in leadership positions or low staffing levels due to worker fatigue and burnout,
+ •   limited IPC expertise and significant gaps in IPC practice, and
+ •   complacency in stocking or correctly using PPE.
+ The absence of robust screening procedures to identify cases early increased the risk and
+ challenges of managing an outbreak.
+ In addition to the Royal Commission and other external reviews, the Department continued to
+ adapt its approach guided by advice from the sector, AHPPC and ACAG, and State and Territory
+ officials. Two of the key measures implemented in response to this advice and feedback was the
+ introduction of IPC leads and access to additional aged care surge workforce.
+ In December 2020 all RACHs were required to have a dedicated IPC Lead. The fourth COVID-19
+ wave saw smaller spikes in cases, less severe outbreaks, and fewer resident deaths per cases,
+ compared with earlier waves. This suggests improved preparedness in aged care homes.
+
+
+
+                                                                                                    34
+ As of 9 February 2024, the Surge Workforce Support Program has covered 188,069 shifts in
+ aged care services impacted by COVID-19. It includes GPs, nurses, care workers, allied health
+ workers, executive and ancillary staff.
+ The surge workforce support program provided more than 200 deployable resources nationally to
+ support RACHs experiencing critical staff shortages.
+ Access to time limited surge workforce ensures aged care homes are adequately supported. The
+ program creates a stabilising and protective effect providing quality care and service to older
+ Australians.
+ In response to the COVID-19 pandemic, the Aged Care Quality Standards were strengthened to
+ include specific outcomes on emergency and disaster management (Outcome 2.10) and infection
+ prevention and control (Outcome 4.2). Note, the final draft of the strengthened Quality Standards
+ is not yet in operation but will be incorporated into and implemented as part of the new Aged Care
+ Act (see Section 6).
+
+        4.3.          Mental health and suicide prevention supports
+Public health and social measures were highly successful at preventing the spread of COVID-19 at
+the beginning of the pandemic. However, these measures (such as lock downs and density limits)
+came at a significant social and economic cost and had, in some cases, serious mental health
+impacts. Psychological distress remained elevated throughout 2023, underlining the importance of
+continued support in this area.
+The legacy of COVID-19 and its associated lockdowns continues to impact the mental wellbeing of
+the Australian community, with two in five Australians reporting their mental health has been
+affected by the pandemic. Digital service provider data confirms that service demand is higher than
+pre-pandemic levels. Other data and research indicates the mental health impacts of the pandemic,
+including grief, economic hardship and social isolation, will continue for some time. There is
+emerging evidence of the long-term psychological and cognitive impacts of long-COVID, estimated
+to affect about 5% of Australians. This is likely to contribute to ongoing demand for mental health
+support.
+
+Whole of Population Supports
+An early component of the Government’s mental health response was the National Mental Health
+and Wellbeing Pandemic Response Plan (Response Plan). The Response Plan’s core objective
+was for Australians to prioritise their mental health in line with physical health, and set out advice to
+help navigate this.
+Beyond the initial funding committed under the Response Plan, the Government subsequently
+implemented a range of mental health supports, including:
+    •    Temporarily increasing the number of psychological therapy sessions available to an
+         individual under the Better Access to Psychiatrists, Psychologists and General Practitioners
+         program, from 10 to 20 sessions. Medicare-subsidised telehealth services were also
+         available,
+    •        Increased funding to a range of digital mental health services, and
+    •    Support for PHNs to commission mental health nurses to provide in-reach mental health
+         services for older Australians experiencing social isolation or loneliness.
+For more information on whole of population mental health support, please see Attachment 6.
+
+Support for Target Populations
+The pandemic caused changes to the way Australian’s lived, worked, learned and engaged in
+every aspect of society, contributing to stress and anxiety. Different supports were needed for
+different cohorts and the Department addressed this through implementation of a range of
+measures for different cohorts, including:
+
+                                                                                                       35
+    •    Supporting the mental health of people in mandatory quarantine through a range of
+         specifically designed digital, telephone and telehealth mental health services,
+    •    Support for people in isolation by promoting geo-location-relevant COVID-19 alerts and
+         information, encouraging help seeking behaviour and prompts for early intervention,
+    •    Support for residents of RACHs, by funding a range of measures to address isolation. The
+         eligibility of the Better Access program was expanded to allow RACH residents access
+         treatment via GP referral in line with referral pathways in the broader community,
+    •        Additional funding for Healthdirect to collate and disseminate mental health information,
+    •    Support for children and young people, through funding programs in schools and other
+         programs, and
+    •    Support for First Nation’s social and emotional wellbeing by developing a suite of culturally
+         appropriate COVID-19 resources.
+For more information targeted mental health support, please see Attachment 6.
+
+Suicide Prevention
+The Department worked closely with jurisdictions to monitor deaths by suicide, including through
+investment in the AIHW Suicide and Self-Harm Monitoring System (SSHMS). National suicide data,
+published annually in the ABS Causes of Death publication, does not show an increase in deaths by
+suicide in either 2020 or 2021.
+In 2021, 81 of the people who died by suicide had the COVID-19 pandemic identified as a risk
+factor, which represents 2.6% of all suicides. This is a reduction from 3.2% in 2020.
+
+ Key Learnings
+ Throughout the pandemic the Department assembled a detailed knowledge base of the impacts
+ of the pandemic on the mental health and wellbeing of the broad population. This included
+ understanding how it impacted different population groups and locations at different points in
+ time. Other recent events such as the 2019-20 bushfires, flooding events, and other disasters and
+ isolation added to this knowledge.
+ Learnings from the more vulnerable or those at-risk of experiencing mental health difficulties, will
+ be considered in future mental health response measures. This will include lessons from aged
+ care recipients, older people, children and youth, as well as consideration of workforce
+ requirements to support surges in demand, particularly over a long period of time.
+ Central to the rapid implementation of many of the COVID-19 mental health initiatives was
+ leveraging existing relationships with the States and PHNs. For example, the Head to Health
+ initiative was able to be stood up in 4 weeks as it used existing infrastructure within established
+ primary care settings.
+
+
+
+        4.4.               Impacts to screening programs and services
+Screening and preventative health access
+Medical screening and preventative health were impacted by the pandemic. As outlined in Cancer
+Australia’s paper on COVID-19 Recovery17, the pandemic disrupted the three national population
+cancer screening programs for breast, cervical and bowel cancers.
+
+
+
+
+17 Cancer Australia 2021. The impact of COVID-19 on cancer-related medical services and procedures in Australia in 2020
+
+                                                                                                                          36
+In 2020 and 2022 there were 163,595 and 158,211 fewer cancer-related diagnostic procedures,
+based on 2017 - 2019 trends. This may result in more cancers being diagnosed at a later stage.
+Breast cancer screening
+AIHW’s BreastScreen Australia Monitoring Reports showed that participation in the BreastScreen
+Program dropped from 55% in 2018-2019 to 48% in 2020-21.
+Suspension of some BreastScreen services occurred between 2020 and 2022 in response to public
+health requirements and flooding. Modelling suggests a short delay between regular screening
+mammograms is unlikely to change the long-term outcomes of any detected cancers. During these
+suspensions some BreastScreen Australia staff were redeployed for COVID-19 related care.
+BreastScreen Australia received funding from 2022 to 2024 to boost the capacity to re-engage
+women and catch up on delayed screening.
+Cervical cancer screening
+The National Cervical Screening Program (NCSP) continued to operate during COVID-19. The
+NCSP changed from 2-yearly Pap tests to 5-yearly Cervical Screening Tests in December 201718.
+With this change, the number of Cervical Screening Tests conducted was expected to be lower in
+2020 compared to 2019. In 2020 843,971 fewer tests were conducted than in 2019. There were
+fewer cervical screening tests in April 2020, and to a lesser extent in May 202019 than expected.
+However, there was an ongoing trend towards increased participation over the 2018-2022 period,
+with participation reaching 68%.
+Bowel cancer screening
+The National Bowel Cancer Screening Program (NBCSP) continued to invite eligible Australians to
+screen throughout the COVID-19 pandemic. Screening participation rates dropped from 43.8% in
+2019-2020 to 40.9% in 2020-2021, however subsequent research undertaken by Cancer Council in
+2023 indicated that natural disasters had more of an impact than the pandemic. While high COVID-
+19 case numbers led to a relative decrease of 5% in kit return rates, the research also found 15+
+day lockdowns within a month led to a 10% increase in bowel screening kit returns20.
+The median time between the positive screen and a follow-up diagnostic assessment increased
+from 49 days (for the period 1 January 2019 and 31 December 2020) to 58 days (for the period
+1 January 2020 and 31 December 2021).
+The NBCSP received additional funding in March 2022 to support access to colonoscopy and grow
+capacity to process those procedures delayed due to the pandemic.
+In support for screening activities, the Cancer Council Australia ran a campaign between September
+and November 2020 and between March and April 2021, to encourage Australians who had
+delayed cancer screening to ‘Put Cancer Screening Back on Your To-Do List’.
+
+Travel restrictions to support vulnerable populations
+Responding to calls from the First Nations community, on 20 March 2020, the National Cabinet
+provided in-principal agreement to restrict travel in and out of specified remote communities. This
+was done in partnership with the community, under the Biosecurity Act 2015 (Biosecurity Act) with
+the aim of preventing the spread of COVID-19 to vulnerable populations, including First Nations
+people.
+
+
+
+
+18 National Cervical Screening Program monitoring report 2021 (aihw.qov.au)
+19 Cancer screening - Australian Institute of Health and Welfare (aihw.qov.au)
+20 Durkin et all. Centre for Behavioural Research in Cancer, Cancer Council Victoria. National Bowel Screening Campaign 2022: FOBT
+Kit Return Results by Region. 15 May 2023.
+
+                                                                                                                                 37
+Other Health Supports
+Palliative care: carinq@home COVID-19 supplement packs
+To assist people within home palliative care, the Department commissioned the development of a
+COVID-19 Supplement Pack as an adjunct to the standard palliative care caring@home pack. The
+supplement pack reduced the reliance on the telehealth and palliative care clinical workforces and
+alleviated the pressure of equipment shortages during the height of the COVID-19 outbreak. The
+supplement pack contained clinical equipment and provided and information and educational video
+illustrating how to use the clinical equipment. Over 10,000 caring@home supplement packs were
+provided across Australia.
+Hearing Services Program (HSP)
+The HSP supports hearing services for almost one million eligible Australians. During COVID-19,
+fewer people were able to attend appointments, temporary providers closed and there was general
+reduced service availability for an immediate period.
+A range of HSP program services can be delivered by teleaudiology (telehealth). In 2020, the
+Government funded development of national teleaudiology guidelines to support best practice
+delivery of teleaudiology services.
+The Department adapted HSP processes, temporarily removing some documentation requirements
+in response to barriers presented by COVID-19 public health restrictions. This allowed client
+consent and agreement for services to be given electronically or verbally over the phone. Post­
+pandemic, the program continues to allow electronic or verbal client consent for some program
+services.
+Program data showed these measures were effective in ensuring access to hearing services. By
+April 2020, the rate of new clients accessing the program had fallen by 80%, and service delivery
+levels fell by approximately 20% between March to June 2020.By July 2020, new client rates and
+service delivery had returned to pre-pandemic levels.
+With the temporary removal of the requirement for written client agreement for maintenance from
+March 2020 through to 30 June 2021, there was a $34 million increase to device maintenance
+expenditure. With the reintroduction of client agreement to maintenance, maintenance related
+expenditure has reduced to pre-pandemic levels.
+There was also an increase in the reported number and claims for replacement devices. Providers
+advised that there were increased rates of lost devices due to challenges with mask wearing. Since
+the reintroduction of evidence requirements and reduced COVID-19 prevalence, replacements rates
+have commenced returning to pre-pandemic levels.
+Consumer protections
+To protect Australian consumers, the Government implemented several determinations made by the
+Health Minister throughout the pandemic to prevent price gouging and exportation of critical sanitary
+and medical products, essential goods, and RATs.
+Disruptions to the health system
+Following a decision by the National Cabinet restrictions were applied to selected elective surgeries
+from 26 March 2020. This decision was made to preserve PPE stocks in Australia and ensure there
+were adequate staff and beds in case Australia experienced a surge in COVID-19 related
+hospitalisations.
+Under these restrictions, only Category 1 and exceptional Category 2 procedures could be
+undertaken. These restrictions were eased (but not fully lifted) from 29 April 2020, allowing all
+Category 2 and some important Category 3 procedures to be performed. Suspensions then
+occurred on a jurisdiction-by-jurisdiction basis to create additional hospital capacity and ensure
+those who needed acute COVID-19 hospital care were able to receive it.
+
+
+                                                                                                     38
+Elective surgery restrictions had a significant impact on the private sector, which ordinarily make up
+over half of all elective surgeries.
+Private Hospital Viability Guarantee
+To ensure private hospital beds and the private hospital workforce were available to supplement
+public hospitals during COVID-19 outbreaks, the Government provided financial assistance through
+COVID-19 Partnership. This also ensured the viability of the private hospital sector and the ability to
+resume normal operations at the end of the COVID-19 pandemic. The Government’s contribution
+covered the gap between each private hospital’s minimum viability costs and any revenue received
+by that private hospital. This resulted in a cost to the Government of $1.5 billion over the period that
+it was in place, from 3 April 2020 to 30 September 2022.
+Private hospitals were successfully used during the Victorian COVID-19 wave in late 2020, with
+more than 500 patients accommodated in response to outbreaks in RACHs. In other jurisdictions
+there was less success with this approach. Some private hospitals considered that they did not
+have the right capability to care for this cohort. It was also observed that often private hospital staff
+were already working across the public hospital or aged care sectors.
+Private hospital capacity was also used to supplement the public hospital system. For example,
+transferring surgical cases to a private hospital to allow a nearby public hospital to dedicate
+additional capacity for patients with COVID-19.
+Pathology Sector Viability
+The Government provided funding to private pathology providers to ensure they were able to remain
+operating and provide essential testing services. This was also in recognition that major pathology
+providers were ineligible for JobKeeper due to their size of their businesses. One of the three major
+private pathology providers applied for and received grant funding to provide a revenue guarantee
+from April-September 2020 to ensure that essential pathology testing was maintained.
+Private health insurers commitment to support sector recovery
+Private health insurers committed to not profit from the COVID-19 pandemic given the restrictions
+on members’ access to hospital and services and treatments, and subsequent reduction in claims.
+The Department, in consultation with the Australian Competition and Consumer Commission, the
+Australian Prudential Regulation Authority and the private health insurance sector, developed a
+framework to monitor private health insurers against their commitments1
+Health insurers provided premium relief and expanded the benefits available to Australians who
+hold private health insurance. Some of these initiatives have included:
+•   deferral of 2020, 2021 and 2022 premium changes,
+•   extending their products to cover all COVID-19 related claims,
+•   allowing policy holders to suspend their policy and reactivate it without re-serving waiting
+    periods,
+•   waiving premiums for policy holders experiencing financial hardship while honoring benefit
+    claims, and
+•   supporting members via rebates, short term premium reductions, extension of benefits, and roll­
+    over of benefits into the next calendar year.
+As of 30 June 20232, insurers had returned 84.7% of estimated permanent claims savings to policy
+holders ($3.5 billion). Givebacks by insurers will continue to be announced and made after this date.
+
+
+
+
+                                                                                                        39
+    Key Learnings
+    Private Hospital Guarantee
+    While the Private Hospital Guarantee was used during the Victorian Aged Care Outbreak in 2020,
+    its overall utility in supporting other aged care outbreaks was not as strong. Hospital beds and
+    equipment proved to be less of a constraint than workforce, and private hospital staff often
+    already had jobs working across other sectors. The guarantee was, however, effective in
+    preserving a viable private hospital sector, which has been able to contribute to delivering catch­
+    up services to help address the impacts of care deferred due to the pandemic.
+    Cancer screening
+    The NCSP continues to explore the possibility of improved home-based screening services. This
+    includes the screening for cervical cancer through self-collection of vaginal samples supported by
+    telehealth consultations. This could provide access to cervical screening in situations where
+    eligible people could not physically visit the healthcare providers.
+    Home delivery of screening tests by the NBSCP ensured screening could continue to be
+    accessed during the pandemic. Further flexibility has been provided by enabling GPs to issue
+    program kits directly to patients via telehealth, face to face consultations or by mail.
+    The National Lung Cancer Screening Program due to commence in July 2025 will consider the
+    key learnings from the existing cancer screening programs.
+
+
+     5. International Policies
+    Relevant Term(s) of Reference: International policies to support Australians at home and
+    abroad (including with regard to international border closures and securing vaccine supply
+    deals with international partners for domestic use in Australia).
+
+In this section:
+•     5.1 - Restrictions on travel to and from Australia
+•     5.2 - Travel requirements - masks, screening pre-departure testing, vaccination and
+      declarations
+•     5.3 - Response to Outbreaks: Australian Medical Assistance Teams deployment
+•     5.4 - International engagement with partners on vaccine supply
+•     5.5 - International engagement and assistance including on surveillance
+Refer to the relevant section for:
+•     3.1 - National Medical Stockpile including PPE provision
+•     3.4 and 3.5 - COVID-19 vaccine and treatment rollouts
+•     3.5 - Quarantine / Repatriation arrangements
+        5.1.            Restrictions on travel to and from Australia
+Australia’s COVID-19 suppression strategy sought to reduce the risk of COVID-19 at its
+international border. The then Health Minister implemented international travel restrictions via
+Determinations under the Biosecurity Act. These decisions were supported by medical advice that
+considered the perceived severe and immediate threat to human health. Australia was one of the
+first countries in the world to implement international travel restrictions in response to COVID-19.
+The Biosecurity Act enabled the Government to make the necessary human health requirements at
+the international border. Under section 42 of the Biosecurity Act, the “Human coronavirus with
+
+                                                                                                      40
+pandemic potential” (which included SARS-CoV-221/COVID-19) was included as a Listed Human
+Disease on 21 January 2020.
+
+Initial response
+Travel restrictions were progressively implemented over the course of the pandemic. Starting on
+1 February 2020, foreign nationals that had been to mainland China were required to quarantine for
+14 days prior to entering Australia. On 20 March 2020, Australia’s international borders were closed
+to all non-citizens and non-residents. From this date, all Australians and permanent residents were
+required to undertake managed quarantine for 14 days in a hotel or other accommodation upon
+arrival in Australia.
+On 18 March 2020 an Emergency Determination banned all cruise ships entering Australian waters
+and required those in Australian waters to leave. The ban ended when the Human Biosecurity
+Emergency Period relating to COVID-19 in Australia lapsed on 17 April 2022.
+By 25 March 2020, the Government implemented a ‘travel ban’ on all Australians departing
+Australia to travel overseas (unless an exemption applied), through an Emergency Determination
+under the Biosecurity Act. Many of these measures were conceptualised, discussed by Ministers
+and implemented on the same day.
+
+Ongoing response
+By mid to late 2020, National Cabinet began considering steps to enable reopening of Australia’s
+borders. This included the staged increases in international arrival caps and the creation of safe
+travel zones.
+A one-way safe travel zone with New Zealand commenced on 16 October 2020, enabling
+passengers who had been in New Zealand to travel to Australia without needing to quarantine on
+arrival. The safe travel zone was suspended several times in 2021 in response to outbreak clusters.
+On 22 March 2021, a determination was made to allow Australian citizens and permanent residents
+to travel to New Zealand from Australia without needing to seek an exemption from the ABF. Two­
+way quarantine-free travel between Australia and New Zealand subsequently commenced from
+19 April 2021
+The Government continued to monitor the international situation to enable timely country risk
+assessments. From 3 to 15 May 2021, the Government implemented a high-risk country travel
+pause on passengers (including Australian citizens and permanent residents) from India. This was
+due to a sharp increase in COVID-19 cases in India, with over 3 million each day for several days in
+a row. There was a significant increase in the number of COVID-19 cases detected in international
+travelers in quarantine within Australia who had returned from India, threatening to overwhelm local
+health resources.
+
+Reopening of Australian borders
+Australia’s staged international border reopening commenced on 1 November 2021. This allowed
+fully vaccinated Australians to travel overseas without an individual exemption. This aligned with the
+Australian population having higher (at or near 80%) vaccination rates nationally.
+The emergence of new variants prevented the full reopening of Australia’s international borders. On
+28 November 2021, the Government introduced a high-risk country travel pause for select countries
+in Africa because of the new Omicron variant. Those who had been in a country of concern in the
+14 days prior to their travel were either denied entry (for non-citizens/permanent residents of
+
+
+
+
+21 COVID-19 is an infectious disease caused by the SARS-CoV-2 virus: https://www.who.int/health-topics/coronavirus#tab=tab 1
+https://www.health.qov.aU/committees-and-qroups/phln#publications
+
+                                                                                                                               41
+Australia) or required to quarantine on arrival. Those already in Australia at the commencement of
+the measures were required to immediately self-isolate and be tested for COVID-19.
+The Government reopened borders to fully vaccinated eligible visa holders (primarily skilled,
+student, family, and humanitarian visas) from 1 December 2021, enabling these cohorts to come to
+Australia without a travel exemption. This was extended to all fully vaccinated visa holders from
+21 February 2022.
+
+Communication fortravel restrictions
+The Department provided a range of communication materials to support the community
+understanding travel requirements. For example, the Department provided social media updates
+regarding travel requirements, including links to the relevant jurisdictional webpages.
+Communication was tailored to meet the varying needs across the community including advice for
+people returning to Australia from overseas. Materials were available online, provided to airlines to
+adapt for use at overseas departure points and available at Australian entry points. A mix of
+targeted advertising, public relations, media engagement and briefing were used as well as tailored
+and accessible information for diverse audiences.
+
+ Key Learnings
+ In 2021 an audit was conducted by the ANAO on the Management of International Travel
+ Restrictions during COVID-1922. The ANAO report noted that the Department’s arrangements for
+ implementing and managing travel restrictions were largely effective and well informed by robust
+ planning and policy advice. Restricting international travel had proven effective in reducing the
+ risk of widespread disease transmission through uncontrolled importation of cases.
+ Considerations in border closures and messaging
+ The rapid closure of Australia’s borders was a crucial early decision in the pandemic response.
+ This decision helped prevent the significant spread of COVID-19 and Australia’s health system
+ becoming overwhelmed. Maximising vaccination coverage prior to reopening the borders enabled
+ the health system to prepare and reduced the rates of severe illness from outbreaks.
+ There were significant social and economic impacts from the border closures. These included the
+ separation of families, financial burden on those who were still required to travel and quarantine,
+ and the economic impact on businesses (such as supply chain and workforce challenges).
+ Biosecurity considerations in the maritime environment
+ The Ruby Princess cruise ship incident highlighted several gaps in Australia’s human biosecurity
+ framework in the maritime environment. These were explored through several external reviews,
+ namely the Inspector-General of Biosecurity review of the Ruby Princess cruise ship incident23,
+ and the NSW Special Commission of Inquiry into the Ruby Princess24. Work is ongoing within
+ both the Department and the Department of Agriculture, Fisheries and Forestry (DAFF), to
+ implement the recommendations from these reviews. Some legislative changes to the Biosecurity
+ Act’s subordinate legislation were made in 2023.
+ These changes include requiring all cruise ships arriving in Australia to arrive in negative pratique
+ (requiring manual permission to disembark passengers) and clarifying the pre-arrival reporting
+ process and timeframes for all incoming vessels to Australia.
+ Any changes to future mechanisms need to be workable during uncertain and dynamic
+ times. Some elements of the Biosecurity Act, such as the Human Biosecurity Control Orders
+
+
+
+22 http.- : /www anao rjOv.au/worlVperformance-auciit'manaqement-international-travel-restrictions-durinq-covid-19
+23 https://www.iqb.qov.au/sites/default/files/documents/iqb-confidence-testinq-report 1 .pdf
+24 https://www.nsw.qov.au/sites/default/files/2023-07/Report-of-the-Special-Commission-of-lnquirv -into-the-Rubv-Princess.pdf
+
+                                                                                                                                42
+ (HBCO), were not used because they were administratively impractical compared to other
+ available measures in federal and state/territory legislation.
+ The HBCO could be reviewed to make them more deployable in situations such as with very high
+ numbers of cases as seen in the Ruby Princess scenario. Other changes such as cruise ships
+ now being in negative pratique combined with other existing federal and jurisdiction-level powers,
+ have to some extent mitigated these concerns. On balance, reforms to the HBCO framework is
+ not priority for legislative change at this time.
+
+       5.2.      Travel requirements - masks, screening pre-departure testing,
+              vaccination and declarations
+Travel restrictions
+In conjunction with measures and travel restrictions to respond to the spread of COVID-19 globally,
+several other actions were taken by the Government and Department to protect Australia. Including:
+   •    Enhanced border measures and communications to keep travellers aware of changes to
+        travel requirements,
+   •        Enhanced health screening,
+   •        Mask wearing and predeparture testing, and
+   •        Travel declarations.
+Further detail is at Attachment 7.
+
+ Key Learnings
+ The substantive provisions of the Biosecurity Act commenced in June 2016, meaning this was the
+ first time many of its human health powers had been utilised. While several preparedness
+ exercises had been conducted prior to 2020, the breadth of possibilities were not covered in
+ those exercises. In particular, the emergency powers had a broader application, and were used to
+ implement a greater range of public health and social measures, than foreseen during the pre­
+ pandemic considerations and exercises.
+ As noted in Section 5.1 - Key Learnings, ensuring the Biosecurity Act is appropriately designed
+ and includes powers to respond to a wide range of scenarios could assist in responding to future
+ pandemics. Central to any consideration regarding changes to the Biosecurity Act is ensuring
+ response mechanisms are proportional to perceived heath threats and the need to balance
+ personal liberties.
+ Speed of response
+ One major strength of Australia’s response was the ability to use emergency determinations
+ under s477 of the Biosecurity Act to respond swiftly and effectively to evolving situations. Strong
+ legal and policy support in the Department enabled s477 determinations to be signed and
+ registered quickly to respond to changing and rapidly emerging events.
+ Variability in measures and messaging
+A key challenge during the pandemic response was the variability in the measures and
+messaging across States and Territories. For example, jurisdictions had varying isolation,
+quarantine, and travel requirements during different phases. Similarly, the resumption of cruising
+was challenged by vastly different reporting and outbreak management requirements across
+jurisdictions.
+ While this was often necessary to manage individual jurisdictional contexts and risks, it resulted in
+ challenges providing consistent public health messaging, causing confusion and eroding trust. It
+ is anticipated the Australian CDC’s establishment will help to address some of these challenges
+ by strengthening relationships between the Commonwealth and States and Territories.
+
+
+                                                                                                       43
+    Actions taken by the Department in response to the pandemic learnings
+    The Department has incorporated lessons identified from the pandemic to improve border health
+    processes. This has included:
+    •    revising pre-arrival and ill traveller reporting procedures to give authorities more lead-time for
+         preparation and a wider baseline for analysing risk and clarifying situations for
+         granting/denying pratique,
+    •    strengthening the Biosecurity Act 2015 to provide greater civil penalties to deter non­
+         compliance,
+    •    improving formal coordination processes between the Department and DAFF, including
+         refining information-sharing about potential threats, and
+    •    refining communication and coordination protocols between human biosecurity officers, the
+         Department and other agencies.
+    The Department is also working to implement changes in response to multiple ANAO audits of
+    border health arrangements during COVID-19.
+
+          5.3.            International partner engagement on vaccines and treatments
+Timely access to COVID-19 vaccines was crucial to Australia achieving high immunisation rates
+during the early stages of the pandemic.
+
+Australia’s COVID-19 vaccine purchases
+As outlined in Section 3.4, Australia’s investments in vaccines included both sovereign and
+international options. This provided the Government with choice and flexibility during vaccine
+development uncertainty. This section focuses on our international vaccine efforts.
+
+Supply flexibility due to strong partnerships
+Throughout 2021 when the vaccination program was experiencing vaccine shortages, the
+Department secured additional vaccines through dose swap arrangements and vaccine purchases
+from other countries experiencing a surplus. For example:
+Dose swap
+•       500,000 doses of Pfizer were provided by Singapore on 31 August 2021 with Australia then
+        providing 500,000 doses to Singapore in November 2021, and
+•       Four million doses of Pfizer were provided by the United Kingdom (UK) on 3 September 2021
+        with Australia then providing four million doses to the UK in November and December 2021.
+Surplus purchases
+•       One million doses of Pfizer were purchased from the Republic of Poland on 15 August 2021,
+        and
+•       One million doses of Moderna were purchased from European Union member states on
+        3 September 2021.
+
+International donations
+Australia donated more than 52 million doses to countries in the Indo Pacific and Southeast Asia,
+including:
+•       23.6 million doses as part of our commitment to share 40 million doses through the
+        Department’s procured supply, and
+•       28.5 million doses as part of the commitment to share 20 million doses through DFAT’s
+        agreement with UNICEF.
+                                                                                                              44
+Following the establishment of a separate donation framework with the COVAX Facility, Australia
+offered a further 16.8 million doses for distribution to participating developed and developing
+countries. Included in this, 16,000 doses to Belize, Saint Vincent and the Grenadines.
+
+Indemnity for vaccine manufacturers
+Indemnities were provided to COVID-19 vaccine manufacturers covering certain liabilities that could
+result from the use of their vaccine25. This was not unique in a global context, with indemnities a
+common element of agreements with vaccine manufacturers internationally.
+If the Government did not provide certain indemnities to vaccine manufacturers, there would have
+been significant delays in securing commitments to supply or even a refusal from manufacturers to
+supply vaccines in Australia.
+The COVID-19 Vaccine Claims Scheme was established to maintain public confidence and
+provides support where a person suffered moderate to significant harm following the administration
+of a COVID-19 vaccine. The Scheme is scheduled to end on 30 September 2024.
+       5.4.                COVID-19 Deployments
+The National Critical Care and Trauma Response Centre (NCCTRC) is a key component of the
+Government’s disaster and emergency medical preparedness and response capability to incidents
+of local, national and international significance. The NT Government receives funding from the
+Government to ensure the NCCTRC’s has 24/7 health disaster response capabilities.
+The NCCTRC provides trauma response services and surge workforce capacity to the Royal
+Darwin Hospital and national training and coordination of personnel registered to deploy with
+AUSMAT. AUSMAT team members are drawn from all State and Territories.
+Between February 2020 and April 2022, the AUSMAT undertook 22 COVID-19 related missions; 10
+domestic missions and 12 international missions (see Attachment 8). In addition to deployments,
+the NCCTRC supported the Tokyo Olympic Games and Paralympic Games in 2021, the Beijing
+Winter Olympics and Winter Paralympic Games in 2022 and supported quarantine services at the
+Centre for National Resilience (see Section 3.6).
+
+ Key Learnings
+ During the Omicron outbreak in late 2021 and early 2022, Australia’s domestic public health
+ response constrained the availability of AUSMAT personnel. AUSMAT was able to respond to
+ every requested mission over the course of the COVID-19 pandemic, however personnel
+ constraint impacts on AUSMAT capacity should be considered for the future.
+ An independent review of Australian Emergency Medical Teams (EMT) capabilities
+ commissioned by the Minister for Health and Aged Care in 2023 provided several findings on how
+ to support current and future EMT capability (nationally and internationally). These findings are
+ being used to support the further development and refinement of Australia’s existing EMT
+ capabilities including strengthening the domestic deployment capabilities of AUSMAT.
+
+       5.5.                International engagement
+The Department engaged with other countries facing similar experiences with COVID-19 vaccine
+programs such as New Zealand and the United Kingdom. This provided an opportunity to share
+learnings about the implementation of the COVID-19 vaccine programs and other activities
+
+
+
+
+25 Public Governance, Performance and Accountability Amendment (Vaccine Indemnity) Bill 2023 -
+Submission from the Department of Health and Aged Care to the Senate Finance and the Public Administration Legislation Committee -
+Inquiry into Public Governance, Performance and Accountability Amendment (Vaccine Indemnity) Bill 2023
+
+                                                                                                                                45
+occurring internationally. The Department also participated in regular forums initiated by the COVAX
+Facility.
+The TGA collaborated with international regulators leveraging information received from the:
+      -      Australia-Canada-Singapore-Switzerland-United Kingdom (Access) Consortium,
+      -      European Medicines Agency OPEN initiative,
+      -      United States Food and Drug Administration,
+      -      Medsafe, (New Zealand), and
+      -      International Coalition of Medicines Regulatory Authorities.
+The TGA was one of four regulators invited by the European Union to take part in their vaccine
+evaluation meetings. This enabled detailed discussions on the safety, efficacy and quality of
+vaccines with one of the world’s major regulators.
+To support surveillance efforts, the CMO held regular, informal discussions with counterparts from
+Canada, New Zealand, United Kingdom, and the United States. These discussions allowed sharing
+of technical and policy details to improve the understanding of challenges. The group continues to
+meet to discuss public health approaches to COVID-19 and emerging threats including approaches
+to seasonal flu.
+
+    Key Learnings
+    Engagement through strong international connections can facilitate early access of information on
+    emerging infectious health threats. Working closely with global partners to manage threats helps
+    enable early and informed decision making on domestic responses. It also guides global and
+    regional responses and informs targeted support Australia can offer its neighbours.
+    Further, Australia is actively engaged in two separate but linked negotiations. The development of
+    a new international instrument on pandemic prevention, preparedness and response (pandemic
+    treaty) and amend the International Health Regulations 2005 (IHR). A strong global health system
+    is critical for improving the detection and prevention of infectious disease outbreaks.
+    The new Health Security Unit in the Interim Australian CDC will look to harness these
+    opportunities and strengthen Australia’s health protection framework.
+
+
+
+Relevant Term(s) of Reference: Mechanisms to better target future responses to the needs
+of particular populations (including across genders, age groups, socio-economic status,
+geographic location, people with disability, First Nations peoples and communities and
+people from culturally and linguistically diverse communities).
+
+
+     6.   Preparation and readiness for future responses
+This section will cover:
+Details of mechanisms implemented or planned to improve future emergency responses, not
+otherwise noted in prior sections, including:
+•     6.1 - Evidence based decision making
+•     6.2 - Key data assets, systems and capability
+•     6.3 - Aged Care
+•     6.4 - First Nations, Disability and CALD
+
+
+
+
+                                                                                                    46
+           6.1.                  Evidence based decision making
+The COVID-19 pandemic required a rapid and adaptable response from the Government. It was
+important to have as much research, data and information available to enable evidence-based
+decisions.
+The Department required additional capabilities and capacity to meet the speed and scale of the
+pandemic. For example, the Department commissioned several modelling pieces from the
+University of Melbourne (UoM), including the Doherty Institute, to inform policy on public health and
+social measures. The UoM’s Situational Assessment of COVID-19 in Australia reports26 used
+epidemiological data to model health service presentations and the impact of interventions.
+Establishing a better understanding of COVID-19 was an immediate priority given it was a novel
+disease. The Department acted quickly to announce the Medical Research Future Fund (MRFF)
+Coronavirus Research Response on 11 March 2020. Three priority areas for investment were
+identified:
+     -             vaccine development,
+     -             treatment development, and
+     -             other COVID-19 specific respiratory medicines research.
+The MRFF has supported 85 projects across 29 grant opportunities. The National Health and
+Medical Research Council (NHMRC) has supported 44 research projects. Several projects
+supported through the MRFF have contributed to evidence-based decision making and provided
+insights into future emergency pandemic responses including capacity development. Key projects
+are described in Attachment 9.
+Decision-making processes of expert committees, such as the AHPPC and its sub-committees also
+made significant contributions, providing decision makers with the most accurate and timely clinical
+advice available at the time.
+ A research prioritisation framework will be developed as part of the establishment of the Australian
+CDC to facilitate rapid public health research in response to emerging infectious diseases. This
+framework will leverage existing funding mechanisms, including the MRFF and NHMRC, to explore
+ways to reduce red tape and improve the timeliness of approval and disbursement processes.
+           6.2.                  Key data assets, systems and capability
+The value of data linkage work extends beyond COVID-19 into many other settings, including other
+infectious diseases and chronic conditions. A clear learning from the pandemic is the need for a
+national interoperable surveillance system with inputs from other data sources. This will allow
+improved monitoring capability, understanding of disease trends, and inform how government
+investments can be targeted most effectively.
+The Government, in partnership with States and Territories, made significant improvements to
+Australia’s data capabilities during the pandemic. This included:
+•    establishing track and trace capability for COVID-19 vaccines,
+•    weekly linking of AIR, MBS, and PBS data into the Person Linked Integrated Data Asset. In
+     addition, there was the rapid linkage of population level data by creating a national single
+     COVID-19 database, the COVID-19 Register. A national dashboard of ICU activity, the Critical
+     Health Resources Information System was also developed,
+•    establishing strong data sharing relationships with jurisdictions, other departments and providers
+     underpinned the timely integration of data, and
+
+
+
+
+26 https://mspqh.unimelb.edu.au/research-groups/centre-for-epidemiologv-and-biostatistics-research/infectious-disease-dvnamics/covid-
+J9   tio      ti    t ic asses     rt
+
+                                                                                                                                   47
+•   developing internal capability and relationships to produce robust research and evidence which
+    uses complex linked datasets.
+Bolstering data capabilities and maintaining investments in data systems will remain a key part of
+Australia’s pandemic preparedness. In particular there are opportunities to incorporate national
+hospitalisations and case data to provide a quantitative indicator of case severity in addition to
+mortality data.
+There are further opportunities in relation to national disease surveillance. The National Notifiable
+Disease Surveillance System (NINDSS) is the core data system used for national COVID-19
+surveillance. The NINDSS coordinates national surveillance of communicable diseases through
+daily reports from jurisdictions. The NINDSS is case-based, not person-based, and it is not possible
+to link case information to personal information in other health and social datasets to further analyse
+at-risk populations.
+System deficiencies further reduced the Department’s ability to coordinate national response
+activities. Ad-hoc data systems were developed to address these deficiencies however these
+interim solutions often result in policies and products being developed based on data sourced from
+a range of different systems.
+      6.3.           Workforce
+The pandemic exacerbated existing challenges faced by the health and aged care workforce. The
+Department worked with other agencies and governments to facilitate movement of health and aged
+care workers. This included support for short term exemptions to work restrictions for international
+medical and nursing students and introducing additional flexibilities to workforce programs. Despite
+these efforts, challenges remained.
+Domestic and international travel restrictions and the associated costs with quarantine compounded
+challenges in attracting overseas trained workforce, and movement of other essential health and
+aged care workforces such as AUSMAT.
+As a result, the Visas for GPs Program saw a 30% reduction in the number of Health Workforce
+Certificates issued for overseas doctors in 2020-21 compared to 2019-20.
+In 2020, changes to the AHPRA sub-register made up to 26,000 practitioners eligible to practice
+once again. However, surveys indicated only 8% of these practitioners returned to the workforce.
+To provide greater flexibility to health professionals, the locum tenens period was extended from
+two weeks to twelve weeks. The extension was a temporary change to support the COVID-19
+response, reducing the number of Medicare provider number applications and allowing faster
+processing of applications for health professionals.
+As discussed in Section 4.4, as part of the Private Hospital Viability Guarantee, the Government
+and jurisdictions partnered with the private hospital sector to utilise the 30,000 hospital beds, and
+the sector’s 105,000 skilled workforce across 657 private and not-for-profit hospitals.
+While the private hospital capacity was useful as part of the Victorian aged care response in 2020, it
+quickly became apparent that the workforce serving private hospitals was not a dedicated
+workforce. Much of the 105,000 headcount was also engaged in aged care and public hospital
+settings, meaning it was not able to be redeployed in the public hospital and aged care sectors.
+The vaccination rollout was a substantial effort and required a redistribution of resources and
+workforce to ensure the timely and effective delivery of COVID-19 vaccines to Australians. This
+redistribution may have impacted capacity in other parts of the health system.
+      6.4.           Aged care future state preparedness and response
+Since the delivery of the Royal Commission into Aged Care Quality and Safety Final Report, the
+Government has invested more than $30 billion in additional funding into the aged care system.
+
+
+
+                                                                                                        48
+The Government’s reform agenda for aged care also aims to ensure that older people in Australia
+are prioritised and there are continued improvements in quality, safety and choice. This is being
+achieved through a suite of reforms, including:
+  •     Workforce support for upskilling and furloughing of staff,
+  •     support for facilities to address the direct additional costs,
+  •     introducing star ratings to make informed choices,
+  •     funding a 15% wage rise for more than 250,000 aged care workers,
+  •     face-to-face support in Services Australia service centers, and
+  •     expanding the National Aged Care Mandatory Quality Indicator Program.
+These reforms complement the continued focus on recovery and maintenance of the aged care
+sector’s response capability and preparedness for any future pandemics. The Department continues
+to support aged care providers to build their capability and capacity by:
+  •   providing on-going financial assistance that supports the planning for and management of
+      outbreaks, including COVID-19 and other infectious diseases,
+  •   Supporting continued surge workforce for RACHs impacted by an outbreak and experiencing
+      staff shortages, and
+  •   On-going access to IPC resources and online training material, surveillance and monitoring
+      activities and research into existing IPC processes.
+      6.5.           Supporting people from First Nations communities
+Early in the pandemic the Government acknowledged that First Nations peoples were likely to be
+disproportionately impacted by COVID-19. This led the Department implementing measures to
+support First Nations communities that complemented and aligned with the priority reforms of the
+National Agreement on Closing the Gap, in close partnership with First Nations stakeholders.
+First Nations emergency responses measures were developed through partnership and planning at
+the local level. A COVID-19 Advisory Group, jointly chaired by the Department and the NACCHO,
+brought together expert medical and First Nations representatives to strengthen First Nations voices
+on COVID-19 issues. The Advisory Group formally transitioned in 2023 to the National Aboriginal
+Torres Strait Islander Health Protection sub-committee (NATSIHP), a sub-committee of the AHPPC.
+ACCHOs were essential in the COVID-19 response. Funding was provided to the ACCHO sector to
+implement COVID-19 responses that were bespoke and tailored to the local community. The
+Government worked with the sector to provide flexible funding to ensure suitability for local
+communities with diverse needs. This ensured fit for purpose communication, support and advice
+for First Nations people.
+Since 1 January 2023, the Government has been transitioning the COVID-19 response to normal
+health service delivery arrangements. The Department is continuing to work in partnership with the
+NACCHO, NATSIHP, ACCHOs and communities to implement measures to increase vaccination
+uptake and promote community-led, targeted and local COVID-19 responses for First Nations
+people.
+      6.6.           People with Disability
+People with disability experienced profound challenges throughout the COVID-19 pandemic. These
+included difficulties accessing disability supports, health services and information to help them
+navigate the health emergency. Some people with disability continue to isolate themselves from the
+community to avoid risk of exposing themselves to COVID-19.
+Australian data indicates people with disability, as a population, are at higher risk of severe disease
+and death due to COVID-19 than the general population. This is likely due in part to the increased
+
+                                                                                                     49
+prevalence of complex underlying health conditions amongst this group. Other factors may also
+contribute to this risk, including inequitable access to health services.
+The Government and State and Territory Governments encountered several challenges in
+responding to the COVID-19 health emergency for people with disability, including:
+•   communicating effectively and efficiently with people with disability (with diverse communication
+    needs), their families and the disability support workforce,
+•   delivering appropriate adjustments to ensure people with disability can access testing and
+    vaccination services,
+•   preventing and supporting the management of outbreaks in disability residential services
+    operating with a casualised workforce with no or limited clinical staff, and
+•   overcoming data limitations to obtain information on vaccination rates and the impact of the
+    pandemic on people with disability (e.g. data on COVID-19 mortality rates among people with
+    disability).
+Some key learnings27 observed throughout the pandemic include:
+•   The impacts of COVID-19 on people with disability have been profound but varied reflecting the
+    diversity of health and support needs among this population,
+•   Systemic efforts to engage people with lived experience early in the design of the emergency
+    responses will help to ensure responses are appropriately informed from the beginning,
+•   Community-informed responses to engaging and communicating with people with disability will
+    help enable more effective engagement and better dissemination of information,
+•   Communication of health advice to people with disability must be tailored, directed through the
+    right channels to help it reach target groups quickly, and in an appropriate format to be
+    accessed and understood,
+•   Addressing data gaps and better data capture will support more informed health responses, and
+•   Clear governance arrangements between Government health and disability agencies at the
+    federal and jurisdictional levels will enable better future health emergency responses.
+Collaboration between relevant areas of the Department, Government agencies, State and Territory
+health and disability agencies and the disability community were pivotal in shaping emergency
+response measures for people with disability. This collaboration improved throughout the pandemic.
+Groups like the Advisory Committee on the Health Emergency Response to COVID-19 for People
+with Disability established in April 2020 and the Disability and Health Sector Consultation
+Committee in April 2021 were central to the improved collaboration.
+       6.7.        Supporting people from Culturally and Linguistically Diverse
+                    communities
+Experience of the COVID-19 pandemic showed diverse and tailored responses are required to
+effectively engage with everyone in Australia. According to the ABS 2021 Census, over half of the
+Australian population were born overseas or have one parent born overseas. Over 350 different
+languages are spoken in homes in Australia and almost a quarter of households use a language
+other than English.
+
+
+
+
+27 These reflect learnings from the Advisory Committee captured in the ‘Lessons Learned During the COVID-19 Pandemic' report,
+accessible via: http 7www.healfh.gov.au/resources/pubiications/iessons-learned-during-the-covid-19-pandemic-advison/-committee-on-
+the-health-emergency-response-to-covid-19-for-people-with-disability .
+
+
+
+                                                                                                                                50
+Prior to 2020, the Department’s communication with people from CALD backgrounds was limited. It
+was done by translating existing assets and engaging media outlets such as SBS and large-scale
+ethnic press. Lack of specialised skills and limited capacity meant the most populous groups were
+targeted more frequently. COVID-19 revealed health system weaknesses, and barriers these
+groups faced accessing information and health care.
+While translated materials were important to ensure CALD communities had access to information,
+79% of Australian CALD populations surveyed in 2023 prefer to receive their health information in
+plain English and 84% prefer audio-visual resources. Opportunities for people to have in-language
+and culturally safe conversations with people they trust, where they feel confident to ask questions,
+are also very effective in helping people overcome barriers to access. Intermediaries (community
+leaders/trusted messengers) are gateways to genuine engagement and communication within
+CALD communities.
+From December 2022, the Department established a dedicated Multicultural Health Section to lead
+a coordinated approach and ensure policies and programs across the portfolio consider are
+culturally safe and responsive to the needs of multicultural communities in their design and
+implementation.
+      6.8.           Communication with diverse groups
+Three key groups - the CALD Communities COVID-19 Health Advisory Group, the First Nations
+Health Advisory Group, and the Disability Working Group - played essential roles in the
+Government’s communication response to COVID-19. They provided pathways to build trust with
+diverse communities and their lived experience helped to improve processes, enhancing community
+access and understanding of issues.
+Their advice has led to lasting improvements.
+The ongoing advice and scrutiny provided by these groups has led the Department to reflect on its
+engagement with diverse groups and explore ways to improve this capability.
+
+
+
+
+                                                                                                   51
+7.    Glossary
+ABF        Australian Border Force
+ABS        Australian Bureau of Statistics
+ADF        Australian Defence Force
+ACCHO      Aboriginal Community Controlled Health Organisations
+AHPPC      Australian Health Protection Principal Committee
+ANAO       Australian National Audit Office
+APA        Advance Purchase Agreements
+AUSMAT     Australian Medical Assistance Team
+CALD       Culturally and Linguistically Diverse
+CDNA       Communicable Diseases Network Australia
+GET        National COVID-19 Clinical Evidence Taskforce
+CRTCA      COVID-19 Rapid Test Concessional Access
+CVAS       COVID-19 Vaccine Administrative System
+Defence    Department of Defence
+DFAT       Department of Foreign Affairs and Trade
+DMA        Department of Home Affairs
+DBS        Department of Social Services
+EMT        Emergency Medical Team
+GPRC       General Practice-led Respiratory Clinics
+MSP        Hearing Services Program
+IHR        International Health Regulations 2005
+LwC        Living with COVID program
+MBS        Medicare Benefits Scheme
+MRAC       MBS Review Advisory Committee
+MRFF       Medical Research Future Fund
+NACCHO     National Aboriginal Community Controlled Health Organisation
+NATSIHP    National Aboriginal Torres Strait Islander Health Protection sub-committee
+NBCSP      National Bowel Cancer Screening Program
+NCSP       National Cervical Screening Program
+NCCTRC     National Critical Care and Trauma Response Centre
+NDIA       National Disability Insurance Agency
+NMS        National Medical Stockpile
+NINDSS     National Notifiable Disease Surveillance System
+OCS        Operation COVID Shield
+OPAN       Older Person Advocacy Network
+PBAC       Pharmaceutical Benefits Advisory Committee
+PBS        Pharmaceutical Benefits Scheme
+PGR        Polymerase chain reaction
+PHN        Primary Health Network
+PHLN       Public Health Laboratory Network
+PIP        Practice Incentives Program
+PM&C       Department of the Prime Minister and Cabinet
+POCT       COVID-19 Remote Point of Care Testing
+RACK       Residential Aged care homes
+RAT        Rapid Antigen Test
+rHTA       rapid Health Technology Assessment
+RACGP      Royal Australian College of General Practitioners
+SAHQ app   South Australian Home Quarantine Application
+SIL        supported independent living disability settings
+SSHMS      Suicide and Self-Harm Monitoring System
+TGA        Therapeutic Goods Administration
+TTS        thrombosis with thrombocytopenia
+UoM        University of Melbourne
+VACRC      Victoria Aged Care Response Centre
+WHO        World Health Organization
+

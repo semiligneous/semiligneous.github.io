@@ -1,0 +1,432 @@
+COMMONWEALTH GOVERNMENT COVID-19 RESPONSE INQUIRY
+
+
+
+
+       AUSTRALIA’S COVID-19 RESPONSE:
+
+INTELLECTUAL PROPERTY AND PUBLIC HEALTH
+
+
+
+
+                                                          9'
+
+
+
+
+                               VACCINE?
+                              _ '•   FwKltci r'Wi   4LL
+
+
+
+
+     Universities Allied for Essential Medicines, Free the Vaccine Campaign
+
+
+
+                       DR MATTHEW RIMMER
+
+PROFESSOR OF INTELLECTUAL PROPERTY AND INNOVATION LAW
+
+   THE AUSTRALIAN CENTRE FOR HEALTH LAW RESEARCH
+
+                 FACULTY OF BUSINESS AND LAW
+
+          QUEENSLAND UNIVERSITY OF TECHNOLOGY
+
+
+
+
+                  Queensland University of Technology
+
+
+
+
+                Work Telephone Number:
+SUMMARY
+
+
+The purpose of the Commonwealth Government COVID-19 Response Inquiry (the Inquiry) is to identify lessons
+learned to improve Australia’s preparedness for future pandemics.
+         There has been a growing literature on COVID-19 law and policy - looking at the responses of international
+institutions, national governments, and judicial systems to the public health crisis.1 This submission focuses upon the
+role of intellectual property in terms of Australia’s COVID-19 response. The Federal Government has responsibility
+for intellectual property law and policy - both under the intellectual property power and the external affairs power of
+the Australian Constitution?' So this submission does concern the ‘role of the Commonwealth Government’ in terms
+of ‘key health response measures’ and ‘international policies to support Australians at home and abroad.’
+         This submission focuses on the intellectual property dimensions of Australia’s response to the COVID-19 crisis
+- which both has national and international dimensions. Part 1 of the submission considers Australia’s position in
+debates over international intellectual property and access to essential medicines. Part 2 addresses questions in respect
+of patent law and access to essential medicines in the COVID-19 public health emergency. Part 3 explores the diverse
+role of other forms of intellectual property during the COVID-19 crisis.
+
+1.     INTERNATIONAL INTELLECTUAL PROPERTY
+
+This submission focuses upon intellectual property, access to essential medicines, and COVID-19. It considers the
+Australian Government’s response to legal issues in respect of the COVID-19 pandemic relating to intellectual
+property, public health, and international trade. This submission considers the challenges and obstacles presented by
+vaccine nationalism and commercial profiteering during the COVID-19 crisis.
+
+TRIPS Waiver. There was a call by                         of UNAIDS and Oxfam for a ’People’s Vaccine’ during the
+COVID-19 crisis.3 This call was taken up by civil society organisations, health groups, and developing countries. In
+international debates over intellectual property, trade, and public health, India and South Africa proposed a TRIPS
+Waiver to enable nation states to suspend the operation of the TRIPS Agreement 1994 insofar as it related to
+technologies needed to combat the COVID-19 crisis.4 The Australian Government vacillated on the topic of a TRIPS
+Waiver. At first, the Morrison Government was unwilling to support the TRIPS Waiver proposal. The Australian Labor
+Party5 and the Australian Greens6 were critical that the Morrison Government was non-committal about the TRIPS
+Waiver. The Morrison Government then changed its position, and expressed limited support for a TRIPS Waiver
+confined to vaccines.7 This switch of position coincided with a diplomatic change of position by the Biden
+Administration - which expressed a willingness to support a TRIPS Waiver for vaccines. However, the proposal for a
+TRIPS Waiver did not reach consensus support.8 The European Union, the United Kingdom, and Switzerland were
+obstinate in their opposition to a TRIPS Waiver (whatever form that might take).9 Arguably, a full endorsement of the
+TRIPS Waiver by the Australian Government would have helped boost domestic biomanufacturing of vaccines,
+treatments, diagnostics, and health-equipment, as well as assist our near neighbours in the Asia-Pacific.
+
+Ministerial Decision. In 2022, the Ministerial Conference of the World Trade Organization agreed to the Ministerial
+Decision on the TRIPS Agreement 2022.10 This limited decision allowed for the broader use of compulsory licensing
+of patents for the purpose of exporting vaccines.11 Australia’s Minister for Tradeargued that the decision
+sent ‘a powerful signal of global solidarityin fighting COVID-19 and reaffirming the role the WTO can play in
+responding to urgent global issues’.12BBBWinsisted that the decision ‘will support equitable access to vaccines for
+developing countries, including across the Indo-Pacific region.’13 However, many civil society organisations in
+Australia were disappointed by the Ministerial Decision on the TRIPS Agreement 2022.14 In practice, the decision has
+had no influence on the distribution of vaccines to deal with the COVID-19 crisis.
+
+Pandemic Treaty. The Australian Government is involved in negotiations in the World Health Organization over the
+foundation of a Pandemic Treaty,15 and discussions on changes to International Health Regulations.16 The Federal
+Department of Health has observed that a number of principles guide Australia’s approach to the negotiations.17 The
+Australian Government wants to ‘maintain Australia’s sovereignty to make and implement decisions to protect the
+health of Australians.’18 It hopes to ‘promote fairness, advance gender equality, and uphold human rights’.19 At the
+same time, the Australian Government has vowed to ‘uphold intellectual property rights’.20 There has been discussion
+as to whether a Pandemic Treaty should include text on intellectual property, and, if so, what form that text should take.
+
+                                                            2
+There has been a call from civil society and developing nations to recognise intellectual property flexibilities in a
+Pandemic Treaty, as well as alternative models of research and development, such as open innovation.21
+
+2.     PATENT LAW
+
+There has been a longstanding debate over the relationship between patent law and access to essential medicines.22
+There have been controversies over the role of patent law and the provision public health in relation to HIV/AIDS,
+malaria, and tuberculosis. There have been patent races in relation to new emerging infectious diseases, such as the
+SARS virus,23 avian influenza, the Zika virus. The COVID-19 crisis provided a new context in which there have been
+tensions in respect of intellectual property and access to essential medicines.
+
+Patent Litigation. There have been patents filed around in respect of COVID-19 related technologies - including
+vaccines, diagnostics, treatments, and health equipment. The patent landscape is a very messy one with thickets of
+patents around key technologies designed to address COVID-19. There has been increasing patent disputes over key
+technologies related to COVID-19 vaccines.               and ^^^^^|have challenged^^^^^^BcOVID-19 vaccine
+patents at the US Patent Office.24                                  has brought patent infringement action against^^M
+and            over its patents in lipid nanoparticle technology.25 No doubt there will be Australian patent disputes over
+key COVID-19 vaccines, diagnostics, and treatments in the future. The ultimate patent ownership and control of
+COVID-19 vaccinees, diagnostics, treatments, and health equipment will have ramifications for Australia’s public
+health.
+
+Patent Flexibilities. During the COVID-19 crisis, there was debate in the Australian Parliament as to whether the
+Australiai^rovenimun^hould make use of patent flexibilities - such as Crown Use and compulsory licensing.26 The
+Hon.                        of the Australian Labor Party questioned the Morrison Government as to whether it would
+use patent flexibilities to address public health concerns.27 The Australian Government should make use of domestic
+compulsory licensing flexibilities under patent law in order to ensure fair competition, boost public health, and enable
+technology transfer. Australia should enable the use of compulsory licensing for the purposes of the export of essential
+medicines - particularly to developing countries and least developed countries in the Asia-Pacific. If need be, the
+Australian Government should deploy Crown Use provisions and government acquisition powers in the case of market
+failure in the production and distribution of COVID-19 technologies.
+
+Patent Licensing. The Medicines Patent Pool expanded its mandate and jurisdiction so that it could cover the COVID-
+19 crisis.28 The organisation seeks to overcome intellectual property barriers through voluntary licensing Australia
+should reinforce the work of the Medicines Patent Pool in the distribution of COVID-19 related technologies. Public
+sector research organisations, philanthropic entities, and private companies should contribute to the Medicines Patent
+Pool.
+         The World Health Organization established the C-TAP - the Coronavirus Technology Access Pool - building
+upon a proposal from Costa Rica.29 The Australian Government, public sector research organisations, philanthropic
+entities, and private companies should contribute to C-TAP.
+         The Universities Allied for Essential Medicines argued that there should also be scope for public sector licensing
+- particularly where there has been public sector funding of COVID-19 related technologies.30
+         The Open COVID Pledge was a useful means of allowing intellectual property owners to signal that they would
+decline to engage in IP litigation during the COVID-19 crisis.31 There has been much interest in the development of
+open innovation models to help the development of new vaccines, diagnostics, and treatments for COVID-19. The
+COVID Moonshot project is an example of an Open Science project.32
+
+3.     OTHER FORMS OF INTELLECTUAL PROPERTY
+
+Copyright Law and Access to Knowledge. COVID-19 had an impact upon access to knowledge, education, and
+learning - particularly during lockdown periods. In this context, a number of digital libraries sought to make materials
+more widely available during the public health emergency.
+       In response, publishers sued the Internet Archive in the United States for copyright infringement over its digital
+lending scheme and its National Emergency Library.33 The Internet Archive argued that its actions were protected by
+
+
+
+                                                            3
+the defence of fair use - and various copyright exceptions. The publishers have prevailed at first instance - but the
+matter is under appeal.
+        It would be worthwhile considering the operation of Australia’s copyright law and its exceptions during a public
+health emergency. The current purpose-specific fair dealing provisions under copyright law are not necessarily well-
+adapted to deal with the exigencies of a public health epidemic.
+
+Designs Law and the Right to Repair. During the COVID-19 crisis, the Productivity Commission was conducting an
+inquiry into the right to repair.34 This investigation looked at intellectual property (including designs law); consumer
+law and competition policy; and environmental stewardship and sustainable development. The Productivity
+Commission made a number of recommendations to support a right to repair in Australia.35 However, the Productivity
+Commission recommended that there should be a separate inquiry into the topic of the medical right to repair. The
+question of the medical right to repair was highlighted by the COVID-19 crisis - in which there was a need to repair
+and fix medical equipment and supplies in the middle of lockdowns. There has been a call for a recognition of the
+medical right to repair - particularly in the context of public health emergencies.36
+
+Trade Marks. During the COVID-19 pandemic, there was a rush to register COVID-19 related trade marks in relation
+to a wide range of goods and services. IP Australia took a hard line against trade mark applications containing references
+to COVID-19.37 IP Australia rejected many applications on the basis that the registration of COVID-19 Marks would
+be scandalous or offensive to ordinary Australians in view of the detrimental impact of the pandemic in Australia. IP
+Australia was also reluctant to grant trade marks in respect of descriptive uses of the term of COVID-19.
+
+Consumer Protection. Consumer law is often conceived as an important supplement to trade mark law. The ACCC
+took action in respect of false and misleading representations about COVID-19 made by companies. Notably, the
+ACCC brought litigation againstin the Federal Court of Australia over its false ‘anti-virus activewear’
+claims.38 The ACCC also initiated action against                      for misleading representations about government
+approval of products - during public concern about COVID-19.39 The Therapeutic Goods Administratior^HGA) also
+took action over illegal advertising related to COVID-19. The TGA issued infringement notices to                company
+over the promotion of                   device.40 There were also larger problems in respect of fraudulent claims relating
+to COVID vaccinations - and a larger increase in fraud during the COVID-19 lockdown period.41
+
+Trade Secrets and Data Protection. Trade secrets have played an important role in vaccine development, and the
+creation of diagnostics and treatments during the COVID-19 pandemic.42 There have been a number of instances in
+which COVID-19 vaccine developers have brought action for breach of trade secrets (not always with success).43
+National governments have also taken action in respect of trade secrets theft of COVID-19 technologies directed by
+foreign principals.44 Some scholars have called for compulsory licensing of trade secrets to ensure access to COVID-
+19 vaccines.45 There has been discussions of the use of data protection in respect of COVID-19 related information and
+knowledge.
+
+CONCLUSION
+
+The Commonwealth Government COVID-19 Response Inquiry should seek to investigate Australia’s position in
+international intellectual property debates during the COVID-19 crisis - in particular, looking at the TRIPS Waiver
+proposal, the Ministerial Decision on the TRIPS Agreement 2022, and the Pandemic Treaty. Clearly, there needs to be
+better articulated intellectual property flexibilities to deal with public health emergencies. There should be a review of
+Australia’s patent law, policy, and practice to see whether it was well-adapted to deal with the public health emergency
+of the COVID-19 crisis. Likewise, there is a need to consider other fields of intellectual property, and their role during
+the COVID-19 pandemic. Copyright law had a significant impact in relation to access to education, knowledge, and
+learning during COVID-19 lockdowns. Intellectual property and the medical right to repair were an important issue
+during the COVID-19 crisis. Trade mark law and consumer protection played an important role in dealing with
+misleading and deceptive representations about COVID-19. Trade secrets and data protection also played a significant
+role as supplementary forms of intellectual property protection in relation to COVID-19 technologies. Intellectual
+property law and policy has also had a bearing in respect of COVID-19 recovery plans.46 Australia should conduct a
+full review of its intellectual property system to see whether it is well prepared for future pandemics.47
+
+
+
+                                                            4
+Biography
+
+
+Dr Matthew Rimmer is a Professor in Intellectual Property and Innovation Law at the Faculty of Business and Law, at
+the Queensland University of Technology (QUT). He has published widely on copyright law and information
+technology, patent law and biotechnology, access to medicines, plain packaging of tobacco products, intellectual
+property and climate change, Indigenous Intellectual Property, intellectual property and trade, and 3D printing
+regulation. He is undertaking research on intellectual property and sustainable development (including the debate over
+the right to repair); greenwashing; intellectual property, access to essential medicines, and public health (particularly
+looking at the COVID-19 crisis), and tobacco endgame policies. His work is archived at QUT ePrints, SSRN
+Abstracts, Bepress Selected Works, and Open Science Framework.
+        Rimmer has published four major research monographs. Rimmer is the author of a research monograph, The
+Trans-Pacific Partnership: Intellectual Property and Trade in the Pacific Rim (Edward Elgar, 2020), Intellectual
+Property and Climate Change: Inventing Clean Technologies (Edward Elgar, 2011), Intellectual Property and
+Biotechnology: Biological Inventions (Edward Elgar, 2008), and Digital Copyright and the Consumer Revolution:
+Hands off my iPod (Edward Elgar, 2007). His PhD Dissertation is on The Pirate Bazaar: The Social Life of Copyright
+LawifnSSW, 2001).
+        Rimmer has also edited a number of collections. In collaboration with Bita Amani and Caroline B. Ncube,
+Rimmer is the editor of the Elgar Companion on Intellectual Property and the Sustainable Development Goals (Edward
+Elgar, 2024). Along with Dinusha Mendis and Mark Lemley, Rimmer is the editor of the collection, 3D Printing and
+Beyond: Intellectual Property and Regulation (Edward Elgar, 2019). Rimmer is the editor of the collection, Intellectual
+Property and Clean Energy: The Paris Agreement and Climate Justice (Springer, 2018). Rimmer has edited a special
+issue of the QUT Law Review on the topic, The Plain Packaging of Tobacco Products (2017) - which featured a
+foreword by former Minister for Health and Attorney-General Nicola Roxon. Rimmer is the editor of the collection,
+Indigenous Intellectual Property: A Handbook of Contemporary Research (Edward Elgar, 2015). Rimmer is also a co­
+editor of Intellectual Property and Emerging Technologies: The New Biology (Edward Elgar, 2012), and Incentivesfor
+Global Public Health: Patent Law and Access to Essential Medicines (Cambridge University Press, 2010). Rimmer
+edited the thematic issue of Law in Context, entitled Patent Law and Biological Inventions (Federation Press, 2006).
+        Over the past two decades, Rimmer's research has been supported by a number of nationally competitive
+research grant applications. Rimmer has been a chief investigator in an Australian Research Council Discovery Project,
+'Gene Patents In Australia: Options For Reform' (2003-2005), an Australian Research Council Linkage Grant, 'The
+Protection of Botanical Inventions' (2003); an Australian Research Council Linkage Grant, Unlocking IP' (2006-2008)
+and an Australian Research Council Discovery Project, 'Promoting Plant Innovation in Australia' (2009-2011). He was
+an Australian Research Council Future Fellow, working on Intellectual Property and Climate Change from 2011 to
+2015. Rimmer was a Chief Investigator on an ARC Discovery Project on 'Inventing The Future: Intellectual Property
+and 3D Printing' (2017-2021). He is a chief investigator of the NHMRC Centre of Research Excellence on Achieving
+the Tobacco Endgame (CREATE) (2020-2025). Rimmer has experience in directing large-scale collaborative research
+projects on intellectual property and global challenges.
+        Rimmer is a chief investigator in the QUT Centre for Behavioural Economics, Society, and Technology (QUT
+BEST); and the QUT Australian Centre for Health Law Research (QUT ACHLR). He is a chief investigator in the
+NHMRC Centre of Research Excellence on Achieving the Tobacco Endgame (CREATE) (2020-2025) - a transnational
+research network. Rimmer was previously the leader of the QUT Intellectual Property and Innovation Law Research
+Program from 2015-2020 (QUT IPIL). He was also a member of the QUT Digital Media Research Centre (QUT
+DMRC), the QUT Centre for the Digital Economy, the QUT Centre for Justice, the QUT Centre for Clean Energy
+Technologies and Processes, and the QUT International Law and Global Governance Research Program.
+        Dr Matthew Rimmer holds a BA (Hons) and a University Medal in literature (1995), and a LLB (Hons) (1997)
+from the Australian National University. He received a PhD in law from the University of New South Wales for his
+dissertation on The Pirate Bazaar: The Social Life of Copyright Law (1998-2001). Dr Matthew Rimmer was a lecturer,
+senior lecturer, and an associate professor at the ANU College of Law, and a research fellow and an associate director
+of the Australian Centre for Intellectual Property in Agriculture (ACIPA) (2001 to 2015). He was an Australian
+Research Council Future Fellow, working on Intellectual Property and Climate Change from 2011 to 2015. He was a
+member of the ANU Climate Change Institute.
+
+
+
+
+                                                           5
+The Australian Centre for Health Law Research
+
+The Australian Centre for Health Law Research (ACHLR) is a research centre based at the Faculty of Business and
+Law at the Queensland University of Technology (QUT).
+        ACHLR is celebrating ten years of making a difference to health law. Health law is critical to support and
+regulate health systems, the delivery of health services and positive health outcomes for individuals and society.
+ACHLR is internationally recognised as a leading health law research centre, with 38 academic members, 20 PhD
+students and 20 esteemed Adjunct Professors in the field of health law from across the globe. ACHLR researchers
+undertake innovative interdisciplinary research into current and emerging health law challenges in Australia and
+globally to produce an evidence base to properly address complex problems in the field of health and inform reforms
+to health law, policy and practice in the context of constant societal change.
+        ACHLR’s research critically evaluates the legal, ethical, policy and regulatory frameworks, both conceptual
+and practical, which support and regulate the delivery of health services in diverse contexts. It distils the links between
+historical and current law, and its informing ethical and social realities and principles. We employ a range of research
+methods, including doctrinal, ethical, and empirical approaches. Our research explains for academic, professional and
+community audiences why the law takes its current form, how it can be critiqued, and how it might be reformed.
+        During its ten-year history, ACHLR researchers have published 784 articles and book chapters; 25 books or
+edited collections; produced 82 reports/policy briefings and submissions to government enquiries or royal
+commissions; and graduated 30 PhD students. ACHLR researchers have been awarded $56 million in grant funding
+during this time.
+        ACHLR’s health law researchers draw on disciplines including ethics, philosophy, medicine, nursing,
+psychology, economics, sociology and social work to address practical problems that arise in the health context. Our
+researchers have a strong track record of undertaking high impact research in health law, policy, ethics, and regulation.
+Our focus is not only on quality scholarship, but generating new knowledge, evidence, and insights to enhance health
+and legal policy and practice, and to improve health outcomes. This research serves the interests of the individuals,
+communities, and institutions that deliver and benefit from health services and other interventions that aim to improve
+health locally and globally.
+        Our research has had significant impact: our recommendations have been adopted by parliaments, courts and
+tribunals, and law reform commissions. Our work has also influenced state and national policy, prompting changes to
+clinical education in universities, hospitals and health departments. ACHLR has a strong international focus and
+presence. We actively continue to build and maintain relationships with external partners to facilitate opportunities for
+research collaborations, funded and unfunded, and to build and maintain our profile as a leading health law centre
+globally.
+
+
+
+
+                                                            6
+          See Colleen Flood et al. (ed.), Vulnerable: The Law, Policy and Ethics of COVID-19, Ottawa: University of Ottawa Press, 2020;
+Victor Ramraj (ed.), COVID-19 in Asia: Law and Policy Contexts, Oxford: Oxford University Press, 2021; Belinda Bennett and Ian Freckelton
+(ed.), Pandemics, Public Health Emergencies and Government Powers: Perspectives on Australian Law, Sydney: Federation Press, 2021; and
+Belinda Bennett, Ian Freckelton and Gabrielle Wolf (ed.), COVID-19, Law and Regulation, Oxford: Oxford University Press, 2023.
+2         On the High Court of Australia’s interpretation of the Australian Constitution in respect of intellectual property, see Matthew Rimmer,
+'Franklin Barley: Patent Law And Plant Breeders' Rights' (2003) 10 (4) Murdoch University Electronic Journal of Law, QUT ePrints:
+https://eprints.qut.edu.au/85372/ and Matthew Rimmer, 'The High Court of Australia and the Marlboro Man: The Battle Over The Plain
+Packaging of Tobacco Products', in Tania Voon, Andrew Mitchell, and Jonathan Liberman (Ed.) Regulating Tobacco, Alcohol and
+Unhealthy Foods: The Legal Issues, London and New York: Routledge, 2014, 337-360.
+          Matthew Rimmer, ‘The People’s Vaccine: Intellectual Property, Access to Essential Medicines, and COVID-19’ (2022) 5 (1) Journal
+ofIntellectual Property Studies 1-71.
+4         World Trade Organization, Waiver from Certain Provisions ofthe TRIPS Agreementfor the Prevention, Containment and Treatment
+of COVID-19, Communication from India and South Africa, (2 October 2020) IP/C/W/669. See further Siva Thambisetty et al., ‘The TRIPS
+Intellectual Property Waiver Proposal: Creating the Right Incentives in Patent Law and Politics to End the COVID-19 Pandemic’, LSE Legal
+Studies Working Paper No 06/2021, 24 May 2021, https://papers.ssm.com/sol3/papers.cfm7abstract id=3 851737
+5         Daniel Hurst, ‘Australian Government “Trying to Have it Both Ways’ on COVID Vaccine IP Waiver’, The Guardian, 25 November
+2021,      https://www.theguardian.com/australia-news/2021/nov/25/australian-govemment-trying-to-have-it-both-ways-on-covid-vaccine-ip-
+waive
+6         Mehreen Faruqi, ‘Omicron Spurs Urgency of TRIPS Waiver and Vaccine Equity’, Greens, Press Release, 29 November 2021,
+https://mehreen-famqi.greensmps.org.au/articles/omicron-spurs-urgencv-trips-waiver-and-vaccine-equitv
+          Paul Karp and Elias Visontay, ‘Australia to Support Vaccine Waiver after Months of Pressure from Human Rights Groups’, The
+Guardian, 8 September 2011, https://www.theguardian.com/societv/2021/sep/08/australia-to-support-vaccine-waiver-after-months-of-
+pressure-from-human-rights-groups
+          Priti Patnaik, The TRIPS Waiver Negotiations at the World Trade Organization, Geneva: Geneva Health Files, 2022.
+9         Ibid.
+10        Ministerial Decision on the TRIPS Agreement 2022, Ministerial Conference, Twelfth Session, Geneva, WT/MIN(22)/39m
+WT/L/1141, adopted on 17 June 2022. See further Siva Thambisetty et al., ‘The COVID-19 TRIPS Waiver Process in Critical Review: An
+Appraisal
+of the        WTO        DG    Text    (IP/C/W/688)       and     Recommendations         for   Minimum         Modifications’     (2022)    SSRN
+https://papers.ssm.com/sol3/papers.cfm7abstract id=4124497
+11        The export mechanism for compulsory licensing under the TRIPS regime has been unworkable - it has only been used by Apotex
+under Canada’s Access to Medicines regime to export HIV/AIDS drugs to Rwanda - and has not been used since: Matthew Rimmer, 'The Jean
+Chretien Pledge to Africa Act: Patent Law and Humanitarian Aid' (2005) 15 (7) Expert Opinion on Therapeutic Patents 889-909; Matthew
+Rimmer, 'Race Against Time: The Export of Essential Medicines to Rwanda' (2008) 1 (2) Public Health Ethics 89-103; and Muhammad Zaheer
+Abbas, ‘Revisiting Canada's Access to Medicines Regime in Response to COVID-19: A Review of the Legislation and its Underlying
+Objectives’ (2022) 34 (2) Intellectual Property Journal 147-180.
+12        The Hon. Don Farell, ‘A Boost in Confidence at the World Trade Organization’, Press Release, Australian Government, 19 June
+2022, https://www.trademinister.gov.au/minister/don-farrelVmedia-release/boost-confidence-world-trade-organization
+13        Ibid.
+14        AFTINET, Amnesty International, Action Aid Australia, International Nepal Fellowship Australia, Public Health Association of
+Australia, and Uniting Church, ‘Meeting re Australia’s Implementation of the WTO Ministerial Decision on the TRIPS Agreement and other
+Measures to Address Global Inequity in Access to COVID-19 Medicines’, 9 August 2022.
+15        World Health Organization, ‘Pandemic Prevention, Preparedness and Response Accord’, 28 June 2023, https://www.who.int/news-
+room/questions-and-answers/item/pandemic-prevention—preparedness-and-response-accord
+16        World Health Organization, International Health Regulations, https://www.who.int/health-topics/intemational-health-
+regulations#tab=tab_ 1
+17        Department of Health and Aged Care, ‘Strengthening Global Health and International Pandemic Response’, Australian Government,
+6 October 2023, https://www.health.gov.au/our-work/strengthening-global-health-and-intemational-pandemic-response
+18 Ibid.
+19 Ibid.
+20 Ibid.
+21 Luke Taylor, ‘WHO Pandemic Treaty: Negotiations falter as Pharma Companies Warn that Intellectual Property Rules Will Harm
+Profits’ (2023) British Medical JoHr/iaZ https://www.bmj.com/content/383/bmj.p2475
+22 Thomas Pogge, Matthew Rimmer and Kim Rubenstein, (ed.) Incentives for Global Public Health: Patent Law and Access to
+Medicines. Cambridge: Cambridge University Press, 2010; Carlos Correa and Reto Hilty (ed.), Access to Medicines and Vaccines:
+Implementing Flexibilities Under Intellectual Property Law, Cham (Switzerland): Springer, 2021; Ana Santos Rutschman, Vaccines as
+Technology: Innovation, Barriers, and the Public Health, Cambridge: Cambridge University Press, 2022; and Emmanuel Kolawole Oke,
+Patents, Human Rights, and Access to Medicines, Cambridge: Cambridge University Press, 2022.
+23 Matthew Rimmer, 'The Race To Patent The SARS Vims: The TRIPS Agreement And Access To Essential Medicines' (2004) 5
+(2) Melbourne Journal ofInternational Law 335-374.
+24 Blake Brittain, ‘Pfizer, BioNTech challenge Modema COVID-19 vaccine patents at US Patent Office’, Reuters, 29 August 2023,
+https://www.reuters.com/legaVlitigation/pfizer-biontech-challenge-modema-covid-19-vaccine-patents-us-patent-office-2023-08-28/
+25 Blake Brittain, ‘Pfizer, Modema hit with new Alnylam patent lawsuits over COVID-19 vaccines’, Reuters, IT May 2023,
+https://www.reuters.com/legaVpfizer-modema-hit-with-new-alnvlam-patent-lawsuits-over-covtd-19-vaccines-2023-05-26/
+                                                                       7
+26 Matthew Rimmer, ‘Australia’s Framework for Access to Essential Medicines: Patent Law, Public Health, and Pandemics’ in Belinda
+Bennett and Ian Freckelton (ed.), Australian Public Health Law Sydney: Federation Press, 2023, 179-216.
+27 The Hon. Brendan O’Connor, ''Coronavirus Economic Response Package Omnibus Bill 2020 (Cth)’, House of Representatives,
+Australian                     Parliament,                    23                   March                   2020,                     2801,
+https://parlinfo.aph.gov.au/parlInfo/search/displav/displav.w3p;querv=Id%3A%22chamber%2Fhansardr%2Fbead2837-76c9-4ce9-952b-
+eafe8e2d614f%2F0026%22
+28 Medicines Patent Pool, https://medicinespatentpool.org/
+29 C-TAP, https://www.who.int/initiatives/covid-19-technologv-access-pool
+30 Universities Allied for Essential Medicines, ‘UAEM Responds to COVID-19’, https://www.uaem.org/covid-19
+31 Open COVID Pledge, https://opencovidpledge.org/
+32 COVID Moonshot, https://dndi.org/research-development/portfolio/covid-moonshot/
+          Matthew Rimmer, ‘The Internet Archive and the National Emergency Library: Copyright Law and COVID-19’, (2022) 11 (5) Laws,
+Article No. 79. (Published 19 October 2022), https://www.mdpi.eom/2075-471X/ll/5/79
+34 Productivity Commission, Right to Repair: Inquiry Report No. 97, Melbourne: Productivity Commission, 2021,
+https://www.pc.gov.au/inquiries/completed/repair/report
+35 Matthew Rimmer, ‘Shane Rattenbury, The Productivity Commission, and The Right To Repair: Intellectual Property, Consumer
+Rights, and Sustainable Development in Australia’, (2022/2023) 37 (3) Berkeley Technology Law Journal 989-1056.
+36 Matthew Rimmer, ‘The Medical Right to Repair: Intellectual Property, the Maker Movement, and COVID-19’, (2023) 15 (20)
+Sustainability Article No. 14839, https://www.mdpi.com/2071-1050/15/20/14839 and Muhammad Zaheer Abbas, ‘The Right to Repair
+Medical Equipment in a Health Emergency: Australia Needs to Reform its Patent Law’, Productivity Commission Submission, 2021,
+https://eprints.qut.edu.au/226434/
+          Michael Cassidy, Gina Tresidder and Kate Littlewood, TP Australia's Natural Immunity to COVID-19 Trade Marks’, Russell
+Kennedy, 30 November 2021, https://www.russellkennedv.com.au/insights-events/insights/ip-australias-natural-immunitv-to-covid-19-trade-
+    ks
+38 ACCC, ‘Loma Jane pays $5 Million over False “Anti-virus Activewear” claims’, ACCC, 23 July 2021,
+https://www.accc.gov.au/media-release/loma-iane-pavs-5-million-over-false-anti-vims-activewear-claims
+39 ACCC, ‘Mosaic Brands pays Penalties for Alleged Misleading Representations about Government Approval of Products’, 15
+S eptemb er      2022,    https://www.accc.gov.au/media-release/mosaic-brands-pavs-penalties-for-alleged-misleading-representations-about-
+govemment-approval-of-products
+40 Therapeutic Goods Administration, ‘Pete Evans' company fined for alleged COVID-19 advertising breaches’, Press Release, 24 April
+2020, https://www.tga.gov.au/news/media-releases/pete-evans-companv-fined-alleged-covid-19-advertising-breaches
+41 Cassandra Cross, ‘Submission to the Vaccine Related Fraud and Security Risks Inquiry’, Australian Parliament, 2021,
+https://eprints.qut.edu.au/226259/
+42 David S. Levine, ‘Trade Secrets and the Battle Against COVID’ (2020) 15 (11) Journal of Intellectual Property Law and Practice
+849.
+43 See for instance Blake Brittain, ‘Emcure Wins Dismissal of US Lawsuit Over COVID-19 Vaccine Trade Secrets’, Reuters, 6
+December 2023, https://www.reuters.com/legal/litigation/emcure-wins-dismissal-us-lawsuit-over-covid-19-vaccine-trade-secrets-2023-12-
+04/
+44 US Department of Justice, ‘Two Chinese Hackers Working with the Ministry of State Security Charged with Global Computer
+Intrusion Campaign Targeting Intellectual Property and Confidential Business Information, Including COVID-19 Research’, Press Release, 21
+July 2020, https://www.iustice.gov/opa/pr/two-chinese-hackers-working-ministrv-state-secuiitv-charged-global-computer-intmsion
+45 Olga Gurgula and John Hull, ‘Compulsory Licensing of Trade Secrets: Ensuring access to COVID-19 Vaccines via Involuntary
+Technology Transfer’, (2021) Journal ofIntellectual Property Law and Practice jpab 129.
+46 Matthew Rimmer, ‘The UNDP Accelerator Lab Network: Intellectual Property, Innovation Policy, Sustainable Development, and the
+COVID-19 Recovery’, in Taina Pihlajarinne, Jukka Tapio Mahonen, and Pratyush Nath Upreti (ed.), Intellectual Property Rights in the Post
+Pandemic World: An Integrated framework of Sustainability, Innovation and Global Justice, Cheltenham and Northampton (Ma.): Edward
+Elgar, 2023, 246-276.
+47 The Independent Panel for Pandemic Preparedness and Response, COVID-19: Make It The Last Pandemic, Geneva: World Health
+Organization, 2021, https://theindependentpanel.org/ (chaired by Ellen Johnson Sirleaf and Helen Clark).
+
+
+
+
+                                                                    8
+

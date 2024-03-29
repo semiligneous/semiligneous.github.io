@@ -1,0 +1,364 @@
+          Australians for
+          Pandemic Prevention
+
+
+Dear Independent Panel,
+
+When the Prime Minister and Health Minister announced the Commonwealth
+Government COVID-19 Response Inquiry, they said the next pandemic is
+inevitable.1 In our view, nothing about pandemics is so inevitable that we should
+rely only on mitigating the risk, rather than seeking to prevent it with concrete
+interventions at multiple levels.
+
+Prevention is almost certain to be more cost-effective than "wait and respond".2
+We can reduce the chance that pathogens with pandemic potential emerge and,
+even if they do, we can also reduce the chance that they turn into pandemics.
+
+Combined domestic action and global leadership is our path to a future without
+pandemics.
+
+
+
+Primary prevention - natural, accidental
+and intentional
+There are a limited number of ways a pandemic can begin, and practical
+interventions on multiple levels across science, public health and communication
+can reduce their likelihood.
+
+Zoonoses have been the major cause of pandemics3 and climate change is
+intensifying their risk.4 Australia is a large and biodiverse country with significant
+factory farming, interdependence on the global animal trade,5 deforestation and
+habitat loss, and a track record of zoonoses - including Hendra virus6 and
+Australian bat lyssavirus.7 The next pandemic-causing organism could originate
+here.
+
+Australia's international statements and biosecurity strategies acknowledge the
+risk of zoonoses and promote a One Health approach.8 But they do not actively
+address the factors that predispose a pathogen to spread to new populations
+and locations or aim to reduce high-risk interactions - including between
+humans, domesticated animals, and wild animals.9 Australian governments
+should:
+
+   1.   Affirm that the Australian Centre for Disease Control should prioritise the
+        prevention of pandemics - natural, accidental and intentional.
+
+   2.      Implement practical measures to reduce the risk of zoonoses.
+
+
+
+                                                                                         1
+         Australians for
+         Pandemic Prevention
+
+Zoonoses are not the only risk. While Australia must keep punching above its
+weight in pathogen research,10 biosafety and dual-use research are genuine
+concerns.
+
+Unfortunately, biosafety incidents happen,11 including in Australia,12 and as recently
+as this year.13 Our risk mitigations need to be effective, innovative and account for
+the potential global consequences if the worst were to happen. Risk also comes
+from the knowledge and technology necessary for engineered pathogens
+becoming more widely available.14 Open publication practices and Al may
+accelerate these trends.15 Australian governments should:
+
+   3. Review biosafety practices and requirements for research involving
+      human or animal pathogens, at a laboratory and national level, to ensure
+      any balancing of risk properly accounts for the global consequences of
+      incidents.
+
+   4. Develop a framework to safeguard against engineered pandemics,
+      including enhancing access controls and screening for certain
+      technologies, such as high-risk synthetic DNA.16
+
+
+
+Early detection and control of novel
+pathogens
+While preventing novel pathogens from emerging is ideal, early detection and
+control can halt outbreaks before they become a pandemic.
+
+
+Early detection
+Early detection allows better response. Ideally, any potential pandemic pathogen
+would be identified and understood early enough that it can be contained and
+eliminated via rapid escalation at the first sign of an outbreak. Developing field
+and lab-based technologies, including metagenomics-enabled microbial
+surveillance, may be ready to make this a reality.17 The same technology would
+have co-benefits, allowing Australia to unlock promising use cases including in
+agriculture, precision medicine and combating the impact of climate change and
+antimicrobial resistance on disease outcomes.18 Australian governments should:
+
+
+
+
+                                                                                     2
+          Australians for
+          Pandemic Prevention
+
+   5. Operate and coordinate pathogen-agnostic metagenomic surveillance
+      in strategic locations - like aviation wastewater19 and human-livestock
+       interfaces - to allow the early identification and assessment of novel
+       pathogens.20
+
+   6. Develop and regularly exercise a national plan to contain and eliminate
+       novel pathogen outbreaks with pandemic potential.
+
+
+Indoor air quality as a public health strategy
+While clean water has been a public health priority for almost 200 years, the
+importance of clean air was undervalued pre-COVID-19. As respiratory viruses
+spread rapidly, widespread implementation of existing and emerging air filtration
+and pathogen inactivation technologies may slow the spread of a novel
+pathogen and provide time for early detection and medical and human
+interventions to translate into effective action. Improving indoor air quality would
+both aid pandemic prevention and provide additional health, educational and
+economic benefits.21 Australian governments should:
+
+   7. Develop an indoor air quality strategy with practical measures to make
+      indoor air safer, including implementing mature technologies in
+      high-risk settings.22
+
+   8. Fund research into promising pathogen reduction technologies,
+      including far-UVC light, and evolve the indoor air quality strategy as new
+      technology becomes available.
+
+COVID-19 showed us that the human, social and economic costs of pandemics
+are catastrophic, and that willingness to act on the advice of experts was critical
+to good outcomes.23 These eight recommendations, implemented nationally and
+promoted globally through capacity-building efforts, could substantially reduce
+the rate at which pandemics occur. With the right ambition, COVID-19 could be
+humanity's last pandemic.
+
+
+Yours Faithfully,
+
+
+Australians for Pandemic Prevention
+
+
+
+
+                                                                                       3
+         Australians for
+         Pandemic Prevention
+
+
+
+
+Department of General Practice
+Monash University                           University of Queensland
+
+
+
+
+Sydney Infectious Diseases, Faculty of
+Medicine and Health
+University of Sydney                        Monash University
+
+
+
+
+Melbourne School of Population and Global
+Health                                                          Monash School of Public
+The University of Melbourne                 Health
+
+
+
+
+Queensland University of Technology
+
+
+
+
+Australian National University
+
+
+
+
+                                            University of Massachusetts Lowell
+
+
+
+
+                                                                                          4
+         Australians for
+         Pandemic Prevention
+
+
+
+
+                                      the University of Oxford
+University of Queensland
+
+
+
+
+                                      University of Queensland
+University of Queensland
+
+
+
+
+The Centre for Long-Term Resilience
+
+
+
+
+                                      Melbourne Medical School
+
+
+
+
+                                                        ixfon
+
+
+
+
+Metropolitan Communicable Disease
+Control, WA Health
+
+
+
+                                      Australian Institute of International Affairs NSW
+
+
+
+
+                                                                                      5
+           Australians for
+           Pandemic Prevention
+
+
+Endnotes
+
+
+
+2. Pike, B. L, Saylors, K. E., Fair, J. N., Lebreton, M., Tamoufe, U., Djoko, C. F., Rimoin, A. W., &
+Wolfe, N. D. (2010). The origin and prevention of pandemics. Clinical infectious diseases :
+an official publication of the Infectious Diseases Society of America, 50(12), 1636-1640.
+https://doi.org/10.1086/652860https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2874076/
+Aaron S. Bernstein et al.,The costs and benefits of primary prevention of zoonotic
+pandemics.Sci. Adv.8,eabl4183(2022).DOI:10.1126/sciadv.abl4183
+
+3. Baum S. G. (2008). Zoonoses-with friends like this, who needs enemies?. Transactions of
+the American Clinical and Climatological Association, 119, 39-52.
+
+4. Meadows AJ, Stephenson N, Madhav NK, et alHistorical trends demonstrate a pattern of
+increasingly frequent and severe spillover events of high-consequence zoonotic
+virusesBMJ Global Health 2023;8:e012026.
+Leal Filho, W., Ternova, L., Parasnis, S. A., Kovaleva, M., & Nagy, G. J. (2022). Climate Change
+and Zoonoses: A Review of Concepts, Definitions, and Bibliometrics. International journal of
+environmental research and public health, 19(2), 893.
+https://doi.org/10.3390/ijerphl9020893
+
+5. Ford D. R. (2020). Review of Mike Davis (2020). The Monster Enters: COVID 19, Avian Flu,
+and the Plagues of Capitalism: New York and London: OR Books. 205 pp. ISBN
+9781682193037 (Paperback). Postdigital Science and Education, 2(3), 1031-1034.
+https://doi.0rg/lO.l 07/s42438-020-00176-7
+
+6. Tulsiani, S. M., Graham, G. C., Moore, P. R., Jansen, C. C., Van Den Hurk, A. F., Moore, F. A.,
+Simmons, R. J., & Craig, S. B. (2011). Emerging tropical diseases in Australia. Part 5. Hendra
+virus. Annals of tropical medicine and parasitology, 105(1), 1-11.
+https://doi.org/10.1179/136485911X12899838413547
+
+7. P. R. Moore, C. C. Jansen, G. C. Graham, I. L. Smith & S. B. Craig (2010) Emerging tropical
+diseases in Australia. Part 3. Australian bat lyssavirus, Annals of Tropical Medicine &
+Parasitology, 104:8, 613-621, DOI: 10.1179/136485910X12851868779948
+
+8. Department of Health and Aged Care (2023) Strengthening global health and
+international pandemic response
+https://www.health.gov.au/our-work/strengthening-global-health-and-international-pa
+ndemic-response
+
+9. Johnson, L, Hansen, A., & Bi, P. (2018). The challenges of implementing an integrated One
+Health surveillance system in Australia. Zoonoses and public health, 65(1), e229-e236.
+https://doi.org/10.llll/zph.12433 w
+
+
+
+
+                                                                                                        6
+          Australians for
+          Pandemic Prevention
+
+10. Global BioLabs. (2023). Global BioLabs Report 2023.
+
+11. Manheim, D., & Lewis, G. (2022). High-risk human-caused pathogen exposure events
+from 1975-2016. FlOOOResearch, 10,752. https://doi.Org/10.12688/fl000research.55114.2
+
+12. Siengsanan-Lamont, J., & Blacksell, S. D. (2018). A Review of Laboratory-Acquired
+Infections in the Asia-Pacific: Understanding Risk and the Need for Improved Biosafety for
+Veterinary and Zoonotic Diseases. Tropical medicine and infectious disease, 3(2), 36.
+https://doi.org/10.3390/tropicalmed3020036
+
+13. Duizer, Erwin and Ruijs, Wilhelmina LM and Putri Hintaran, AD and Hafkamp, Mariska C
+and van der Veer, Margreet and te Wierik, Margreet JM. (2023). Wild poliovirus type 3
+(WPV3)-shedding event following detection in environmental surveillance of poliovirus
+essential facilities, the Netherlands, November 2022 to January 2023 , Eurosurveillance, 28,
+2300049. https://doi.Org/10.2807/1560-7917.ES.2023.28.5.2300049
+
+14. Esvelt, K. (2022). Delay, Detect, Defend: Preparing for a Future in which Thousands Can
+Release New Pandemics. Geneva Centre for Security Policy.
+https://www.gcsp.ch/publications/delay-detect-defend-preparing-future-which-thousa
+nds-can-release-new-pandemics
+
+15. Carter, S. R., et al. (2023). The Convergence of Artificial Intelligence and the Life
+Sciences: Safeguarding Technology, Rethinking Governance, and Preventing Catastrophe.
+Nuclear Threat Initiative.
+https://www.nti.org/wp-content/uploads/2023/10/NTIBIG_AI_FINAL.pdf Dybul, M. (2023).
+Biosecurity in the Age of Al Chairperson's Statement. Helena.
+
+16. Biden, J. (2023) Executive Order on the Safe, Secure, and Trustworthy Development and
+Use of Artificial Intelligence. The White House.
+
+17. Ko, K.K.K., Chng, K.R. & Nagarajan, N. (2022). Metagenomics-enabled microbial
+surveillance. Nat Microbiol 7, 486-496. https://doi.org/10.1038/s41564-022-01089-w
+
+18. National Research Council (us) Committee on Metagenomics: Challenges and
+Functional Applications. The New Science of Metagenomics: Revealing the Secrets of Our
+Microbial Planet. Washington (DC): National Academies Press (us); 2007.1, Why
+Metagenomics? Available from: https://www.ncbi.nlm.nih.gov/books/NBK54011/
+
+19. Wegrzyn, R., Appiah Grace., et al. (2023)., Early Detection of Severe Acute Respiratory
+Syndrome Coronavirus 2 Variants Using Traveler-based Genomic Surveillance at 4 US
+Airports, September 2021-January 2022, Clinical Infectious Diseases, Volume 76, Issue 3,1
+February 2023, Pages e540-e543, https://doi.org/10.1093/cid/ciac461
+
+20. Outcome 9 of the UK Biological Security Strategy (pp. 45-47) plans for the creation of
+a National Biosurveillance Network relying on wastewater and other environmental
+metagenomic sequencing to detect novel and newly arising pathogens.
+
+
+
+
+                                                                                              7
+          Australians for
+          Pandemic Prevention
+
+21. Air pollution reduces productivity and educational attainment, increases crime and is
+conservatively estimated to cost more than 3,200 Australian lives annually. In 2018-19, the
+economic burden from lower respiratory disease in Australia exceeded $1.6 billion dollars.
+Further, exposure to bushfire smoke could cause more than 10 times the immediate
+deaths from bushfires.
+Sarmiento, L. (2022), Air pollution and the productivity of high-skill labor: evidence from
+court hearings*. Scand. J. of Economics, 124: 301-332. https://doi.org/10.llll/sjoe.12458
+
+22. Haines C, Olsiewski P, Bruns R, Gronvall GK. (2022). National Strategy to Improve Indoor
+Air Quality. Baltimore, MD: Johns Hopkins Center for Health Security.
+House of Representatives Standing Committee on Health, Aged Care and Sport. (2023).
+Sick and tired: Casting a long shadow - Inquiry into Long COVID and Repeated COVID
+Infections. House of Representatives.
+https://www.aph.gov.au/Parliamentary_Business/Committees/House/Health_Aged_Care
+_and_Sport/LongandrepeatedCOVID/Report
+Parliamentary Office of Science and Technology (POST). 2023. POST brief 54: Indoor Air
+Quality. UK Parliament.
+
+23. Baum F, Freeman T, Musolino C, Abramovitz M, De Ceukelaire W, Flavel J et al.
+Explaining covid-19 performance: what factors might predict national responses? BMJ
+2021; 372 :n91 doi:10.1136/bmj.n91
+
+
+
+
+                                                                                              8
+

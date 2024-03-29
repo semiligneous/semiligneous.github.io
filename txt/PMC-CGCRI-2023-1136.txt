@@ -1,0 +1,143 @@
+Lucas Lewit-Mendes,
+Economist,
+Concern Citizen
+
+Prevention is key
+
+The new Centre for Disease Control is a valuable step for Australia's disease control and its
+contribution to global pandemic security. Considering the health, economic, and social burden of
+COVID-19 and the risk of future pandemics, I am delighted to see the Government has
+commissioned this inquiry. I am also eager to contribute to the inquiry and the priorities of the CDC.
+
+The adage "a stitch in time saves nine" holds true when it comes to pandemic preparedness. If we
+had invested in the technology and health systems to prevent the spread of COVID-19, there would
+have been some economic costs to develop these capabilities, but these would have paled in
+comparison to the costs of COVID-19. Pike et al in "The Origin and Prevention of Pandemics" show
+that the "wait-and-respond approach is not sufficient and that the development of systems to
+prevent pandemics before they are established should be considered imperative to human health."
+
+I firmly believe pandemic prevention should be a key priority of the CDC and my submission focuses
+on a few effective and practical solutions. Our institutions and leaders should not simply concede
+that pandemics are inevitable.
+
+Sources:
+   •        The Origin and Prevention of Pandemics - PMC (nih.gov)
+
+Clean indoor air would prevent the risk of pandemics and generate economic benefits
+
+As an economist, I am particularly drawn to the benefits of clean indoor air, which would not only
+reduce the risk of pandemics, but also reduce the health and economic burden of seasonal influenza.
+
+The vast majority of Australians are lucky enough to access clean, safe, and pathogen-free drinking
+water. Unfortunately, the same does not apply to air quality. Further to Terms of Reference 2, I want
+to see Australians have comparable access to clean, safe and pathogen-free air. This would be
+helpful for the ongoing COVID pandemic and for any future pandemic - while also providing co­
+benefits for individual health and the national economy.
+
+Cholera, a water-borne bacterial disease, caused more than 127,000 deaths in Great Britain in the
+mid-1800s. Radical improvements in sanitising drinking water as a public health measure have
+effectively ended waterborne disease in industrialised countries.
+
+The reduction of airborne diseases through clean indoor air is yet to receive the same systematic
+attention, despite the health and economic burden this class of disease places on Australia. Every
+winter, seasonal influenza-like illness (ILI) burdens the Australian healthcare system as Australians
+present with symptoms such as fever, cough, sore throat, and fatigue. In 2022, there were 9,440
+reported COVID-19 and 308 influenza-associated deaths. It is my hope that improving indoor air
+quality (IAQ) can reduce the transmission of airborne pathogens, thus reducing the occurrence of ILI
+and its associated death toll. Reduced infection rates will also result in an increase in the
+productivity of Australia's workforce through reducing the number of days that Australians take sick-
+leave to care for themselves and their loved ones. This will also reduce the burden on Australia's
+healthcare system, specifically on GPs and hospitals who would otherwise have to treat patients
+with ILI.
+My economics background teaches me that public goods like clean indoor air often suffer from a
+"tragedy of the commons", as widespread adoption is needed to yield substantial benefits. Just like
+clean drinking water, coordinated action is required. I believe this inquiry is well placed to
+recommend that Australian governments do more to encourage and accelerate the improvement of
+indoor air quality. Higher-risk indoor environments - such as education facilities, aged care facilities,
+healthcare facilities and hospitals, food service, public assembly spaces, shopping centres, offices,
+and places of worship - can be incentivised and supported to improve their indoor air quality
+through building standards, rebates, tax deductions, or other financial mechanisms. This would allow
+Australians to enjoy the benefits of these facilities and services with a significantly lower risk of
+exposing themselves to pathogens.
+
+Unlike disease-specific vaccinations, delivering safe air is pathogen agnostic and can reduce the
+speed at which future novel pathogens infect communities. Kleinwaks et al's report "Air Safety to
+Combat Global Catastrophic Biorisk" provides modelling for a scenario involving another pandemic
+of RO = 3, similar to the first wave of the COVID-19 pandemic in a city of 2 million people. Without
+any behaviour changes or IAQ improvements, there would be 365,000 infections after 3 weeks. With
+indoor air quality interventions reducing respiratory disease infections by just 30% to an RO of 2.1,
+after 3 weeks there would only be 9,797 infections. This modelling shows that even modest
+reductions can flatten curves and buy time for medical countermeasures and healthcare systems. As
+such, IAQ interventions could shorten lockdowns, lower the likelihood of quarantine leaks and
+perhaps be able to contain and eliminate a novel pathogen before a pandemic begins. IAQ
+interventions also don't require behaviour change - like mask wearing - which can be challenging to
+achieve.
+
+The inquiry should recommend indoor air as a simple and effective solution to help prevent risk of
+pandemics. Australia could pursue policies to make indoor air as free from pathogens as drinking
+water, starting with simple practices like ventilation and existing filtration technologies, and by
+investing in emerging pathogen inactivation technologies, like far-UVC.
+
+Sources:
+   • Australian Government, Department of Health and Aged Care, 'National 2022 Influenza
+        Season Summary' (2022)
+   •       Air Safety to Combat Global Catastrophic Biorisk, IDay Sooner & Rethink Priorities
+
+
+Next-generation PRE and robust government planning is needed to keep critical infrastructure
+functioning
+
+The maintenance of critical infrastructure, such as water systems, communication networks,
+transportation systems, and health services, is essential in the case of a severe pandemic. One key
+risk is that these services all rely on modern power grids, which require constant attention.
+Therefore, a health emergency that limits the available workforce could cause a cascading collapse,
+as argued by Wormuth et al in a paper called "Electric Power Grids Under High-Absenteeism
+Pandemics: History, Context, Response, and Opportunities". This challenge must be overcome to
+address Terms of Reference one, two and six.
+
+Wormuth et al argue that COVID-19 was unlike many other historic pandemics because the majority
+of deaths occurred in people over 65, while the majority of employees essential to the continued
+operation of the power grid are under 65.
+If a future pandemic was more severe in a younger age group, it could lead to cascading failures of
+critical infrastructure in a way that wasn't possible without highly optimised (and hence brittle)
+modern infrastructure. That fact leads them to argue that safeguarding the nation's power grid in
+the face of rapidly evolving outbreaks is among the top priorities.
+
+To help mitigate these risks, the inquiry should recommend a collaborative effort on preparation and
+response planning for a pandemic that interrupts supply chains and causes workforce shortages in
+critical infrastructure sectors. This collaborative effort should involve the Office of Supply Chain
+Resilience, the Home Affairs Critical Infrastructure Centre, and the National Emergency Management
+Agency.
+
+There are practical steps Government can take to keep critical infrastructure functioning in the event
+of a pandemic, according to the Wormuth et al paper and a separate paper by Gopal et al titled
+"Securing Civilisation Against Catastrophic Pandemics". Power generators, transmission providers
+and distribution providers must have robust pandemic plans and the ability to provide high-quality
+PPE and other safeguards to their workers during a crisis.
+
+Finally, it is crucial that the workforce has confidence they will be able to stay safe at work in the
+event of a pandemic. This means the Government's plans and exercises need to include the industry
+and be transparent to the public.
+
+Sources:
+   • Electric Power Grids Under High-Absenteeism Pandemics: History, Context, Response, and
+        Opportunities - PMC (nih.gov)
+   •       Critical infrastructure resilience (homeaffairs.gov.au )
+   •       Office of Supply Chain Resilience | Department of Industry, Science and Resources
+
+
+The benefits of prevention outweigh the costs
+
+I think preventing future pandemics could be one of the most valuable uses of public funding and
+resources. Given the vast economic and social burden of the COVID-19 pandemic and potential
+future pandemics, further investment now is likely to have a high payoff. In addition, these
+technologies can provide economic dividends in the short-run, such as by improving indoor air
+quality. I'm very concerned by expert assessments that the risk of pandemics is increasing,
+particularly with emerging risks such as lab leaks or engineered pathogens. I think this inquiry should
+carefully consider how future pandemics could start and recommend specific interventions to reduce
+their likelihood, such as investing in high-quality PPE and technologies like far-UVC.
+
+Thank you for considering my submission,
+
+Lucas
+

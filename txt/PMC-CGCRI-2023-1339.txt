@@ -1,0 +1,426 @@
+                                                                                        ' M       1             Australian
+
+
+
+                                                                                                                Level 11, 257 Collins Street
+                                                                                                                Melbourne VIC 3000
+                                                                                                                PO Box 38
+15 December 2023                                                                                                Flinders Lane VIC 8009
+                                                                                                                T: (03) 8662 3300
+
+Robyn Kruk AO
+Chair - Independent Panel
+Commonwealth Government COVID-19 Response Inquiry
+C/- Department of Prime Minister and Cabinet
+PO Box 6500
+Canberra ACT 2600
+
+Submitted via upload to: https://www.pmc.gov.au/covid-19-response-inquirY/consultation
+
+
+
+Dear Chair and Independent Panel Members
+
+APS submission to the Commonwealth Government COVID-19 Response Inquiry
+
+The Australian Psychological Society (APS) welcomes the opportunity to provide the attached submission to the
+Commonwealth Government COVID-19 Response Inquiry (the Inquiry). In it we address several aspects highlighted in
+the Inquiry Terms of Reference (ToR), including:
+     •   Broader health supports for people impacted by COVID-19 and/or lockdowns (e.g., mental health and suicide
+         prevention supports, screening/other preventive health measures),
+     •        Key health response measures (e.g., public health messaging), and
+    •    Mechanisms to better target future responses to the needs of particular populations (including across age
+         groups, socio-economic status, geography, people with disability, First Nations peoples, and people from
+         culturally and linguistically diverse (CALD) communities).
+
+We welcome the approach of the Panel to consider opportunities for systems to more effectively anticipate, adapt
+and respond to pandemics in areas of Commonwealth Government responsibility, while also taking a comprehensive
+whole-of-government approach, acknowledging the broad impacts of COVID-19 across portfolios and the community.
+We are especially pleased that the review intends to focus on evidence-based policy and practice to make
+recommendations to improve response measures in the event of future pandemics.
+
+About the APS
+The APS is the leading professional association for psychologists in Australia. We are dedicated to advancing the
+scientific discipline and ethical practice of psychology to realise the full potential of individuals, organisations, and
+communities. A human rights approach and the United Nations Sustainable Development Goals (SDGs)1 are
+embedded in all the work we do to improve the mental health and wellbeing of Australians. It is within this context
+that we respond to this Inquiry and advocate on behalf of our members and the community for meaningful reform in
+Australian health systems and social policies that impact mental health and wellbeing. Our overarching objective is to
+ensure equitable access for all Australians to quality, evidence-based services that promote health and well-being.
+
+If any further information is required from the APS, I would be happy to be contacted through the national office on
+              | or by email at ^^^^J@psychology.org.au
+
+Yours sincerely
+
+
+
+
+Dr Zena Burgess FAPS FAICD
+Chief Executive Officer
+
+
+
+
+                                                                                       © The Australian Psychological Society Limited
+psychology.org.au
+                                                                                                                ABN: 23 000 543 788
+                                                                                          ) IL                  Australian
+
+
+
+
+                   APS submission to the Commonwealth Government COVID-19 Response Inquiry
+
+The APS response to the Inquiry identifies opportunities for government to enhance its ability to anticipate, adapt,
+and respond to community mental health needs in future pandemics and national emergencies. We outline key
+challenges and innovations in mental health care during the COVID-19 pandemic and propose essential next steps for
+learning from and addressing these issues.
+
+1.   Grow the psychology workforce to strengthen national resilience
+
+Mental health impacts of the pandemic
+From 2020, the COVID-19 pandemic and the ensuing social distancing restrictions and lockdowns profoundly affected
+daily life in Australia, including education, healthcare, and living and working conditions2-5. Significant adverse effects
+on mental health were evident from early in the course of the pandemic with two in five Australians reporting a
+negative effect on their mental health due to COVID in 2020-20216-9.
+
+Compared to pre-pandemic levels, the average level of psychological distress and the extent of severe psychological
+distress rose in the Australian community from 2020 with peaks and troughs through to 2023, often aligning with new
+pandemic waves and a return to social distancing restrictions and lockdowns10. Starting at 8.4% in February 2017,
+severe psychological distress rose to 10.6% in April 2020, fluctuating between subsequent months. Notably, it reached
+its highest recorded level at 12.5% in October 2021 but decreased to 9.7% in August 2022. It increased again to 10.8%
+in October 2022 and again to 10.9% in January 202310. As noted by the AIHW, while percentage changes might seem
+small, a 1% point shift reflects a substantial impact, affecting around 200,000 individuals10.
+
+Findings also indicate that the impact of the pandemic on mental health disproportionately affected females, young
+Australians, people with pre-existing mental health conditions or disabilities, CALD communities, Aboriginal and Torres
+Strait Islander peoples, the financially disadvantaged and LGBTQI+ community6,10-16. COVID-19 remains an ongoing
+health issue, and although Australians are no longer having to deal with lockdowns and other restrictions, the
+community is continuing to adjust to 'living with COVID' and the mental health and wellbeing issues caused by the
+pandemic. Long COVID is also impacting Australians' mental health, and timely access to psychological services to
+address these effects of COVID is essential to minimise the loss of productivity and flow-on costs to the healthcare
+system and wider society17-19.
+
+Unmet need for psychology services during the pandemic
+National data demonstrated during the pandemic in 2020-2022 there was a substantial increase in the use of crisis
+and support organisations and mental health-related services, including accessing psychologists (as measured by MBS
+and PBS claims)10. The AIHW has noted that the increased demand for mental health-related services during this time
+was almost certainly indicative of an increase in psychological distress associated with the pandemic10.
+
+Y et, before COVID-19, the demand for mental health-related services was outstripping supply, as highlighted in
+numerous APS submissions to Government, and reinforced by several mental health inquiries and reform initiatives
+throughout Australia (e.g.22-24). The impact of climate change and the effects of a devastating 2020 bushfire season
+further exacerbated the demand for mental health support ahead of the pandemic20-22.
+
+Psychologists make up the largest mental health workforce in Australia and are the backbone of mental health
+provision in Australia. However, as noted recently in the National Mental Health Workforce Strategy 2022-203223, the
+2020 University of Queensland workforce analysis showed that the psychology workforce is meeting only 35% of the
+National Mental Health Service Planning Framework (NMHSPF) target24.
+
+The community swiftly faced the repercussions of a severely inadequate national psychology workforce with the onset
+of the pandemic. An APS survey in early 2022 of more than 1400 members nationwide25, working in private, public
+and not-for-profit services, found that:
+• 88% of psychologists reported increased demand in services.
+
+
+
+
+                                                                                        ©The Australian Psychological Society Limited
+psychology.org.au
+                                                                                                                ABN: 23 000 543 788
+                                                                                         ) IL                   Australian
+
+
+
+
+• 1 in 3 (33%) psychologists were unable to take new clients, up from 1 in 5 (22%) in June 2021. Before the
+    pandemic, only 1 in 100 psychologists were not taking new clients.
+• Almost one-third (27%) of psychologists surveyed had noticed a change in demographic trends of clients seeking
+    services since June 2021, such as more younger clients as well as older clients, and more men.
+• Of those respondents able to accept more patients, 64% reported worsening wait times, averaging 55 days.
+• Regional and rural psychologists were also significantly more likely to have waitlists (79.2%), compared with
+   metropolitan psychologists (73.5%)
+• Psychologists worked on average 17 unbillable hours each week to keep up with demand.
+
+The adverse effects on individuals and families awaiting access to psychologists during the pandemic were extensively
+covered in both media and academic publications (see e.g.,26). It was also well known that the health and mental
+health workforce, including psychologists, were under enormous strain amid the pandemic as they worked tirelessly
+to meet the needs of the community (see e.g.,27,28). Despite the challenges and the risk of burnout, psychologists
+successfully supported the community, maintaining high regard as a profession. A 2021 report by Lived Experience
+Australia revealed that over 90% of patients and carers recommend seeing a psychologist for mental health support29.
+
+Other barriers and innovations for psychology services during the pandemic
+From early 2020, the APS advocated for improved Federal Government support for Australians' mental health during
+the COVID-19 pandemic, emphasising accessible psychology services for all, including those from diverse and
+disadvantaged groups. This included successfully calling for a lifting of restrictions that initially limited telehealth for
+psychology services to only clients with COVID-19, and securing the future of telehealth as a permanent feature of the
+Australian mental health system30,31. Early in the pandemic, the Government provided additional support to
+Australians with a mental health care plan, by extending the available 10 Better Access Medicare-rebated sessions to
+20 sessions, and allowing aged care residents to access these sessions under the MBS Better Access Pandemic Support
+Measures31-35. The additional 10 sessions provided Australians with much-needed mental health treatment provided
+by psychologists during the pandemic, and aligned with the available evidence that, in many cases, 20 or more
+sessions are needed for the most effective therapeutic impact36-38.
+
+The APS called for the current Federal Government to make 20 Medicare-rebated psychology sessions permanently
+available to all Australians, noting that these sessions were reduced from 20 back to 10, and aged care access to
+sessions was removed entirely, at the end of 2022. We are aware of the argument that this policy setting leads to the
+most disadvantaged missing out on psychological care. This is, however, a distraction from the positive impact of
+having an adequate national psychology workforce to meet demand.
+
+What is needed now?
+Federal Government budgetary measures, including the recently announced $91.3 million investment over 5 years
+from 2023-24 for additional psychology placements39, and a redesign of psychology higher education pathways may
+contribute to ensuring that there are enough psychologists to meet the mental health needs of Australian
+communities during future pandemics.
+
+Expanding the psychology workforce to align with the NMHSPF targets is crucial. This is essential to effectively address
+community needs for timely mental health support during future pandemics and national health emergencies.
+Immediate action is also needed to secure preventative measures and early intervention initiatives in our
+communities, schools and workplaces before the next pandemic or national health emergency40. A stronger workforce
+will help to grow the well-being and resilience of Australian individuals, families, and communities.
+
+Other policy initiatives such as lowering the gap fee for patients, ensuring aged care residents are not excluded from
+accessing Medicare-rebated psychology sessions, getting patients to psychologists sooner by removing GP referral
+requirements, and replicating GP regional relocation incentives for psychologists, would additionally ensure readiness
+to support the mental health of the Australian community in the event of future pandemics or national emergencies.
+
+With a sufficient workforce and appropriate policy settings in place to access psychological support, Australia will be
+well equipped to effectively manage surges in mental distress during future pandemics and national emergencies.
+
+
+
+                                                                                        ©The Australian Psychological Society Limited
+psychology.org.au
+                                                                                                                ABN: 23 000 543 788
+                                                                                        ) IL                  Australian
+
+
+
+
+Any delay in implementing these initiatives reduces the opportunity we have before the next pandemic or national
+emergency to fortify individual and community resilience via access to quality psychological services.
+
+2.   Leverage the expertise of the APS and psychologists in the establishment and operation of the Australian CDC
+
+The APS strongly supports the establishment of an Australian Centre for Disease Control (CDC) as committed by the
+Government following the release of the previous Senate Select Committee report on COVID-19 in 202241. We note
+that preparations have now progressed, with the commitment of the State and Territory Health Ministers in
+November and the interim Australian CDC within the Department of Health and Aged Care from January 2024 - tasked
+with scoping and consultation and supporting the establishment of a standalone CDC. We applaud the intent of the
+Australian CDC to "be a nationally co-ordinated body, led by dedicated experts and driven by science and data that
+will strengthen Australia's emergency response and ability to protect and promote the health and wellbeing of all
+Australians"42. We note it will help:
+     •        prevent and control communicable disease
+     •        protect Australia in the event of emergencies with a health impact
+     •        drive better health outcomes for all Australians43.
+
+Psychologists, in collaboration with other health professionals, researchers, public servants, people with lived
+experience and the peer mental health workforce, can play a crucial role in supporting the establishment and
+operations of the CDC. Some of the ways in which psychologists are well placed to contribute include:
+
+1.   Mental health policy recommendations and settings: Psychologists are ideally positioned to offer advice and
+     develop policy recommendations that reflect the psychological dimensions of public health. This includes
+     advocating for policies that prioritise mental health resources in preparation for future pandemics and public
+     health emergencies as well as during and after disease outbreaks.
+2.   Mental health programs: Psychologists can develop and lead the implementation of public mental health
+     programs to address the psychological impact of diseases and national health emergencies. This can include
+     interventions for individuals, groups and communities affected by outbreaks.
+3.   Crisis response and intervention training: Psychologists have the skills to develop and lead training programs that
+     equip a range of healthcare professionals with the skills to respond effectively during national health crises.
+4.   Community engagement and insights: Psychologists can contribute to the development of communication
+     strategies that address the psychological needs of diverse populations and combat misinformation. They can also
+     integrate psychological and behavioural science and data to better understand public attitudes, behaviours, and
+     mental health impacts during disease outbreaks and combat misinformation by delivering messaging and
+     interventions that are more likely to be accepted by the public.
+
+As has been widely acknowledged, the health and wellbeing of front-line health workers was impacted significantly
+during the pandemic, leading to psychological distress, burnout, and attrition (see e.g.,44,45). The APS Disaster
+Response Network (DRN) is a network of 700+ APS psychologists who volunteer their time and expertise to provide
+targeted and evidence-based psychology support to frontline workers and communities following disasters. Members
+of the DRN have been assisting Australians through a multitude of disasters since it was first set up following the Black
+Saturday bushfires in 2009. With the right funding, the DRN could easily be expanded to not only support the mental
+health of communities impacted by future pandemics and national emergencies, but to improve disaster-readiness
+through resilience-building workshops for individual frontline workers, their families, and communities.
+
+What is needed now?
+Leveraging the expertise of the APS in the establishment and operations of an Australian CDC is essential for ensuring
+national capacity to effectively address mental health-related aspects of pandemics and national emergencies.
+Engaging with the APS will ensure that Australia is able to fully harness the contributions from psychological science
+and psychologists working at all stages of planning, preparing, responding to and evaluating national responses to
+pandemics and national emergencies. This includes identifying opportunities to leverage already established disaster­
+response systems and the success of the DRN to support frontline workers, their families, and communities.
+
+
+
+
+                                                                                      ©The Australian Psychological Society Limited
+psychology.org.au
+                                                                                                              ABN: 23 000 543 788
+                                                                                             ) IL                  Australian
+
+
+
+
+References
+
+1. United Nations, Department of Economic and Social Affairs. (2023). Sustainable development goals.
+          https://sdgs.un.org/goals
+2. Price Waterhouse Coopers. (2020). COVID-19 and education: How Australian schools are responding and what
+          happens next. PwC. https://www.pwc.com.au/government/government-matters/covid-19-education-how
+          australian-schools-are-responding.htm
+3. Williamson, S., & Colley, L. (2022). Work during the pandemic: The future of work is hybrid. Public Service Research
+          Group (UNSW). https://apo.org.au/sites/default/files/resource-files/2022-02/apo-nid316646.pdf
+4. Beck, M. J., & Hensher, D. A. (2022). Working from home in Australia in 2020: Positives, negatives and the potential
+          for future benefits to transport and society. Transportation Research Part A: Policy and Practice, 158, 271­
+          284.
+5. Australian Government, Department of Health. (2021). Permanent telehealth to strengthen universal Medicare
+          [Text], Australian Government Department of Health; Australian Government Department of Health.
+          https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/permanent-telehealth-to-strengthen-
+          universal-medicare
+6. Australian Bureau of Statistics. (2022). National Study of Mental Health and Wellbeing, 2020-21.
+          https://www.abs.gov.au/statistics/health/mental-health/national-study-mental-health-and-wellbeing/latest-
+          release
+7. Australian Red Cross. (2021). New research: Two in five Australians' mental health impacted by COVID. Media
+          Release, https://www.redcross.org.au/news-and-media/media-centre/media-releases/new-research-two-in-
+          five-australians-mental-health
+8. Dong, F., Liu, H.-L., Dai, N., Yang, M., & Liu, J.-P. (2021). A living systematic review of the psychological problems in
+          people suffering from COVID-19. Journal of Affective Disorders, 292,172-188.
+          https://doi.Org/10.1016/j.jad.2021.05.060
+9. Australian Government, Australian Institute of Health and Welfare. (2021). Health insights from the first year of
+          COVID-19 in Australia. AIWH media releases, https://www.aihw.gov.au/news-media/media-releases/2021-
+          l/september/health-insights-from-the-first-year-of-covid-19-in
+10. Australian Government, Australian Institute of Health and Welfare (AIHW). (2023, December 6). The use of mental
+          health services, psychological distress, loneliness, suicide, ambulance attendances and COVID-19.
+          https://www.aihw.gov.au/suicide-self-harm-monitoring/data/covid-19
+11. Zhao, Y., Leach, L. S., Walsh, E., Batterham, P. J., Calear, A. L., Phillips, C., Olsen, A., Doan, T., LaBond, C., & Banwell,
+          C. (2022). COVID-19 and mental health in Australia-a scoping review. BMC Public Health, 22(1), 1-13.
+12. Australian Government, Australian Institute of Health and Welfare. (2021). Australia's youth: COVID-19 and the
+          impact on young people. Australian Institute of Health and Welfare.
+          https://www.aihw.gov.au/reports/children-youth/covid-19-and-young-people
+13. De Young, A., R. Paterson, S. March, E. Hoehn, E. Alsic, V. Cobham, C. Donovan, C. Middeldorp, T. Gash and M.
+          Vasileva. (2021). CO VID-19 Unmasked Young Children Report 2: Impact of the second wave in Australia on the
+          mental health of young children and parents. Queensland Centre for Perinatal and Infant Mental Health,
+          Children's Health Queensland Hospital and Health Service, Brisbane.
+          https://www.childrens.health.qld.gov.au/wp-content/uploads/PDF/COVID-19/COVID19-Unmasked-Survey-
+          Progress-Report-02.pdf
+14. Li, S. H., Beames, J. R., Newby, J. M., Maston, K., Christensen, H., & Werner-Seidler, A. (2021). The impact of
+          COVID-19 on the lives and mental health of Australian adolescents. European Child & Adolescent Psychiatry,
+          1-13.
+15. Liddell, B. J., O'Donnell, M., Bryant, R. A., Murphy, S., Byrow, Y., Mau, V., McMahon, T., Benson, G., & Nickerson, A.
+          (2021). The association between COVID-19 related stressors and mental health in refugees living in Australia.
+          European Journal of Psychotraumatology, 12(1), 1947564.
+16. Muscat, D. M., Ayre, J., Mac, 0., Batcup, C., Cvejic, E., Pickles, K., Dolan, H., Bonner, C., Mouwad, D., & Zachariah,
+          D. (2022). Psychological, social and financial impacts of COVID-19 on culturally and linguistically diverse
+          communities in Sydney, Australia. BMJ Open, 12(5), e058323.
+
+
+
+
+                                                                                           ©The Australian Psychological Society Limited
+psychology.org.au
+                                                                                                                   ABN: 23 000 543 788
+                                                                                            ) IL                   Australian
+
+
+
+
+17. Taquet, M., Dercon, Q., Luciano, S., Geddes, J. R., Husain, M., & Harrison, P. J. (2021). Incidence, co-occurrence,
+         and evolution of long-COVID features: A 6-month retrospective cohort study of 273,618 survivors of COVID-
+         19. PLOS Medicine, 18(9), 61003773. https://doi.org/10.1371/journal.pmed.1003773
+18. Taquet, M., Sillett, R., Zhu, L., Mendel, J., Camplisson, I., Dercon, Q., & Harrison, P. J. (2022). Neurological and
+         psychiatric risk trajectories after SARS-CoV-2 infection: An analysis of 2-year retrospective cohort studies
+         including 1 284 437 patients. The Lancet Psychiatry, 9(10), 815-827. https://doi.org/10.1016/S2215-
+         0366(22)00260-7
+19. Parliament of Australia, House of Representatives Standing Committee on Health, Aged Care and Sport, (n.d.). Sick
+         and tired: Casting a long shadow. Inguiry into long COVID and repeated COVID infections.
+         https://www.aph.gov.au/Parliamentary_Business/Committees/House/Health_Aged_Care_and_Sport/Longan
+         drepeatedCOVID/Report
+20. Productivity Commission. (2020). Mental Health, Report no. 95.
+         https://www.pc.gov.au/inquiries/completed/mental-health/report/mental-health.pdf
+21. Royal Commission into National Natural Disaster Arrangements. (2020). Report.
+         https://naturaldisaster.royalcommission.gov.au/publications/royal-commission-national-natural-disaster-
+         arrangements-report
+22. Australian Psychological Society. (2020). Psychology and climate change: Position statement.
+         https://psychology.org.au/getmedia/c876613b-7f96-4456-8975-la82190ecld2/20aps-position_statement-
+         psychology_climate-change.pdf
+23. Australian Government, Department of Health and Aged Care. (2022). National Mental Health Workforce Strategy
+         2022-2032. https://www.health.gov.au/resources/publications/national-mental-health-workforce-strategy-
+         2022-2032?language=en
+24. University of Queensland. (2020). Analysis of national mental health workforce demand and supply: Stage 1 report.
+         30 October 2020. Report for the Australian Government Department of Health. The University of Queensland.
+25. Australian Psychological Society. (2022, February 24). 1 in 3 psychologists are unable to see new clients, but
+        Australians need help more than ever, https://psychology.org.au/for-
+         members/publications/news/2022/australians-need-psychological-help-more-than-ever
+26. Kinsella, E. (2021, September 20). Meet the Australians stuck waiting for mental healthcare as the pandemic takes
+         its toll. ABC News, https://www.abc.net.au/news/2021-09-18/australia-mental-health-wait-times-covid-
+         pandemic/100457162
+27. Australian Psychological Society. (2022, February 24). Unpaid, underfunded and overworked: Psychologists on the
+         brink. https://psychology.org.au/about-us/news-and-media/media-releases/2022/unpaid,-underfunded-and-
+         overworked-psychologists-o
+28. Crocker, K. M., Gnatt, I., Haywood, D., Butterfield, I., Bhat, R., Lalitha, A. R. N., Jenkins, Z. M., & Castle, D. J. (2023).
+        The impact of COVID-19 on the mental health workforce: A rapid review. International Journal of Mental
+         Health Nursing, 32(2), 420-445.
+29. Kaine, C., & Lawn, S. (2021). Consumer and carer experiences pf psychology services in Australia. Lived Experience
+         Australia Ltd. https://www.livedexperienceaustralia.com.au/psychology-report
+30. Australian Psychological Society. (2020, March 20). Psychologists call on Federal Government to better support
+        Australians' mental health during COVID-1, https://psychology.org.au/about-us/news-and-media/media-
+         releases/2020/psychologists-call-on-federal-government-to-better
+31. Australian Psychological Society. (2020, March 29). Psychologists welcome Federal Government commitment to
+        Australians' mental health during COVID-19, https://psychology.org.au/about-us/news-and-media/media-
+         releases/2020/psychologists-welcome-federal-government-commitmen
+32. Australian Psychological Society. (2020, August 7). APS calls for two key changes to Medicare to ensure mental
+         health support for all. https://psychology.org.au/about-us/news-and-media/media-releases/2020/aps-calls-
+         for-two-key-changes-to-medicare-to-ensur
+33. Australian Psychological Society. (2020, October 2). Psychologists welcome Government's decision to increase
+         mental health services in aged care, https://psychology.org.au/about-us/news-and-media/media-
+         releases/2020/psychologists-welcome-government-s-decision-to-inc
+
+
+
+
+                                                                                           ©The Australian Psychological Society Limited
+psychology.org.au
+                                                                                                                   ABN: 23 000 543 788
+                                                                                          ) IL                   Australian
+
+
+
+
+34. Australian Psychological Society. (2020, October 6). Federal Budget: Psychologists applaud doubling of Medicare
+        sessions & welcome focus on system reform, https://psychology.org.au/about-us/news-and-media/media-
+        releases/2020/budget-2020-21
+35. Australian Psychological Society. (2023). Psychologists in residential aged care: Position Statement. APS.
+        https://psychology.org.au/about-us/position-statements/psychologists-in-residential-aged-care
+36. Nordmo, M., Monsen, J. T., Hpglend, P. A., & Solbakken, 0. A. (2021). Investigating the dose-response effect in
+        open-ended psychotherapy. Psychotherapy Research, 31(7), 859-869.
+37. Robinson, L, Delgadillo, J., & Kellett, S. (2020). The dose-response effect in routinely delivered psychological
+        therapies: A systematic review. Psychotherapy Research, 30(1), 79-96.
+38. Robinson, L, Kellett, S., & Delgadillo, J. (2020). Dose-response patterns in low and high intensity cognitive
+        behavioral therapy for common mental health problems. Depression and Anxiety, 37(3), 285-294.
+39. Commonwealth of Australia. (2023). National Budget Paper No. 2: Budget Measures. Available at:
+        https://budget.gov.au/content/documents.htm
+40. Australian Psychological Society. (2022). Position Statement: Psychologists in Schools.
+        https://psychology.org.au/about-us/position-statements/psychologists-and-schools
+41. Commonwealth of Australia. (2022). Senate Select Committee on COVID-19—Final report.
+        https://parlinfo.aph.gov. au/parllnfo/download/committees/reportsen/024920/toc_pdf/Finalreport.pdf;fileT
+        ype=application%2Fpdf
+42. Public Health Association. (2023, January 23). Chief Medical Officer on what the Australian CDC will and won't do.
+        https://intouchpublichealth.net.au/chief-medical-officer-on-what-the-australian-cdc-will-and-wont-do/
+43. Australian Government Department of Health and Aged Care. (2023, November 14). Australian Centre for Disease
+        Control [Text], Australian Government Department of Health and Aged Care; Australian Government
+        Department of Health and Aged Care. https://www.health.gov.au/our-work/Australian-CDC
+44. Agata, S., Grzegorz, W., Ilona, B., Violetta, K., & Katarzyna, S. (2023). Prevalence of burnout among healthcare
+        professionals during the COVID-19 pandemic and associated factors-a scoping review. International Journal
+        of Occupational Medicine and Environmental Health, 36(1), 21.
+45. Arias-Ulloa, C. A., Gomez-Salgado, J., Escobar-Segovia, K., Garcia-Iglesias, J. J., Fagundo-Rivera, J., & Ruiz-Frutos, C.
+        (2023). Psychological distress in healthcare workers during COVID-19 pandemic: A systematic review. Journal
+        of Safety Research.
+
+
+
+
+                                                                                         ©The Australian Psychological Society Limited
+psychology.org.au
+                                                                                                                 ABN: 23 000 543 788
+

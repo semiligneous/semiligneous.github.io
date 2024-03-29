@@ -1,0 +1,108 @@
+                                                                                        MONASH
+        MONASH                                                                          BUSINESS
+W University                                                                            SCHOOL
+
+
+
+Dear Panel Members,
+
+Re: Commonwealth Government COVID-19 Response Inquiry
+
+Thank you for the opportunity to respond to this inquiry.
+
+We are three academic health economic researchers, based in the Centre for Health
+Economics, Monash Business School, Monash University and the Melbourne Institute:
+Applied Economic & Social Research at the University of Melbourne. We have expertise in
+the analysis of large and complex datasets to inform health and social policy decisions.
+
+We write to highlight the importance of Data Preparedness in providing near real-time
+information to inform policy responses during health emergencies, such as during COVID-
+19. This cuts across many of the terms of reference for this inquiry, in particular pertaining
+to mechanisms through which governments can target responses to priority populations.
+We reflect on lessons learned during the COVID-19 pandemic in terms of Commonwealth
+Government )ata Preparedness and provide recommendations for the Commonwealth
+Government moving forward.
+
+Data preparedness encompasses existing practices and processes for managing and
+leveraging data such as organization, accessibility, and reliability. In a recent review
+performed for the Asian evelopment Bank (ADB) we reflect on the importance Data
+Preparedness for Pandemics and other Emergencies (please see the attached report). In
+this analysis, we reviewed all ADB countries and ranked their Data Preparedness based
+on data accessibility, frequency of collection, and linkage. We found that Australia ranked
+first of all ADB countries in terms of ata Preparedness and that this provided Australia
+with a distinct advantage in the COVID-19 policy response. Pre-existing investment into
+data linkage projects such as the Person Level Integrated Data Asset (previously known
+as the Multi-Agency Data Integration Project) and associated data governance processes
+were highlighted as key contributions to Australia’s Data Preparedness. Specifically, these
+assets and processes were crucial in informing, monitoring, and evaluating fiscal and
+health policy, including, but not limited to; the COVID vaccine rollout efficacy, and uptake;
+additional funding for mental healthcare services; and government welfare payments (e.g.,
+JobKeeper, increase in JobSeeker payments) during the pandemic.
+
+The report also highlighted where there was scope for improving Data Preparedness in
+Australia. This included transparency in decision-making and more broadly attempting to
+facilitate social licensing in data use by providing examples of evidence-based policy. It
+was also noted that further bolstering administrative data collections would be useful in the
+context of health emergencies (e.g., the incorporation of hospital data into PLIDA). It was
+also noted that enhancing knowledge sharing between data custodians, decision makers,
+and researchers could facilitate faster policy response during emergencies.
+
+Centre for Health Economics
+900 Dandenong Road
+Caulfield East VIC 3145
+T:|
+
+                                                            _ "aacsb           L—EFMD
+                                                                               EQUIS     Amba
+www.monash.edu                                              ■   " ACCREDITED             ACCREDITED
+ABN 12 377 614 012 CRICOS Provider 00008C
+                                                                                       MONASH
+        MONASH                                                                         BUSINESS
+W University                                                                           SCHOOL
+
+
+All global pandemics are likely to be different and therefore having insights into not only
+where and in what population subgroups issues are emerging but also to rapidly evaluate
+whether policies put in pace are achieving their aim is critical.
+
+Based on this analysis we make the following recommendations for the panel to consider
+
+Recommendations
+
+    •   Continue to bolster survey-linked administrative datasets that can track experiences
+        and outcomes for Australians in real time.
+    •   Ensuring that this data is accessible and already being used by academic and
+        government researchers who have specific expertise in data wrangling and causal
+        inference. Ensuring expertise and pre-existing statistical code for these assets
+        means that, in times of health emergencies, data can be rapidly analysed to inform
+        policy and monitor outcomes
+    •   Communicate the importance multi-jurisdictional buy-in from data custodians to
+        ensure that data assets are complete and provide a holistic whole-of-population
+        information. E.g., State/Territory hospital data linkage to ensure that outpatient and
+        inpatient care and ED visits can be linked to individual level primary care and
+        demographic information.
+    •   Foster collaborations and knowledge sharing between decision makers, data
+        custodians and academic and government researchers
+
+
+
+Best regards,
+
+
+
+
+Dr Johannes Kunz, Dr Karinna Saxby, Professor Dennis Petrie
+
+
+
+
+Centre for Health Economics
+900 Dandenong Road
+Caulfield East VIC 3145
+
+
+                                                           _ "aacsb           L—EFMD
+                                                                              EQUIS     Amba
+www.monash.edu                                             ■   " ACCREDITED             ACCREDITED
+ABN 12 377 614 012 CRICOS Provider 00008C
+

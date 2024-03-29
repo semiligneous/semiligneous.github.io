@@ -1,0 +1,150 @@
+                  Covid-19 Response- Parliamentary Committee Report
+         Dr.                    MBChB (Otago), FRANZCP, MPM (Monash)
+
+   1.      Introduction
+        My name is                          a consultant psychiatrist who has practiced
+psychiatry for the past^^^^H and as a consultant for^^^^l I have worked both in the
+public and private sectors, mostly in Victoria, but have also had experience working in the
+public sector of Western Australia and New South Wales. For a good part of my career, I
+worked as a^^^^^^^^^^^^^^^Bworking and collaborating with other medical
+specialists. I have also undergone training inand simulation
+of neural networks. I will produce succinct evidence (elaborated in references) regarding
+vitamin D during this Pandemic and the proposal to build an Artificial Intelligence System
+that may mitigate mistakes such as those made during this Pandemic.
+
+   2.      Actions taken during the pandemic
+        I had commenced collaborating with a woNc^xnei^i^itamin D and other
+micronutrients in health and illness, Professorearly in the Pandemic.
+We wrote three papers and made international presentations and attempted to inform
+authorities about our opinion and findings (see the evidence below). In Australia, I sent two
+emails to the Premier of Victoria, requesting that the Chief Medical Officer consider my
+pleas. Further, when an Aboriginal community in NSW was affected, I sent another email to
+the labour representative for Aboriginal affairs.
+I have not had any feedback/response nor any evidence that Health Authorities took note of
+our recommendations. Below, is the evidence that emerged early (mostly 2020) in the
+Pandemic that vitamin D is important in prophylaxis and adjunctive acute treatment of
+COVID-19 is presented.
+
+   3. Accumulation of evidence indicating the need to use vitamin D status as a
+      prognosticator and as a prophylactic and treatment agent early in the Pandemic
+
+   a) The efficacy demonstrated by the end of 2020 for management of COVID-19 with
+      vitamin D has been confirmed by a pooled sample of hundreds of studies. They all
+      converge to a similar level of efficacy already gleaned in 2020.
+   b) Evidence was also present in 2020, that a serum vitamin D level equivalent to
+      50ng/mL would reduce infection rate by half.
+   c) Independent sources of evidence prior to and during the early pandemic converged to
+      demonstrate that achieving a vitamin D serum level of 50ng/mL (125 nmol/1) would
+      reduce mortality and that the natural state of human being living under the sun is to
+      have that level of vitamin D.
+   d) Pooled studies as the pandemic progressed have demonstrated that early treatment
+      with vitamin D is essential in reducing morbidity and saving lives. Delay in giving
+      high dose vitamin D from onset of symptoms to a 6-day delay reduced the efficacy
+      from 100% to 0%.
+   e) Further, it was known and advocated in 2021, that calcifediol is the form of vitamin D
+      that should be used in acute treatment in preference to calcitriol (the active form of
+      D), in order to achieve adequate serum levels rapidly (within hours). If calcitriol was
+      used even in high bolus doses (100 000 IU inadequate, 2-300 000 IU adequate), the
+      time to achieve adequate serum concentrations was several days. Thus, early use of
+         calcifediol could have prevented hospitalisation and ICU bed usage by millions of
+         people around the World.
+         (Please see accompanying file of slides for illustration of this evidence).
+
+   4. The Explanation for why adequate/optimal vitamin D levels resulted in the
+      remarkable outcomes outlined above
+       Seventy-five percent of the immune system functions dependent on having sufficient
+vitamin D in the bloodstream whereas deficiency, increases vulnerability to diseases, especially
+infections like SARS-CoV-2.
+
+COVID-19, the disease caused by SARS-COV-2 is a systemic disease which results in two
+broad paths that can lead to death:
+
+   1) Cytokine Storm, that causes excess inflammation, particularly in the lungs resulting in
+      Adult Respiratory Distress Syndrome (ARDS)
+   2)    Thromboembolism that leads to Pulmonary embolism, heart attacks and stroke
+
+Vitamin D, at optimum levels (50ng/mL or 125 nmol/1) enhances immunity and protects against
+poor prognosis by, the following actions:
+
+   1) It turns on genes within immune cells such as macrophages, that produce antimicrobial
+      peptides that control and eliminate pathogens. In addition, these chemicals prevent
+      cytokine storms.
+   2) Vitamin D also helps cells important in antibody production such as T-helper cells,
+      transforming them into an anti-inflammatory form.
+   3) It also strengthens skin and mucus membranes and prevent them being leaky for
+      pathogens to enter.
+   4) It impacts on another system necessary for defence of the body called the renin­
+      angiotensin system (RAS). Angiotensins are products of this system and the second of
+      these Angiotensin II gets converted by Angiotensin-converting Enzyme II (ACEH), to
+      a vasodilator. Angiotensin II causes vasoconstriction (increased blood pressure and
+      thromboembolism. Vitamin D deficiency leads to lowered tissue and circulating ACEH.
+      It should be noted that tissue (cell-membrane) ACEH, through which SARS-COV2
+      enters human respiratory cells, rapidly consumes them thus further reducing availability
+      of ACEH. The increase in Angiotensin II leads to cytokine storm and vasoconstriction
+      leading to the principle causes of death (ARDS and Pulmonary/Coronary embolism).
+
+    5.      The reason for the required serum Concentration of vitamin D
+     As implied previously, there are different forms of vitamin D. Most important is calcifediol
+(also called calcidiol) which is the precursor of calcitriol, the active form. For the latter to
+engage in actions within cells (such as turning on genes), the required level required is quite
+high. The calcifediol levels required to reach adequate levels within a cell is about 50ng/mL
+(125nmol/L). Once in the cells this gets converted to calcitriol at levels that are about 20 times
+the concentration of calcitriol in the blood (i.e. it will not cross the membrane into the cell).
+Thus, in an emergency it is better to use calcifediol. Calcifediol is also called 25(OH)D. The
+level of this found in populations living in the open is about 40-60 ng/mL (100-150 nmol/L).
+
+
+    6.      Risks/Cost of vitamin D
+Calculating the costs of intervention must include the economic cost (cost of intervention of a
+drug or a nutrient), opportunity costs, and cost of investigations and managing adverse
+effects. Vitamin D3 has been proven safe, even at high doses of 15,000 lU/day, 20,000
+lU/day, 50,000 lU/per week, and single high doses (but not repeat doses) up to 500,000 IU
+(ESPN guidelines), which are reported devoid of demonstrable adverse effects. Vitamin D is
+economical; treating a person cost less than US$2/person and, on average, US$8/person/year
+for prophylactic use. (In Australian dollars the cost could be twice as much).
+
+
+   7. Poor logic in decisions to not recommend vitamin D as a public health measure
+Given its low cost and risk and high likelihood of helping reduce the impact of COVID-19, the
+benefit of using vitamin D was immense and its non-use could be considered disastrous. The
+following table demonstrates the outcomes of giving or not giving vitamin D, whether its
+effect is considered real or not. This obvious logic appears to have escaped health
+administrators, because in modern Evidence-Based Medicine, they are used to complex
+statistical methods and principles that can lead to wrong conclusions due to faulty logic. The
+complexities of such faults are discussed in two papers out of a series of papers by us.
+
+
+
+
+                                        Rea! (A)                Not Rea! (not A)
+
+         Given (B)              Great benefit (A and B)     Smail cost (B only - given
+
+                                                            but not real)
+
+         Not Given (not B)      Catastrophe    (A only-     No risk (neither A nor B)
+
+                                real effect- not given)
+                                (Health and Economic)
+
+
+
+   8. Mechanisms to prevent Health Authorities making false deductions and wrong
+      decisions in future
+   1) Educate medical personnel regarding the pitfalls of blindly following logic used for
+      one kind of treatment evaluation (RCT) and applying this to all situations including an
+      emergency and to naturalistic and observational, retrospective studies.
+   2) Instead of using standard statistical methods that could be used (knowingly or
+      unknowingly) in submerging the true effects of related confounders (such as vitamin
+      D level and its antecedent causes), aim to use more modem machine learning
+      paradigms using appropriate logic.
+   3) Use a built in and complete logical system congment with how humans think into
+      machine learning AI algorithms capable of designing and evaluating studies
+      appropriate for observational clinical data in a future pandemic. Such logic and
+      algorithms could be potentially developed to be used in portable devices such as
+      laptops, that would bring the strength of large databases and labs to the fingertips of
+      clinicians. This would permit more rapid clinical consensus to emerge, freeing
+      clinicians from excessive regulatory oversight.
+
+It is conceivable, based on current knowledge that option 3 above is feasible to implement.
+

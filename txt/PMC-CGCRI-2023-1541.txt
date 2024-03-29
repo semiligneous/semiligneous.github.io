@@ -1,0 +1,195 @@
+Centre for                                                                                                     17 Liverpool Street
+ Safe Air                                                                                                       Hobart, TAS 7000
+                                                                                                                www.SafeAir.org.au
+    15 December 2023                                                                                            info@safeair.org.au
+
+                Submission to the Commonwealth Government COVID-19 Response Inquiry
+    Prof Lidia Morawska, Prof Guy Marks AO, Prof Fay Johnston and Mr Bill Dodd on behalf of the Centre for Safe Air.
+
+    Thank you for the opportunity to provide a submission regarding the Commonwealth Government COVID-19 Response
+    Inquiry.
+
+    About the Centre for Safe Air
+    The Centre for Safe Air is a Centre of Research Excellence funded by the National Health and Medical Research Council.
+    The Centre brings together more than 20 researchers at the forefront of fields relating to air quality and health. Our vision
+    is for a healthier community through cleaner air, underpinned by evidence-informed policy and practice. Our report, Safer
+    Air Healthier Communities, summarises extensive evidence illustrating the effectiveness of interventions to improve air
+    quality in Australia. Given this remit, the focus of our submission is airborne transmission of COVID-19 and the
+    effectiveness of interventions to reduce airborne exposure.
+    Overview
+    COVID-19, like other respiratory viral infections, is primarily transmitted in small airborne particles that carry the virus
+    and are emitted during all human activities related to respiration (1). Particles are emitted during speech, coughing,
+    sneezing, exercise or also quiet breathing. The particles are small enough to remain airborne for prolonged periods,
+    especially in poorly ventilated indoor environments, and be transmitted long distances. Hence, the presence of one or more
+    people with COVID-19 in an indoor environment places all persons who share the air in that indoor space at risk of
+    infection. Airborne transmission is the main mechanism of transmission of COVID-19, including ‘super spreader’ events
+    (1,2). Despite confusing and sometimes misleading public health messages (3), preventive measures to mitigate the
+    airborne transmission of COVID-19 became an important and effective part of the public health response to COVID. These
+    measures included mask mandates, restrictions on indoor gathering, requirements for enhanced ventilation for indoor
+    settings, and air filtration in health care facilities, schools, aged care facilities and other high risk indoor environments.
+    However, these were essentially emergency measures.
+    The most effective interventions to reduce the severity and cost of future pandemics involve continuously improving indoor
+    air quality (IAQ) for all Australians, with co-benefits for reducing the health and economic burden of indoor air pollution
+    more generally. Hence, the Centre for Safe Air calls for the Commonwealth Government to:
+          1. Establish a consistent national regulatory infrastructure for Clean Indoor Air for Australians working with the
+              States and Territories through the National Cabinet.
+         2. Establish an interdisciplinary panel of experts, including scientists, engineers, architects, and medical and public
+              health professionals tasked with developing a foundation for IAQ standards that can be legislated and enforced.
+         3.        Legislate National IAQ standards, and mandate that all new buildings are designed to meet the standards.
+         4. Review and improve building design and engineering standards, regulations and codes to enable compliance with
+              the IAQ standards.
+         5. Invest in improved air quality in high-risk indoor settings such as health care facilities, schools, aged care facilities
+              and detention/correctional facilities.
+         6. Fund research to assess the feasibility, effectiveness, and safety of alternative strategies for prevention of airborne
+              transmission.
+         7. Reduce outdoor air pollution—especially fine particulate matter (PM2.5)—that increases the severity of COVID-
+              19 symptoms.
+    The above recommendations are based on the analysis and evidence presented in The Medical Journal ofAustralia (4),
+    and became part of the recommendations from the House of Representatives Standing Committee on Health, Aged Care
+    and Sport (5):
+    “The Committee recommends the Australian Government establish and fund a multidisciplinary advisory body including
+    ventilation experts, architects, aerosol scientists, industry, building code regulators and public health experts to [...]
+    oversee an assessment of the impact of poor indoor air quality and ventilation on the economy with particular
+    consideration given to high-risk settings such as hospitals, aged care facilities, childcare and educational settings [and]
+    lead the development of national indoor air quality standards for use in Australia.”
+    Review of measures to reduce airborne exposure
+    In this submission, we summarise the evidence for interventions to reduce indoor transmission and provide advice to inform
+    future preparedness.
+    Indoor Air Quality Standards
+    To ensure good IAQ for Australians and minimise the risk of airborne infection transmission in shared indoor spaces, we
+    need IAQ standards that can be enforced (6). Here we focus only on the aspects of the legislation related to the transmission
+    of infections and discuss the possible basis for such regulations, their feasibility and a unique opportunity to start the process
+    with the lessons learned during the pandemic.
+
+
+    Centre for Safe Air - Submission to the Commonwealth Government COVID-19 Response Inquiry                                    1
+The change in paradigm that we are calling for in introducing IAQ regulations aimed at airborne infection transmission
+and modernising buildings to improve IAQ can be compared with the transformation of sanitation infrastructure in the UK
+in the 19th century (1). It wasn’t an easy task to convince authorities of the need for clean water and the role of contaminated
+water in infection transmission. Ultimately, the authorities and the community were convinced when, during the cholera
+outbreak in London in 1854, British doctor John Snow persuaded town officials to remove the handle of the local water
+pump. Locals could not drink that water and the outbreak was contained. This changed the approach to water sanitation in
+Britain, and ultimately the whole world, with enormous demonstrable public health benefits and corresponding economic
+dividends through health care savings (7).
+The cost to the society of prevention through better designed buildings and gradual improvement of ventilation in existing
+buildings based on IAQ standards is will be much lower than the cost of infections (1). According to some estimates, this
+would amount to only 1% of initial construction costs.
+For IAQ standards to be implementable, buildings must be designed or retrofitted in a way to make it possible. Our paper
+discussed other building engineering measures in addition to ventilation (efficient and effective), including air filtration (as
+part of Heating Ventilation and Air Conditioning system in mechanically ventilated buildings - HVAC, or supported by
+stand-alone filter-based air purifiers in addition or in absence of HVAC system), and air disinfection (in particularly
+germicidal ultraviolet radiation -GUV); these measures support ventilation in delivering clean and healthy air to indoor
+spaces (8). Below we expand on one important aspect which is ventilation.
+Ventilation
+The most efficient way to reduce the risk of transmission, is to reduce the concentration of airborne virus that is available
+to be inhaled and hence cause infection (6). Adequate ventilation (9), of air in indoor spaces is the key to achieving this
+goal and should be at the top of the top the list of control measures. This reduces the risk for everyone and protects everyone,
+regardless of other individual actions (10).
+It is important to emphasize that this is not only important for future pandemic preparedness but also for current epidemics
+of respiratory infections, due to airborne infection transmission (such as of COVID-19). Seasonal influenza and a myriad
+of other infections spread this way and have an immense impact on public health. Viral respiratory infections have been a
+major cause of morbidity and mortality in Australia for a long time (11). In just one year (2017), there were 1,255 deaths
+from influenza and 563 influenza deaths where pneumonia was a contributing factor. Together, influenza and pneumonia
+accounted for 4,269 deaths, and were the 9th leading cause of death, moving from 11th place in 2016 (10). The economic
+burden from all lower respiratory infections in Australia was >$1.6 billion in 2018-19 (12).
+It has been demonstrated that control measures taken against COVID-19, including improvement in ventilation were even
+more effective against influenza, because influenza is less infectious than the wild variant of COVID-19 and even less than
+Delta and Omicron (13). In fact, there have been reports of significant reduction in influenza cases and mortality during
+times when such control measures against COVID-19 were taken (14-16). Return of influenza was reported after measures
+were suspended (17,18).
+Masks
+Masks have a dual role in preventing transmission of airborne transmission: preventing emission of infectious aerosols by
+a person with COVID and protecting uninfected individuals from inhaling infectious aerosols. The effectiveness of masks
+to reduce airborne transmission has been demonstrated in numerous international (21,22) and Australian studies (23). A
+well-fitted N95 (P2) respirator gives the most effective protection but, if this is not available, any mask is likely to be better
+than no mask. Mask effectiveness in Victoria was estimated to be 11%, with a greater impact if at least 50% of people wear
+a mask which has an effectiveness of at least 40% (21).
+The major limitation of mask wearing is that it requires behavioural change on the part of the community. Despite the
+proven effectiveness of mask wearing, a representative survey of people from Australia, the UK and the US found that
+hand hygiene (76.4%) was a more common practice than wearing a mask (71.8%) (24). Hence, there is much work to be
+done in convincing the public of the benefits of mask wearing. Even with this, the lack of willingness of many people to
+wear masks in indoor spaces limits the role of mask wearing as a public health strategy
+Reduce outdoor and indoor air pollution
+The evidence base about links between population risks from COVID-19 and exposure to air pollution is growing. Reduced
+exposure to outdoor air pollution has been shown to reduce the severity of COVID-19 outcomes (25-27). Air pollution is
+an important risk factor for upper and lower respiratory tract infections. It may increase the transmission, severity, duration
+of hospitalisation, and mortality in people infected with respiratory viruses like influenza and COVID-19. (28) Australia is
+prone to severe recurrent outdoor air pollution from bushfires and, in some places, wood heater smoke. Indoor air
+management needs to be integrated to ensure that responses to one hazard do not counteract interventions to another hazard.
+HEPA filtration is a key intervention and protects against multiple hazards, including viral transmission and infiltration of
+outdoor air pollution.
+
+
+
+
+Centre for Safe Air - Submission to the Commonwealth Government COVID-19 Response Inquiry                              2
+References
+1. Morawska L, Allen J, Bahnfleth W, Bluyssen PM, Boerstra A, Buonanno G, et al. A paradigm shift to combat indoor respiratory
+    infection. Science. 2021 May 14;372(6543):689-91.
+2. Morawska L, Milton DK. It Is Time to Address Airborne Transmission of Coronavirus Disease 2019 (COVID-19). Clin Infect Dis.
+    2020 Jul 6;ciaa939.
+3. Morawska L, Bahnfleth W, Bluyssen PM, Boerstra A, Buonanno G, Dancer SJ, et al. Coronavirus Disease 2019 and Airborne
+    Transmission: Science Rejected, Lives Lost. Can Society Do Better? Clin Infect Dis. 2023 May 24;76(10): 1854-9.
+4. Morawska L, Marks GB, Monty J. Healthy indoor air is our fundamental need: the time to act is now. Med J Aust. 2022 Dec
+    12;217(11):578-81.
+5. Parliament of Australia. Sick and tired: casting a long shadow : inquiry into long COVID and repeated COVID infections [Internet].
+    Canberra: House of Representatives Standing Committee on Health, Aged Care and Sport; 2023. Available from:
+    https://parlinfo.aph.gov.au/parlInfo/download/committees/reportrep/RB000006/toc_pdf/SickandtiredCastingalongshadow.pdf
+6. Marks GB, Morawska L. The Conversation. 2022 [cited 2023 Dec 13]. Ventilation reduces the risk of COVID. So why are we still
+    ignoring it? Available from: http://theconversation.com/ventilation-reduces-the-risk-of-covid-so-why-are-we-still-ignoring-it-
+    194820
+7. Snow J. On the Mode of Communication of Cholera. London: John Churchill; 1849. 74 p.
+8. L. Morawska et al., How can airborne transmission of COVID-19 indoors be minimised? Environment International 142, 105832
+    (2020).
+9. Crabb B, Doolan, C, Cole, K, Hanmer, G, Marks, G, Miller, A, et al. Safe Indoor Air (Ventilation) Recommendations [Internet]. 2021
+    Sep. Available from: https://ozsage.org/wp-content/uploads/2021/09/Safe-Indoor-Air-advice.pdf
+10. Buonanno G, Ricolfi L, Morawska L, Stabile L. Increasing ventilation reduces SARS-CoV-2 airborne transmission in schools: A
+    retrospective cohort study in Italy’s Marche region. Front Public Health. 2022 Dec 9;10:1087087.
+ll.ABS. Australia’s leading causes of death, 2016 [Internet]. 2017 [cited 2023 Dec 13]. Available from:
+    https://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/3303.0~2016~Main%20Features~Australia's%201eading%20cau
+    ses%20of)/o20death,%202016~3
+12. Australian Institute of Health and Welfare. Health expenditure Australia 2018-19. Aust Inst Health Welf [Internet]. 2020 [cited 2023
+    Dec 13]; Available from: https://www.aihw.gov.au/reports/health-welfare-expenditure/health-expenditure-australia-2018-19/
+13. Mikszewski A, Stabile L, Buonanno G, Morawska L. The airborne contagiousness of respiratory viruses: A comparative analysis
+    and implications for mitigation. Geosci Front. 2022 Nov 1 ;13(6):101285.
+14. Arellanos-Soto D, Padilla-Rivas G, Ramos-Jimenez J, Galan-Huerta K, Lozano-Sepulveda S, Martinez-Acuna N, et al. Decline in
+    influenza cases in Mexico after the implementation of public health measures for COVID-19. Sci Rep. 2021 May 24; 11(1): 10730.
+15. Binns E, Koenraads M, Hristeva L, Flamant A, Baier-Grabner S, Loi M, et al. Influenza and respiratory syncytial virus during the
+    COVID-19 pandemic: Time for a new paradigm? Pediafr Pulmonol. 2022 Jan;57(l):38-42.
+16. Groves HE, Piche-Renaud PR Peci A, Farrar DS, Buckrell S, Bancej C, et al. The impact of the COVID-19 pandemic on influenza,
+    respiratory syncytial virus, and other seasonal respiratory virus circulation in Canada: A population-based study. Lancet Reg Health
+    Am. 2021 Sep;l:100015.
+17. Gutierrez-Tobar IF, Beltran-Arroyave C, Diaz A, Londono JR Jimenez KL, Zamora CG, et al. Adenovirus Respiratory Infections
+    Post Pandemic in Colombia: An Old Enemy With Increased Severity in Pediatric Population? Pediatr Infect Dis J. 2023 Apr
+    l;42(4):el33-4.
+18. Eden JS, Sikazwe C, Xie R, Deng YM, Sullivan SG, Michie A, et al. Off-season RSV epidemics in Australia after easing of COVID-
+    19 restrictions. Nat Commun. 2022 May 24;13(1):2884.
+19. Liu DT, Phillips KM, Speth MM, Besser G, Mueller CA, Sedaghat AR. Portable HEPA Purifiers to Eliminate Airborne SARS-CoV-
+    2: A Systematic Review. Otolaryngol Head Neck Surg. 2022 Apr;166(4):615-622. doi: 10.1177/01945998211022636. Epub 2021
+    Jun 8. PMID: 34098798.
+20. Biasin M, Bianco A, Pareschi G, Cavalieri A, Cavatorta C, Fenizia C, et al. UV-C irradiation is highly effective in inactivating
+    SARS-CoV-2 replication. Scientific Reports. 2021;l 1(1). doi: 10.1038/s41598-021-85425-w
+21. Howard J, Huang A, Li Z, Tufekci Z, Zdimal V, Van Der Westhuizen HM, et al. An evidence review of face masks against COVID-
+    19. Proc Natl Acad Sci. 2021 Jan 26; 118(4):e2014564118.
+22. Eikenberry SE, Mancuso M, Iboi E, Phan T, Eikenberry K, Kuang Y, et al. To mask or not to mask: Modeling the potential for face
+    mask use by the general public to curtail the COVID-19 pandemic. Infect Dis Model. 2020;5:293-308.
+23. Costantino V, Raina MacIntyre C. The Impact of Universal Mask Use on SARS-COV-2 in Victoria, Australia on the Epidemic
+    Trajectory of COVID-19. Front Public Health. 2021 Apr 21 ;9:625499.
+24. MacIntyre CR, Nguyen PY, ChughtaiAA, Trent M, Gerber B, SteinhofelK, et al. Mask use, risk-mitigation behaviours and pandemic
+    fatigue during the COVID-19 pandemic in five cities in Australia, the UK and USA: A cross-sectional survey. Int J Infect Dis. 2021
+    May;106:199-207.
+25. Vos S, Waele ED, Goeminne R Bijnens EM, Bongaerts E, Martens DS, et al. Pre-admission ambient air pollution and blood soot
+    particles predict hospitalisation outcomes in COVID-19 patients. Eur Respir J [Internet]. 2023 Jul 1 [cited 2023 Dec 13];62(1).
+    Available from: https://eij.ersjoumals.coin/content/62/l/2300309
+26. Chen Z, Huang BZ, Sidell MA, Chow T, Eckel SR Pavlovic N, et al. Near-roadway air pollution associated with COVID-19 severity
+    and mortality - Multiethnic cohort study in Southern California. Environ Int. 2021 Dec 1;157:106862.
+27. Perret J, Dharmage S. COVID-19 hospitalizations: Another adverse impact of ambient air pollution? Respirology. 2021 ;26(12): 1101­
+    2.
+28. Loaiza-Ceballos MC, Marin-Palma D, Zapata W, Hernandez JC. Viral respiratory infections and air pollutants. Air Qual Atmosphere
+    Health. 2022 Jan 1 ;15(l):105-14.
+
+
+
+
+Centre for Safe Air - Submission to the Commonwealth Government COVID-19 Response Inquiry                                  3
+

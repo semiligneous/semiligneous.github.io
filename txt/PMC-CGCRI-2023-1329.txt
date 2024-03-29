@@ -1,0 +1,117 @@
+Introduction
+I had been workin^^r^nalvs^n^application specialist for NSW e-Health for four years followed
+by four years at                         hospital in Sydney. In February of 2020 I was drafted onto
+the COVID                   it   ^■whichwas one of the primary facilities for dealing with COVID
+throughout the pandemic. The                 initially met every few days and then every day to receive
+updates and guidance on assignments and measures for dealing with the expected pandemic
+
+
+
+Use of Aged Care Facilities
+At one of the early^^^^^^ meetings in February 2020, one member of the^^^^H                 asked what
+would be happen to ambulant COVID patients in regards to isolation and ensuring the expected flood
+of COVID patients would not overwhelm the hospital. The Chief Information Officer (CIO) responded
+that ambulant patients would be "put into aged care facilities" so as not to overwhelm hospital beds
+which would be required for more severe patients.
+
+It later transpired that the vast majority of the 909 people who died in 2020 with a positive COVID test
+had died in aged-care facilities, mostly in Victoria and there were initial outbreaks in NSW aged-care
+facilities (see Appendix A). I am not sure whether any ambulant COVID patients were put into aged
+care facilities and these questions must be raised by this Inquiry.
+
+
+
+The PCR Test
+One of my first tasks was to assist in the workflow and design of the COVID PCR test reporting system.
+If a person had undergone a COVID test and was negative they received a text message if they were
+positive they received a phone call. Our team had to send daily reports to the call centre of the PCR
+test results. In the first weeks when the PCR test was rolled out an issue arose where some people
+who had undergone multiple tests over a period of days were recording unusual results. For example,
+a person would have three or four tests over a period of 10 days and the results would show both
+negative and positive results (see Appendix B). This was a problem because we could not send a text
+one day telling someone they were negative and then call them another day saying they were positive,
+then send them a text the following day saying they were negative. I analysed tens of thousands of
+test results and concluded that the PCR test was highly inaccurate. Over 80% of people with multiple
+test results showed these anomalies. A colleague checked the records of these people and they were
+not admitted or were not showing any symptoms. This did not include the people who we're already
+admitted to the hospital for other issues who were being tested multiple times whilst they remained
+in hospital. I reported my results to my manager who responded by thanking me but I later learned
+that no action was taken and no review of the test results have been made. This was a serious breach
+of protocols and testing efficacy.
+
+In essence nobody had undertaken to ensure that the PCR test was accurate and that false positives
+or false negatives where at an absolute minimum. I later learned from several other sources overseas
+that the PCR test was very inaccurate, and medical professionals and doctors had estimated that it
+was over 90% inaccurate and that the cycle threshold was too high and that the test itself (the so-
+called "Drosten Test") was not even based on the genomic sequence uploaded to the international
+database boy Chinese authorities in January of 2020. It was also noted that the late inventor of the
+PCR test, Dr               had himself stated that the PCR test should not be used for diagnostic
+purposes.
+
+There are several questions that need to be raised with the relevant health authorities in Australia.
+1. Why was the COVID PCR test not certified or verified by anyone in Australia?
+2. Why was no due diligence done on the test and the results it was producing?
+3. Why was it never explained to people that the test was highly inaccurate and that positive results
+we're not signifying actual sickness or that the person actually had COVID?
+
+
+Given that this pandemic was primarily driven by reporting on the number of people who were
+supposedly infected through this inaccurate test and that daily case numbers were reported on daily
+by Chief Health Officers and plastered on TV screens, the importance of the PCR test in the pandemic
+cannot be overstated. Lockdowns and other draconian policies were based on the ebb and flow of
+case numbers from a PCR test that was not fit for purpose. Was this a pandemic or a "case-demic"?
+That this faulty PCR test is still being used today despite the overwhelming evidence that it is
+inadequate is shocking.
+
+Recommendations
+
+    •   The COVID PCR test must be immediately withdrawn from use and a full review performed by
+        independent and Government epidemiologists and pathologists.
+    •   A mandated standard operation procedure that any test for any disease or virus must be
+        thoroughly verified for accuracy and efficacy by independent and Government pathology
+        laboratories before being deployed for use publicly.
+    •   The data (de-identified) regarding COVID tests, hospitalisations, symptoms, deaths and any
+        other relevant measurements should be made public and analysed by independent and
+        Government researchers.
+
+
+
+PPE and Mask Purchasing and Disposal
+In July of 2020 staff at RPA received a memo from the Chief Executive stating that:
+
+
+
+
+It also stated that:
+
+
+
+
+Initially PPE had been hard to source and RPA had ordered vast quantities of PPE at considerable
+expense. So much PPE was ordered that it began to overflow and filled up not just the regular storage
+space but also several shipping containers at the back of the hospital that were used to store PPE. This
+was largely because the expected number of people admitted for COVID was very low, the hospital
+was virtually empty for most of 2020 and very little PPE was actually used.
+
+I noticed that the 3M masks, that the memo claimed were expiring, actually had an expiry date of
+2025, not 2020 (see Appendix C).
+The new N95 masks were being supplied          a Chinese electric vehicle and battery company that
+had never previously made any medical equipment. These new masks were purchased by hospitals all
+over the country and in other places around the world. Billion-dollar deals were made to purchase
+these masks from
+
+^|is part owned by China an                                                   and
+The share price of^^HskyrocI                           . It later transpired that
+not fit for purpose and staff complained about them.
+
+Millions of dollars of masks were either thrown away or given away and in just one state (NSW) $778
+million was wasted (https://www.spectator.com.au/2022/02/7778-million-wasted-by-nsw-health/ ).
+
+Recommendations
+
+This Inquiry should discover the who, why and what behind this fiasco. Who gave the order to dispose
+of perfectly adequate PPE and hand over hundreds of millions to ^^|Why was this done? This was
+clearly a decision made at the Federal level and fed down to the States. What are the Government
+connections to HR* This incident screams of corruption and insider dealings and put healthcare staff
+at risk because of the poor quality of the^Hmasks.
+

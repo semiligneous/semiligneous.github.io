@@ -1,0 +1,828 @@
+* }
+1 :   Australian Government
+      The Treasury
+
+
+
+
+Commonwealth Government COVID-19
+Response Inquiry
+
+Submission by the Treasury
+
+
+December 2023
+Commonwealth Government COVID-19 Response Inquiry
+
+
+
+
+Contents
+Economic conditions during the pandemic.............................................................................................. 2
+Australia's macroeconomic and fiscal response to the pandemic............................................................... 3
+    Learning to live with COVID-19.................................................................................................................. 4
+
+Treasury's role in the pandemic................................................................................................................ 6
+Economic monitoring, analysis and advice.................................................................................................... 6
+Economic policy development, implementation and evaluation................................................................. 7
+    Legislating the economic response............................................................................................................8
+    Financing the fiscal response..................................................................................................................... 8
+Engagement with stakeholders...................................................................................................................... 8
+    Engagement with businesses..................................................................................................................... 8
+    Engagement with state and territory governments................................................................................ 9
+    Engagement with global community........................................................................................................ 9
+Whole of Government coordination and information sharing.................................................................. 10
+
+Attachment A: Additional information and resources............................................................................ 11
+Treasury economic support measures.......................................................................................................... 11
+Economic and financial regulation changes.... .............................................................................................13
+Post-pandemic evaluations and reviews...................................................................................................... 15
+
+
+
+
+treasury.gov.au                                                                                                                                        i
+  Summary
+  • The COVID-19 pandemic had extraordinary health and economic implications globally and in
+     Australia. The scale of the economic and labour market impact was unprecedented in the post
+     war era.
+
+  • Australia's economic response was large and consistent with that of other advanced
+     economies, providing direct support to households and businesses, as well as economic
+     support through the financial sector. From the onset of the pandemic to the 2022-23 March
+     Budget, the Australian Government committed $343 billion, 16.6 per cent of GDP, in direct
+     economic and health support.
+
+  • The Reserve Bank of Australia (RBA) lowered its cash rate target by 0.65 percentage points to
+     0.1 per cent and undertook large scale asset purchases. Regulatory and administrative actions
+     were also taken to ensure that the Australian economy and businesses could continue to
+     operate through the challenging circumstances presented by the pandemic.
+
+  • Treasury's role during the crisis was broad, providing forecasts and analysis to government on
+     the economic impacts of the pandemic and advising on the overall size and composition of the
+     fiscal and broader economic policy response. Treasury also supported the design and
+     implementation of many of the key economic support policies, as well as co-ordinating the
+     Government's emergency legislative economic response across the Australian Public Service.
+
+  • While Treasury played a significant role helping to manage the effects of the pandemic, its
+     contribution was part of a much larger whole-of-government response. Treasury's submission
+     should be read in conjunction with the responses provided by other Commonwealth
+     departments, regulators and government bodies.
+
+
+
+
+Economic conditions during the pandemic
+The COVID-19 pandemic had extraordinary health and economic implications globally and in Australia.
+It evolved rapidly and was characterised by enormous uncertainty, particularly in the early months of
+2020. Early in March 2020, the Managing Director of the International Monetary Fund (IMF),
+Kristalina Georgieva, stated that the biggest challenge presented by the early stage of the pandemic
+was handling uncertainty.1
+
+As opposed to regular downturns in the business cycle, the early period of the pandemic presented a
+crisis characterised by an unquantifiable and rapidly evolving risk environment. This stemmed from
+unknowns around the path of the virus and the extent of its virulence, the need for quarantine, the
+structure and functioning of the economy under quarantine, and the nature of shocks to goods,
+labour and financial markets.
+
+On 16 March the Deputy Chief Health Officer, Dr Paul Kelly, cited estimates that between 20 and
+60 per cent of the population could be infected with COVID-19, with a death rate of 1 per cent,
+
+
+
+
+1 Georgieva (4 March 2020) Joint Press Conference on Covid-19 by IMF Managing Director and World Bank
+Group President [press conference].
+
+                                                                                                        2
+implying that as many as 150,000 Australians could die under the worst-case scenario.2 Economic
+conditions deteriorated in the first quarter of 2020. Behavioural changes were observed around
+mobility (less walking, driving and use of public transport) from March 2020.3 Purchasing Managers
+Indices (PMI) in major economies fell into sharply contractionary territory reflecting deteriorating
+economic conditions. Similarly, stock markets experienced large contractions reflecting the
+uncertainty. The ASX200 fell by 7.4 per cent on 12 March 2020, and the United States' S&P500 and
+the United Kingdom's FTSE 100 suffered the greatest single-day percentage falls since 1987. By
+mid-March 2020, NAB and ANZ measures of business and consumer confidence had fallen to record
+lows, consistent with heightened uncertainty in the economic outlook, COVID-19 containment
+measures, and changes in behaviour as people sought to minimise the risk of infection.
+
+The pandemic had a significant impact on macroeconomic activity. Real Gross Domestic
+Product (GDP) in Australia fell by 6.9 per cent in the June quarter 2020, the largest quarterly fall on
+record. Declines in output were larger elsewhere. In the corresponding quarter, GDP declined by
+7.9 per cent in Japan, by 7.9 per cent in the United States, by 11.3 per cent in the euro area and by
+20.3 per cent in the United Kingdom. Aggregate OECD GDP declined by 10.1 per cent.
+
+The unemployment rate increased from its pre-pandemic level of around 5 per cent to 7.5 per cent
+by June 2020 but this only captured part of the labour market impact of the pandemic. Total hours
+worked declined by 10.1 per cent in April 2020 and around 1.8 million workers had their hours
+reduced, of which 760,000 worked zero hours for economic reasons. Almost 700,000 people left the
+labour force completely between March and May 2020.
+
+Australia's macroeconomic and fiscal response to the pandemic
+The macroeconomic environment necessitated a robust policy response to underpin confidence in
+the economy and to provide support to households, businesses and the financial sector. Managing
+the risk of labour scarring was a key priority for policy makers, reflecting the experience of earlier
+downturns (for example, in the early 1990s) which saw an extended period of elevated
+unemployment and weak labour market outcomes.
+
+The delivery of discretionary fiscal support to the economy was guided by the principles set out in the
+Secretary of the Treasury's address to the 2022 Sir Leslie Melville Lecture.4 In particular, policy
+support needed to be timely, targeted, temporary and tailored.
+
+The immediate fiscal response was implemented in a series of packages, adapting to the rapidly
+evolving health and economic conditions.
+
+• On 12-13 March 2020 the first economic support package was released with $17.6 billion in
+  stimulus payments and business support.5
+
+• A week later on 20-22 March 2020 a second economic package was released with $66.1 billion
+  support for households and businesses.6
+
+• On 30 March 2020 the third economic package was announced with the JobKeeper Payment
+  initially estimated to cost $130 billion.7
+
+
+
+2 Kelly (16 March 2020) Deputy Chief Medical Officer's press conference about COVID-19 on 16 March [press
+conference],
+3 Observed in Apple Mobility trends and toll road use.
+4 Kennedy (2022) A tale of two crises: reflections on macroeconomic policy responses to the GFC and the
+pandemic [speech, 'The 2022 Sir Leslie Melville Lecture'].
+5 Frydenberg (12 March 2020) Economic Stimulus Package [media release],
+6 Kennedy (24 March 2021) Opening statement - Economics Legislation Committee.
+7 Ibid.
+
+                                                                                                            3
+On the monetary side, the Reserve Bank of Australia (RBA) responded to the pandemic by lowering its
+cash rate target by 0.65 percentage points to 0.1 per cent, setting a target for the 3-year government
+bond yield, purchasing $281 billion government bonds (including from federal, state and territory
+governments) and providing long-term low-cost funding to the banking system. It also made use of
+forward guidance.
+
+The RBA was not alone in introducing emergency measures. Central banks in advanced economies
+employed a wide range of tools to support their economies and financial systems during the
+COVID-19 pandemic. For example, the United States Federal Reserve also reduced interest rates to
+0-0.25 per cent, offered forward guidance, promised to purchase US$500 billion in Treasury securities
+and US$200 billion in government guaranteed mortgage-backed securities. The European Central
+Bank retained negative interest rates on deposits, bought €750 billion in private and public sector
+securities and offered forward guidance. The Reserve Bank of New Zealand reduced its policy rate to
+0.25 per cent, purchased NZ$30 billion of government bonds and offered forward guidance.
+
+The Council of Financial Regulators, as the coordinating body for Australia's main financial regulatory
+agencies, worked closely together and with industry stakeholders. They took coordinated actions to
+ensure the stability of Australia's financial system, that financial markets continued to operate
+effectively, and that credit was available to households and businesses.
+
+Learning to live with COVID-19
+Australia's economic recovery from the pandemic was stronger than expected and more rapid than
+many other advanced economies, in part reflecting less severe health impacts of the pandemic
+compared with other countries.8
+
+Although economic activity contracted and the effects of the pandemic on the economy were large,
+Australia outperformed all major advanced economies in 2020.9 By the March quarter 2021, the level
+of economic activity in Australia exceeded levels prior to the pandemic and the economy grew
+strongly in 2020-21 despite the impact of the Delta lockdown in NSW, Victoria and the ACT.10 Most
+major advanced economies, including the United Kingdom, Canada and France, took until the
+December quarter of 2021 to reach pre-pandemic levels of activity.
+
+After the initial lockdowns, the policy focus shifted to managing the medium- and long-term impacts
+of the pandemic. In addition to the crisis response measures announced in March 2020, the recovery
+was supported by a range of measures in the 2020-21 Budget. The economic support package
+included JobTrainer, which provided free or low-fee training places, bringing forward Stage 2 of the
+Personal Income Tax Plan and fast tracking infrastructure projects.11 There was also additional
+government support for essential services, particularly health, aged care and disability services.
+
+Health policies centred on managing new strains and waves of COVID-19 and supporting the vaccine
+rollout. Additional targeted support was provided to individuals and businesses in areas impacted by
+subsequent waves of the virus in partnership with the states and territories. This included the
+Temporary COVID-19 Disaster Payment and the Pandemic Leave Disaster Payment. The
+Commonwealth also entered cost-sharing arrangements to help deliver business support provided by
+the states and territories.
+
+The 2021-22 Budget also included a range of supports to continue supporting the recovery. The
+economic supports including retaining the low- and middle-income tax offset, extending tax
+incentives for business investment and provided direct support to the sectors most affected by the
+
+
+8 IMF (27 July 2021) Australia's Response to COVID-19.
+9 Commonwealth of Australia (2021) 2021-22 Budget, Budget Strategy and Outlook, Budget Paper No. 1.
+10ABS(2June2021) International economic comparisons after a year of the pandemic.
+11 See Commonwealth of Australia (2020) 2020-21 Budget, Budget overview for a larger summary of
+2020-21 Budget's economic supports.
+
+                                                                                                          4
+pandemic, such as aviation and tourism.12 There was also a range of new health measures including
+extra funding to support the vaccine rollout.13
+
+Overall government spending on the response support and recovery was significant. As at the
+2022-23 March Budget, the Commonwealth had committed $343 billion, 16.6 per cent of GDP, in
+direct economic and health support since the onset of the pandemic.14 As at 24 March 2022, states
+and territories had announced approximately $234 billion, 12 per cent of GDP, in direct economic and
+health support since the beginning of 2020.15
+
+The scale of Australia's fiscal response measures was comparable to other advanced economies.
+According to IMF estimates at October 2021, Australia's discretionary fiscal response measures to the
+initial impacts of the pandemic - including both Commonwealth and state responses - were
+estimated to be similar to the size of responses in countries like Canada, Germany, Japan, the United
+Kingdom and New Zealand, and less than the United States.16
+
+Australia's fiscal response reflected the revised two-phase Economic and Fiscal Strategy outlined in
+the 2020-21 Budget.17 The first phase focused on supporting the economic recovery, recognising that
+economic growth and job creation was essential to repairing the budget and ensuring a sustainable
+budget position over time. Once the unemployment rate was firmly below 6 per cent, the strategy
+moved to the second phase, focusing on stabilising and then reducing debt as a share of the economy
+over the medium-term.
+
+The Australian Government recorded a surplus of $22.1 billion in the 2022-23 fiscal year, or around
+0.9 per cent of GDP.18 This outcome reflects the Government's economic and fiscal strategy which
+includes directing the majority of revenue improvements to the budget and enhancing the efficiency,
+quality and sustainability of spending.19 Australia returned to surplus ahead of all major advanced
+economies.20
+
+Australia is still managing the ongoing impacts of the pandemic. Waves of COVID-19 outbreaks are
+still impacting the community, requiring an ongoing health response. Following the end of the
+lockdown period the unemployment rate fell to near record lows and the labour market has remained
+tight since. Supply chain bottlenecks from the pandemic impacted the economy and created
+inflationary pressures, but are now easing. Population shocks from the closing and reopening of
+
+
+12 See Commonwealth of Australia (2021) 2021-22 Budget, Budget overview for a larger summary of
+2021-22 Budget's economic supports.
+13 See Commonwealth of Australia (2021) 2021-22 Budget, Supporting Australians through COVID-19 for a larger
+summary of 2021-22 Budget's health response.
+14 This is comprised of $314 billion in direct economic support and $29 billion in direct health support since the
+onset of the pandemic. See Commonwealth of Australia (2022) Budget 2022-23 (March), Keeping Australians
+safe for further details.
+15 State and territory spending estimates are largely based on the total value of new policy decisions, including
+for revenue, expenses and capital investment, since states' and territories' 2019-20 mid-year reviews (which
+capture the impact of policy decisions in the period from late 2019 until 2023-24). This approach uses
+information from state and territory 2020-21 budgets and budget updates where possible. The estimates are
+total values and do not account for savings, offsets or reprioritisations. Per cent of GDP is based on the 2019-20
+actual.
+16 IMF (October 2021) Fiscal Monitor Database of Country Fiscal Measures in Response to the COVID-19
+    ■ .    c.
+17 For more discussion on the revised Fiscal Strategy see Budget Statement 3: Fiscal Strategy and Outlook in
+Commonwealth of Australia (2020) Budget 2020-21, Budget Strategy and Outlook, Budget Paper No. 1.
+18 Commonwealth of Australia (September 2023), Final Budget Outcome 2022-23.
+19 For further discussion on the Fiscal Strategy see Commonwealth of Australia (2023) Budget 2023-24, Budget
+Strategy and Outlook, Budget Paper No. 1.
+20 See OECD (July 2022) The post-COVID-19 rise in labour shortages for a further discussion on structural
+changes in the labour market.
+
+                                                                                                                 5
+international and state borders are still impacting the housing market and infrastructure plans. These
+ongoing impacts from the pandemic are going to take time and a concerted effort to manage.
+
+
+Treasury's role in the pandemic
+Treasury was a key source of advice to the Government and coordinated a suite of policies in
+response to the COVID-19 pandemic, spanning the breadth of Treasury's policy responsibilities.
+Economic monitoring, analysis and advice
+Treasury increased its economic analysis, advice and reporting to Government, providing frequent
+updates on the global and domestic economic impact of COVID-19 and the associated policy
+response. This analysis was used to inform the Government's policy and health responses, and was
+used by the Treasurer to update the community on economic conditions. It was also incorporated
+into Treasury's economic outlook, which was published in Budget documents across 2020 and 2021,
+detailing revised economic forecasts.21 Through the pandemic period, Treasury took the unusual step
+of publishing economic forecasts both with and without fiscal support policy.22
+
+The unique nature of the COVID-19 shock and associated policy response required Treasury to adapt
+its macroeconomic analysis frameworks. Traditionally, Treasury has principally forecast the economy
+based on how households and businesses spend their money (the expenditure measure of GDP). In
+response to industry-based shutdowns and school closures, which directly impacted the supply side of
+the economy, Treasury established new frameworks for analysing economic impacts through an
+industry and labour market lens (production base). Treasury established the new Industry Analysis
+Unit (within Macroeconomic Conditions Division), tasked with liaising with health experts to develop
+up-to-date health assumptions, before translating those assumptions to industry-based impacts on
+the supply side of the economy. Additionally, Treasury expedited the utilisation of the Treasury
+Macroeconometric Model of Australia, which was developed over 2018 and 2019.23 This
+industry-based modelling framework was used to inform the macroeconomic forecasts.
+
+Treasury estimates of the economic impact of the Government's discretionary fiscal support
+incorporated both the direct effects of individual measures and indirect effects of the broader
+packages on household and business confidence, business solvency and liquidity, and labour market
+attachment.
+
+Treasury engaged in an innovative partnership with the Doherty Institute to provide integrated health
+and economic advice to government. Doherty modelled a range of scenarios in July 2021 that
+considered the likely transmission of the COVID-19 Delta variant at different national vaccination
+rates under varying restriction regimes, while Treasury analysed the direct economic costs of the
+modelled scenarios. This culminated in the Economic Impact Analysis of the National Plan to
+Transition to Australia's National COVID-19 Response, agreed by National Cabinet and all states and
+territories on 6 August 2021.24
+
+To support timely and granular analysis of rapidly changing conditions during the pandemic, Treasury
+secured access to new data sources including Single Touch Payroll administrative data,
+unemployment benefit recipient microaggregates, and credit card spending data from major banks.
+Treasury also worked with the ABS to integrate a number of high frequency labour market data
+
+
+
+21See2 Z0-2 and 2021-22 Budgets, 2C           . and 2021-22 MYEFO, 2020 JEFU, and 2021 Intergenerational
+Report.
+22 For example, see Commonwealth of Australia (2020) 2020-21 Budget, Jobmaker-Creating jobs and
+rebuilding our economy.
+23 Bullen et. al. (3 September 2021) The Treasury Macroeconometric Model of Australia: Modelling Approach.
+24 Treasury (6 August 2021) Economic Impact Analysis of the National Plan to Transition to Australia's National
+COVID-19 Response.
+
+                                                                                                                  6
+sources into the Labour Market Tracker project. Treasury also expanded its capacity to work with
+microdata by expanding specialist teams within Macroeconomic Analysis and Policy Division.
+
+Treasury worked closely with regulators to monitor and address issues that arose across the financial
+system and more broadly. The engagement with regulators, including through regular reporting,
+enabled Treasury to understand the direct and real time impacts of COVID-19 on the operations of
+companies, capital markets and financial institutions. Treasury was able to provide advice to
+Government on policy responses supporting the smooth operation of these economic functions.
+Treasury also increased its engagement with the RBA on forecasts and economic conditions during
+this period.
+
+Treasury's international posts and International Division provided updates to relevant ministers and
+their departments on economic and financial market developments, and policy responses by
+governments in North America, Europe and Asia. The updates reported on actions by central banks to
+maintain liquidity in the financial system, effects of COVID-19 restrictions and supply chain
+constraints, government policy responses to deliver support for businesses and workers, and effects
+of the pandemic on key economic indicators. Reports were sent almost daily throughout 2020 before
+gradually transitioning to less frequent reporting as the pandemic evolved.
+
+Economic policy development, implementation and evaluation
+Treasury led the design and implementation of many COVID-19 pandemic response measures,
+including JobKeeper, the HomeBuilder program, COVID-19 early release of superannuation, cashflow
+boost, temporary full expensing and loss carry-back for businesses. It also developed and
+implemented a range of regulatory policies to facilitate relief and insolvency system changes. A
+summary of COVID-related policies led by Treasury is provided in Attachment A.
+
+Treasury led the design and legislation of the JobKeeper Payment; the administration of JobKeeper
+was led by the Australian Tax Office (ATO). The JobKeeper Payment was a wage subsidy and income
+support program delivered in the first year of the COVID-19 pandemic. With an initial estimated cost
+of $130 billion over 6 months, JobKeeper was one of the largest labour market policy interventions in
+Australia's history. Once announced, it became a key pillar and the single largest component of the
+fiscal stimulus package during the pandemic. JobKeeper was extended twice, each time by 3 months.
+Modifications to policy design, including changes to eligibility criteria and the payment rate and
+structure, were incorporated into the second ('extension') phase. JobKeeper supported around
+4 million employees - almost one third of pre-pandemic employment — and is estimated to have
+prevented the direct loss of between 300,000 to 800,000 jobs.25
+
+The Coronavirus Coordination Team, along with the Strategic Engagement and COVID-19 Recovery
+Branch, provided advice on issues such as the definition of essential workers, supply chain challenges,
+and the economic impact of public health measures to support the COVID-19 Vaccination Strategy
+and the National Re-opening Roadmap.
+
+Treasury also established a Markets Taskforce to assess the availability of capital for the ongoing
+operations of strategically important businesses and provide advice to Government, including
+monitoring the Virgin Australia voluntary administration.
+
+A number of evaluations have been conducted in relation to COVID-19 policies developed or
+implemented by Treasury, including the recent Independent Evaluation of the JobKeeper payment.
+More detail is contained in Attachment A.
+
+
+
+
+25 Treasury (28 September 2023) Independent Evaluation of the JobKeeper Payment.
+
+                                                                                                        7
+Legislating the economic response
+Treasury coordinated two legislative packages containing a total of 28 measures in 10 Bills across
+9 portfolios to implement the Government's initial response to the economic impact of COVID-19.
+
+The first legislative package, the Coronavirus Economic Response Package Omnibus Bill 2020 (and
+8 supporting Bills) covered the first two economic support packages. These included measures to
+support households and businesses including boosting cash flow for employers; stimulus payments to
+households to support growth; additional support for income support recipients; and assistance for
+severely affected regions. The first package was introduced and passed both Houses of Parliament on
+23 March 2020 and received Royal Assent on 24 March 2020.
+
+The second legislative package, the Coronavirus Economic Response Package Omnibus (Measures
+No. 2) Bill 2020 and Coronavirus Economic Response Package (Payments and Benefits) Bill 2020, was
+centred on measures to establish the framework to implement and administer the JobKeeper
+Payment and related arrangements. The second package was introduced and passed both Houses of
+Parliament on 8 April 2020 and received Royal Assent on 9 April 2020.
+
+Financing the fiscal response
+The Australian Office of Financial Management (AOFM) was tasked with increasing the funds available
+to the Government through an increased issuance of Australian Government Securities (AGS). From
+February 2020 to October 2023, total AGS on issue increased from $571 billion to $910 billion. On
+7 October 2020 the Treasurer provided a direction increasing the maximum face value of AGS on
+issue to $1,200 billion.
+
+During March 2020 the AOFM had limited ability to raise funding due to dislocations in markets, while
+government funding requirements were materially increasing. The RBA intervention into the Treasury
+Bond market announced in late March was successful in clearing the congestion and allowed the
+AOFM to substantially increase issuance. In 2019-20 the AOFM issued a record $128 billion of
+Treasury Bonds of which $86 billion were issued in the last 3 months, and increased Treasury Notes
+on issue by $56 billion. Annual Treasury Bond issuance peaked in 2020-21 at $207 billion. To meet the
+record funding tasks the AOFM was able to scale up both the regularity and size of existing issuance
+processes. This included establishing 6 new bond lines via syndication in 2020, raising around
+$110 billion dollars and continued regular tenders issuing at a peak rate of around
+$10 billion per week (into existing bond lines and short-term Treasury Notes).26
+
+Engagement with stakeholders
+During the pandemic, Treasury increased its engagement with external stakeholders. In addition to
+working with the Doherty Institute, Treasury increased its engagement with Australian businesses,
+state and territory governments and the global community.
+
+Engagement with businesses
+A dedicated team, the Coronavirus Business Liaison Unit, was established in Treasury to engage
+directly with peak business groups on systemic issues relating to COVID-19. This ensured that issues
+facing businesses were being addressed by Government. The Coronavirus Business Liaison Unit also
+acted as a source of information for business groups on the Government's response to COVID-19,
+which allowed information to be disseminated quickly and effectively across the business community.
+
+The Council of Financial Regulators worked closely together and with industry stakeholders, taking
+coordinated actions to ensure the stability of Australia's financial system, that financial markets
+continued to operate effectively, and that credit was available to households and businesses.
+
+
+
+26 Please see the , .   I   e for more information on the AOFM operations.
+
+                                                                                                      8
+Changes to economic and financial regulation were implemented to allow business to continue to
+function effectively while social distancing measures were in effect and uncertainty was heightened
+and to safeguard the Australian economy through the COVID-19 crisis. This included changes to
+support market functions, including changes to corporate disclosure regulations, insolvency laws and
+foreign investment screening.27
+
+Engagement with state and territory governments
+Treasury supported a significant boost in the engagement between Commonwealth, state and
+territory Treasurers and treasuries by convening more Council on Federal Financial Relations (CFFR)
+meetings. These additional meetings meant Treasurers and treasuries were able to regularly share
+insights and work collaboratively as the COVID-19 pandemic unfolded. CFFR monitored economic
+impacts of the pandemic, developed business support programs and later focused on economic
+growth and job creation. CFFR convened 23 times in 2020 and 8 times in 2021, a marked increase
+from the previous 2 or 3 meetings each year prior to the pandemic.
+
+Treasury also provided financial assistance to states and territories to support the delivery of
+initiatives in response to the COVID-19 pandemic, including funding for the additional costs incurred
+by state and territory health services under the National Partnership on COVID-19 Response.28
+
+Treasury also supported state- and territory-based responses through the provision of
+Commonwealth held data needed to support the effective administration of those state and territory
+policies.
+
+Treasury provided National Cabinet with a range of data and analysis regarding the economic impacts
+of industry restrictions to support their deliberations around pandemic response, as well as regular
+updates from the Secretary regarding the economic situation and outlook.
+
+Engagement with global community
+Australia was a strong advocate for global action. Treasury actively engaged in the development of
+G20 and the international financial institutions' responses to the global economic challenges of
+COVID-19, ensuring that vulnerable countries had the fiscal space, and support to address the health
+and fiscal impacts of COVID-19. In particular, Australia strongly advocated for a robust and rapid
+response to the crisis from the IMF including through the provision of liquidity support to help ensure
+the stability of the global financial system.
+
+Australia is a shareholder in the IMF and the multilateral development banks, where we supported
+crisis responses to the pandemic. The IMF rapidly increased its lending and expanded access limits,
+providing over US$120 billion to 90 countries. The World Bank also delivered an unprecedented
+US$204 billion in financial support to mitigate the pandemic's health, social and economic impacts. In
+April 2020, Australia committed an initial SDR 500 million (A$1.02 billion) to the IMF's Poverty
+Reduction and Growth Trust to support Low Income Countries. Four Pacific Island countries accessed
+this funding during the pandemic. Australia supported the IMF’s largest-ever allocation of special
+drawing rights in August 2021, which injected US$650 billion of liquidity into countries to help aid
+recovery from COVID-19.
+
+Through the G20, Australia advocated for the Debt Service Suspension Initiative, providing
+US$12.9 billion in liquidity through deferred debt repayments to vulnerable countries to manage the
+crisis, and for affordable access to COVID-19 vaccines, diagnostics and therapeutics for all countries.
+The Treasury and the Department of Health and Aged Care led Australia's participation in the
+
+
+
+27 For example, see Frydenberg (5 May 2020) Making it easier for business to operate during Covid-19 [media
+release] and Frydenberg (25 May 2020) Temporary changes to continuous disclosure provisions for companies
+and officers [media release],
+28 For more information see Federal Financial Relations (April 2021) National Partnership on Covid-19 Response.
+
+                                                                                                              9
+G20 Joint Finance-Health Task Force, which was established to enhance dialogue and global
+cooperation on pandemic issues - including encouraging effective stewardship of resources for
+pandemic prevention, preparedness and response (PPR). In 2022, Australia became a founding
+member of a new global Financial Intermediary Fund (Pandemic Fund), committing A$50 million to
+improve future pandemic PPR.
+
+From November 2020, Treasury provided several budget support loans to the Republic of Indonesia
+and the Independent State of Papua New Guinea (PNG) to assist with COVID-19 response and
+recovery. The A$1.5 billion agreement with Indonesia was part of a multilateral action led by the
+Asian Development Bank and included the Asian Infrastructure Investment Bank, the Japan
+International Cooperation Agency, and the German state-owned development bank. The funds were
+used to support Indonesia's COVID-19 response, including social protection initiatives and health
+system development.
+
+Three successive loans to PNG in 2020, 2021 and 2022 totalling almost A$2 billion have helped
+address the country's deteriorating fiscal position caused by the COVID-19 pandemic. They have
+supported reform actions under an IMF Staff-Monitored Program, helped respond to the ongoing
+health and economic impacts of COVID-19 and assisted PNG to meet its 2022 Budget financing
+shortfall, including delivery of multilateral development programs.
+
+Whole of Government coordination and information sharing
+Treasury managed a comprehensive advertising campaign informing Australians of economic support,
+the Government's plan for economic recovery, and building business and consumer confidence to
+reopen. The campaign required whole-of-government coordination to ensure consistent, timely
+messaging, as well as ongoing creative development, monitoring, translations and research.
+
+The Treasury website became the central point of entry for the public on COVID-19 economic
+response measures, including JobKeeper, JobSeeker and the HomeBuilder program. The Treasury
+website homepage was rebuilt to allow a clear path to information, including regularly updated fact
+sheets and links to the relevant implementing departments. Treasury materials were shared with
+Australia.gov.au and Services Australia to ensure consistent and clear messaging for the public.
+
+Treasury played an active role in information sharing and collaboration across many Government
+departments. Communication professionals from key departments (e.g. Prime Minister and Cabinet,
+Australian Tax Office, Services Australia, Fair Work Ombudsman, Department of Health and Aged
+Care, Treasury) met regularly to discuss upcoming communications activities, priorities and
+coordination across channels.
+
+
+
+
+                                                                                                      10
+Attachment A: Additional information and resources
+Treasury economic support measures
+Treasury played a key role advising on design of economic policies during the pandemic to support
+households, businesses and the financial sector. It was also responsible for legislating, implementing
+and/or delivering a range of these response measures, including:
+
+• Boosting Cash Flow for Employers which provided a tax-free cash flow boost of between $20,000
+  and $100,000 to eligible businesses, delivered though credits in the activity statement system.
+
+• Bringing forward the Second Stage of the Personal Income Tax Plan by two years from 1 July 2022
+  to 1 July 2020. The tax cuts:
+
+   -     Increased the top threshold of the 19 per cent tax bracket from $37,000 to $45,000;
+
+   -     Increased the low-income tax offset from $445 to $700; and
+
+   -     Increased the top threshold of the 32.5 per cent tax bracket from $90,000 to $120,000.
+
+• Business Support Payments, jointly funded with the states, provided financial support to businesses
+  adversely affected by lockdowns and border restrictions. Further support was provided to
+  businesses in the tourism and hospitality sectors by co-funding targeted state grants.
+
+• Counting on U was a free accredited professional development program that built the mental
+  health literacy of trusted business advisers to better support small business owners in times of
+  distress.
+
+• Ensuring tax deductibility of COVID-19 test expenses for individuals incurring these expenses to
+  attend a place of work, and ensuring businesses don't incur fringe benefits tax (FBT) where
+  COVID-19 tests are provided to employees for this purpose.
+
+• HomeBuilder provided eligible owner-occupiers (including first home buyers) with a tax-free grant
+  of $25,000 to build a new home or rebuild an existing home.
+
+• Increased availability of equity finance for small to medium enterprises (SMEs) by co-investing with
+  financial institutions to establish an Australian Business Growth Fund.
+
+• JobKeeper provided fortnightly wage subsidies to eligible businesses and employees.
+
+• JobMaker Hiring Credit provided wage subsidies for businesses to employ additional young job
+  seekers aged 16-35 years.
+
+• National Cabinet Mandatory Code of Conduct (the Code), which set out SME Commercial Leasing
+  Principles. During COVID-19, the National Cabinet implemented the Code which relied on the states
+  and was available for the duration of the JobKeeper program.
+
+• NewAccess for Small Business Owners is a free and confidential mental health coaching program
+  delivered by Beyond Blue. No GP referral or mental health treatment plan is required.
+
+• Pandemic Leave Disaster Payment provided a support payment if an individual, or someone they
+  were caring for, had to self-isolate or quarantine due to COVID-19.
+
+• Payments to support households provided two separate $750 payments to eligible social security,
+  veteran and other income support recipients and eligible concession card holders.
+
+
+
+                                                                                                     11
+• Quick and efficient access to credit for small business provided temporary relief from responsible
+  lending obligations for lenders to get small businesses access to credit.
+
+• Retaining and increasing the Low- and Middle-income tax offset (LMITO). The LMITO was
+  scheduled to cease after the implementation of Stage 2 tax cuts, which commenced on 1 July 2020
+  and embedded the benefit of LMITO into the rates and thresholds of the tax system. The LMITO
+  was instead retained for the 2020-21 and 2021-22 income years and increased by $420 for the
+  2021-22 income year, increasing the maximum LMITO benefit to $1,500 for individuals and
+  $3,000 for couples.
+
+• Small Business Debt Helpline extended a previous program, the Small Business Bushfire Financial
+  Counselling Support Line, and provides free, independent and confidential financial advice by small
+  business financial counsellors to small businesses impacted by the pandemic.
+
+• SME Loan Guarantee Scheme Phase 1, SME Loan Guarantee Scheme Phase 2, SME Recovery Loan
+  Scheme, and the Show Starter Loan Scheme provided government guarantees to participating
+  lenders to enhance their ability to extend credit to SMEs. The loan eligibility criteria varied between
+  the schemes.
+
+• Structured Finance Support Fund (SFSF) made targeted investments in structured finance markets
+  to support continued access to funding for smaller lenders that provided consumer and business
+  finance. AOFM committed up to $3.8 billion in SFSF investments across several warehouse and
+  term transactions.
+
+• Supported the aviation sector, including the Retaining Domestic Airline Capability program and the
+  Tourism Aviation Network Support Program, which provided 800,000 half-price domestic airfares
+  to key tourism destinations.29 This formed part of broader aviation support to help maintain
+  essential services and export markets.
+
+• Supported the creative and entertainment sector including the Show Starter Loan Scheme and the
+  Restart Investment to Sustain and Expand Fund, to provide seed funding for new productions,
+  festivals and events.30
+
+• Temporarily expanding eligibility to income support payments and establishing a new, time-limited
+  Coronavirus supplement to be paid to both existing and new recipients of the eligible payment
+  categories.
+
+• Temporarily reducing superannuation minimum drawdown rates. Minimum superannuation
+  drawdowns are calculated based on a person's balance on 1 July. Halving the drawdown
+  requirement reduced the need for retirees to realise capital losses amidst the market volatility of
+  COVID-19.
+
+
+
+
+29 See DISR (October 2021)    .Js                  Sei   r and DISR (2022) COVID-19 aviation support for
+more details.
+30 See Treasury (2021) iow :arter Lc    Scl me and DISR (2022) Restart Investment to Sustain and Expand
+(RISE) Fund for more information see.
+
+                                                                                                           12
+• Temporary early release of superannuation for individuals impacted financially by the pandemic.
+   Eligible Australian and New Zealand citizens and permanent residents were able to apply online
+  through myGov to access up to $10,000 of their superannuation before 1 July 2020. They were also
+  able to access up to a further $10,000 from 1 July 2020 until 31 December 2020. Eligible temporary
+  visa holders were also able to apply for a single release of $10,000 before 1 July 2020. Over the life
+  of the measure, $36.4 billion was released to 3.1 million individuals, with a total estimated cost to
+  the Budget of $2.22 billion.
+
+• Temporary expansion of the Digital Solutions-Australian Small Business Advisory Service to
+   provide general business as well as digital advice to an increased number of small businesses.
+
+• Temporary full expensing allowed eligible businesses (with aggregated annual turnover or total
+  income of less than $5 billion) to immediately deduct the full cost of eligible assets acquired from
+  announcement on 2020-21 Budget night (7:30 pm AEDT on 6 October 2020) and first used or
+  installed ready for use by 30 June 2023 (extended from the initial announcement of 30 June 2022).
+
+   - Temporary full expensing built on the $150,000 instant asset write-off and Backing Business
+     Investment measures, which were introduced on 12 March 2020 as time limited accelerated
+     depreciation measures available for businesses with aggregated annual turnover of less than
+     $500 million.
+
+• Temporary loss carry-back allowed eligible corporate entities to carry-back tax losses from the
+  2019-20 to 2021-22, and subsequently 2022-23, income years to offset previously taxed profits as
+  far back as the in 2018-19 income year when they lodge their 2020-21, 2021-22 or 2022-23 tax
+   returns.
+
+• Temporary relief for financially distressed businesses implemented a range of measures to support
+  distressed businesses.31 This included:
+
+   - Increasing the threshold at which creditors could issue a statutory demand on a company from
+     $2,000 to $20,000.
+
+   - Temporarily extending the time companies had to respond to statutory demands they received
+     from 21 days to 6 months.
+
+   - Temporarily relieving directors of personal liability for insolvent trading with respect to debts
+     incurred in the ordinary course of a company's business.
+
+• Temporary relief for financially distressed businesses lessened the threat of actions that could push
+   businesses unnecessarily into insolvency.
+
+Economic and financial regulation changes
+In addition to Treasury's work through the Council of Financial Regulators, the Treasury's affiliated
+regulators took various actions, outlined below.
+
+ASIC:
+• Gave temporary relief to enable certain 'low doc' offers to be made to investors, assisting
+  Australia's capital markets to remain strong and efficient.
+
+• Extended period for lodging financial reports.
+
+
+
+
+31 Treasury (March 2020) Temporary relief for financially distressed businesses [factsheet].
+
+                                                                                                         13
+• ASIC introduced measures to ensure the equity market remained effective and resilient, requiring
+  its participants to manage transaction volumes, as well as continuing to monitor the performance
+  of markets and financial market infrastructures.
+
+• The Government issued ASIC with a revised statement of expectations emphasising that ASIC
+  should contribute to 'supporting Australia's economic recovery from the COVID-19 pandemic'.32
+
+• ASIC indicated that 'current challenging economic circumstances' were a factor in its enforcement
+  decision-making.33
+
+APRA:
+• APRA announced a number of actions in response to COVID-19. These included adjusting bank
+  capital expectations, delaying its 2020 supervision and policy priorities, and changing reporting
+  obligations for some of its regulated entities. Some of the delayed regulatory work was to ensure
+   resources in regulated institutions could be directed to other functions due to the environment.
+  This reduced regulatory burden and supported financial market functioning.
+
+ACCC:34
+• Adjusted processes and analysis to more quickly grant urgent interim authorisations for
+  cooperation amongst competitors where this was in the public interest.
+
+• The conduct authorised related to: provision of health services; supply of medicine and other
+  essential items; supply of food by supermarkets; relief measures extended to consumers and
+   businesses facing financial difficulties; issues related to the medical, economic or social
+  consequences of COVID-19.
+
+RBA:35
+• The RBA announced extensive measures to provide liquidity to financial markets and to support the
+   banking system in providing credit to businesses. Responding to the volatility caused by COVID-19,
+  the RBA for a time conducted one and three month repurchase operations.
+
+• The Term Funding Facility (TFF) was established to offer low-cost three-year funding to authorised
+  deposit-taking institutions (ADIs).36 The facility closed to new drawdowns on 30 June 2021, at which
+  time $188 billion of funding was outstanding.
+
+• The RBA deferred the Review of Retail Payments Regulation, to reduce demands on industry
+  stakeholders.
+
+• A swap line with the US Federal Reserve was established, as part of efforts to lessen strains in
+  global USD markets.37
+
+
+
+
+32 Frydenberg (26 August 2021) New Statement of Expectation for the Australian Securities and Investments
+  or    ssi n [media release],
+33 ASIC (22 July 2020) ASIC will not appeal Federal Court decision on Westpac's 'responsible lending' obligations
+[media release],
+34 For a summary of ACCC's authorisations in 2020 see ACCC (April 2021) C                       i     t    s.
+35 For a summary of RBA's actions see RBA (2023) Supporting the Economy and Financial System in Response to
+COVID-19.
+36 RBA (2023) Term Funding Facility to Support the Australian Economy.
+37 RBA (20 March 2020) Reserve Bank of Australia and US Federal Reserve Announce Swap Arrangement [media
+release].
+
+                                                                                                               14
+Foreign Investment Review Board:38
+• Temporarily reduced the foreign investment screening threshold to $0 and extended the deadline
+  for case processing to six months, to ensure foreign investment acquisitions were not contrary to
+  the national interest.39
+
+Post-pandemic evaluations and reviews
+• The JobKeeper Payment: 3-month review was completed by Treasury in June 2020.40 It was
+  informed by the status of the COVID-19 pandemic and the economic downturn. The review found
+  that the JobKeeper Payment met its initial objectives but that the labour market remained weak.
+  The review concluded that an extension of JobKeeper would support the economic recovery.
+
+• Insights from the first six months of JobKeeper presents analysis on the first six months of the
+  JobKeeper Payment.41 The report reflects on the design and initial impacts of JobKeeper as a key
+  element of the Government's macroeconomic response to COVID-19.
+
+• The Independent Evaluation of the JobKeeper Payment assessed the impacts and the processes of
+  JobKeeper.42 The evaluation found JobKeeper was effective in preserving employment, supporting
+  incomes and prevented large scale business failure.
+
+• Small Business and Mental Health -Through the Pandemic looked at the mental health effects of
+  small business in the 2 years to 2022.43 COVID-19 and a series of natural disasters has significantly
+  impacted many businesses.
+
+• The Career Effects of Labour Market Conditions at Entry investigates the effects of labour market
+  conditions at graduation on an individual's work-life over the following decade.44 Australians that
+  graduated into worse labour market conditions can expect to earn less at the start of their career.
+
+• Looking Under the Lamppost or Shining a New Light examines the value of data to policymaking
+  using Treasury's experience during the COVID-19 pandemic as a case study.45 It highlights the use of
+  new and emerging data and capabilities, and partnerships to build integrated datasets such as the
+  Labour Market Tracker developed with the ABS and other data custodians.
+
+• The Australian National Audit Office's (ANAO's) Audit Report: The ATO's Management of Risks
+  Related to the Rapid Implementation of COVID-19 Economic Response Measures was completed in
+  December 2020.46 The ANAO found that the ATO has been effective in managing the
+  implementation risks relating to the six key economic response measures that it was charged with
+  administering.
+
+
+
+
+38 Foreign Investment Review Board (June 2021) Annual Report.
+39 Frydenberg (29 March 2020) Changes to foreign investment framework [media release],
+40 Treasury (June 2020) The JobKeeper Payment: Three-month review.
+41 Treasury (October 2021) Insights from the first six months of JobKeeper.
+42 Treasury (28 September 2023) Independent Evaluation of the JobKeeper Payment.
+43 Treasury (December 2022) Small Business and Mental Health -Through the Pandemic.
+44 Andrews et. al. (June 2020) The Career Effects of Labour Market Conditions at Entry [Treasury working paper],
+45 Hambur et. al. (February 2022) Looking Under the Lamppost or Shining a New Light.
+46 ANAO (14 December 2020) The Australian Taxation Office's Management of Risks Related to the Rapid
+Implementation of COVID-19 Economic Response Measures.
+
+                                                                                                             15
+• The National Partnership Agreement on HomeBuilder: Review Report was completed in October
+  2022.47 It found that the National Partnership Agreement (NPA) supported the effective delivery of
+  the program and the achievement of its intended objectives. It also noted that earlier consultation
+  with jurisdictions to leverage their grants administration expertise could have resolved many of the
+  issues that arose in the NPA's early design and implementation.
+
+
+
+
+47 KPMG (31 October 2022) HomeBuilder National Partnership Agreement Review.
+
+                                                                                                    16
+

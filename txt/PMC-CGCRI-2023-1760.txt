@@ -1,0 +1,151 @@
+Dear Panel,
+
+I have been a consultant paediatrician for over 35 years and was delighted to see Australia
+announce the creation of a Centre for Disease Control. COVID-19 made it clear that
+Australia needs an institution of this kind. I am also glad that Australia has commissioned
+this Inquiry, including to inform the priorities of the CDC.
+
+As a medical doctor, I could not agree more with the well-known phrase “prevention is better
+than cure”. The same logic applies to pandemics. Pike et al in “The Origin and Prevention of
+Pandemics” show that the “wait-and-respond approach is not sufficient and that the
+development of systems to prevent pandemics before they are established should be
+considered imperative to human health.”
+
+I think this insight should be foundational to the direction of this Inquiry.
+
+My submission focuses on a select few issues, but my overall view is that pandemic
+prevention should be a key priority of the CDC and that our institutions and leaders should
+never concede that pandemics are inevitable.
+
+Research tells us that the likelihood of zoonotic pandemics is greater than we think and on
+the rise. Land use change, climate change, travel and trade are known drivers of the
+emergence of novel pathogens. While we can’t stop all of these things, the Inquiry should
+recommend practical interventions that reduce their risk domestically as well as international
+approaches that encourage others to do the same.
+
+Land use change is a known driver of disease spillover from animals to humans. For
+example, urbanisation causing both nutritional stress and the fragmentation of flying fox
+habitats is attributed to the spillover of Hendra virus into horses and humans in Queensland.
+
+A side effect of travel and trade is the spread of disease. There are concerns that activities
+like the movement of live animals through legal (live animal exports) and illegal (smuggling)
+trade may propagate spillover risks at each point. Coronaviruses carried by pangolins
+confiscated from the illegal wildlife trade in Vietnam have been found to originate in Yunnan
+and Guangxi, China. These are the provinces in which bats have been found to carry SARS-
+related coronavirus most similar to SARS-CoV-2.
+
+Climate change will increase the spillover risks from anthropogenic land use. At least
+10,000 virus species have the ability to infect humans but, at present, the vast majority are
+circulating silently in wild mammals. Changes in climate and land use will lead to
+opportunities for viral sharing among previously geographically isolated species. By 2070, it
+is expected that there will be 300,000 novel animal pair encounters globally. In other words,
+climate change will double the opportunities for one of the estimated 10,000 viruses in
+wildlife to move between species.
+
+In all three of these cases, it’s open to the Inquiry to recommend that Australia, including
+through national and jurisdictional biosecurity strategies, include practical interventions and
+programs to treat both the underlying trend and the risks it creates.
+
+Further, while I understand that assisting foreign governments is not in the terms of
+reference of this Inquiry, international policies to support Australians at home are in scope. In
+that context, the Inquiry should consider recommendations that leverage Australian
+international leadership to pursue global pandemic prevention that keeps Australians safe
+wherever they are.
+Given our special relationship with the Asia-Pacific, regional capacity building can be a key
+contribution to global public health. At least 4 out of 9 pandemics that have occurred since
+1900 originated from Asia, due to high population density and proximity of animals to the
+population. Good work is already being done by the Indo-Pacific Centre for Health Security.
+Given the growing importance of this work, the Inquiry should consider making
+recommendations about how it could be appropriately expanded and focused on pandemic
+prevention. This might include investments into projects relevant to mitigating risks due to
+land use change, trade and travel, and climate change, as well as thinking about how
+innovative approaches to pandemic prevention recommended by this Inquiry could be
+spread in our region.
+
+We can also build further our record of international leadership. Australia is a member of the
+International Experts Group of Biosafety and Biosecurity Regulators. Australia also
+advocates for chemical and biological weapons security and non-proliferation, including
+through the formation of the Australia Group to harmonise export controls for chemical and
+biological weapons. We could build on this track record and help keep Australians safe by:
+    • Acting on the recommendation of Global Health Security Index’s 2021 report on
+        Advancing Collective Action and Accountability Amid Global Crisis by regularly
+        reporting to the World Organisation for Animal Health (OIE) on incidence of human
+        cases of zoonotic disease. This is a critical global norm and we should help establish
+        it.
+    • Recommending that the Foreign Minister consider including in free trade agreements
+        that relate to animals and animal products something akin to a “national treatment”
+        obligation that requires the other trading partner to meet or exceed the standards and
+        practices to prevent zoonoses. Through this mechanism, Australia could adopt best
+        practices domestically, and then encourage our trading partners to adopt similar
+        practices - ultimately making Australia and the world safer.
+
+
+Public commentary has focused on the possible origins of COVID-19, including whether it
+was a “lab leak”. Regardless of the specifics of COVID-19 specifically, I’ve been shocked to
+learn about the high rate of safety incidents at labs handling dangerous pathogens. A
+publication from Manheim and Lewis found that from 1975-2016 there were 71 reported
+high-risk human-caused pathogen exposure events - as well as evidence of underreporting.
+An anonymous survey on biosecurity and accidents in Belgium reported almost 100
+laboratory-acquired infections in a 5 year study period. A lab leak also likely began the 1977
+flu pandemic.
+
+Given pandemics can cost millions of lives and trillions of dollars, it seems clear that safety
+standards (or adherence to standards) fall far short of what is appropriate. While I’m firmly in
+favour of science, and think that science is a force for good in fighting pandemics, it has to
+be done responsibly.
+
+As an outsider, there is little transparency about how physical containment facilities in
+Australia are regulated. The Office of the Gene Technology Regulator seems to focus mostly
+on GMOs and provides little information about its functions regarding physical containment
+facilities.
+
+To the extent that information is available, OGTR’s 2022-23 annual report is proud that it
+certified a record 132 physical containment facilities last year, meaning that there are now
+1,874 “high-level” facilities operating in Australia. It also reports that it only conducted 49
+inspections in the same period, including no inspections of the highest-level PC4 facilities.
+Reviewing older reports, no PC4 facilities were inspected in 2021-22 either, and only 1
+inspection occurred in 2020-21. Despite only conducting 49 inspections in 2022-23, 26
+certified physical containment facilities were found to be non-compliant. In this context, the
+report noted that OGTR takes a “cooperative approach” to compliance and that no culpability
+was found in any of these cases.
+
+In addition to seeming shortcomings in oversight, the guidelines themselves are troubling.
+The rules for PC4 facilities were last updated in 2007 and reference standards like AS1324.1
+on air filters and AS/NZS 2243.3 on lab safety, which don’t appear to have been updated
+since 2001 and 2002 respectively. AS1324.1 specifically has been criticised by the HVAC
+industry for being based on inaccurate research from the 1950s and has now been
+superseded by ISO 16890.
+
+While this is a grim picture on multiple fronts, it’s not necessarily a criticism of OGTR. OGTR
+only has 51 employees and has wide-ranging regulatory functions apart from these topics.
+
+Overall, this snapshot paints a grim picture of the state of regulation in Australia, and one
+that I think falls far short of public expectations about how seriously these issues would be
+taken. Before reading into this, I would have guessed that PC4 facilities comply with cutting­
+edge global standards that account for emerging technology, and would each be inspected
+several times per year.
+
+I think that this Inquiry should recommend a thorough review of biosafety - including the
+suitability of requirements, degree of adherence, and adequacy of oversight - for all
+research that involves human or animal pathogens. The review should include a risk
+assessment that takes into account the potentially catastrophic global consequences of
+errors, and ensures that our approach to mitigation is proportionate to that risk.
+
+The notable public health challenges of history have been solved by innovative people
+bringing new ideas and perspectives to the challenge of health. As the scope of public health
+has grown, so has its ability to improve longevity and quality of life.
+
+The terms of reference of this inquiry are fundamentally about doing better in the future.
+Given how terrible future pandemics could be - the best thing the Inquiry could do for the
+future is to prioritise pandemic prevention, including the novel ways pandemics could occur
+in the future. While that will require uncomfortable thinking about unexpected topics and
+emerging technologies, these are the issues that could have the biggest impact towards
+securing a healthier future.
+
+
+
+
+Kind regards,
+
+Dr Roopa Mulik
+

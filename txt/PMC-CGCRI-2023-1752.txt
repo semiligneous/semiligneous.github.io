@@ -1,0 +1,84 @@
+COVID-19 Government Response enquiry submission.
+
+Author:
+Dr Rohan Baker, PhD
+Senior Principal Research Scientist
+Genetic Signatures Ltd
+7 Eliza Street
+Newtown NSW 2042
+
+
+www.geneticsignatures.com
+
+Dear Ms Kruk, Professor Bennett, and Dr Jackson,
+
+Thank you for the opportunity to make a submission to the COVID-19 Government
+Response enquiry.
+
+I am submitting under the term of reference:
+Support for industry and businesses (for example responding to supply chain and
+transport issues, addressing labour shortages, and support for specific industries).
+
+Background:
+I am the Senior Principal Research Scientist for the Australian clinical diagnostics
+company Genetic Signatures Ltd (ASX: GSS). We manufacture clinical diagnostic
+kits in Sydney, for sale to public and private pathology laboratories in Australia and
+overseas. These kits are based on the polymerase chain reaction (PCR) detection of
+pathogen DNA/RNA in clinical samples. Accordingly, we developed a PCR kit for
+SARS-CoV-2 detection very early in the pandemic, and I was personally heavily
+involved in the R&D, validation and production of these kits, and hand-delivered the
+first batch of PCR kits on 05 March 2020 to one of our customers (public pathology
+lab) in Sydney. In the following years our company made a mammoth effort to keep
+up with demand for these kits, and also continually improve their performance and
+ensure they gave sensitive and accurate detection of all the SARS-CoV-2 variants as
+they arose. I am proud to say that we never let our pathology lab customers down
+during the whole period of COVID-19 PCR testing in Australia, both in terms of
+supply of kits, and kit performance. However, it was a hard period for the following
+reasons:
+
+(1) Supply issues getting raw materials into Australia. PCR relies on synthetic DNA
+molecules (we call primers and probes). Sadly, Australia lost the ability to
+manufacture these at scale on-shore several years before COVID-19. Demand went
+up dramatically world-wide for PCR reagents, and most companies favoured their
+own local clients, at the expense of places like Australia. Thus Australia must have
+the capability to manufacture synthetic DNA primers and probes on-shore. Further,
+this capability needs to be able to be rapidly scaled up as required. This will avoid
+delays with both the manufacture of such materials, as well as delays in freight to
+Australia when international flights greatly diminish when borders close. I understand
+that the National Measurement Institute (NMI) has been tasked with investigating this
+capability, but it must be rapidly put in place.
+(2) We had great difficulty importing standard materials (ie the inactivated SARS-
+CoV-2 virus itself) into Australia due to quarantine/AQIS/DAFF import permit
+regulations. Such material is essential to both develop a molecular diagnostic test,
+and determine performance specifications/quality control for the said test. While
+import restrictions are a critical part of Australia’s quarantine system, there must be
+some flexibility under conditions such as the COVID-19 pandemic, whereby such
+material can be both safely imported, and then rapidly disseminated to relevant
+parties; companies such as ourselves, and also pathology laboratories, to use as an
+in-house standard material. Inactivation of pathogens (such as the SARS-CoV-2
+virus) is a routine procedure, and such inactivated material can be safely imported
+from reputed suppliers, such as the American Type Culture Collection (ATCC).
+Alternatively, such standards can be developed on-shore, which the NMI eventually
+did, but such material needs to be made available in a more timely manner, to allow
+rapid development of urgently needed diagnostic kits.
+
+(3) We are a small Australian company, and had to invest heavily into large amounts
+of primers and probes (and other items required for PCR such as enzyme mixes and
+the reagents to purify the nucleic acids). The Department of Health had on many
+occasions suggested a repayable grant would be made available to allow our
+company to buy these reagents at scale with confidence. This grant never
+materialised, even though the COVID-19 taskforce told us it had been approved.
+There was a great risk that the reagents we purchased would be wasted if SARS-
+CoV-2 was a short-lived outbreak, such as its predecessor SARS-CoV-1, and our
+company would have been placed under considerable financial pressure. Our
+company has the skillset and ability to pivot and respond quickly, however some
+form of repayable grant would significantly de-risk this process for our company.
+Similarly, with support, our company could have made many more tests, rather than
+importing them as the government supported Minderoo to do.
+
+I would be happy to provide more specifics if required.
+
+Yours sincerely,
+
+Rohan Baker, PhD.
+

@@ -1,0 +1,151 @@
+University of Sydney Infectious Diseases Institute (Sydney ID) response to Call for submissions and
+                            evidence to the COVID-19 Response Inquiry
+
+Sydney ID (https://www.sydney.edu.au/infecticus-diseases-institute/ ), conducts research that improves
+understanding of the complex interactions that fuel the emergence and spread of infectious diseases,
+especially in the Indo-Pacific region. We aspire to mitigate the health and socioeconomic impacts of these
+infections, by providing novel insight and practical solutions. We support basic, translational and
+implementation research and encourage a comprehensive, multidisciplinary approach to infection,
+immunity, and biosecurity - linking pathogens, humans, and animal hosts, engineered systems and the
+natural environment in a One World, One Health framework.
+
+In 2021, Sydney ID brought together groups of discipline experts to articulate key lessons learned during
+the COVID-19 pandemic response and to encourage constructive national discussion in Australia and
+regionally. This led to a publication (Key lessons from the COVID-19 public health response in Australia.)
+and a report by the Open Society and Sydney Policy Lab (The Great Australian renovation; attached) both
+in the public domain.
+
+Key lessons identified were:
+1) Border closures and lockdowns worked as a crisis measure, but we need a better understanding of when
+and how these measures should be deployed to maximise their protective effect and minimise adverse
+impacts.
+2) Disease modelling was valuable to assist decision-making and public understanding of risk, but its
+limitations should be adequately communicated, and transparency is key.
+3) At a national level, comprehensive data were not readily available to guide decision making, which
+requires careful assessment of optimal disease surveillance and response structures.
+4) The pandemic demonstrated the utility of advanced pathogen genomics and novel vaccine technology,
+raising the bar for future disease surveillance and response.
+5) Timely, clear, and open communication, combined with decision making that is evidence-informed and
+as consultative as possible, is essential to maintain population cooperation and trust.
+6) Existing preparedness plans were insufficient and major system weaknesses were exposed in the
+Australian residential aged-care sector.
+7) Effective Infection Prevention and Control (IPC) measures were important to keep health-care workers
+safe and to limit population transmission.
+8) The interests of children and young people were at times compromised and it is important to ensure
+adequate representation of their best interests in decision making processes.
+9) Epidemic risk should be recognised as a standing threat with ongoing investment in workforce
+development and research.
+10) Nationalistic pandemic responses demonstrated the need for stronger global solidarity and regional
+engagement.
+
+Australia was lucky to avoid the worst effects of the COVID-19 pandemic, but as a society we experienced
+many negative impacts. This submission focuses on key lessons 1 and 4-10 from our Lancet paper. Points
+2 and 3 were covered in our submission to the Australian CDC consultation.
+
+Border closures and lockdowns worked as a crisis measure, but we need a better understanding of
+when and how these measures should be deployed to maximise their protective effect and minimise
+adverse impacts.
+As an island nation Australia delayed SARS-CoV-2 importation by closing its international borders, which
+bought time to develop and deploy effective protective measures, primarily vaccines. However, once the
+SARS-CoV-2 virus was globally established, and given incomplete vaccine protection against virus
+transmission, it became clear that the pursuit of a zero COVID policy was unattainable and that despite its
+benefits, strict border closures and lockdowns generated a multitude of adverse health, social and
+                                                                                                             1
+economic impacts. These were not always adequately considered at the time. Within Australia, the closure
+of internal State borders was a natural extension of the national zero COVID approach, but created
+economic disruption and public confusion, as well as emotional hardship for those unable to travel to be
+with loved ones in times of distress, to return home or in the case of populous border regions, for workers
+and workplaces to provide essential services when their employment was located across the state border.
+Given that the legal responsibility for health protection resides at State/Territory level in Australia, some
+variation in practice depending on the local risk calculus was inevitable, however, the appropriateness of
+such variations must be judged against their adverse impacts.
+
+The pandemic demonstrated the utility of advanced pathogen genomics and novel vaccine
+technology, raising the bar for future disease surveillance and response.
+Advanced pathogen genomics provided key insights into the origin, evolution and spread of the pandemic.
+Its recognised value in outbreak identification, transmission tracking and better targeted public health
+control measures requires infrastructure investment and urgent workforce upskilling for us to benefit from
+these new developments. Effective implementation of COVID-19 vaccine programmes was the most
+important and most effective public health intervention. The pandemic identified the use of new vaccine
+technology and partnerships with industry to ensure local production capacity, as crucial health security
+investments.
+
+Timely, clear and open communication, combined with decision making that is evidence- informed
+and as consultative as possible, is essential to maintain population trust.
+Communication with specific at-risk populations was often lacking in the early phases of community
+lockdowns and vaccine rollout. It took time to organise appropriate messages and communication channels
+to reach culturally and linguistically diverse communities, First Nations people, those living with a disability
+and other groups at risk of severe disease. Some response measures were deemed to be inequitable,
+leading to mistrust in government. Building and preserving public trust requires decision-making that is
+evidence-informed, transparent, and consultative in process. It requires community partnership,
+consideration of the social determinants of health, health systems that are functional and accessible, and
+communication that is culturally appropriate and inclusive. Communication should be multidirectional and
+involve systematic avenues for listening to communities and stakeholders in different sectors, along with
+informing them. To support behaviour change, messaging should inform and educate in a way that
+considers health literacy, makes information easy to access, and engages trusted spokespeople.
+
+Existing preparedness plans were insufficient and major system weaknesses were exposed in an
+under-resourced Australian residential aged-care sector.
+State and Territory pandemic preparedness plans were mostly modelled on influenza (H5N1 and then
+H1N1), but regular revision and simulation of these plans dropped off in the years leading up to the COVID-
+19 pandemic. Intra-pandemic, critical workforce and supply chain interruptions emphasised the importance
+of whole of government planning and national self-sufficiency during a global crisis. Major age-specific
+variability in disease virulence complicated response efforts. Children and young people experienced a
+relatively low risk of severe disease, with a dramatic increase in the disease risk and burden among older
+individuals. As highlighted by the recent Royal Commission into Aged Care Quality and Safety, the
+pandemic exposed major system weaknesses in the Australian residential aged-care sector. Delays in
+vaccination, poor infection control practices, inadequate planning for staffing disruptions and failure to meet
+the social and emotional needs of residents and families during times of loneliness and end of life care
+were particularly distressing.
+
+The interests of children and young people were at times compromised and it is important to
+ensure adequate representation of their best interests in decision making.
+Fortunately, young people experienced a low incidence of severe disease. Unfortunately, messages from
+paediatric health care professionals to reduce unwarranted fear and emotional distress in children and their
+parents/carers were at times actively suppressed. Decision makers did not adequately consider the
+                                                                                                               2
+detrimental impacts of school or playground closures on their education, emotional and physical
+development, and mental health, as well as the unequal effect of these measures on children from
+disadvantaged backgrounds. Going forward, an Australian national mitigation and recovery plan is needed
+to ensure that in future outbreaks, equal education access is prioritised and that the damage done to
+physical and mental health is addressed. Schools should be classified as providing an essential service,
+with school staff vaccinated as a priority group and remote learning only considered as a last resort.
+
+Epidemic risk should be recognised as a standing threat, with ongoing investment in workforce
+development and research.
+Typically, pandemic research receives a funding boost after a major disease outbreak, but interest dwindles
+quickly once the epidemic recedes. General priority areas for pandemic research include improved
+understanding of pathogen evolution and spread, as well as disease surveillance, prevention, pandemic
+preparedness and response, health system resilience, human behaviour and effective risk communication.
+The One Health dimension of infections that emerge at the human-animal interface, including the effects of
+climate change, reduced ecosystem services and biodiversity collapse, are complex problems that require
+integrated cross-disciplinary approaches.
+
+The pandemic demonstrated the need for stronger global solidarity and regional engagement.
+COVID-19 put global inequities into stark relief and high-income countries (including Australia) did not
+always demonstrate strong global solidarity. The fact that Australia’s decision to caution against
+AstraZeneca vaccine use affected vaccine confidence in the region should be carefully considered in
+Australia’s public health communication response and emphasises the need to assist countries with
+evidence-informed decision making that is appropriate for their specific context. At a time when society
+faces major existential threats, it is more important than ever for all countries to embrace regional and
+global solidarity. It is also the only way to effectively manage an evolving global health threat and to prevent
+and prepare for similar future challenges.
+
+The Open Society/Sydney Policy Lab report made 12 recommendations with a strong focus on young
+people, who experienced the greatest setback from the COVID-19 pandemic, despite being at minimal risk
+for severe disease. It recommended strengthening the integrity and accountability of our public institutions
+to rebuild trust in government. Priorities included the establishment of a national office for multicultural
+affairs and re-establishment of multiculturalism as a priority, together with a national anti-racism strategy to
+ensure equality, respect, and cooperation between all Australians. Programs to strengthen both
+communications by our public health officials and the scientific community, and the ‘scientific literacy’ of the
+Australian people, should allow people to better understand how diseases spread and how scientists
+generate and use evidence to inform judgements. They should also provide the knowledge needed to filter
+out disinformation and identify trusted sources. Critically, there must be strong bilateral engagement with
+respective communities to better understand their priorities and concerns and together develop tailored,
+culturally appropriate programs that take into account variations in health literacy.
+
+
+
+
+                                                                                                               3
+

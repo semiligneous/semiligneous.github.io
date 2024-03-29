@@ -1,0 +1,781 @@
+                                                                 Australian Council
+                                                             ZA\ of Social Service
+
+
+Submission to the COVID-19
+Response Inquiry
+January 2024
+
+
+About ACOSS
+The Australian Council of Social Service (ACOSS) is a national voice in support of
+people affected by poverty, disadvantage and inequality and the peak body for
+the community services and civil society sector.
+ACOSS consists of a network of approximately 4000 organisations and
+individuals across Australia in metropolitan, regional and remote areas.
+Our vision is an end to poverty in all its forms; economies that are fair,
+sustainable and resilient; and communities that are just, peaceful and inclusive.
+
+Summary
+ACOSS welcomes this Government inquiry into the COVID-19 Response and
+appreciates the opportunity to respond.
+While the vaccination rollout was poorly managed, the broader COVID social and
+economic policy response was a remarkable policy experiment with profound,
+but sadly not durable, social and economic impacts. The Federal Government
+took decisive action to provide necessary financial support to people and
+organisations adversely affected by the pandemic and to preserve employment
+relationships via the boost to Jobseeker and the introduction of Jobkeeper
+payments. These two payment systems were largely responsible for the fact
+that, in stark contrast to previous economic recessions, poverty and income
+inequality were both sharply reduced during COVID lockdowns. The major
+weakness in the policy response was the exclusion of around 1 million people
+(temporary visa holders) from any form of government assistance.
+The Treasury estimates that JobKeeper Payments alone preserved between
+300,000 and 800,000 jobs, that would otherwise have been lost during
+lockdowns.1 In this way, it helped sustain growth in the economy and incomes
+and avert a prolonged economic downturn. The doubling of Jobseeker
+transformed lives, especially for people reliant on meagre government allowance
+payments prior to the pandemic, whose incomes effectively doubled.
+
+
+
+
+ Australian Government (2023), Independent evaluation of JobKeeper Payment. Canberra.
+
+                    © ACOSS 2023, Locked Bag 4777 Strawberry Hills NSW 2012
+                           Ph (02) 9310 6200 E: info@acoss.orq.au
+                                     www.acoss.orq.au
+Major housing policy initiatives effectively eliminated rough sleeping and the
+moratorium on evictions provided protection from homelessness to many
+vulnerable tenants.
+However, these reforms were largely impermanent, ending before the COVID
+lockdowns at a time when vaccinations were still largely unavailable. Crisis
+governance mechanisms should have included active collaboration and regular
+advice from community leaders and services themselves, to ensure that
+responses were tailored to the needs of disadvantaged communities and that no
+one missed out on assistance.
+This submission outlines priority recommendations for reforms to improve
+community preparedness and responsiveness to future health and economic
+crises. It contains two attachments: (1) a summary of evidence in support of the
+recommendations and (2) a full list of the large body of work ACOSS produced
+during the COVID crisis, including research reports produced with UNSW and
+other external research partners.
+
+RECOMMENDATIONS
+
+Recommendation 11
+Future crisis governance arrangements should involve active collaboration at the
+national level with community leaders and services and leverage existing local
+community structures and leadership.
+
+Recommendation 2
+Governments should regularly and transparently publish disaggregated data on
+crisis impacts and access to assistance to inform crisis responses as they evolve,
+including by reference to household income level (where possible) and other
+appropriate indicators of socioeconomic status.
+
+Recommendation 3
+The Federal Government should strengthen the capacity of community health
+organisations to deliver effective health services, including health promotion and
+education programs to people and communities experiencing disadvantage. This
+includes funding the full cost of service delivery and improved contractual
+arrangements.
+
+Recommendation 4
+Given the transformative impacts of lifting the payment during the pandemic,
+increase JobSeeker, Youth Allowance, Parenting Payment and related income
+support to parity with pensions (currently $78 a day) and index these payments
+in line with wages as well as prices at least twice per year.
+
+Recommendation 5
+Ensure temporary migrants with no other means of assistance have access to
+crisis support and financial assistance.
+
+
+                                           2
+                                                                                       acoss
+
+
+
+Recommendation 6
+
+A national wage subsidy scheme should be quickly implemented in pandemics,
+natural disasters or other national crises or major economic disruptions and
+sustained for as long as necessary, with the following features:
+
+   •       A two-tier payment structure for full and part time workers respectively;
+   •       Payment through the employer to sustain the employment relationship;
+   •       A turnover test to assess need for the subsidy;
+   •   Capacity for refund of subsidies by businesses to government where no
+       reduction in turnover occurs;
+   •   A public register of recipient businesses, amounts received, and the profile
+       of workers assisted;
+   •       Provisions that take account of the special circumstances of charities;
+   •   Eligibility that extends to employees with temporary and bridging visas
+       and a wider range of workers employed on a casual basis.
+
+Recommendation 7
+Sustained and comprehensive policy responses should be introduced to address
+longstanding housing issues, including:
+   •   A major boost to homelessness service funding and ongoing effort to
+       eliminate rough sleeping through provision of adequate crisis
+       accommodation with pathways to secure tenancies.
+   •   Further reforms to rental regulation to impose rent caps and strengthen
+       protections from forced evictions.
+   •   A 10-year plan to boost social housing stock benchmarked to housing
+       need.
+   •   A substantial boost to Rent Assistance for private tenants with low
+       incomes to ease housing stress. The supplement should be benchmarked
+       and indexed to actual rents paid.
+   •   A national First Nations housing strategy to boost the stock of community
+       housing, along with a new remote housing agreement, to address housing
+       stress, homelessness and overcrowding in remote communities.
+
+
+
+
+                                            3
+ATTACHMENT 1: Discussion
+1. Crisis governance
+As part of the response to the COVID-19 pandemic, the In March 2020, the
+National COVID-19 Coordination Commission (NCC) was established within the
+Department of Prime Minister and Cabinet to advise the Prime Minister on all
+non-health aspects of Australia's pandemic response.2 The Commission was
+ostensibly to mobilise a whole-of-society and whole-of-economy effort "to
+anticipate and mitigate the economic and social effects of the global coronavirus
+pandemic."3 However, Commission membership was too narrow to facilitate such
+an effort, with several members directly linked to gas and manufacturing
+industries at the expense of a truly nationally represented group. The expertise,
+perspectives and advice of essential and other community services were
+marginalised from the beginning. Australia's initial non-health policy responses
+thus skewed to the background and interests of NCC members. Appointees
+lacked the expertise that could have been gained through the addition of a
+representative from the community services sector.
+In May 2020, the Commission set up a not-for-profit working group to consider
+government and sector responses to issues affecting the people most vulnerable
+during the pandemic.4 In July 2020, the Commission was repurposed as the
+National COVID-19 Commission Advisory Board (NCC). The not-for-profit
+working group remained. However, it was unclear at the time, and remains so
+now, how the advice of this working group influenced government decision­
+making, priorities and responses.5
+As the pandemic progressed over several years, critical voices remained on the
+outskirts of Federal Government engagement and discussions. Through national
+challenges such as the impact of public health orders and various lockdowns on
+communities, vaccination rollout problems and shortages of medical equipment,
+many voices that could have provided important advice were not heard by
+National Cabinet. ACOSS wrote to Prime Minister Scott Morrison in January 2022
+
+
+
+2 Research Branch, Parliamentary Library (2020), COVID-19 Australian Government roles and responsibilities:
+an overview. Parliamentary Library, Canberra. Available:
+https://www.aph.qov.au/About Parliament/Parliamentary Departments/Parliamentary Librarv/pubs/rp/rpl920
+/COVID 19AustralianGovernmentRoles
+3 Australian Local Government Association (2020), National Covid-19 Coordination Commission. ALGA,
+Canberra. Available: https://alqa.com.au/national-covid-19-coordination-commission/
+4 Michael, L (2020), NFP working group survives COVID-19 commission shake up Pro Bono Australia. Available:
+https://probonoaustralia.com.au/news/2020/08/nfp-workinq-qroup-survives-covid-19-commission-shake-up/
+5 Hicks, E (2020), Private Actors & Crisis: Scrutinising the National Covid-19 Commission Advisory Board.
+Governing During Crises Policy Brief No. 4. Melbourne School of Government, University of Melbourne.
+Av a 11 a b I e: https://qovernment.unimelb.edu.au/ data/assets/pdf file/0006/3457725/GDC-Policy-Brief-
+4 Private-Actors-and-Crisis final.pdf
+                                                                                                                  acoss
+
+
+
+seeking to remedy the failings in governance structures that genuinely tapped
+into national expertise by suggesting the formation of "a civil society COVID
+Rapid Response Group consisting of ACOSS, unions, business peaks and public
+health experts to work closely with you over the next period in devising and
+implementing policy responses."6 This proposal sought to address gaps in
+expertise that National Cabinet failed to draw upon.
+The HIV crisis that Australia navigated in the 1980s and 90s showed us that a
+cohesive leadership plan where all levels of government trusted and listened to
+the leaders of affected communities is vital,7 and this was lacking in much of the
+COVID governance. It should be noted that, where local community leaders were
+a part of the COVID response, as in remote Aboriginal and Torres Strait Islander
+communities, there was generally a successful outcome, as in the prevention of
+the spread of COVID through these communities in 2020.
+
+
+Recommendation 1
+Future crisis governance arrangements should involve active collaboration at the
+national level with community leaders and services and leverage existing local
+community structures and leadership.
+
+
+
+
+  2.         Health measures
+The focus of ACOSS' pandemic health policy work was on the health and
+mortality of people experiencing poverty, disadvantage and hardship, including
+cohorts such as people with disability, people in aged care facilities, people from
+culturally and linguistically diverse backgrounds, and Aboriginal and Torres Strait
+Islander people - all of whom were adversely affected.
+Pandemic deaths in Australia have followed a social gradient. In 2021, the
+number of people who died due to COVID-19 was 6 times higher for those in the
+most disadvantaged quintile than those in the least disadvantaged, according to
+the ABS index of socio-economic status (SEIFA). This ratio has declined over
+time to 2.5 times higher in 2023.8
+
+
+
+
+6 ACOSS (2022b), Response to address the ongoing COVID-19 crisis in 2022. Letter to the Prime Minister, all
+State Premiers and territory Chief Ministers, 12 January 2022. Available: https://www.acoss.orq.au/wp-
+content/uploads/2022/01/ACOSS-Letter-to-National-Cabinet-Wed-Janl2-2022.pdf
+7 ACOSS & AFAO (2020), Learning from one pandemic to live with another. Available:
+https://healthequitymatters.orq.au/wp-
+content/uploads/2020/11/2887 afao jointAFAO ACOSS report webart.pdf
+8 Australian Bureau of Statistics (2023), COVID-19 Mortality in Australia: Deaths registered until 30 September
+2023. ABS, Canberra. Available: https://www.abs.qov.au/articles/covid-19-mortalitv-australia-deaths-
+reqistered-until-30-september-2023
+
+
+
+                                                          5
+People born overseas who died of COVID-19 had an age-standardised death rate
+1.4 times higher than that of people who were born in Australia (16.0 deaths per
+100,000 people compared with 11.7 deaths per 100,000 people). This mortality
+rate varied considerably during the pandemic, peaking in 2021 when it was 3.9
+times higher. It is now lower (at 13.0) than that of those born in Australia
+(13.7).9
+
+Vaccination
+Australia's vaccination rollout has already been the subject of critique and
+scrutiny. The various issues plaguing the rollout were summarised in Fault Unes:
+An independent review into Australia's response to COVID-19:10
+"The rollout of Australia's vaccination program was afflicted by bad tuck, bad
+communication and bad decisions... The AstraZeneca vaccine was struck down
+by bad communication from officials and politicians who through their
+statements unnecessarily magnified concerns over the low risks associated with
+a vaccine generally regarded as safe and effective. Bad decision-making meant
+that Australia was too reliant on too few vaccine options. Regulatory approvals
+were too slow when vaccines had already been approved by the world's most
+trusted regulators. H/e reinvented the wheel on vaccine distribution instead of
+using the existing, proven state-based networks normally relied upon."
+Throughout the rollout period, ACOSS was primarily concerned with inequities in
+ease of access to the vaccination. The social gradient outlined in the previous
+section can in part be explained by these inequities in the rollout of COVID-19
+vaccines, including how and where people could seek a vaccination. The rollout
+lacked enough investment in community-led health initiatives. The effective
+rollout in low areas of vaccination was hampered by a lack of enough data on
+vaccination rates by group or local area. ACOSS emphasised to the Vaccination
+Taskforce the need for urgent action to address gaps in vaccination coverage,
+expressing our concerns that certain high-risk groups were not adequately
+covered by the vaccination efforts.11
+ACOSS proposed that priority be given to those at risk, through population­
+specific and local-level vaccination targets based on public health advice, rather
+than the national targets for vaccination that were in place. We also urged that
+data on vaccine availability and rollout be made public in a timely fashion, and
+
+
+
+9 Australian Bureau of Statistics (2023), ibid.
+10 Shergold, P; Broadbent, J; Marshall I; Varghese, P (2022), Fault lines: An independent review into
+Australia's response to COVID-19 Available: https://assets-qlobal.website-
+files.com/62b998c0c9af9f65bba26051/6350438b7df8c77439846e97 FAULT-LINES-l.pdf p 26
+11 ACOSS (2022c), Further urgent recommendations to address the ongoing COVID-19 crisis, letter to the
+Prime Minister, Premiers and Chief Ministers, 27 January 2022. Available: https://www.acoss.orq.au/wp-
+content/uploads/2022/01/270122-Second-Letter-to-National-Cabinet-re-actions-for-Omicron-FOR-MEDIA.pdf
+that vaccination rate data be made available to help formulate the best
+response, as a targeted vaccination plan would depend on speedy data about
+vaccination rates.12
+In July 2021, ACOSS published a set of vaccination principles to inform the next
+stages for Operation COVID Shield, drawing on the expertise and experiences of
+community health and other social service organisations in working with at-risk
+and vulnerable cohorts. This framework is available in the reference list for the
+Inquiry's consideration.
+ACOSS also suggested that home vaccination visits be increased for people
+unable to travel to receive vaccinations for health, safety and wellbeing reasons.
+This would serve the dual purpose of helping to alleviate concerns about
+vaccination through direct interpersonal communication and increasing the
+vaccination rates. Again, our January 2022 letter to National Cabinet detailed
+further recommendations to achieve this end.13
+
+Recommendation 2
+Governments should regularly and transparently publish disaggregated data on
+crisis impacts and access to assistance to inform crisis responses as they evolve,
+including by reference to household income level (where possible) and other
+appropriate indicators of socioeconomic status.
+
+Community-led health initiatives
+Where community-led health initiatives were used prudently, rapid feedback was
+provided to government and other health policymakers about how they could
+improve the rollout in specific communities, as well as identifying ongoing health
+risks. Particularly successful initiatives were seen in Aboriginal and Torres Strait
+Islander communities, communities of people with diverse cultural backgrounds,
+disability communities and the LGBTQI community.
+However, for most of the pandemic, there was insufficient investment in
+community health services actively working with the at-risk and vulnerable
+cohorts . Community service organisations were frontline, essential responders,
+undertaking a litany of tasks, often without adequate resourcing from
+government. The community sector was too often sourcing medical and vaccine-
+related supplies themselves or redirecting limited funds out of other essential
+programs due to lack of government resourcing.
+In January 2022, ACOSS wrote to the National Cabinet urging immediate action
+to better protect people from the ongoing health risks posed by both the
+
+
+12 ACOSS (2021), Vaccination targets & data transparency leave no-one behind. ACOSS briefing 19 August
+2021. Available: https://www.acoss.org.au/wp-content/uploads/2021/08/210819 ACOSS-
+Briefinq Vaccinations-Tarqets-and-Data-Transparency Final-for-Release.pdf
+ 13 ACOSS (2022b), op.cit.
+Omicron and Delta variants. We drew on the extensive, first-hand experience of
+community service organisations working to ensure people's health, safety and
+wellbeing, and detailed a suite of health policies, amongst other proposals. This
+letter and its recommendations are available in the reference list for the
+Inquiry's consideration.
+A key element within our proposals was to ensure that community organisations
+could act as distribution outlets for essential medical supplies and equipment
+including Rapid Antigen Tests (RATs) and Personal Protective Equipment (PPE),
+while offering similar support to people unable to leave their home for health
+reasons. Specific additional investment should have been made in Aboriginal
+Community Controlled Health Organisations across the country to support the
+needs of their local populations.
+The lack of resources made it incredibly challenging for service providers during
+the pandemic. They regularly had to cross-subsidise their COVID-19 response
+programs from other funding sources given the lack of resourcing by
+government. The chronic under-funding of community health organisations
+continues and should be actively addressed at the Federal level to strengthen
+the capacity of community health organisations to deliver vital health services
+currently and to be prepared for future emergency responses. We refer the
+Committee to our submission, A Stronger, More Diverse and Independent
+Community Sector, for further information and policy recommendations on these
+issues (see reference list).
+
+Recommendation 3
+The Federal Government must strengthen the capacity of community health
+organisations to deliver effective health services, including health promotion and
+education programs to people and communities experiencing disadvantage. This
+includes funding the full cost of service delivery and improved contractual
+arrangements.
+
+Sustained effort to combat the social determinants of poor
+health.
+Governments can protect people on low incomes ahead of a future crisis such as
+COVID-19 by tackling the social determinants of poor health. This will ensure, as
+much as possible, that people can face such challenges from a more equal
+foundation. This can be done through systemic measures such as improving
+income support payments and the provision of adequate housing.
+3. Financial support for individuals
+Coronavirus Supplement
+Introduction of the Supplement
+In March 2020, when COVID restrictions were first applied and the border was
+closed, the total number of paid work hours nationally decreased by 10% and
+the effective unemployment rate rose from 5% to 17%.14 2.7 million people lost
+their paid work or capacity to undertake paid work almost overnight.15 It was
+clear that any economic response must support employers, employees and
+people without paid work. The Federal Government acted quickly to introduce
+additional support payments for people without paid work as well as a wage
+subsidy to keep people tied to their employment. It also removed several
+barriers to social security including waiting periods and relaxed income tests to
+expand support for people affected by the lockdowns. By August 2020, the
+number of people receiving JobSeeker and related payments had increased to
+2.2 million.
+
+Despite the relaxation of JobSeeker eligibility criteria, 28% of people who lost
+their job were ineligible to receive income support payments.16 People on
+temporary visas including international students and people seeking asylum,
+were excluded from income support, despite being locked down in Australia. This
+remained a significant gap in the Government's policy response which must be
+addressed.
+
+In addition to the Coronavirus Supplement, the Federal Government provided
+two separate lump sum payments of $750 to people receiving income support.
+The first of these payments went to people receiving pensions, allowances as
+well as concession card holders in March-April 2020. The second was received by
+pensioners and concession card holders, who did not benefit from the
+Coronavirus Supplement. Two additional Economic Support Payments of $250
+were provided to people in the income support system not receiving the
+Coronavirus Supplement in 2020 and February 2021.17
+
+
+14 Davidson, P. & Bradbury, B. (2022), The wealth inequality pandemic: COVID and wealth inequality
+ACOSS/UNSW Sydney Poverty and Inequality Partnership, Build Back Fairer Series Report No. 4, Sydney.
+Av a i I a b I e: https://povertvandinequalitv.acoss.orq.au/covid-inequalitv-and-povertv-in-2020-and-2021-
+2/#new tab
+15 Australian Bureau of Statistics (2020), People who lost a job or were stood down: flows analysis, April 2020.
+Av a i I a b I e: https://www.abs.qov.au/articles/people-who-lost-iob-or-were-stood-down-flows-analvsis-april-2020
+16 ACOSS (2020b), Taking the Temperature: COVID-19 Update from ACOSS and its members. Briefing paper 1,
+5 June 2020. ACOSS, Sydney. Available: https://www.acoss.orq.au/wp-content/uploads/2020/06/ACQSS-
+COVID19-Briefinq-Paper-Takinq-the-Temperature-5-June-202Q.pdf
+17 Australian Government (2020), Payments to support households: COVID-19 Economic response. Australian
+Government, Canberra. Available: https://treasurv.qov.au/sites/default/files/2020-10/Fact sheet-
+Payments to support households O.pdf
+The major reform, however, was the doubling of income support payments like
+JobSeeker with the introduction of the Coronavirus Supplement. The swift
+introduction of the Supplement was transformative in its impact; without the
+Supplement, it is estimated that poverty would have doubled.18 It changed the
+lives of people who were receiving income support prior to the pandemic, who
+were living well below the poverty line. People receiving JobSeeker told us:
+
+        Getting the extra $550 [a fortnight] has helped me in a lot of ways. Not
+        worrying about when I'm going to eat the next time or falling behind bills
+        and getting kicked out, as after being homeless for 10 years and getting
+        my own flat I never want to go there again.
+
+        SAFE, we are safe. H/e are safe now. Please don't ever force us back to
+        Newstart [JobSeeker]. H/e won't survive.19
+
+The Supplement reduced financial hardship and stress, enabled people to eat
+fresh fruit and vegetables, and pay their bills on time. Women told ACOSS the
+Supplement enabled them to escape domestic violence. ACOSS also heard from
+people who could take up education and training that had previously been out of
+reach because their income was insufficient.
+
+Removal of the Supplement
+The Coronavirus Supplement was reduced to $125 a week on 25 September
+2020, then to $75 a week by February 2021, and finally withdrawn in April 2021.
+Once the Coronavirus Supplement was withdrawn, the Federal Government
+permanently increased base rates of JobSeeker, Youth Allowance and related
+payments by $25 a week.
+
+While the Coronavirus Supplement had a profound effect on people receiving
+income support payments by alleviating financial pressure and providing
+breathing space, this gradual decrease of the Supplement had a damaging
+effect:
+        The [removal of the] supplement in many respects was like death of a
+        thousand cuts.20
+
+
+
+
+18 Phillips, B; Gray, M. & Biddle, N. (2020), COVID-19 JobKeeper and JobSeeker impacts on poverty and
+housing stress under current and alternative economic and policy scenarios ANU Centre for Social Research
+and Methods, Australian National University, Canberra. Available:
+https://csrm.cass.anu.edu.aU/sites/default/files/docs/2020/8/Impact of Covidl9 JobKeeper and Jobeeker m
+easures on Poverty and Financial Stress FINAL.pdf
+19 ACOSS (2020a), The impact of financial distress on mental health during COVID-19. Briefing note, ACOSS,
+Sydney. Available: https://www.acoss.orq.au/wp-content/uploads/2020/09/2020 08 28 ACOSS-Briefinq-
+Paper Impact-of-financial-distress-on-mental-health-re-COVID-19-2.pdf
+20 Naidoo, Y; valentine, k; and Adamson, E (2022) Australian experiences of poverty: risk precarity and
+uncertainty during COVID-19 Australian Council of Social Service (ACOSS) and UNSW Sydney. Available:
+https://bit.ly/3AFmXRk#new tab
+At the time, ACOSS recommended that the payment continue until a 'social
+security system is put in place that keeps everyone out of poverty.'21 The
+prospect of removal of the Coronavirus Supplement was terrifying for many:
+
+        I have lost sleep, my mental health has deteriorated dramatically, and I
+        have considered suicide. I don't know if I will be able to survive the
+        lowered rate of JobSeeker. I have been trying to find someone to adopt
+        my cat so that she can be taken care of should I completely lose hope and
+        end my life.
+
+        I'm worried about not being able to afford my medication again. I will
+        miss fresh food, and I am not looking forward to being in debt again.22
+
+The pandemic reinforced the need for a permanent and substantial increase to
+income support payments such as JobSeeker because the government's swift
+doubling of the payment in April 2020 all but confirmed people could not live on
+$40 a day (the rate of payment at the time). Despite the $25 a week permanent
+increase (and subsequent $20 a week increase delivered in the May 2023
+Budget), people receiving these payments continue to be unable to cover basic
+costs. ACOSS continues to call for JobSeeker, Youth Allowance and related
+payments to be increased to at least $78 a day.
+
+Recommendation 4
+Increase JobSeeker, Youth Allowance, Parenting Payment and related income
+support to at least $78 a day (in line with pensions) and index these payments
+in line with wages as well as prices at least twice per year.
+
+Recommendation 5
+Ensure temporary migrants with no other means of assistance have access to
+crisis support and financial assistance.
+
+
+Other financial support measures
+Coronavirus support payments
+Coronavirus support payments were one-off payments paid to people receiving
+income support payments. The first one-off payments of $750 were made in
+March 2020 and went to all people receiving income support. Three subsequent
+one-off payments were paid to pensioners, Commonwealth Seniors Health Card
+holders and others ineligible for the Coronavirus Supplement.
+
+
+
+21 ACOSS (2020c), Media release: Extend JobKeeper & JobSeeker to ensure nobody is left behind. 25 May
+2020. Available: https://www.acoss.orq.au/media-releases/7media release=extend-jobkeeper-jobseeker-to-
+ensure-nobody-is-left-behind
+22 ACOSS (2020a), op. cit.
+CO VID disaster payments
+COVID-19 disaster payments were introduced in June 2021 following further
+state-based lockdowns and the end of JobKeeper and the Coronavirus
+Supplement. Initially, the payments were $600 a week for people who had lost
+at least 20 hours a week of paid work, and $325 a week for those who had lost
+under 20 hours a week of paid work. The payment was only available to people
+living in locked-down areas, and people receiving income support were initially
+ineligible. Changes were made in July 2021 to increase the payment to $750 a
+week for people who had lost over 20 hours a week of paid work, and $200 a
+week for people who lost at least one day's pay and were receiving income
+support payments (162,000 recipients). People who had not lost at least one
+day's paid work still had to survive on the inadequate rate of JobSeeker or
+related payments while being locked down, which exacerbated financial hardship
+for many.
+
+JobKeeper
+JobKeeper Payment, announced in late March 2020 provided a temporary 'floor'
+under people's wages while they were unable to participate in paid employment.
+It was provided via employers who were eligible to claim if they were expecting
+a significant decrease in turnover. It also importantly acted as a means of
+keeping employees and employers connected.
+JobKeeper was paid at the rate of $750 a week. This was equivalent to the
+minimum full-time wage or around 70% of the national median wage. It was
+paid to eligible employees who, in the four weekly pay periods before the
+reference period, were employed for 20 hours or more a week23.
+JobKeeper Payments insulated people from income losses, working in tandem
+with JobSeeker Payments and Coronavirus Supplement to ensure that people
+both in and out of paid work received some part of the Government's COVID
+income supports. These two payment systems were largely responsible for the
+fact that, in stark contrast to previous economic recessions, poverty and income
+inequality were both sharply reduced during COVID lockdowns.24 The Treasury
+estimates that JobKeeper Payments alone preserved between 300,000 and
+800,000 jobs, that would otherwise have been lost during lockdowns.25 In this
+way, it helped sustain growth in the economy and incomes and avert a
+prolonged economic downturn. A proper assessment of its fiscal costs should
+take full account of the counterfactual - the substantial deterioration in the
+Commonwealth Budget which a prolonged downturn would bring.
+
+
+23 Initially, JobKeeper was crudely targeted due to the need for a speedy implementation, and to make use of
+the newly-introduced Single Touch Payroll system. Later refinements included making a lower payment per
+fortnight available to employees who were working fewer than 20 hours a week.
+24 Davidson, P. & Bradbury, B. (2022), op. cit.
+25 Australian Government (2023), Independent evaluation of JobKeeper Payment. Canberra.
+JobKeeper payments also supported workers maintaining an ongoing connection
+with their employers, and in this way differed from similar policies in other
+countries such as the UK and the US, where income support for workers
+suspended from their employment during lockdowns (above and beyond
+unemployment payments) was provided directly by the government as wage
+subsidies (UK) or tax credits (US) regardless of their connection with their
+employer. Consequently, there was much more 'churn' in jobs in these countries
+when lockdowns ended and many more remained out of paid work. As a result,
+Australia was less impacted by labour shortages in the first few years after
+COVID lockdowns.
+Jobkeeper's major flaw was the exclusion of temporary migrant workers and
+those with bridging visas and casual workers employed for less than 12 months.
+These exclusions meant that many thousands of people who could access neither
+JobSeeker nor JobKeeper were thrown into poverty or destitution, putting
+considerable pressure on emergency relief services. In future, consideration
+should also be given to people employed on a casual basis for less than 12
+months, since many do have an ongoing relationship with their employer despite
+their casual status.
+Another weakness of JobKeeper Payments was deadweight cost. Many
+employers who estimated losses and who received the subsidy in the first round,
+actually sustained their turnover. This ultimately affected public support for the
+payment. Options to avoid this problem include adjusting payments to changes
+in employer turnover in real time, or clawing back payments made to employers
+who did not experience reductions in turnover.
+Finally, in our view, the system of Jobkeeper Payments was dismantled too soon.
+This meant the Government had to hurriedly assemble a new 'COVID Disaster
+Payment' when the Delta strain of COVID spread later in 2021. The Disaster
+Payment was paid through the income support system, so did not help sustain
+people's connections with their employers. A better option would have been to
+suspend the JobKeeper Payment system but leave the payment infrastructure
+(and legislation) in place to meet future need.
+
+Recommendation 6
+
+A national wage subsidy scheme should be quickly implemented in pandemics,
+natural disasters or other national crises or major economic disruptions and
+sustained for as long as necessary, with the following features:
+
+   •      A two-tier payment structure for full and part time workers respectively;
+   •      Payment through the employer to sustain the employment relationship;
+   •      A turnover test to assess need for the subsidy;
+   •   Capacity for refund of subsidies by businesses to government where no
+       reduction in turnover occurs;
+   •   A public register of recipient businesses, amounts received, and the profile
+       of workers assisted;
+   •      Provisions that take account of the special circumstances of charities;
+Eligibility that extends to employees with temporary and bridging visas
+and a wider range of workers employed on a casual basis.
+ 4.      Housing and homelessness measures
+The initial COVID emergency housing policy innovations prevented a surge in
+homelessness, effectively eliminated rough sleeping and protected people
+experiencing homelessness from infection. Eviction moratoriums and rent relief
+frameworks also provided increased protection for tenants from homelessness
+and rental stress. The main weaknesses of these responses was their short-term
+nature and the failure to transition people experiencing homelessness from
+temporary accommodation into long-term housing.
+Emergency accommodation programs successfully housed over 40,000 people
+and reduced street homelessness, but only temporarily. While the collaboration
+between government and non-government organisations to house people
+experiencing homelessness during COVID, the follow-on transition to longer-
+term housing did not prove as successful in Australia as overseas, especially in
+the UK. The number of people experiencing homelessness rose again after
+emergency accommodation ended, exposing the challenges in maintaining
+support for rehoused people previously experiencing homelessness when
+government-funded assistance expires.
+The income support measures outlined earlier, including JobSeeker and
+JobKeeper, played a significant role in stabilising the rental sector. The
+introduction of eviction moratoriums were generally well-received, but rent
+variation frameworks were criticised due to the uncertainties associated with
+them.
+Mortgage payment deferrals were also introduced, which along with income
+support, eviction moratoriums and emergency accommodation forthose
+experiencing homelessness contributed to avoiding a housing market collapse.
+The eviction moratoriums, rent variations and relief schemes implemented in
+2021 were not as robust as those introduced in 2020. Only NSW and the ACT
+reintroduced restrictions on evictions, whilst rental relief schemes were
+undersubscribed, potentially due to reliance on federal income support.
+The early hopes for significant policy resets to address housing inequalities
+resulting from the pandemic have largely gone unfulfilled. Housing affordability
+pressures are now even more acute, indicating a need for sustained and
+comprehensive policy responses to address longstanding housing issues.
+
+Recommendation 7
+That sustained and comprehensive policy responses be introduced to address
+longstanding housing issues, including:
+A substantial boost to funding to homelessness services;
+A 10-year plan to boost social housing stock benchmarked to housing
+need.
+A substantial increase in Rent Assistance for private tenants with low
+incomes to ease housing stress, with the supplement benchmarked and
+indexed to actual rents paid.
+A national First Nations housing strategy to boost the stock of community
+housing, along with a new remote housing agreement, to address housing
+stress, homelessness and overcrowding in remote communities.
+ATTACHMENT 2: Key COVID-19
+documents
+Income support & economy
+ACOSS (2020), Who missed out on access to Australia's safety net under
+COVID-19 Briefing, 21 April 2020. ACOSS, Sydney. Available:
+https://www.acoss.orq.au/wp-content/uploads/2020/04/Who-misses-out-
+Briefinq-ACCESSIBLE-FINAL.pdf
+ACOSS (2020/ Taking the Temperature: COVID-19 update from ACOSS and its
+members. Briefing paper 1: 5 June 2020, ACOSS, Sydney. Available:
+https://www.acoss.orq.au/wp-content/uploads/2020/06/ACOSS-CQVID19-
+Briefinq-Paper-Takinq-the-Temperature-5-June-2020.pdf
+ACOSS (2020/ Taking the Temperature: COVID-19 update from ACOSS and its
+members. Briefing paper 2, 22 June 2020, ACOSS, Sydney. Available:
+https://www.acoss.orq.au/wp-content/uploads/2020/06/ACOSS-CQVID19-
+Briefinq-Paper-2-Takinq-the-Temperature-22-June-2020.pdf
+ACOSS (2020/ Taking the Temperature: COVID-19 update from ACOSS and its
+members. Briefing paper 3: 6 July 2020, ACOSS, Sydney. Available:
+https://www.acoss.orq.au/wp-content/uploads/2020/07/ACOSS-CQVID19-
+Briefinq-Paper-3-Takinq-the-Temperature-6-July-2020.pdf
+ACOSS (2020) JobKeeper Payment Transitions Briefing Paper, 8 July 2020.
+ACOSS, Sydney. Available: https://www.acoss.orq.au/wp-
+content/uploads/2020/07/200717-JobKeeper-Payment-Transitions-Briefinq-
+Paper-FINAL.pdf
+Davidson, P., Bradbury, B., Dorsch, P. (2021) COVID income support: Analysis
+of income support in the COVID lockdowns in 2020 and 2021. ACOSS/UNSW
+Sydney Poverty and Inequality Partnership, Build Back Fairer Series, Report No.
+1, Sydney. Available: https://povertyandinequality.acoss.orq.au/wp-
+content/uploads/2021/10/Covid-income-support build-back-fairer-report-l.pdf
+Bradbury, B and Hill, T (2021) Australian income support since 2000: Those left
+behind ACOSS/UNSW Sydney Poverty and Inequality Partnership, Build Back
+Fairer Series, Report No. 2, Sydney. Available:
+https://povertyandinequality.acoss.orq.au/income-support-since-
+2000/#new tab
+Davidson, P., (2022) A tale of two pandemics: COVID, inequality and poverty in
+2020 and 2021 ACOSS/UNSW Sydney Poverty and Inequality Partnership, Build
+Back Fairer Series, Report No. 3, Sydney. Available:
+https://povertyandinequality.acoss.orq.au/covid-inequality-and-poverty-in-
+2020-and-2021/#new tab
+Davidson, P. & Bradbury, B., (2022) The wealth inequality pandemic: COVID and
+wealth inequality ACOSS/UNSW Sydney Poverty and Inequality Partnership,
+Build Back Fairer Series Report No. 4, Sydney. Available:
+https://povertyandinequality.acoss.orq.au/covid-inequality-and-poverty-in-
+2020-and-2021-2/#new tab
+Deloitte Access Economics (2020) Estimating the economic impacts of lowering
+current levels of income support payments Australian Council of Social Service,
+Sydney. Available: https://www.acoss.orq.au/wp-
+content/uploads/2020/09/Final-ACOSS-Coronavirus-Supplement-to-ACQSS-
+09.09.2020.pdf
+
+Housing and homelessness
+ACOSS (2020) COVID 19 Housing and Homelessness Briefing, 17 April 2020.
+ACOSS, Sydney. Available: https://www.acoss.orq.au/wp-
+content/uploads/2020/05/Housinq-and-Homelessness-Briefinq-FINAL.pdf
+ACOSS et al (2020) Joint proposal for economic stimulus. Healthy & affordable
+homes: national low-energy productivity program. Available:
+https://www.acoss.orq.au/wp-content/uploads/2020/07/Economic-Stimulus-
+Healthy-Affordable-Homes-NLEPP-June-2020-Final-18062020-002.pdf
+CHIA, National Shelter, Homelessness Australia, Everybody's Home (2020)
+Social housing acceleration and renovation program (SHARP). Available:
+https://www.communityhousinq.com.au/wp-content/uploads/2020/05/SHARP-
+Proqram.pdf
+Pawson, H., Martin, C., Sisson, A., Thompson, S., Fitzpatrick, S. and Marsh, A.
+(2021) COVID-19: Rental housing and homelessness impacts - an initial
+analysis; ACOSS/UNSW Poverty and Inequality Partnership Report No. 7,
+Sydney. Available: https://povertyandinequality.acoss.orq.au/wp-
+content/uploads/2021/02/CQVID19 Rental-housinq-and-homelessness-
+impacts report-1.pdf#new tab
+Pawson, H., Martin, C., Thompson, S., Aminpour, F. (2021) COVID-19: Rental
+housing and homelessness policy impacts ACOSS/UNSW Poverty and Inequality
+Partnership Report No. 12, Sydney. Available:
+https://povertyandinequality.acoss.orq.au/covid-19-rental-housinq-and-
+homelessness-impacts-2/#new tab
+Pawson, H., Martin, C., Aminpour, F., Gibb, K., Foye, C. (2022) COVID-19:
+Housing market impacts and housing policy responses - an international review
+ACOSS/UNSW Sydney Poverty and Inequality Partnership Report No. 16,
+Sydney. Avaliable: https://povertyandinequality.acoss.orq.au/covid-19-housinq-
+market-impacts-2/#new tab
+Community sector
+ACOSS (2020) Impact on Community Sector of COVID 19 and the JobKeeper
+Payment Briefing, 21 April 2020. ACOSS, Sydney. Available:
+https://www.acoss.orq.au/wp-content/uploads/2020/04/Job-Keeper-Briefinq.pdf
+ACOSS (2020) ACOSS COVID-19 Response and Recovery - Community Sector
+Issues Briefing, 23 April 2020. ACOSS, Sydney. Available:
+https://www.acoss.orq.au/wp-content/uploads/2020/05/Community-Sector-
+Briefinq-FINAL.pdf
+
+Health and vaccination
+ACOSS (2020) The impact of financial distress on mental health during COVID-
+19. Briefing note, 28 August 2020. Available: https://www.acoss.orq.au/wp-
+content/uploads/2020/09/2020 08 28 ACOSS-Briefinq-Paper Impact-of-
+financial-distress-on-mental-health-re-COVID-19-2.pdf
+ACOSS & AFAO (2020) Learning from one pandemic to live with another
+Ava i I a b I e: https://healthequitymatters.orq.au/wp-
+content/uploads/2020/11/2887 afao jointAFAQ ACOSS report webart.pdf
+ACOSS (2021) Community sector vaccination principles. ACOSS briefing,
+originally published 21 July 2021, last updated 17 August 2021. ACOSS, Sydney.
+Ava i I a b I e: https://www.acoss.orq.au/wp-content/uploads/2020/ll/210817-
+ACOSS-Briefinq Community-Sector-Vaccination-Principles-updated-l.pdf
+ACOSS (2021) Vaccination targets and data transparency: Leave no-one behind.
+ACOSS Briefing 19 August 2021. ACOSS, Sydney. Available:
+https://www.acoss.orq.au/wp-content/uploads/2021/08/210819 ACOSS-
+Briefinq Vaccinations-Tarqets-and-Data-Transparency Final-for-Release.pdf
+ACOSS (2021) Urgent measures to support vaccination rollout and people most
+at risk and in distress Open letter to the Prime Minister, Premiers and Chief
+Ministers, 19 August 2021. ACOSS, Sydney. Available:
+https://www.acoss.orq.au/wp-content/uploads/2021/ll/210819-Letter-to-
+National-Cabinet Urgent-Actions Vaccinations-and-People-at-Risk-final-
+public.pdf
+ACOSS (2021) Urgent action regarding the National Plan, vaccination equity and
+economic supports Open letter to the Prime Minister, Premiers and Chief
+Ministers, 7 October 2021. ACOSS, Sydney. Available:
+https://www.acoss.orq.au/wp-content/uploads/2021/10/211007-Letter-to-
+National-Cabinet-re-National-Plan-vaccination-equity-and-economic-supports-
+final-public.pdf
+ACOSS et al (2022) Joint statement on the need for free and accessible rapid
+antigen tests to protect public health and the economic recovery. Available:
+https://www.acoss.orq.au/wp-content/uploads/2022/02/RAT-ioint-statement-
+110222.pdf
+Economic recovery
+ACOSS (2020) Post COVID-19 Economic Recovery: Briefing. April 2020.
+Ava i I a b I e: https ://www. aph.gov. au/DocumentStore.ashx?id = 25249b67-d452-
+4b53-9f2b-3e5d934a970a&subId = 685056
+ACOSS (2020) Recovering jobs: Policies to restore employment and reduce long­
+term unemployment after the lockdowns. Briefing, 7 July 2020. Available:
+https://www.acoss.orq.au/wp-content/uploads/2020/07/200717-Recoverinq-
+Jobs-Briefinq-Paper-FINAL.pdf
+
+Other
+ACOSS (2022) Response to address the ongoing COVID-19 crisis in 2022 Letter
+to the Prime Minister, Premiers and Chief Ministers, 12 January 2022. ACOSS,
+Sydney. Available: https://www.acoss.orq.au/wp-
+content/uploads/2022/01/ACOSS-Letter-to-National-Cabinet-Wed-Janl2-
+2022.pdf
+ACOSS (2022) Further urgent recommendations to address the ongoing COVID-
+19 crisis Letter to the Prime Minister, Premiers and Chief Ministers, 27 January
+2022. ACOSS, Sydney. Available: https://www.acoss.orq.au/wp-
+content/uploads/2022/01/270122-Second-Letter-to-National-Cabinet-re-actions-
+for-Omicron-FOR-MEDIA.pdf
+ACOSS (2022) Independent Inquiry into Australia's COVID-19 Response:
+Submission from Australian Council of Social Service, 3 August 2022. Available:
+https://www.acoss.orq.au/wp-content/uploads/2022/08/ACQSS-Sub-to-Indep-
+Inquiry-into-Australias-Covid-Response-3.8.22.pdf
+

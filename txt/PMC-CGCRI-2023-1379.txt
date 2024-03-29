@@ -1,0 +1,962 @@
+Australian
+Chamber of Commerce
+and Industry
+
+
+
+
+Commonwealth Government COVID-19
+Response Inquiry
+
+
+
+
+Australian Chamber-Tourism Submission
+December 2023
+Australian Chamber
+Tourism
+
+
+
+
+   Working for business.
+   Working for Australia.
+
+   Telephone 02 6270 8000 | Email info@acci.com.au | Website                             ac            u
+
+
+   Media Enquiries
+   Telephone 02 6270 8020 | Email media@acci.com.au
+
+
+
+   Canberra Office
+   Commerce House
+   Level 3, 24 Brisbane Avenue
+   Barton ACT 2600
+   Kingston ACT 2604
+
+   Melbourne Office
+   Level 3,150 Collins Street
+   Melbourne VIC 3000
+
+   Perth Office
+   Bishops See
+   Level 5, 235 St Georges Terrace
+   Perth WA 6000
+
+
+
+
+   ABN 85 008 391 795
+   © Australian Chamber of Commerce and Industry 2023
+
+   This work is copyright. No part of this publication may be reproduced or used in any way without acknowledgement to the Australian Chamber of Commerce
+   and Industry.
+
+   Disclaimers & Acknowledgements
+   The Australian Chamber of Commerce and Industry (ACCI) has taken reasonable care in publishing the information contained in this publication but does
+   not guarantee that the information is complete, accurate or current. In particular, ACCI is not responsible for the accuracy of information that has been
+   provided by other parties. The information in this publication is not intended to be used as the basis for making any investment decision and must not be
+   relied upon as investment advice. To the maximum extent permitted by law, ACCI disclaims all liability (including liability in negligence) to any person arising
+   out of use or reliance on the information contained in this publication including for loss or damage which you or anyone else might suffer as a result of that
+   use or reliance.
+Australian Chamber
+Tourism
+
+
+
+
+   Table of Contents
+
+   Executive summary                                                                                      1
+
+   Introduction                                                                                           3
+
+   Background                                                                                             3
+
+   Governance                                                                                            4
+     Coordination of pandemic response                                                                   4
+     Communications between governments and industry                                                     6
+
+   International policies                                                                                7
+      International test case                                                                            7
+      Cruise and biosecurity                                                                             8
+
+   Support for industry and business                                                                     10
+     Financial support                                                                                   10
+     A structured reopening is necessary                                                                 10
+     Support for international workers and hospitality                                                   11
+
+   About Australian Chamber - Tourism                                                                    14
+
+
+
+
+          i   Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+   Executive summary
+
+   Australia is an open trading nation which derives enormous economic and social benefit from being
+   engaged with other countries for business, trade, family, culture, leisure and sport. Some of our most
+   lucrative and job-generating export industries are in the service economy, such as tourism, international
+   education, events and professional services. Unfortunately, each of these industries was significantly
+   hampered by the prolonged closure of Australia’s international borders, and with uncertainty as to when
+   any reopening would occur.
+
+   During the pandemic, Australian Chamber - Tourism (the Chamber) acted quickly to develop policies and
+   provide advice to governments on how to best support the reopening of international borders in a phased,
+   risk-based manner so as to support the recovery of travel and tourism as best as possible.
+
+   While not all proposals put forward were adopted while pandemic restrictions were in place, we take this
+   opportunity to provide recommendations developed through extensive consultation with industry which, if
+   adopted, would better support travel and tourism in a future pandemic or the like.
+
+
+
+
+      Improved government coordination:
+
+     A coordination mechanism must be established to improve the pandemic response at a federal level, with a
+     particular focus on effective stakeholder engagement. Such a body must include representation from travel and
+     tourism.
+
+
+
+
+     Transparent communications to industry and the public:
+
+     Communications between and from state and territory and the federal government to industry and the public must
+     be more cohesive.
+
+     There must be greater transparency for the requirements for the easing of restrictions.
+
+
+
+
+     Test case for international reopening:
+
+     A template or scaffold should be developed with a friendly, neighbouring country to allow the early reopening of
+     international borders and expedite the recovery of travel and tourism.
+
+     Governments should consider a national approach to domestic and international border policies.
+
+
+
+
+     Adopting industry advice:
+
+     Governments should give greater consideration to reasonable reopening plans developed and put forward by
+     industry.
+
+
+
+
+          1   Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+     Tailored support for travel, tourism and hospitality:
+
+     Tailored supports should be available for travel, tourism and hospitality businesses, recognising the impacts of
+     restrictions and the time required to recommence operations.
+
+
+
+
+     Structured reopening plan:
+
+     A target timetable for the reopening of travel, tourism, hospitality and events should be developed which clearly
+     outlines the steps required for each stage to provide necessary certainty to businesses.
+
+     The Restart Plan developed by the Tourism Restart Taskforce should form the basis of any timetable.
+
+     There must be adequate notice and communication of each step.
+
+
+
+
+     Support for international visa holders and upskilling:
+
+     Appropriate supports must be in place to support the return of Working Holiday Makers and skilled migrants once
+     borders reopen.
+
+     Upskilling for workers in the hospitality sector must be appropriately funded to meet worker and skills shortages.
+
+
+
+
+       2    Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+   Introduction
+
+   The Australian Chamber - Tourism (the Chamber) welcomes the establishment of the Commonwealth
+   Government’s COVID-19 response inquiry and appreciates the opportunity to make a submission.
+
+   Australian travel and tourism were significantly impacted by the restrictions put in place to manage the
+   impacts of COVID-19. While many of these restrictions were necessary to protect lives, the Chamber
+   strongly believes that were a number of areas where all governments could have better supported travel
+   and tourism, and where better supports can be adopted for future events.
+
+   Through this submission, the Chamber outlines recommendations which we believe, if adopted, could
+   contribute to a more expedient recovery of Australian travel and tourism if future pandemics or the like
+   are experienced.
+
+
+
+
+   Background
+
+   Before the pandemic restrictions in Australia, domestic and international tourism and travel spending
+   totalled $166 billion and was the fourth largest export sector.1 In the regions, there was a direct benefit
+   too, with 44 cents of every tourism dollar spent in regional destinations,2 and the industry supported over
+   one million jobs, directly or indirectly.3
+
+   There are more than 330,000 businesses in the visitor economy, accounting for approximately one in
+   seven of Australia’s 2.4 million businesses. Of these, over 100,000 are in regional Australia.4
+
+   Tourism was then the first to feel the impacts of COVID-19 restrictions with the Chinese tourism travel
+   ban in February 2020, closely followed by a more complete tourism and travel shut down by border
+   closures, business closures and all major events cancelled by the COVID-19 restrictions with minimal
+   certainty as to its future. The restrictions compounded the impact of the 2019-20 bushfires, estimated to
+   cost travel and tourism $4.5 billion.5
+
+   While international border closures were necessary to stem the spread of COVID-19 within the
+   community, their closures had an adverse impact on Australian travel and tourism, from which it is still
+   recovering. In September 2023, short-term visitor arrival levels were still 15.9 per cent lower than they
+   were in September 2019.6
+
+   Australia is an expensive destination due to the distance from other countries and our tourism destinations
+   which are geographically disparate. While many travellers come to Australia through international means,
+   they also travel within the country. This inability for travellers to cross state borders significantly hampered
+
+
+   1 Department of Infrastructure, Transport, Regional Development, Communications and the Arts (2023), Aviation Green Paper:
+           s2     , September 2023, pg.30.
+   2 Tourism Australia n.d., The Economic Importance of Tourism.
+   3 Department of Infrastructure, Transport, Regional Development, Communications and the Arts (2023), Aviation Green Paper:
+   Towards 2050. September 2023, pg.30.
+   4 Australian Trade and Investment Commission (2023), THRIVE 2030 revised: The Re-imagined Visitor Economy Strategy, 1
+   March 2023, pg.5.
+   5 Carruthers, F. (2020), Tourism loses $4.5b to bushfires as overseas visitors cancel, 17 January 2020, Australian Financial
+   Review.
+   6 Australian Bureau of Statistics (2023), Overseas Arrivals and Departures, September, September 2023.
+
+
+
+       3    Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+   travel and tourism’s ability to operate effectively, further compounding the impacts of closed international
+   borders. While domestic travel would not account for losses due to international border closures, the
+   inability to travel between states was significant.
+
+   Once pandemic restrictions came into force, the Chamber acted swiftly to support government in its
+   decision-making, attempting to ensure that travel and tourism were not an afterthought when responding
+   to the virus. The Chamber was instrumental in forming the Tourism Restart Taskforce (the Taskforce)
+   which sought to provide advice to industry and government on the short, medium and long-term priorities
+   to rebuild tourism in Australia. Membership of the Taskforce included a range of eminent travel, tourism
+   and hospitality industry leaders.
+
+   The Taskforce undertook a range of policy development and advocacy work to advise governments on
+   measures to assist with reopening promptly, and how to mitigate the effects of the restrictions on
+   Australian travel and tourism. Throughout the course of 2020 and again in 2021 following the resurgence
+   of COVID-19 in the Australian community, the Taskforce developed a comprehensive Restart Plan, which
+   included a phased, risk-based timetable for reopening the numerous sectors within travel and tourism
+   both domestically and for international resumption.
+
+   While many of the recommendations of the Taskforce were not adopted or faced setbacks as a result of
+   the resurgence of the pandemic, a number of the recommendations would still be adaptable for future
+   pandemic-like situations.
+
+   Within a month of the restrictions being applied, the Chamber developed the ‘Making Tourism COVID
+   Safe - Guiding Principles’, which sought to provide protocols for safe operations for tourism and hospitality
+   businesses by assisting individual sectors to develop their operational guidelines. These guidelines were
+   utilised by industry sector groups, states and international organisations.
+
+
+
+
+   Governance
+
+   Coordination of pandemic response
+   The response to COVID-19 has highlighted that we still have not adequately addressed gaps and
+   inconsistencies in intergovernmental coordination with regard to overlapping emergency powers and
+   responses to disease outbreaks.
+
+   During the response to the pandemic, a number of working groups and taskforces within and across
+   various levels of government were established. While each had its purpose, unfortunately, not all groups
+   coordinated with each other or with industry adequately.
+
+   There needed to be a mechanism by which information could be easily and efficiently distributed to
+   involved stakeholders within government and then shared with industry and the broader public where
+   applicable. Too often, the Chamber would be directed to multiple departments and agencies to resolve
+   an issue which took time away from the Chamber and the different departments and agencies to which it
+   was directed. If there was an effective central point for information, this should have been a rare
+   occurrence.
+
+
+
+
+       4    Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+   It is clear that a more coordinated response will be required in any future pandemic or the like. While
+   some attempts to coordinate the pandemic response were made at a federal level, all had different
+   responsibilities, answered to and provided advice to different bodies and levels of government, and
+   sometimes made conflicting recommendations.
+
+   Perhaps more disappointingly, many of these groups did not have representation from travel and tourism.
+
+   For example, National Cabinet was established to supersede the Council of Australian Governments
+   (COAG). National Cabinet was initially a workable mechanism whereby decisions on appropriate
+   responses and restrictions were made and agreed between all state and territory governments. However,
+   while the intention behind National Cabinet was sound, the practical outcomes were often confused.
+
+   Under Australia's federal system of governance, many of the key decisions made by the National Cabinet,
+   advised directly by the Australian Health Protection Principal Committee (AHPPC), fell under the states
+   and territories' areas of responsibility. These included declarations to enforce social distancing measures,
+   school closures, moratoriums on evictions and operational responsibility for the health system. As a result,
+   many of the decisions made by National Cabinet and communicated by the federal government to the
+   public were contradicted by state and territory governments, leading to confusion within the community
+   and for industry. This was particularly the case where COVID-19 infection rates fluctuated across the
+   various states and territories.
+
+   The National Coordination Mechanism (NCM) purported to coordinate engagement through individual
+   forums with individual sectors, such as education, public safety and policing, banking, transport, food, and
+   agriculture.7 It operated through the Department of Home Affairs and, together with the states and
+   territories, sought to coordinate the whole-of-government responses to issues outside the direct health
+   management of COVID-19 however, travel and tourism was not represented. Even now, tourism and
+   travel are not acknowledged in the ‘impacted communities’, instead only referencing ‘major events’, which
+   is broader than the business events sector.
+
+   Another body established, the National COVID-19 Coordination Committee (NCCC), later the National
+   COVID-19 Commission Advisory Board (NCCAB), was crucial in advising Australian Government on
+   “actions to anticipate and mitigate the economic and social effects of the ... pandemic”.8 Several bodies
+   reported to the NCCAB; however, this was not all bodies, agencies or departments. The NCCAB also
+   didn’t have any representation from travel and tourism, instead relying on occasional briefings from bodies
+   such as the Chamber and the Taskforce. In addition, the operation of National Cabinet was informed
+   directly by the AHPPC whilst the views of the NCCC and NCCAB were advanced through the
+   Commonwealth Government. This resulted in the rejection of these considerations in favour of the risk-
+   averse AHPPC view.
+
+   The Chamber notes the Federal Government’s commitment to establish “an Australian [Centre for
+   Disease Control (CDC)] that would ensure ongoing pandemic preparedness and lead the national
+   response to future infectious disease outbreaks”. Understanding the arrangements currently in operation
+   for biosecurity, emergency management, and public health are critical for considering what is feasible
+   moving forward.
+
+   A complete and comprehensive stocktake of activities and programs across the nation, and all relevant
+   government departments and agencies should also be undertaken to identify the gaps, priorities and any
+
+
+   7 Parliament of Australia (2020), Australian COVID-19 response management arrangements: a quick guide, 28 April 2020.
+   8 Ibid.
+
+
+
+       5    Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+   areas of inefficient duplication relating to communicable disease preparedness and response. This would
+   provide information on areas the CDC should prioritise first and inform the establishment of appropriate
+   governance and data-sharing arrangements with other relevant bodies in order to achieve the national
+   coordination role the CDC will play throughout its existence.
+
+   While this commitment is welcomed, the Chamber believes that the more crucial aspect to improve future
+   pandemic responses will be improving communications from all levels of government, industry and the
+   community at large, prioritising transparency and consistency.
+
+
+     Recommendation:
+
+     A coordination mechanism must be established to improve the pandemic response at a federal level, with a
+     particular focus on effective stakeholder engagement. Such a body must include representation from travel and
+     tourism.
+
+
+
+
+   Communications between governments and industry
+   Not only was there a lack of a clear and representative coordination mechanism, but there was also a
+   lack of communication between the existing agencies, departments and industry organisations.
+
+   There must be greater transparency for the requirements for the easing of restrictions. Too often, there
+   was not sufficient clarity as to what was required to take the next step towards the easing of restrictions,
+   which contributed to the uncertainty for industry and businesses. Despite hundreds of pages of
+   submissions of risk mitigations, industry-wide strategies to manage transmission were overlooked in
+   favour of the zero-risk framework advanced by the health community.
+
+   There were fractured communications between and from governments of all levels to industry, and each
+   had their own approach to their own borders and restrictions within them. In particular, there was a lack
+   of communication from governments to travel and tourism businesses about what restrictions would be in
+   place and for how long, and what would be required for various restrictions to be eased.
+
+   This was also the case for state, territory, and federal government responses. While there were
+   undoubtedly different responsibilities between jurisdictions, there needed to be a more cohesive approach
+   to combatting the pandemic. There needed to be a better approach to communicating with the public,
+   industry, and other levels of government more broadly. Too often, there were differing approaches despite
+   all levels of government receiving the same or similar information, and different reasoning was provided
+   for each approach. This contributed to the uncertainty felt within the community and the unease once
+   restrictions began to ease.
+
+   Not only did industries have to keep up with the various restrictions across states and territories but it also
+   had to keep up with their various timetables and requirements for reopening, which were often different.
+
+   All levels of government should commit to communicating effectively, including between each other and
+   with the public. The Chamber notes that this was a key recommendation made by the Senate inquiry on
+   COVID-19 in its final report.9
+
+
+
+
+   9 The Senate Select Committee on COVID-19 (2022), Final report, April 2022, recommendation 6.
+
+
+
+       6    Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+     Recommendations:
+
+     Communications between and from state and territory and the federal government to industry and the public must
+     be more cohesive.
+
+     There must be greater transparency for the requirements for the easing of restrictions.
+
+
+
+
+   International policies
+
+   As outlined above, the impact of closed international borders on Australian travel and tourism was
+   devastating, so much so that it is still recovering today. While there was undoubtedly cause for some of
+   the restrictions to protect the health of Australians, the Chamber believes that more could have been done
+   sooner to provide additional opportunities for travel and tourism to recover more expediently.
+
+   In future responses to pandemics and the like, it will be important to ensure that responses are
+   proportionate to the risk to the community. While managing the health impacts on the community is of
+   paramount concern, the impact of restrictive measures on industries such as travel and tourism must also
+   be considered.
+
+   At the very least, there needed to be certainty and transparency with industry and the public regarding
+   when and how international borders would open. Throughout the pandemic, mixed messages were
+   coming from the private sector and government, such as Qantas announcing the resumption of
+   international flights before any government announcement,10 and the government indicating that
+   international travel would not restart until vaccinations were rolled out.
+
+
+   International test case
+   For future pandemics and the like, the Chamber strongly suggests having a template or scaffold in place
+   with a friendly, neighbouring country to seek to reopen international borders and expedite the recovery of
+   travel and tourism and other parts of the economy.
+
+   Bilateral arrangements with countries we are opening travel with could be negotiated to ensure that
+   protocols at their end meet our requirements for travel to Australia. Similarly, we could offer suitable
+   arrangements for travellers from our country to theirs.
+
+   During the COVID-19 pandemic, the Taskforce put forward a suggested test case between Wellington,
+   New Zealand, and Canberra, Australia, as these two cities were COVID-free for an extended period. We
+   note that both governments explored and agreed to a trans-Tasman bubble at the end of 2020 which was
+   implemented in 2021 for a short time. Both New Zealand and Australia had success in managing the
+   pandemic and were able to leverage this as well as the proximity to each other to restart international air
+   travel to a degree.
+
+   The case study should be flexible enough to allow an involved city to be supplemented with another that
+   would be more suitable. For example, if Canberra was to be more severely or continuously impacted than
+
+
+
+
+   10 Claydon, R. (2021), Qantas flights to US, UK unlikely to go ahead by July, experts say, 7 January 2023, ABC News.
+
+
+
+          7   Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+   Hobart, there should be provision for Hobart to take Canberra’s place. Alternatively, another country, such
+   as Singapore, could be considered.
+
+   There should be a list of countries and cities willing to engage in such a proposal in a similar event. Of
+   course, this would only be a preliminary indication of which countries would be willing to engage in such
+   arrangements and would be entirely dependent on a successful response to any future pandemic.
+
+   The plan will also require at least one airline to be a signatory to the concept.
+
+   If successful, such a plan would allow tourism and travel to restart sustainably and would be the precursor
+   to opening up international borders more broadly. It would work to convince Australians that international
+   travel would be safe to commence again and would open the economy at a time when it would be
+   desperately needed.
+
+   This approach to reopening would be complemented by a national approach to domestic and international
+   borders. As outlined earlier, significant difficulties were encountered by the often-different approaches to
+   reopening borders taken by the federal and state and territory governments, leading to confusion and
+   travel hesitancy once domestic and international border crossings were permitted. For effective reopening
+   - either following a successful test case or otherwise - the Chamber would urge all levels of government
+   to consider a consistent, national approach to border policies.
+
+
+      Recommendations:
+
+     A template or scaffold should be developed with a friendly, neighbouring country to allow the early reopening of
+     international borders and expedite the recovery of travel and tourism.
+
+     Governments should consider a national approach to domestic and international border policies.
+
+
+
+
+   Cruise and biosecurity
+   While most visitors come to Australia via air travel, cruising is also a crucial avenue that was unduly
+   punished during the pandemic.
+
+   Before the pandemic, Australia was one of the world’s top cruise markets. Cruise tourism was worth $5.2
+   billion a year to the Australian economy,11 and sustained more than 18,000 Australian jobs including travel
+   agents, tour operators, transport workers, food and produce suppliers, farmers, entertainers, port workers
+   and technical support providers.
+
+   Cruising to and from Australia was closed from March 2020 until April 2022, after approximately 86 other
+   countries had allowed their cruising industry to restart.12
+
+   The reopening of cruising followed the government’s decision to continually extend the cruise ban without
+   a clear restart plan, leaving those businesses in limbo and unable to plan for their future. Despite the rest
+   of the travel industry being fully reopened in February 2022, cruising had to wait for an additional three
+   months because the ban was extended to April 2022, with notice provided just one month prior.13 As
+   outlined in this submission, the restart of tourism and travel requires sufficient time for preparations - as
+   foreshadowed by industry, it took time after the ban was rescinded before cruise ships were welcomed
+
+
+   11 Cruise Lines International Association Australasia (2022), Pre-budget Submission 2022-23, January 2023, pg.1.
+   12 Parkes-Hupton, H. (2022), First cruise ship to arrive in Australia for two years due to COVID-19 pandemic docks in Sydney,
+   18 April 2022, ABC News.
+   13 Hunt, Hon G., Andrews, Hon K., Tehan, Hon D. (2022), Cruise ships ban to end April 11,15 March 2022.
+
+
+
+       8    Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+   back into Australia. While the first cruise ship arrived in Australia in April 2022 following the lifting of the
+   ban, it was not until 31 May 2022 when the first cruise ship with passengers departed Sydney for
+   Brisbane.14
+
+   Many tour operators and transport businesses built up their operations during the growth trajectory of
+   cruise tourism and have invested heavily in additional assets specifically to cater to cruise passengers.
+   For some of these businesses, the cruise shutdown resulted in a loss of 80 per cent of their business with
+   no ability to replace it.15
+
+   Cruise ships have a long and high-value supply chain, with cruise lines spending hundreds of millions of
+   dollars each year on Australian produce, wine and other supplies, and many related suppliers such as
+   logistics and transport businesses also benefiting. The volumes of primary produce purchased by cruise
+   lines are significant. For example, around 2.5 tonnes of Australian red meat are supplied for a three-day
+   cruise. One cruise line, P&O Cruises Australia, purchases between 1,000-1,500 tons of Australian red
+   meat annually, 20-30 tons of Australian poultry each week, and even higher volumes of fresh fruit and
+   vegetables.16 The loss of orders of these volumes due to the cruise shutdown affected the vast network
+   of farmers and producers around the country who supply the cruise industry, with regional producers
+   believed to be impacted the most.
+
+   Additionally, during the prolonged shutdown of cruising, and in another blow to the industry, Australians
+   travelled overseas to go on a cruise.17 Not only did this reduce the revenue available to Australian cruising
+   and adjacent industries, it also contracted travel and tourism’s recovery and the broader recovery of the
+   Australian economy.
+
+   During the restriction period for cruising, a comprehensive plan was developed by industry, supported by
+   the Chamber, to facilitate cruising to restart as quickly and as safely as possible.18 The initial protocols
+   outlined a restart confined to domestic waters while travel restrictions were in place, before opening further
+   when travel restrictions allowed. Under the plan, mandatory COVID-19 tests for guests and crew before
+   boarding, limiting passenger numbers, and conducting daily health monitoring and temperature checks
+   for all on board would all be imposed. Quarantine would be required once travellers arrived back on
+   Australian soil. If these protocols were adopted, it would have allowed a much quicker restoration of
+   cruising operations and contributed to a quicker recovery for travel and tourism more broadly.
+
+   The Chamber urges governments to adopt reasonable plans put forward by industry where safe to do so.
+
+
+
+     Recommendation:
+
+     Governments should give greater consideration to reasonable reopening plans developed and put forward by
+     industry.
+
+
+
+
+   14 Swain, S. (2022), First cruise in more than two years sails out of Sydney, 31 May 2022, 9 News.
+   15 Cruise Lines International Association Australasia (2022), Pre-budget Submission 2022-23, January 2023, pg.4.
+   16 Ibid.
+   17 Laurence, E. (2022), Aussies heading overseas to dodge government ban on cruise ships, 4 February 2022, ABC News.
+   18 ABC News (2020), Cruise industry to introduce tough new COVID-19 measures when ban lifts in December, 29 November
+   2020.
+
+
+
+       9    Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+   Support for industry and business
+
+   Financial support
+   During the shutdown phase, it became clear that the restart of travel, tourism and hospitality would require
+   significant planning. The lead time for bookings and ongoing cancellations, flight route planning, staffing
+   upskilling and re-engagement as well as COVID-19 safety measures all needed to be scheduled and
+   implemented to ensure the efficient recovery of the sector.
+
+   Government measures, such as cash flow support, JobSeeker and JobKeeper, allowed many businesses
+   to survive most of the restriction period. However, these programs did not extend for the life of the
+   international border closures and, as such, could not support all travel and tourism businesses. Many
+   businesses had to dip into their business reserves and personal savings to stay afloat.
+
+   While the industry welcomed the support when they were available, the Chamber believes that there
+   needs to be specific support available for travel, tourism and hospitality businesses, recognising the
+   impacts of restrictions and the time required to recommence operations. This would also be the case
+   where there are international border closures that outlast domestic restrictions. The types of businesses
+   that would likely be eligible would include travel agents, inbound tour operators, cruise, coach tourism,
+   business events, as well as accommodation and hospitality venues in locations that are reliant on
+   international travel.
+
+   Such supports should also apply to those businesses which were completely shut down by government
+   order during the pandemic. These businesses faced a debt cliff built up through the continuation of fixed
+   costs while their businesses were completely closed.
+
+   Just as travel, tourism and hospitality businesses require advanced warning about changes to restrictions
+   and requirements for reopening, businesses should also be advised well in advance of any changes to
+   the JobKeeper payments or the like, where possible.
+
+   These supports need to be easily adaptable where restrictions are put in place with short notice, with the
+   appropriate infrastructure maintained so businesses can receive payments promptly.
+
+
+      Recommendation:
+
+     Tailored supports should be available for travel, tourism and hospitality businesses, recognising the impacts of
+     restrictions and the time required to recommence operations.
+
+
+
+
+   A structured reopening is necessary
+   Many facets of travel and tourism cannot simply restart or reopen with a few days warning. Many
+   businesses in the industry require bookings to be made in advance so sufficient staff can be rostered,
+   equipment can be in place, and necessary permissions can be obtained. For the events sector, for
+   example, it is simply impossible to pull together all aspects - catering, staffing, the venue, speakers,
+   accommodation - without weeks of lead in time. This is even more so the case where protocols and
+   COVID-safe plans had to be developed and approved.
+
+
+
+
+     10     Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+   A target timetable for travel, tourism, hospitality and events restart should be developed to clarify the
+   conditions that will enable each step to be taken. Without knowing what the next pandemic or the like will
+   look like or how it will unfold, at the very least, the government should commit to developing such a
+   timetable in an expedient manner to provide some additional certainty to these industries.
+
+   The work of the Taskforce should form the basis of any timetable, as it was developed as a phased, risk­
+   based approach to reopening. It would be prudent to develop such a timetable that can be flexible enough
+   to adapt in the face of changing conditions but which provides some level of certainty to businesses and
+   industry so they will be supported to open when safe to do so, and to get a head start on such a task
+   noting the difficulties following the COVID-19 pandemic and accompanying restrictions.
+
+   At each step, there must be adequate notice and communication to provide sufficient lead time to facilitate
+   travel to recommence effectively. Part of this will require effective communication channels as outlined
+   above.
+
+
+      Recommendation:
+
+     A target timetable for the reopening of travel, tourism, hospitality and events should be developed which clearly
+     outlines the steps required for each stage to provide necessary certainty to businesses.
+
+     The Restart Plan developed by the Tourism Restart Taskforce should form the basis of any timetable.
+
+     There must be adequate notice and communication of each step.
+
+
+
+
+   Support for international workers and hospitality
+   Travel, tourism, hospitality, accommodation and events sectors depend highly on skilled migrants and
+   international workers.
+
+   When international borders closed during the pandemic and international visa holders were invited to
+   return to their country of origin, a huge flow on effect commenced, the effects of which we are still seeing
+   today.
+
+   These international visa holders include Working Holiday Makers (WHMs). WHMs are essential for
+   Australian tourism, particularly in regional and remote Australia, due to their spending as visitors and their
+   contribution to the labour market. The WHM program delivers enthusiastic and mobile workers to regions
+   where labour is most needed, which enables regions and businesses to meet seasonal labour needs
+   thanks to the flexibility of the visa.
+
+   WHMs contributed $3.2 billion to the Australian economy in the year immediately before COVID-19
+   restrictions,19 much of which was spent in the regions. Before the COVID-19 restriction period, 22 per
+   cent of WHMs extended their visa past the first year, accounting for around $577 million of spending in
+   the visitor economy. This is a significant contribution, especially when spent in regional tourism areas
+   struggling to recover after years of disruption.
+
+   The lack of international students and WHMs during the pandemic exacerbated the difficulties in securing
+   unskilled labour, particularly for short-term and seasonal work. The inability to bring in skilled migrants to
+
+
+
+
+   19 Tehan, Hon D. and Hawke, Hon A. (2022), Attracting more Working Holiday Makers, 31 January 2022.
+
+
+
+     11     Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+   fill gaps in the workforce limited both the services provided to local communities and job opportunities for
+   Australians.
+
+   There needs to be appropriate support in place for international visa holders, particularly WHMs and
+   skilled migrants, to come to Australia to support industries such as travel and tourism, particularly
+   hospitality, when borders reopen.
+
+   In addition to the lack of access to workers, throughout the period of the COVID-19 restrictions, many of
+   the products, services and techniques employed across travel, tourism, hospitality, accommodation and
+   events have changed. The application of technology has changed immensely with contactless technology
+   for travel, service and payments at the forefront of this change.
+
+   In the hospitality sector, food delivery technology has greatly increased restaurant takeaway. This is part
+   of the 36 per cent growth above pre-COVID-19 restriction levels that the restaurant, cafe and takeaway
+   food service sector has experienced.
+
+   These factors, and significant changes in the distribution methods for travel and tourism, have meant that
+   staff have needed to gain extra skills to deal with workplace operations. New entrants into the industry
+   over the past 12-18 months have not had the benefit of pretraining through entry-level programs and have
+   come into the workforce with significant skills gaps.
+
+   Current workforce shortages also mean that the pressure in workplaces to deal with increased levels of
+   trade limits their capacity for formal off-site upskilling programs. Employers are looking for just-in-time
+   very short training solutions to deal with workplace problems.
+
+   There are a number of projects across the sector that have been developed to deal with this specific
+   demand, mostly through micro-credentials. These short courses, many of which lead to recognition in the
+   formal training system, need to be funded by governments to meet the sector's skills needs.
+
+   Hospitality was hit incredibly hard during the pandemic. While the return to dining was one of the first to
+   be reinstated after the initial restrictions, there were limitations on businesses which, for many, did not
+   enable them to operate viably. This limitation slowed tourism’s restart and the capacity of businesses to
+   re-engage displaced employees.
+
+   As the Taskforce noted in its initial report, reasonable social distancing combined with other COVID-safe
+   policies that businesses were required to create and follow would permit hospitality businesses to operate
+   more viably and create more dining and job opportunities.
+
+   Even when National Cabinet agreed to ease restrictions from 1 person per 4 square metres to 1 person
+   per 2 square metres, some states and territories did not immediately follow through. This was another
+   example of the fractured approach to combatting the virus across the country and did nothing to deliver
+   certainty for affected businesses. The Chamber provided a detailed analysis, supported by medical
+   evidence of alternative operating models for hospitality businesses during the restriction period. Whilst
+   advanced through the NCCC and NCCAB process, these were unable to be considered by the AHPPC
+   given their structure.
+
+
+
+
+     12     Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+     Recommendations:
+
+     Appropriate supports must be in place to support the return of Working Holiday Makers and skilled migrants once
+     borders reopen.
+
+     Upskilling for workers in the hospitality sector must be appropriately funded to meet worker and skills shortages.
+
+
+
+
+     13     Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+   About Australian Chamber - Tourism
+
+   Australian Chamber - Tourism is a peak body representing Australian businesses engaged in the visitor
+   economy. It brings together key participants in the tourism and travel sector to advocate better policies,
+   including tax, regulation, tourism marketing, research, labour supply, visas and infrastructure. The
+   Chamber is part of the Australian Chamber of Commerce and Industry, Australia’s largest and most
+   representative business network.
+
+   The Australian Chamber of Commerce and Industry represents hundreds of thousands of businesses in
+   every state and territory and across all industries. Ranging from small and medium enterprises to the
+   largest companies, our network employs millions of people.
+
+  ACCI strives to make Australia the best place in the world to do business - so that Australians have the
+  jobs, living standards and opportunities to which they aspire.
+
+   We seek to create an environment in which businesspeople, employees and independent contractors can
+   achieve their potential as part of a dynamic private sector. We encourage entrepreneurship and innovation
+   to achieve prosperity, economic growth, and jobs.
+
+   We focus on issues that impact on business, including economics, trade, workplace relations, work health
+   and safety, and employment, education, and training.
+
+   We advocate for Australian business in public debate and to policy decision-makers, including ministers,
+   shadow ministers, other members of parliament, ministerial policy advisors, public servants, regulators
+   and other national agencies. We represent Australian business in international forums.
+
+   We represent the broad interests of the private sector rather than individual clients or a narrow sectional
+   interest.
+
+
+
+
+     14     Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian Chamber
+Tourism
+
+
+
+
+     Australian Chamber - Tourism Members
+
+                                                                   Australian
+                                                                   Business                                                                                                 ACT
+                                                                   Events                                                                                                   BRANCH
+                                                                   Association
+              Accommodation Australia
+
+
+
+
+          u
+          Il Australian Hotels Association
+              |   WESTERN AUSTRALIA
+                                                          REGIONAL
+                                                          TOURISM                                         A?/
+                                                                                                                                Australian
+                                                                                                                                Retailers
+                                                                                                                                Association
+                                                                                                                                                        ATECO
+                                                                                                                                                        Australian Tourism Export Council    >*'
+
+
+
+
+                   ATIA                                                                                        BICU
+                                                                                                                                                                                   Poswred by
+
+                                                                                                                                                                               BUSINESS
+                                                                                                                                                                                    NSW
+                     Australian Travel
+                                                                                                               Bus Industry Confederation
+                   Industry Association                    Boatrng Industry Association                              moving people
+
+
+
+
+                                Canberra
+                                                                                                                        Clubs Australia                                                     LINES
+                                Business Chamber             Caravan                                                                                              IIX INTERNATIONAL
+                                                             Industry                                                                                                   W ASSOCIATION
+                                                             Auocanon at Aui»«a
+
+
+
+
+                                                                                                                        QUEENSLAND
+
+
+
+
+                                                                                                           O
+             1 __       _         National
+             NRA                  Retail
+                                                           IMRMA                                                        TOURISM INDUSTRY
+                                                                                                                        COUNCIL
+                            .     Association
+                                                          mynrma.com.au                                                                                            Restaurant
+                                                                                                                                                                   & Catering
+
+
+
+
+                                                                                                                                              Victorian
+                                                                                                                                              Chamber of Commerce
+                                                                                                                                              and Industry
+                                                                                          f TOURISM TRAINING
+                                                   TCCI                                    AUSTRALIA
+
+
+
+
+                                                                                           Global Blue                                 TH E<STAR
+
+
+
+
+                                                                                          Australian
+                                                                                          Chamber of Commerce
+                                                                                          and Industry
+
+
+
+
+     15           Australian Chamber-Tourism Submission: Commonwealth Government COVID-19 Response Inquiry
+Australian
+Chamber of Commerce
+and Industry
+

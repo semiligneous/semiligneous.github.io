@@ -1,0 +1,77 @@
+Dear Prime Minister and Cabinet
+
+I write to you as a former healthcare worker who hasn't been able to work for the past year because
+of Long COVID. Since the start of the pandemic, I worked in a State Reference Virology lab running
+COVID PCR tests among the hundreds of different molecular microbiology tests that we run. I had a
+one-off pericarditis episode a few years before the pandemic, and had it recur a month after each of
+my 2nd and 3rd Pfizer vaccination boosters, each time having to go to the Emergency Department for
+sharp chest pains. After getting COVID in November 2022, I had to be rushed to the Emergency
+Department by ambulance as I experienced the worst chest pains and genuinely thought my heart
+was going to stop. I have since gone to multiple cardiologists who have told me that the scans have
+not detected any abnormality in the heart, although I continued experiencing chest pains for the rest
+of the year. I have spent thousands of dollars out of pocket on diagnosis, and not gotten any help
+from any doctors, nor am able to claim any disability because I wasn't hospitalised overnight. I've
+since had to pull out of work and study and have been unemployed for the past year. I have been
+advised by my doctors to not take the vaccine as my past medical history puts me at risk. I am also
+afraid that my next COVID infection will be devastating and set me back another year or worse. Now
+seeking a job, I am looking for a job which allows me to work from home, as I do not want to risk
+catching COVID from a workplace, though it has been very difficult finding those roles.
+
+Here are some of my observations on what the Government could be doing better:
+
+    1)   Invest in and utilise high-tech solutions in pandemic prevention e.g. big data integration with
+         deep learning (Al) to sift through millions of data sources to track, locate, and predict
+         infectious diseases spread. An example is that used by BlueDot, a Canadian startup that
+         claimed to have detected the first cases of COVID globally early in the pandemic.
+    2)   Use deep learning to keep track of the evolving infectious diseases literature, keep clinical
+         guidelines updated constantly with the latest evidence-based research. Current guidelines
+         are outdated and can be harmful to a lot of Long COVID patients (e.g. recommendation of
+         graded exercise therapy now known to cause harm to patients experiencing post-exertional
+         malaise)
+    3)   Accelerate the technology improvements in healthcare as it is decades behind other
+         industries. Incentivise the best tech experts to work in healthcare with higher wages, less
+         bureaucracy, more diverse and exciting roles, ability to work and lead in highly proficient
+         teams
+    4)   As there is no approved treatment for Long COVID, and it affects people regardless of
+         predispositions, vaccination status, age, etc. focus efforts on prevention as the main strategy
+    5)   Maintain strong public health messaging especially with regards to non-pharmaceutical
+         i ten     ions like masking, ventilation/air filtration, social distancing, encourage work from
+         home, and other behavioural strategies
+    6)   Fund ongoing prevention campaigns (especially other than vaccination) to reduce the spread
+         of COVID. The government's response seems to be reactive as there is no mention of COVID
+         in public health campaigns until there is a surge (until then it is too late)
+    7)   Provide support for Long COVID patients, at least a mechanism to claim for diagnosis of
+         PASC/Long COVID symptoms, alternative treatments
+    8)   Mandate use of PPE like N95 masks in healthcare especially critical areas at all times to
+         prevent transmission of SARS-CoV-2 and other pathogens. Failure to prevent transmission is
+         medical negligence.
+    9)   Continue funding of surveillance laboratories to carry out wastewater testing, PCR testing
+         and sequencing and consistently report statistics throughout the country.
+   (Source: https://github.com/dbRaevn/covidl9/blob/main/pandemic/Datasources.md)
+
+   10) Review supply chains of pathology laboratories as we are highly reliant on equipment,
+       consumables etc. from suppliers overseas
+   11) Provide free RAT tests as before to alleviate burden on households and maintain community
+       testing
+   12) Consider providing PPE like N95/P2 masks for each household to help prevent transmission
+       of COVID
+   13)       Continue funding research into neglected areas of Long COVID research
+
+
+
+References
+
+   1.       BlueDot is using Al to get ahead of the next pandemic | University of Toronto (utoronto.ca)
+   2.       COVID-19 Literature Clustering | Kaggle
+   3.       Evidence-Based Clinical Decision Support System | UpToDate | Wolters Kluwer
+   4.   Long COVID: major findings, mechanisms and recommendations | Nature Reviews
+        Microbiology
+   5.   Burnet Institute - Burnet Oration 2023 : Dr Ziyad Al-Aly https://youtu.be/9HWs4-
+        yH8V4?feature=shared&t=3548
+   6.   Sick and tired: Casting a long shadow - Inquiry into Long COVID and Repeated COVID
+        Infections - Chapter 5: Prevention
+        https://parlinfo.aph.gov.au/parllnfo/download/committees/reportrep/RB000006/toc_pdf/Si
+        ckandtiredCastingalongshadow.pdf
+   7.   Availability of COVID data in Australia - Information by Data Source: dbRaevn (independent
+        data analyst) https://github.com/dbRaevn/covidl9/blob/main/pandemic/Datasources.md
+

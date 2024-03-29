@@ -1,0 +1,172 @@
+             Efficacy, “protection” and vaccination to prevent COVID-19
+
+The public appears to have a poor understanding of “protection” as encompassed by the term
+“efficacy” in regard to vaccination against COVID-19. In mid-2021 I polled 24 individuals drawn
+from family, friends, neighbours, my accountant, librarians, recent medical graduates, University
+students and one random stranger. The question was:
+
+“What do you think 95 percent vaccine protection against COVD-19 means”? Answers
+included:
+
+“Vaccination prevents COVID 95 times out of 100”.
+“If I get COVID, it will be 95 percent less severe”.
+“I’m protected 95 percent of the time”.
+“Vaccinated people have only a 1/20 chance of getting COVID”.
+“The vaccine lowers the viral load by 95 percent”.
+“I don’t know what it means”.
+
+None are correct - a plaint to science communication and investigative journalism. This may
+explain what prompted the WHO to advise, “An efficacy of 80% does not mean that 20% of the
+vaccinated group will become ill”. The WHO declined to tell us what efficacy does mean. What
+the WHO did say is, “If a vaccine has high efficacy, a lot fewer people in the group who
+received the vaccine got sick than the people in the group who received the placebo” [1], The
+WHO is either confused or obfuscating. It is not “a lot fewer people”. It is less than 1 percent
+people.
+
+Nonetheless, the common thread seems to be that something worthwhile stands behind a
+number as high as 95 percent. And as such, “protection” signifies a welcome and markedly
+reduced risk of acquiring COVID-19 in a vaccinated individual. Likewise, one should worry
+when vaccine-induced immunity wanes overtime [2],
+
+What people desire (but may not express) is, “How less likely am I to get COVID-19 if I am
+vaccinated? This is called the absolute risk reduction (ARR). Efficacy does not measure ARR
+and cannot be calculated from it. This is because efficacy is computed from a comparison of
+the fraction of vaccinated who get COVID-19 relative to the fraction of unvaccinated who get
+COVID-19. In other words, efficacy is contingent on getting COVID-19.
+
+The original Pfizer-BioNTech BNT162b2 Comirnaty randomised placebo controlled trial (RCT)
+was published in the NEJM on December 31st 2020 [3], 36,523 participants were split almost
+equally into a vaccinated and a saline, unvaccinated, control group. At 60 days there were 170
+cases of symptomatic, PCR-confirmed COVID-19. 8/18,198 (0.04 percent) occured in those
+vaccinated and 162/18,325 (0.88 percent) in those given saline. Compared to the saline group,
+5 percent (0.04/0.88, 1 /20th) of the vaccinated group got COVID-19.
+
+Since humans are more favourably disposed towards success than failure, efficacy (protection)
+is expressed as 95 percent rather than 5 percent. The analogous situation is framing a surgical
+procedure with a 5 percent mortality rate as a 95 percent survival rate. It is believed patients
+are less likely to reject an operation when presented with the latter.
+
+Assuming, as we must, that vaccination and control groups were at similar risk of acquiring
+SARS-CoV-2 and getting COVID-19, casting efficacy as “protection” loses sight of the fact that
+                                                                                         Page | 2
+
+
+neither vaccine nor saline “protected” the 18,163 of the 18,325 in the placebo group who did not
+get symptomatic COVID-19. The remedy for assessing the absolute risk reduction of acquiring
+COVID-19 is to count bodies and deduct, rather than computing proportions of those who
+succumbed to COVID-19.
+
+In the Pfizer trial, 99.96 percent of those vaccinated did not get COVID-19.
+In the Pfizer trial, 99.12 percent of those saline-ated did not get COVID-19.
+
+The difference between the two is the absolute risk reduction. In this case,    84 percent.
+
+This is 113 times smaller than the 95 percent “protection” statistic. It also implies that 119
+people had to be vaccinated in order to prevent one case of COVID-19. (0.84 percent = 1/119).
+This statistic is called the number needed to treat (NNT).
+
+                 caviD       No COVID Totals      No COVID
+ Given vaccine           s       18190    18198       99.96%
+ Given saline         152        18153    18325       99.12%
+ Totals               170        35353    36523        0.84% < - ARR
+
+
+
+Note: Virus transmission and asymptomatic infections were not outcome measures in the Pfizer
+trial.
+
+In the 2015 U.S. Communicating Risks and Benefits: An Evidence-Based User’s Guide, the
+FDA state, “Provide absolute risks, not just relative risks. Patients are unduly influenced
+when risk information is presented using a relative risk approach; this can result in suboptimal
+decisions” (FDA emphasis). Presumably “suboptimal” cautions physicians against denying
+patients data necessary for making personal choices for or against vaccination [4].
+
+In 201                      and his colleagues warned of dangers communicating information
+solely in terms of relative risk. One example they gave was a 1995 caution issued by the UK
+Committee on Safety of Medicines. It was stated, “that third generation oral contraceptive pills
+increased the risk of potentially life threatening thrombosis twofold. The news provoked great
+anxiety, and many women stopped taking the pill, which led to unwanted pregnancies and
+abortions—some 13 000 additional abortions in the next year in England and Wales—and an
+extra £46m (€55m; $71 m) in costs for the NHS”. However, the twofold relative risk increase
+was an absolute increase from 1/7000 with the second generation pill to 2/7 ) with the third
+generation pill [5].              regards this a moral issue and concluded, “The problem of
+misleading reporting has not gone away”. In 2021 it had still “not gone away”. Only then the
+moral issues included, inter alia, whether to decline vaccination or lose one’s livelihood.
+
+Saline placebos
+One assumes that vaccine scientists and manufacturers conduct RCTs to prove that the active
+ingredient is responsible for the observed effects. RCTs are experiments. All experiments
+require a control / placebo to mitigate known and unknown confounding factors. To put it
+another way, without a valid control it is impossible to ascertain whether or not the outcome of
+interest is a pure effect of the entity under test. The Pfizer entity is an mRNA that codes for the
+SARS-CoV-2 spike protein. In this regard, perhaps too little attention has been given to the
+choice and dosing of placebos in the Pfizer (and other) COVID-19 vaccine trials.
+                                                                                                13
+
+
+
+1. Normal saline is arguably an adequate control for addressing local problems. That is,
+   effects wrought by injury to skin, subcutaneous tissue, blood vessels, muscle, introduced
+   microorganisms, the transient passage of a metallic foreign body and local vaccine
+   reactogenicity.
+2. A few cubic millimetres of an injected, salt / water mixture is not expected to mirror the
+   diverse systemic, ongoing immunogenic events of a vaccine mixture. (Although Pfizer
+   thouoht otherwise:
+
+3. Attributing vaccine efficacy to the mRNA component of a COVID-19 vaccine requires a
+   placebo whose composition is identical to the vaccine minus the mRNA. Compare COVj
+   19 vaccinations with, for example, the trial of measles vaccination conducted in 1975
+           and co eaoues:
+
+4.
+                                   [7], Controlling for this possibility requires substituting the
+   vaccine lipid nanoparticle / simian adenovirus vector nucleic acid with unrelated nucleic acid
+   species which itself, and its product, are judged harmless._________________________
+5. In regard to mRNA vaccines,
+                                                                                     [SJ- What is
+   understood is that vaccine lipids and mRNA themselves are foreign and thus potential
+   antigens. Unless individual constituents of the lipid nanoparticles remain invisible to the
+   adaptive immune system, there is a theoretical possibility that vaccines induce antibodies
+   reactive against mRNA. Such may impair the PCR testing required to diagnose COVID-19
+   in symptomatic participants. If so, the number of COVID-19 cases in both vaccinated and
+   unvaccinated groups may be underestimated.
+
+If one were conducting a two month RCT to evaluate a drug treatment for hypertension, the
+placebo would be given every day for the duration of the study. Given the duration of COVID-19
+vaccine RCTs is typically 60 days, for 59/60 days these experiments were uncontrolled (58/60 if
+one includes the 300 fewer individuals who received a second injection in the Pfizer study). The
+use of an ephemeral, non-immunogenic control is not a fair test of the active ingredient’s ability
+to reduce the relative and absolute risks of symptomatic COVID-19.
+
+Compared to measles vaccination, with an NNT of 1-2 persons, there seems little basis for the
+third word of the COVID-19 vaccination mantra, “safe and effective”. “Safe” is not addressed in
+this essay.
+
+
+
+
+12th January 2024
+                                                                                    Page | 4
+
+
+
+
+References
+
+1. https://www.who.int/news-room/feature-stories/detail/vaccine-efficacy-effectiveness-and-
+    protection
+2. https://www.bmj.com/content/374/bmj.n21 13.long
+3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745181/pdf/NEJI\/loa2i 34577.pdf
+4. Fischhoff B. et al. Communicating risks and benefits: An evidence based user's guide.
+    Government Printing Office, 2012 https://www.fda.gov/media/81597/download
+5. Gigerenzer et al. Misleading communication of risk. Editors should enforce transparent
+   reporting in abstracts. BMJ. 2010: 341; 791-792 BMJ 2010;341 :c4830 doi:
+   10.1136/bmj.c48306.
+6. Bloom JL, Schiff GM, Graubarth H, et al. Evaluation of a trivalent measles, mumps, rubella
+   vaccine in children. The Journal of Pediatrics 1975; 87: 85-72.
+7. Kobiyama K, Ishii KJ. Making innate sense of mRNA vaccine adjuvanticity. Nature
+   Immunology 2022;23(4):474-76.
+8. Li C, Lee A, Grigoryan L, Arunachalam PS, Scott MK, Trisal M, et al. Mechanisms of innate
+   and adaptive immunity to the Pfizer-BioNTech BNT162b2 vaccine. Nature Immunology
+   2022;23(4):543-55.
+

@@ -1,0 +1,169 @@
+Hospital acquired infection prevention submission to the Inquiry into Australia's
+                              COVID-19 response
+Thank you for the opportunity to make a submission to the Inquiry into Australia's COVID-19 response. This submission
+will address the governance by health bodies, Ministers and policy makers, and key response measures terms of
+reference; particularly focusing on Australia's response to the ongoing risk of SARS-CoV-2 and the lack of recognition
+of airborne transmission and adequate airborne infection prevention controls to prevent nosocomial transmission and
+associated poor outcomes.
+
+Australia is not alone in having failed to appropriately recognise and act to prevent airborne transmission and its impact
+on risk assessment and infection control. In May 2023, Australian Distinguished Professor Lidia Morawska's published
+a paper Coronavirus Disease 2019 and Airborne Transmission: Science Rejected, Lives Lost. Can Society Do Better? -
+PubMed (nih.gov) which detailed the action she and other experts took in the early years to get airborne transmission
+of SARS-CoV-2 recognised and how this is still having an impact on health policy today. Victoria listened and took many
+appropriate steps to recognise and prevent airborne transmission. Why then did other States and Territories and the
+Federal response fail to do so, and why are they continuing to ignore the need for airborne infection prevention
+controls, despite numerous calls from patients, patient organisations, and medical professionals and experts to do so?
+
+The Australian Commission on Safety and Quality in Healthcare (ACSQHC) has a number of roles that are relevant. The
+most important of which is the Charter of Healthcare Rights that guarantees seven rights, including access to care that
+meets a person's needs, safe access to care, and respectful care. Australians are denied these rights because of the
+absence of appropriate airborne infection control policies; a direct consequence of the failure of ACSQHC's own
+Healthcare Acquired Infection committee. Members of that committee have been a barrier to recognition of, and action
+on airborne transmission since the beginning of the pandemic. The Healthcare Acquired Infection (HAI) committee of
+ACSQHC (which has been responsible for the National Hand Hygiene Initiative for many years) needed to implement a
+national airborne prevention initiative, but the committee's ideological rejection of the scientific evidence of airborne
+transmission documented by Morawska and others, leads it to act against its obligations.
+We've attached correspondence one^Bhave had with both NSW Clinical Excellence Commission (NSW
+CEC), on behalf of NSW Health Minister Ryan Park (Appendix one) and ACSQHC (appendix two) on this. Disappointingly,
+both NSW CEC and ACSQHC firmly pushed responsibility for personal patient safety back on to the severely
+immunocompromised patient, and ignored that they were needlessly creating a hazardous environment for essential
+health care. As advised by the CEC, the severely immunocompromised patient had the conversation with his treating
+team, both in advance of the scheduled operation and when he arrived for his^^^^^^^^who all agreed with the
+need to prioritise his safety, and yet was treated almost entirely by unmasked healthcare workers in contravention of
+airborne infection prevention guidelines. This is despite the Charter of Healthcare Rights being prominently displayed
+in every cubicle and throughout the hospital. The theme of the responses is to fall back on national guidance which
+fails to grasp the implications of airborne transmission - particularly the need to do more than wearing surgical masks
+in high-risk clinical areas, as Western Australia did in reinstating surgical masks in high-risk areas in healthcare, in
+November.
+
+SARS-CoV-2 is in the air. Airborne transmission means it's in the air in the emergency department, it's in the air in
+reception, it's in the air in all areas of hospitals and isn't restricted to 'high risk clinical settings'. But high-risk patients
+need to access all areas of healthcare, including reception and waiting rooms or being able to take family members to
+attend healthcare appointments as carers themselves.
+
+We've excerpted some concerning points raised by the NSW CEC in their correspondence (attached in full in Appendix
+one) and will address those issues below:
+
+1)    The move to foundational level provides core Infection Prevention and Control (IPAC) measures with
+      recommendations for escalation or enhancements, or de-escalation, in response to local need.
+
+For many weeks the NSW Health Department have been noting that NSW is currently in a period of HIGH transmission,
+yet there has been no escalation of airborne infection prevention controls in healthcare settings in the State. Dr
+       I response (see appendix one) claims that transmission was low and that that justified the foundation level
+response, but within weeks NSW Health was acknowledging moderate to high transmission and yet continuing not to
+act to prevent transmission. There has been no "escalation of enhancement in response to local need".
+ The use of respiratory personal protective equipment (N95 respirators) is widely recognised as both a source control
+and personal protective equipment control in the risk reduction of airborne pathogens -with source control being the
+more effective risk reduction measure (i.e. everyone masking versus one-way masking). The suggestion by NSW CEC
+and ACSQHC that patients may choose to wear a mask to protect themselves fails to acknowledge that one-way
+masking is insufficient protection: hospital-stays involve many moments where masks must be removed (eating, taking
+medications, treatments etc) and masking is impractical for infirm, elderly or confused patients. For example, patients,
+who understand the risks of airborne transmission and are wearing N95s, have to remove their respirators, in order to
+take pain medicine from unmasked healthcare workers. This is fundamentally not safe and in conflict with the Charter
+of Healthcare Rights (displayed on healthcare walls across the country), articulating his right to access safe healthcare.
+Providing a safe healthcare facility is the responsibility of the facility and cannot be transferred to patients.
+
+'Masking fatigue' may be a motivation for the Australian Health Protection PdncipaUAHPPCJ's and other government
+department's reluctance to implement routine masking requirements, but as            al., 2023 note, masking among
+health care workers can reduce nosocomial respiratory viral infections by ~60%. They also note that it would be a
+mistake to ignore the SARS-CoV-2 threat and that|
+
+
+
+
+ Masking plays an important role in employee safety in many sectors and should be integrated into healthcare
+occupational health and safety protocols. Employee training, education, and mask fit testing should now be routine to
+protect patients, visitors, and staff. Infection control procedures should be updated to include mitigations for airborne
+diseases. As above, access to safe healthcare services is one of seven Rights articulated in the Australian Charter of
+Healthcare Rights, which applies to all Australians who seek medical care. The provision of a safe work environment is
+also a basic employee right.
+
+2)    At this time, transmission is considered less likely when a person is asymptomatic, a view supported anecdotally
+      by our local experiences. Most people with symptomatic COVID-19 have acute respiratory symptoms, even if
+      quite minor, with a small proportion only having non-respiratory symptoms. Standard and transmission-based
+      precautions equally apply to these scenarios.
+
+Concepts such as "less likely" and "most" have no place in setting infection control policies. It is probably true that it is
+"less likely" a person with no visible contamination on their hands would spread disease than someone with filthy
+hands, and "most" people would not be infected anyway. To see such flippant statements from the CEC is highly
+alarming. It is widely recognised that SARS-CoV-2 is frequently asymptomatic, that some infected people have non-
+respiratory symptoms, and that many people are infectious for well beyond the minimum isolation requirements. More
+robust and comprehensive policies should be implemented. The NSW CEC in their response have prioritised anecdotal
+evidence over robust, published, peer-reviewed data and must be held to account for such a shockingly unscientific
+and nonchalant approach to patient safety.
+
+ The process of assessing risk of SARS-CoV-2 transmission in healthcare facilities needs to be reconsidered. SARS-CoV-
+2 is airborne, constantly present in the community and more than 50% infections are the result of asymptomatic
+transmission. All hospital patients should be regarded as 'high risk' given their current medical problems and in many
+cases, patients are unable to wear respirators (due to young or advanced age, confusion or during surgery, imaging, or
+other treatments) and thus rely entirely on the facility to provide a safe environment. 2022 data from Victorian
+hospitals noted a mortality rate of >10% in patients who acquired SARS-CoV-2 while in hospital and similarly alarming
+outcomes have been reported overseas. As part of good governance and optimising patient outcomes, healthcare
+facilities should explicitly prioritise protecting patients from contracting SARS-CoV-2 (or any other communicable
+disease) when in their care.
+
+3)    Transmission of COVID-19 within our facilities is unlikely associated or caused by ventilation.
+
+Indoor air ventilation systems - including in healthcare facilities - are not currently designed for infection control, as
+attested to by the hundreds of millions of SARS-CoV-2 infections to date, with the vast majority of transmission
+occurring in indoor spaces. In time, ventilation, air cleaning and air quality monitoring systems will be upgraded to meet
+stringent new standards to ensure clean indoor air. In addition (and while engineering controls are being enhanced),
+masks should be adopted as a routine element of infection control within healthcare systems, just as surgical gloves
+are routinely worn during surgery to prevent wound infections.
+We would like to draw your attention to some excellent, Australian-based, multidisciplinary research involving air
+quality assessments within the Royal Melbourne Hospital. The expert authors have also been awarded several research
+grants to improve indoor air quality to minimise transmission of airborne respiratory pathogens and have provided
+submissions and expert testimony to the Inquiry on Long COVID and Repeated COVID Infections, conducted by the
+House of Representatives Standing Committee on Health, Aged Care and Sport. Ventilation is absolutely associated
+with transmission of SARS-CoV-2 and other airborne viruses, in all settings, and we highly commend these documents
+to the committee as a template for best practice regarding indoor air quality measures.
+
+4)    Considerations now also include level of vaccination, hybrid immunity and disease severity.
+
+Past infection (and therefore so-called 'hybrid immunity') has been sh     i to b   ;s<     ^d wit incr       J rei fe io
+risk and should not be being relied upon as a preventative strategy. Additionally, past infection has also been shown to
+weaken the immune response to vaccination so allowing rampant transmission of SARS-CoV-2 in pursuit of 'hybrid
+immunity' is in fact undermining our vaccination strategy, while also ignoring the significant risks of long COVID.
+
+Equally concerning, members of this Committee have been quoted in the Australian media, as recently as 29th
+December 2023, heralding the benefits of 'hybrid immunity', suggesting that with "each wave people's prior immunity
+is helping them avoid infection, not just have a more mild infection". The published scientific evidence does not support
+this statement, and members of this Committee should ensure that this Inquiry maintains its independence by
+refraining from making such statements to media that may undermine their own independence.
+
+5)    Unfortunately, your situation had not been discussed or escalated to the Infection prevention and control unit,
+      however some internal strategies were being implemented to rectify the issues you have raised.
+
+As the Inquiry Committee will be aware, the ACSQHC have a duty to uphold the charter of healthcare rights, which as
+mentioned above, expressly states people will have access to care that meets their needs, safe care and respectful care.
+At no point should this involve high risk patients having to ask repeatedly for appropriate infection prevention controls,
+or to escalate their concerns to the appropriate teams. These rights are simply not met with the abandonment of masks
+in healthcare settings for immunocompromised and high-risk people.
+
+Conclusion
+
+The Covid Inquiry in the UK has been explosive in terms of the position of the Johnson government, particularly with
+respect to "why anything should be done to protect people who are going to die anyway" - i.e. the
+immunocompromised, disabled and elderly. Absolutely incredible to hear the callousness, yet here in Australia, in 2023,
+why is so little being done to prevent the rising number of outbreaks in health and aged care settings despite the
+learnings from home and abroad?
+
+Although national data on deaths due to hospital-acquired SARS-CoV-2 infection is not available, extrapolation from
+numbers obtained under Freedom of Information from Victoria and Queensland indicate that well over 1,000
+Australians died in the last 12 months after catching SARS-CoV-2 in hospital. Even if improved infection control were
+only partially effective, hundreds of lives can be saved over the next year. Infection controls must not be relaxed simply
+because such precautions are inconvenient, or people are "over it". This has never been a valid consideration and
+should not be adopted now without rigorous debate, justification and opportunity for stakeholder engagement.
+
+Why is ACSQHC not upholding the charter of healthcare rights and ensuring that people who are already extremely
+vulnerable to SARS-CoV-2 infection, are protected from being infected while in healthcare, and how does this fit with
+the national strategy of protecting the vulnerable and leaving no one behind? How is the national strategy to protect
+the vulnerable and leave no one behind being met when 'the vulnerable' can't even access healthcare safely?
+
+We kindly urge the Committee to reflect upon and reconsider the current suite of SARS-CoV-2 -related policies and
+mitigations that the Australian community is relying upon when accessing healthcare. A national airborne prevention
+initiative should be prioritised which will protect patients and staff today, and into the future. AHPPC, and all involved
+in setting the National Strategy, including ACSQHC, should refresh and update their approach to SARS-CoV-2, putting
+the health of patients firmly at the core of its new strategy, safeguarding the Australian Charter of Healthcare Rights.
+

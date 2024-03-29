@@ -1,0 +1,141 @@
+As a concerned member of the public, I think it is great that Australia has announced
+the creation of a Centre for Disease Control and commissioned this Inquiry.
+
+There’s a long-standing public health adage that prevention is better than a cure.
+The same logic applies to pandemics. Pike et al. in “The Origin and Prevention of
+Pandemics” showed that the “wait-and-respond approach is not sufficient and that
+the development of systems to prevent pandemics before they are established
+should be considered imperative to human health”^. I think this insight should be
+foundational to the direction of this Inquiry.
+
+My submission highlights two origins for pandemics requiring attention, as they are
+becoming increasingly dangerous - zoonoses and malicious engineering.
+
+Land use change, intensive farming practices, travel and trade, and climate change
+are known drivers of novel zoonoses1  2. The Inquiry should recommend practical
+interventions that reduce their risk.
+
+Land use change is a known driver of disease spillover from animals to humans3.
+For example, urbanisation causing both nutritional stress and the fragmentation of
+flying fox habitats is attributed to the spillover of Hendra virus into horses and
+humans in Queensland4.
+
+Intensive farming practices produce cheaper meat due to increasing livestock
+density and turnover. Animals are being packed closer and closer together in factory
+farms, breathing and defecating on top of each other. This environment is a breeding
+ground for novel pathogens whose evolution is accelerated by the density of hosts
+and the abundance of transmission routes. These practices have a negative public
+health externality in both antimicrobial resistance and pandemic potential viruses.
+
+A side effect of travel and trade is the spread of disease. There are concerns that
+activities like the movement of live animals through legal (live animal exports) and
+illegal (smuggling) trade may propagate spillover risks at each point.
+
+Climate change is increasing the spillover risks from anthropogenic land use5. At
+least 10,000 virus species have the ability to infect humans but, at present, the vast
+majority are circulating silently in wild mammals. Changes in climate and land use
+leads to opportunities for viral sharing among previously geographically isolated
+species. By 2070, it is expected that there will be 300,000 novel animal pair
+encounters globally which will double the opportunities for one of the estimated
+10,000 viruses in wildlife to move between species.
+For all four factors, the Inquiry can recommend that Australia, including through
+national and jurisdictional biosecurity strategies, implement practical interventions
+and programs to address these trends and risks.
+
+
+1 The Origin and Prevention of Pandemics - PMC (nih.gov)
+2 The Need to Prioritize Prevention of Viral Spillover in the Anthropopandemicene: A Message to
+Global Health Researchers and Policymakers; Intensity and freguency of extreme novel epidemics
+3 Land Use-Induced Spillover: A Call to Action to Safeguard Environmental, Animal, and Human
+Health
+4 The emergence of Hendra virus from flying foxes (Pteropus spp.)
+5 Climate change increases cross-species viral transmission risk
+Further, even though assisting foreign governments is not in the terms of reference
+of this Inquiry, such international policies protect Australians. The Inquiry should
+consider recommendations that leverage Australian international leadership to
+pursue global pandemic prevention that keeps Australians safe from external threats.
+
+Capacity building in the Asia-Pacific region can be a key contribution to global and
+national health. At least 4 out of 9 pandemics that have occurred since 1900
+originated from Asia, due to high human and animal population density6. Good work
+is already being done by the Indo-Pacific Centre for Health Security7. The Inquiry
+should consider making recommendations on how this work could be expanded and
+focused on pandemic prevention.
+
+We can also build upon our record of international leadership. Australia is a member
+of the International Experts Group of Biosafety and Biosecurity Regulators. Australia
+also advocates for chemical and biological weapons security and non-proliferation,
+including through the formation of the Australia Group8. We could help keep
+Australians safe by:
+    • Acting on the recommendation of Global Health Security Index’s 2021 report9
+        by regularly reporting to the World Organisation for Animal Health on
+        incidences of human cases of zoonotic disease.
+    • Recommending that the Foreign Minister includes in trade agreements
+        relating to animals and animal products an obligation that requires the other
+        trading partner to meet or exceed Australian standards and practices for
+        preventing zoonoses. Through this mechanism, Australia could adopt best
+        practices domestically and influence international practices.
+
+Zoonoses have been the leading cause of pandemics, and the threat they pose is on
+the rise. Despite this, Gopal et al. estimate that dangerous pathogens leaking from
+labs have likely surpassed zoonoses as the key risk10. Even more worryingly, they
+argue that maliciously engineered pandemics could become the overriding risk
+unless action is taken.
+
+Engineered pandemics have become a critical public health concern due to rapid
+progress in biotechnology and the risk of “dual-use” of Al products (i.e. when Al
+intended to perform useful tasks is utilised for malicious purposes). Specifically, Al is
+likely to enhance biotechnology and the ability of terrorists to harm Australians11.
+
+The US is taking dual-use risks seriously. On 25 July 2023, the US Senate Judiciary
+Subcommittee on Privacy, Technology and the Law took evidence about the potential
+risks of Al fromB                        , '     ' r         ‘             '
+
+
+
+
+6 A visual history of pandemics
+7 Indo-Pacific Centre for Health Security
+8 The Australia Group
+9 Advancing Collective Action and Accountability Amid Global Crisis
+10 Securing Civilisation Against Catastrophic Pandemics
+11 Al suggested 40,000 new possible chemical weapons in just six hours - The Verge; Dual use of
+artificial-intelligence-powered drug discovery | Nature Machine Intelligence
+                                                | Committee Chair, Senator
+              began the hearing by highlighting these “dual-use” risks:
+
+       The future is not science fiction or fantasy — it’s not even the future, it’s here
+       and now. And a number of you [Amodei, Bengio and Russell] have put the
+       timeline at 2 years before we see some of the most severe biological dangers.
+       It may be shorter because the pace of development is not only stunningly fast,
+       it is also accelerating at a stunning pace.
+
+
+
+
+In response to these hearings, on 30 October 2023, President Biden made an
+executive order that does two main things12  13. First, it put a timeline on US agencies to
+develop a framework to ensure the proper screening of synthetic DNA. With or
+without the additional risks of Al, synthetic DNA is likely the essential input that any
+malicious or negligent actor would need to engineer a pandemic. Second, it put a
+range of requirements on Al labs designed to ensure future Al models don’t have
+these “dual-use risks” that could contribute to a future pandemic.
+
+The terms of reference of this inquiry are fundamentally about doing better in the
+future. Given how terrible future pandemics could be - the best thing the Inquiry
+could do for the future is to prioritise pandemic prevention, including the novel ways
+pandemics could occur in the future. While that will require uncomfortable thinking
+about unexpected topics and emerging technologies, these are the issues that could
+have the biggest impact towards securing a healthier future.
+
+
+Sincerely,
+Scott Smith
+
+
+
+
+12 Recent Senate Hearing Discussing Al X-Risk | Medium
+13 Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial
+Intelligence
+

@@ -1,0 +1,170 @@
+Dear COVID-19 Inquiry panel,
+
+
+My name            I'm ^Hyear oldworking in the energy industry and a concerned
+Australian citizen. I would like to seize this opportunity to emphasise the critical need for Australia to
+prioritise endeavours aimed at preventing future pandemics, rather than merely preparing for them.
+
+
+As a young Australian, I have personally felt the profound impact of COVID-19 on various facets of my
+life, including education and relationships. It seemed that my demographic, for both social and
+economic reasons, was comparatively less equipped to navigate the challenges imposed by the
+pandemic.
+
+
+While this experience has provided me with various perspectives on how governments can assist
+individuals and communities, it is evident that even the most well-managed pandemic entails severe
+consequences. As such, I strongly believe the primary focus should be on preventing pandemics
+altogether.
+
+
+I've observed that Australia's governments allocate substantial resources to hazard reduction for
+other natural disasters, particularly in response to the escalating challenges posed by climate change.
+However, I am not aware of a parallel commitment to diminishing the likelihood of pandemics,
+despite the seemingly higher risk to the average Australian.
+
+
+In this context, I wish to highlight several crucial issues that merit attention and consideration to
+ensure our collective efforts are directed towards effective pandemic prevention.
+
+
+Preventing zoonotic diseases
+In return for the affordability of meat sourced from factory farms, we witness a stark trade-off - a
+surge in bacterial infections, once easily treatable, and an alarming rise in pandemics wreaking havoc
+on lives and livelihoods. Factory farms, akin to pressure cookers, become the breeding grounds for
+novel pathogens, as highlighted by the UN's projection of a global population reaching 10 billion by
+2050. Without transformative shifts in industry or culture, the relentless demand for meat poses an
+escalating risk.
+
+
+The pursuit of inexpensive meat through intensive farming practices hinges on increasing livestock
+density. Animals are crammed into factory farms, breathing and defecating in close quarters,
+fostering an environment conducive to the emergence of novel pathogens. This density accelerates
+the evolution of these pathogens, facilitated by abundant transmission routes. The negative public
+health externalities manifest in antimicrobial resistance and the potential for pandemic viruses. The
+Inquiry must not condone industries profiting at the expense of endangering lives globally.
+
+
+Antibiotic overuse in livestock intensifies the problem, with 70% of global antibiotics allocated to
+them. Projections suggest a 16% surge in antibiotic usage in Australian farming by 2030, contributing
+to global antibiotic resistance. In 2020, antimicrobial resistance in Australia resulted in 1,031 deaths,
+$439 million in premature death costs, and the loss of 27,705 quality-adjusted life years. While steps
+have been taken to mitigate antimicrobial resistance in livestock, a parallel approach must extend to
+combat viruses, the primary catalysts for pandemics.
+Viruses with pandemic potential often originate in wildlife but can leap to humans, posing
+catastrophic risks. Wildlife hosts viruses harmlessly, but spillover to livestock in farms introduces
+novel environments and species, facilitating genetic recombination. This process enhances a virus's
+ability to infect and transmit among various hosts, including humans. Proximity in settings like live
+markets, animal exports, abattoirs, or factory farms heightens the risk of interspecies transmission,
+culminating in the emergence of transmissible viruses. The 2009 MINI flu pandemic, originating in
+swine farms in Mexico, exemplifies the dangers of global animal trading.
+
+
+Australia must mitigate pathogen transmission risks by reducing animal densities in live animal trade,
+live exports, and factory farming. Biosecurity strategies should mandate practical measures to curb
+these risks, and if prevention proves too costly or risky, Australia has a responsibility to cease
+practices contributing to pandemics and antimicrobial resistance.
+
+
+The late Professor Mary-Louise McLaws, an eminent infectious disease control expert, emphasised
+the imperative to halt live animal trade. Australia must surpass this prediction, embracing policies
+that safeguard against future pandemics and prevent the slow march towards antimicrobial
+resistance.
+
+
+Preventing engineered pandemics
+An imperative facet of pandemic prevention that merits heightened consideration in Australia is the
+burgeoning threat of engineered pandemics. The Inquiry's terms of reference underscore the
+importance of anticipating future pandemics, and compelling evidence indicates that effective
+preparation necessitates a proactive approach to this potentiality.
+
+
+Leading experts, including MIT Professor Kevin Esvelt, caution that the technologies essential for
+designing, creating, and releasing perilous and unprecedented pathogens could become widely
+accessible by 2025. The Geneva Security report titled "Delay, Detect, Defend: Preparing for a future
+in which thousands can release new pandemics" expounds on this concern (refer to Figure 1).
+
+
+In 2021, Professor Brian Schmidt AC, Vice-Chancellor of the Australian National University, expressed
+profound apprehension about the "democratisation" of biotechnology, foreseeing the imminent
+availability of mass-market printers capable of manipulating DNA. The fear extends beyond hijacking
+existing diseases to the creation of entirely novel ones. The subsequent surge in the market for
+synthetic DNA, specialty reagents, and Al tools amplifies the urgency of addressing this pressing
+issue.
+
+
+The prospect of a large and diverse group, whether malicious or not, wielding a technology with the
+potential to cause mass casualties is unequivocally an unacceptable risk. Acknowledging this peril,
+President Biden issued an executive order on October 30, 2023, mandating the development of a
+framework within 180 days. This framework focuses on effective screening for risky DNA sequences,
+best practices for access controls, technical guidance for screening, and robust oversight
+mechanisms. Currently, approximately 20% of DNA orders undergo no screening, and
+non-compliance post the stipulated timeline could result in funding cuts.
+Australia, which already has a permitting regime governing the importation of synthetic DNA, should
+urgently align with the United States in updating this regime. The Inquiry should recommend that
+labs importing DNA into Australia adhere to the new screening procedures outlined in the US
+executive order.
+
+
+While swift action following the US model will address immediate risks highlighted by Professors
+Esvelt and Schmidt, it is not a lasting solution. Ongoing advancements in biotechnology and
+increasingly sophisticated Al may enable nefarious users to circumvent regulations unless regulatory
+frameworks evolve in tandem. To this end, the Inquiry should advise the Department of Industry to
+collaborate with the Department of Health and the CDC in formulating minimum safety standards for
+frontier models deployed in Australia. This includes identifying and restricting models with biosafety
+risks, setting explicit expectations for developers and deployers, and vigilantly monitoring
+biotechnological advancements to prevent the widespread accessibility of engineered pathogens.
+
+
+
+Throughout history, pivotal public health issues have been overcome through the ingenuity of
+individuals who brought fresh ideas and perspectives to the realm of health challenges. As the
+landscape of public health has expanded, so too has its capacity to enhance both longevity and the
+quality of life.
+
+
+The essence of this inquiry's terms of reference lies in the pursuit of improvement for the future.
+Considering the potential severity of future pandemics, the most impactful course of action for the
+Inquiry is to prioritize pandemic prevention, encompassing a thorough examination of novel ways in
+which pandemics might unfold in the years to come. While this necessitates grappling with
+uncomfortable considerations regarding unforeseen topics and emerging technologies, it is precisely
+these issues that have the potential to wield the most significant influence in securing a healthier
+and more resilient future.
+
+
+
+Sincerely,
+
+
+
+
+Sources:
+Biden, J. (2023) Executive Order on the Safe, Secure, and Trustworthy Development and Use of
+Artificial Intelligence. The White House.
+
+
+Engineered Pathogens and Unnatural Biological Weapons: The Future Threat of Synthetic Biology -
+Combating Terrorism Center at West Point
+Andrew Leigh MP: Speeches and Conversations"; 16 December 2021; at 18:41
+
+Home I International Gene Synthesis Consortium
+
+The Common Mechanism - IBBIS
+
+SecureDNA - fast, free, and accurate DNA synthesis screening
+20% of DNA isn't screened:
+httDs://genesvnthesisconsortium.org/#:~:text=The%20lnternational%20Gene%20Svnthesis%20Cons
+ortium,the%20customers%20who%20place%20them.
+
+Disease burden, associated mortality and economic impact of antimicrobial resistant infections in
+Australia
+
+
+Antibiotic use in farming set to soar despite drug-resistance fears (see table 1)
+
+
+MINI Pandemic - Quick stats
+
+
+Origins of the 2009 MINI influenza pandemic in swine in Mexico
+

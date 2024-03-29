@@ -1,0 +1,148 @@
+         lira
+&
+
+
+                                                                                    SANUVOX
+     Call for submissions and evidence to the
+     COVID-19 Response Inquiry
+
+    Introduction
+
+    Opira is a leading indoor air quality consultancy providing products and services to the Australian healthcare
+    market. Specific services provide to the healthcare sector include:
+        •         indoor air quality audits,
+        •         hospital heating, ventilation and air conditioning (HVAC) management plans, and
+        •         provision of infection control devices.
+    The business recently celebrated it's 20th anniversary since its establishment.
+
+    Our experience during COVID was a major increase in interest in our ultraviolet (UV254) disinfection products
+    supplied by the Canadian company Sanuvox.1 Sanuvox has been supplying these products since 1995 and
+    Opira has been its Australian distributor since 2011. These UVC254 products are effective in killing a variety of
+    pathogens transmitted in air, including SARS-CoV-2.2
+
+    While UVC254 products have been very popular in the Queensland healthcare sector for the control of
+    pathogens in the critical care areas and for maintaining cleanliness in HVAC systems,3 there has been no such
+    increase in interest from healthcare operators in other states in using this technology to limit the spread of
+    COVID19 and other airborne pathogens.
+
+    This submission seeks to address the following terms of reference:
+
+    Mechanisms to better target future responses to the needs of particular populations (including across
+    genders, age groups, socio-economic status, geographic location, people with disability, First Nations peoples
+    and communities and people from culturally and linguistically diverse communities).
+
+
+    Capacity of UVC254 to limit the spread of airborne infections
+    The air cleaning/purification market is awash with new technologies that promise to eliminate airborne
+    pathogens in indoor occupied spaces. Very few of these technologies have the necessary research history
+    and scientific understanding to support their claims. What separates UVC254 from other technologies is the
+    very long research history of UVC disinfection against known pathogens and other microbes.4 This trend has
+
+
+
+    1 https://sanuvox.com/en/
+    2 Biasin, M., Bianco, A., Pareschi, G., Cavalieri, A., Cavatorta, C., Fenizia, C.,... & Clerici, M. (2021). UV-C irradiation is
+    highly effective in inactivating SARS-CoV-2 replication. Scientific Reports, 11(1), 6260.
+    https://www.nature.com/articles/s41598-021-85425-w
+    3 Riese (2023a). Drivers behind the widespread use of UV disinfection technology in Queensland hospitals. Healthcare
+    Facilities Summer 2023/24. https://issuu.com/adbourne/docs/healthcare facilities summer 2023/22
+    4 Riese (2023b). Evaluation of Competing Air Cleaning Technologies. Healthcare Facilities Journal. Healthcare Facilities April
+    2023: https://issuu.com/adbourne/docs/healthcare facilities journal autumn 2023/30
+
+
+    e:                                                                                                                           Opira Group
+    ABN 65 095 388 104                                                                                   NATIONAL OFFICE - 32 Dividend Street
+                                                                                                                          Mansfield Old 4122
+opira                                                                      sanuvox
+been supported by several publications by healthcare authorities, government and NGOs giving guidance to
+hospitals on the application of the technology. These include (in date order):
+
+       •        Kowalski, W. 2009. Ultraviolet Germicidal Irradiation Handbook for Air and Surface Disinfection.
+           Springer-Verlag Berlin Heidelberg. Retrieved from:
+           https://www.springer.com/gp/book/9783642019982
+       •   NIOSH 2009 - Environmental Control for Tuberculosis: Basic Upper-room Ultraviolet Germicidal
+           Irradiation Guidelines for Healthcare Settings. Retrieved from:
+           https://www.cdc.gov/niosh/docs/2009-105/default.html
+       •        ASHRAE Handbook 62.8 (2019). Ultraviolet Air and Surface Treatment. Retrieved from:
+           https://www.ashrae.org/technical-resources/ashrae-handbook/table-of-contents-2019-ashrae-
+           handbook-hvac-applications
+       •   ASHRAE Handbook 17 (2020). Ultraviolet Lamp Systems. Chapter 17 Retrieved from:
+           https://www.ashrae.org/file%20library/technical%20resources/covid-19/i-p s!6 chl7.pdf
+       •   UK NHS 2023: Application of ultraviolet (UVC) devices for air cleaning in occupied healthcare spaces:
+           guidance and standards, https://www.england.nhs.uk/long-read/application-of-ultraviolet-uvc-
+           devices-for-air-cleaning-in-occupied-healthcare-spaces-guidance-and-standards/
+
+There is always some degree of risk with the introduction of new infection control technologies. What
+distinguishes the use of UVC254 from other technologies is that the mitigation and control measures are well
+established and understood, leading to increasing confidence in its application for air and surface disinfection
+in the hospital sector.
+
+The UVC254 technology has also been widely endorsed by leading Australian and international air quality
+scientists. Distinguished Professor Lidia Morawska heads the International Laboratory for Air Quality and
+Health (ILAQH) based in Brisbane and has been a strong proponent of UVC254 technologies to deal with the
+C0VID19 epidemic.5
+
+Recommendation 1: That the Committee consider a Commonwealth-funded independent scientific review of
+air cleaning technologies suitable for effective infection prevention and control in buildings. The ILAQH
+centre led by Professor Morawska would be ideally placed to lead such an investigation.
+
+
+Management of buildings to limit disease spread in future pandemics
+
+Professor Morawska's co-author for the COVID-19 paper is US-based Professor William Bahnfleth, who is
+chair of the US committee which has developed the new ASHRAE 241 standard for the control of infectious
+aerosols in buildings.6 We wish to draw the inquiries attention to this very important standards as it
+establishes the performance measures necessary to limit pathogen spread during a pandemic.
+
+Opira consider that Australia should also seek to adopt a similar standard so that we are ready for the next
+pandemic. Rather than close public buildings and shut down economic activity, the adoption of an equivalent
+
+
+5 Morawska, L., Tang, J. W., Bahnfleth, W., Bluyssen, P. M., Boerstra, A., Buonanno, G.,... & Yao, M. (2020). How can
+airborne transmission of COVID-19 indoors be minimised?. Environment international, 142,105832.
+https://www.sciencedirect.com/science/article/pii/S0160412020317876
+6 ASHRAE 241-2023 Control of Infectious Aerosols https://www.techstreet.com/ashrae/standards/ashrae-241-
+2023?product id=2567398
+
+
+
+
+e: H                                                                                                                    Opira Group
+ABN 65 095 388 104                                                                             NATIONAL OFFICE - 32 Dividend Street
+                                                                                                                Mansfield Old 4122
+       lira                                                          SANUVOX
+ASHRAE 241 in Australia would allow relatively normal activities to take place during a pandemic and ensure
+that building occupants are not exposed to excessive disease risk.
+
+The Australian Standards Committee ME-062 which develops building ventilations standards (AS1668 series)
+should be encouraged to adopt an ASHRAE 241-equivalnt standards.
+
+Recommendation 2: That the Commonwealth Government provided the necessary support and funding to
+Australian Standards or equivalent standards-setting organisation to develop an Australian version of the
+ASHRAE 241 - Control of Infectious Aerosols.
+
+
+
+If you have any questions in relation to this submission, please contact me directly (contact details below).
+
+
+
+
+Gregor Riese
+PRINCIPAL CONSULTANT
+OPIRA NSW
+
+Mob
+
+OCCUPATIONAL HYGIENIST, WELL AP, NABERS IE
+Ph:
+PO Box 272 Forestville NSW 2087
+opira.com.au
+
+
+
+
+e: H                                                                                                           Opira Group
+ABN 65 095 388 104                                                                     NATIONAL OFFICE - 32 Dividend Street
+                                                                                                        Mansfield Old 4122
+

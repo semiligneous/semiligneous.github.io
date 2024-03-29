@@ -1,0 +1,112 @@
+Individual Submission for COVID-19 Response Inquiry
+
+Introduction
+I am making this submission as an individual interested in this inquiry and the influence that it will have. I am a
+student at the Australian National University and as a young person future pandemics, especially engineered
+ones, are -1 believe - one of the greatest threats we face in the modern world. I believe much can be done by
+government not only to prepare for the next pandemic but also help prevent it by reducing the risk of one
+occurring. As a young Australian I very much feel as though COVID-19 especially impacted me; my education
+and relationships with my friends and family especially, and it felt as if my demographic - for social and
+economic reasons - was less well-equipped than many others to handle the hardships.
+
+It is in this context, that I want to raise a few issues that I think are important and could make sure we’re
+heading in the right direction. My submission will make two arguments:
+      •        The risks of accidents and is too high, we should reconsider laboratory safety
+      •        Early detection of novel pathogens with pandemic potential
+
+The scope of the inquiry - contained within the terms of reference - that I will largely focus on will be:
+   • Governance including the role of the Commonwealth Government, responsibilities of state and territory
+       governments, national governance mechanisms (such as National Cabinet, the National Coordination
+       Mechanism and the Australian Health Protection Principal Committee) and advisory bodies supporting
+       responses to COVID-19.
+   • Key health response measures (for example across COVID-19 vaccinations and treatments, key
+       medical supplies such as personal protective equipment, quarantine facilities, and public health
+       messaging).
+
+
+Argument 1 - Improve Laboratory Safety12
+Gopal et al in “Securing Civilisation Against Catastrophic Pandemics” use a range of tools to estimate the
+likelihood of different future pandemic scenarios. In their estimates of ‘worst case’ pandemics, they conclude
+that dangerous pathogens leaking from labs are currently the most likely cause. This isn’t surprising, given that
+the original SARS virus escaped from labs on at least 3 occasions in the early 2000s and the 1977 flu
+pandemic was caused by a lab leak. This issue addresses many of the Inquiry’s terms of reference, including
+the role of the Commonwealth as a regulator in this space.
+
+One of the factors Gopal et al consider in estimating the likelihood of a pandemic emerging from a lab leak is
+the annual accidental infection rates of laboratories. Using data from a report by the Center for Arms Control
+and Nonproliferation, labs registered with the Federal Select Agent Program have accidental infections at a
+rate of 0.246% per laboratory per year and NIH-funded BSL-3 and BSL-4 laboratories have accidental
+infections at a rate of 1.6% per laboratory per year.
+
+
+
+
+1 L. Klotz, “The Risk of Lab-created Potential Pandemic Influenza”, Center for Arms Control and Nonproliferation, 2019.
+2 See Securing Civilisation Against Catastrophic Pandemics pg 32
+While both of these figures seem alarmingly high, Gopal et al argue that the fact that the more tightly regulated
+Select Agent laboratories exhibited a 6.5-fold lower accidental infection rate strongly suggests that tighter
+regulations and more regular inspections improve safety.
+
+In Australia, we seemingly have remarkably lax regulations of our equivalent labs. The regulator last updated
+the guidelines for PC4 facilities in 2007, and the annual reports show that it has only conducted a single
+inspection of one PC4 facility in the last 3 reporting years.
+
+It seems as if Australians have remarkably low confidence that biosafety is taken seriously here. I understand
+that in some places its even seen as a mark of respect for scientists working on pathogens being willing to take
+the personal risk to be the kind of person that ‘catches their experiment’. If standards are low in Australia, it’s
+scary to think how much lower they might be in countries that typically have less stringent regulation or higher
+rates of corruption.
+
+One of the key lessons of COVID is that public confidence in expert advice is essential. Therefore I would ask
+that the Inquiry recommend Australia have an independent review of its PCS and PC4 facilities. The review
+should consider the overall risk to public health from research facilities, the suitability of current Australian
+regulations, the extent of compliance with existing regulations and the suitability of current oversight regimes.
+In light of any findings, the review should also consider whether efforts are necessary to build public trust
+and/or ensure that Australia has international capacity building to ensure Australians aren’t at risk from poorly
+run labs overseas.
+
+
+
+Argument 2 - Early Detection of Novel Pathogens
+Preventing future pandemics should pair efforts at stopping pathogens from emerging, with ensuring we have
+the plans and technologies to rapidly combat them if they do.
+
+Taking 17 November as the date of first human SARS-COV-2 infection, there were 44 days between first
+infection and first response (31 December 2019), 54 days between first infection and genome publication (10
+January 2020), and 67 days between first infection and the lockdown of Wuhan (23 January 2020). For SARS-
+CoV-2, this was enough time to spread across the world. Modelling shows that if Wuhan had locked down one
+(16 Jan), two (9 Jan) or three weeks (2 Jan) earlier, cases of COVID-19 in Wuhan could have been reduced by
+66%, 86% or 95% respectively.
+
+Despite this failure, we know that success is possible. We can stop an outbreak from turning into a pandemic if
+we can quickly enact the right response. During the first year of COVID-19, both Taiwan and New Zealand
+achieved 100 consecutive days free of community transmission. This was largely due to an understanding of
+the seriousness of SARS-CoV-2 while case numbers were low. The 2002-2004 SARS, ebola, and many other
+examples also demonstrate that containment is possible.
+
+I think everyone in the world would wish that Wuhan had the capability to detect a novel pathogen outbreak,
+disseminate information, and respond in a timely manner. Early detection and action could have lead to
+containment rather than a pandemic - saving millions of lives and trillions of dollars.
+
+However, in Australia, we are in no position to criticise China. We also don’t have early detection capacity and
+we don’t have plans to contain novel pathogens at jurisdictional or national levels. When a novel pathogen
+emerges here, we are also unlikely to be able to identify it and act early enough to prevent it from spreading
+beyond our shores.
+
+This Inquiry should recommend that the CDC write a white paper proposing options for a national system for
+the early detection of pathogens, including setting out the costs and benefits of such a system, and put it to the
+government before the end of 2024. The white paper should explore a mix of proven techniques and emerging
+technologies - including metagenomics. The goal should be an enduring system that can protect the lives and
+livelihoods of Australians from the next pandemic.
+
+
+Conclusion
+Thank you forgiving me the opportunity to raise these ideas in this forum. I hope my submission is read and
+listened to as I think that the problems and potential solutions I have discussed here are of the utmost
+importance. The notable public health challenges of history have been solved by innovative people bringing
+new ideas and perspectives to the challenge of health. As the scope of public health has grown, so has its
+ability to improve longevity and quality of life. The terms of reference of this inquiry are fundamentally about
+doing better in the future. Future pandemics could be absolutely terrible and therefore the best thing the Inquiry
+could do for the future is to prioritise pandemic prevention, including the novel ways pandemics could occur in
+the future.
+

@@ -1,0 +1,118 @@
+Covid-19 Inquiry
+I appreciate this opportunity to raise my views and experiences about the Government’s
+COVID-19 response. I, like many other Australians, were heavily affected by the recent pandemic.
+Overall, the uncertainty of the future was a huge concern for me and I hope no such experience
+will need to be had again for myself and generations to come.
+
+Whilst all measures of reducing the impact of pandemics are important, I think the key is to focus
+on prevention first. The inquiry should focus on prevention so we reduce the chances of a future
+pandemic outbreak to occur in the first place. More than any other global catastrophic risk, we
+are able to prevent novel pathogens from emerging and to identify and eliminate them if they do.
+Given the huge human and economic costs of pandemics - and that pandemics worse than
+COVID-19 are possible - prevention should be our top priority.
+
+The paper “The costs and benefits of primary prevention of zoonotic pandemics” (Bertstein 2022)
+makes the economic case for a focus on pandemic prevention. The paper shows that - even on
+pessimistic assumptions and without considering the potential impact of emerging technologies
+- significant investment in pandemic prevention is overwhelminglyjustified.
+
+In light of that analysis, the new Australian Centre for Disease Control should focus on efforts to
+prevent novel pathogens from emerging and being able to control them if they do.
+
+My submission goes primarily to ‘preventive health measures’ in terms of reference 3.
+
+Argument 1: We need to reduce the risks of engineered pandemics and its
+acceleration by advanced Al
+
+Nature can produce pathogens that are extremely infectious like measles, with an estimated RO
+of 15-20. Nature can also produce pathogens that are extremely fatal like rabies, which has an
+almost 100% death rate. However, nature is not known to produce pathogens that have both high
+transmissibility and high mortality.
+
+
+Humans, driven by various motivations, could be on the verge of creating pathogens with both
+these features - risking pandemics much worse than COVID-19. The convergence of open
+science leading to the publication of dangerous knowledge, democratisation of synthetic biology,
+and Al-assisted research might mean that a small group of nefarious actors could cause
+catastrophic harm.
+
+The Unabomber,^^^^^^^^^^^^Hand the^^^^^^^B cult both engaged in terrorism
+motivated by bringing the end of civilisation. If active in the year 2023, it is conceivable that
+COVID-19 would have inspired them to seek to engineer a pandemic pathogen. An^^|
+          member had a virology PhD and obtained the pathogen B. anthracis which produces
+the toxin anthrax in an attempt to make it more lethal. Similarly, the Unabomber was a
+ mathematics prodigy and professor, who had the capacity to leverage emerging technologies to
+ further his goals.
+
+
+ Preventing the next pandemic requires making sure that highly skilled bad actors never have the
+ capability to engineer a novel pathogen. However, a variety of trends are making this a realistic
+ possibility. Open science norms - while typically essential to modern science - sometimes allow
+ the publication of dangerous material. While the scientists who published the genomic
+ sequences of the smallpox virus perhaps didn’t foresee a future where the synthesised DNA was
+ readily available, that information cannot be “unpublished”. I recommend that the inquiry read
+ “Information Hazards in Biotechnology” (2018) by^^flet al for a deeper understanding of this
+ risk and more examples, including Mousepox and Botulinum toxin H.
+
+
+ Similarly, Al models are on the cusp of being able to provide substantial assistance to people
+ doing research and filling tacit knowledge gaps. Again, if action is not taken and models with
+ these capabilities become widely available, we may not be able to “unpublish” them.
+
+
+ Overall, I think the Inquiry should task the new CDC with responsibility for tracking the risk that a
+ bad actor could create a pathogen with pandemic potential, and ensuring that safeguards remain
+ one step ahead of that risk.
+
+
+
+ Argument 2: We should reconsider laboratory safety
+
+^^^|et al in “Securing Civilisation Against Catastrophic Pandemics” use a range of tools to
+ estimate the likelihood of different future pandemic scenarios. In their estimates of ‘worst case’
+ pandemics, they conclude that dangerous pathogens leaking from labs are currently the most
+ likely cause. This isn’t surprising, given that the original SAPS virus escaped from labs on at least
+ 3 occasions in the early 2000s and the 1977 flu pandemic was caused by a lab leak. This issue
+ addresses many of the Inquiry’s terms of reference, including the role of the Commonwealth as a
+ regulator in this space.
+
+ One of the factors ^^^|et al consider in estimating the likelihood of a pandemic emerging from
+ a lab leak is the annual accidental infection rates of laboratories. Using data from a report by the
+ Center for Arms Control and Nonproliferation, labs registered with the Federal Select Agent
+ Program have accidental infections at a rate of 0.246% per laboratory per year and NIH-funded
+ BSL-3 and BSL-4 laboratories have accidental infections at a rate of 1.6% per laboratory per year.
+ While both of these figures seem alarmingly high^^^H et al argue that the fact that the more
+ tightly regulated Select Agent laboratories exhibited a 6.5-fold lower accidental infection rate
+ strongly suggests that tighter regulations and more regular inspections improve safety.
+ In Australia, we seemingly have remarkably lax regulations of our equivalent labs. The regulator
+ last updated the guidelines for PC4 facilities in 2007, and the annual reports show that it has only
+ conducted a single inspection of one PC4 facility in the last 3 reporting years.
+One of the key lessons of COVID is that public confidence in expert advice is essential. On that
+basis, I would ask that the Inquiry recommend Australia have an independent review of its PCS
+and PC4 facilities. The review should consider the overall risk to public health from research
+facilities, the suitability of current Australian regulations, the extent of compliance with existing
+regulations and the suitability of current oversight regimes. In light of any findings, the review
+should also consider whether efforts are necessary to build public trust and/or ensure that
+Australia has international capacity building to ensure Australians aren’t at risk from poorly run
+labs overseas.
+
+
+Citations:
+L. Klotz, “The Risk of Lab-created Potential Pandemic Influenza”, Center for Arms Control and
+Nonproliferation, 2019. See Securing Civilisation Against Catastrophic Pandemics pg 32
+
+The notable public health challenges of history have been solved by innovative people bringing
+new ideas and perspectives to the challenge of health. As the scope of public health has grown,
+so has its ability to improve longevity and quality of life.
+
+The terms of reference of this inquiry are fundamentally about doing better in the future. Given
+how terrible future pandemics could be - the best thing the Inquiry could do for the future is to
+prioritise pandemic prevention, including the novel ways pandemics could occur in the future.
+While that will require uncomfortable thinking about unexpected topics and emerging
+technologies, these are the issues that could have the biggest impact towards securing a
+healthier future.
+
+
+
+Thank you for taking the time to read this submission.
+

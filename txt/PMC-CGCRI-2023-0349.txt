@@ -1,0 +1,154 @@
+Submission to the COVID-19 Response Inquiry
+
+Prof. Martin Hensher, MSc(Econ), PhD.
+
+
+
+Preamble
+
+I am lodging this submission in my personal capacity. I am the Henry Baldwin Professorial Research
+Fellow in Health Systems Sustainability at the Menzies Institute for Medical Research of the
+University of Tasmania. I have over 30 years of experience in health economics, health systems
+governance and health policy, gained in both academia and health systems in Europe, Central Asia,
+Sub-Saharan Africa and Australia. I have extensive knowledge of the Australian health information
+environment (e.g. as former Chair and Deputy Chair of the erstwhile National Health Information
+and Performance Principal Committee, former member Standing Committee on National Health
+Information); I have also led and conducted a range of research and advisory activities on Long
+COVID and Post-Acute Sequelae of Coronavirus-19 (PASC) in Australia since the emergence of
+COVID-19. i-s
+
+
+
+Introduction
+
+In this submission I will address a number of issues which fall across the ToR themes of Governance,
+Key health response measures, International policies, and Mechanisms to better target future responses. I
+note with disappointment that “international programs and activities assisting foreign countries” are
+out of scope. Had this not been the case, I would have provided substantial additional inputs on the
+important opportunities to promote better health, regional leadership and global health equity which
+were lost due to Commonwealth Government positions and decisions on vaccine intellectual
+property and supply issues.6
+
+
+
+Data, Surveillance and Management
+
+In the early months of the COVID-19 pandemic, it was entirely understandable that surveillance and
+reporting of COVID infections data was ad hoc in nature. This system understandably grew out of
+COVID testing data, and commendable efforts were made to standardise local, state and territory
+reporting into national aggregates. This system was then expanded to incorporate self-reported
+diagnoses once rapid testing became dominant. However, there appears to have been a total failure
+to institute alternative surveillance systems capable of providing robust data on incidence of new
+COVID infections once self-reporting became optional and (predictably) rates of testing and self­
+reporting fell away. Alternatives could have included wastewater surveillance and/or continuous
+national population surveys, both of which have been undertaken in peer countries. As a
+consequence, Australia now finds itself with poor quality, unreliable surveillance data on the current
+state of COVID infections, with deep implications for the quality of ongoing decision-making.
+
+By early 2021, it was clear that a significant subset of people who had been infected with SARS-CoV-
+2 went on to experience longer-lasting symptoms, impaired functioning and/or elevated risks of a
+range of other health conditions (“Long COVID” and PASC). Most of Australia’s peers instituted
+large-scale, ongoing population surveys - run by national statistics or health agencies (e.g. UK Office
+for National Statistics, US Centers for Disease Control, Statistics Canada etc.) - which continue to
+provide surveillance data on the extent and severity of Long COVID symptoms at population level.
+Australia has been a notable exception to this trend, in having chosen not to institute a Long COVID
+survey. Instead, Australia opted to put all its eggs in the data linkage basket, focusing on the
+development by the Australian Institute of Health and Welfare of the COVID-19 Register. The
+COVID-19 Register, and state and territory initiatives (e.g. the Victorian Agency for Health
+Information’s COVID linked data project) have provided very useful data for a range of research
+projects. However, it was noted repeatedly that the long lead times involved in the transmission and
+linkage of data via linked datasets meant that these initiatives would never be able to provide
+information for ongoing surveillance or decision-making purposes.            This was the reason why peer
+nations (including the UK, which possesses significantly superior capabilities to link healthcare data
+more rapidly and comprehensively than does Australia) all opted to run population surveys to
+provide information on Long COVID. Indeed, the utility of Australian linked data assets is already
+greatly diminished by the precipitous decline in self-reporting of positive COVID test results; the
+COVID-19 Register will continue to be a somewhat useful source of data for the period during
+which testing was widespread (2020-2022), but is already of little or no value for examining Long
+COVID and PASC etc. due to infections from early 2023 onwards.
+
+Given my prior experience of the national health information policy environment, I believe it is
+highly unlikely that the option of fielding an Australian Long COVID survey was not discussed. The
+choice to go all in on data linkage was a positive choice. I will not speculate on why this decision was
+made, but it has left Australia without effective surveillance of Long COVID. This lack of data has
+contributed to policy uncertainty and unwarranted polarisation of views on the real severity of Long
+COVID in this country. It has left national, state and territory policymakers in the dark on the true
+scale and severity of Long COVID, with the predictable result that they have not been able to plan
+and fund appropriate healthcare and social policy response to support affected persons and families.
+It is still not too late to rectify this significant failure of data and surveillance policy, especially given
+the inconvenient persistence of COVID-19.
+
+
+
+
+State Capacity and Bold Decision-Making
+
+While your Inquiry will undoubtedly receive many submissions of opposing views on the
+appropriateness of many aspects of “lockdowns”, I believe it is essential to acknowledge the
+fundamental, deep success of Australia’s closure of the international border in “buying time” to
+prepare. Many aspects could have been managed more effectively and - just as important - more
+fairly (e.g. the inappropriate and inequitable privileging of business travel over compassionate travel
+exemptions etc.). However, the most important lesson for future pandemics and health emergencies
+is precisely that the early, hard border closure worked extremely effectively as a control measure
+(defying earlier overseas modelling from Swine Flu that had suggested travel bans were not
+effective). Just as in 1918/19, Australia was able to achieve significant and prolonged levels of control
+through international border closures; historians and future policymakers must be clear on this fact,
+and not bend to those who wish to downplay it for ideological or commercial reasons.
+
+The COVID-19 pandemic highlighted supply shocks and supply chain resilience everywhere in the
+world. Many efforts are already in place to strengthen critical supply chain resilience, and the litany
+of increasingly disruptive geopolitical and ecological crises we are living through only heighten the
+importance of this work. A core overall lesson from this and other countries relates to the
+importance of i) overall state capacity to extend management and decision-making into unfamiliar
+areas during a national emergency and ii) the need for bold and confident decision-making by the
+state to direct activities normally undertaken by the private sector. Australia did well in this regard,
+not descending into the corruption that plagued many countries’ emergency procurement efforts,
+and making bold and decisive moves like the international border closure. Public servants need to be
+skilled and confident in acting flexibly in future emergencies. This needs more and better training
+(but not by focusing on “re-fighting the last war”); the final excision of any remaining neoliberal
+dogmas on outsourcing and the superiority of the private sector; and the elimination of reliance on
+private consultants to advise or manage key elements of any emergency response. This should be
+undertaken as part of a wider process of public service reform and renewal.
+
+
+
+Recording Lessons for the Future
+
+While the results and final report of your Inquiry will undoubtedly form one very important part of
+the recording of lessons for future policymakers from the COVID-19 policy response, I would like
+to recommend three further actions by the Australian Government to ensure that the best possible
+record is left for posterity:
+
+     I.   The funding, commissioning and publication of a multi-volume, multi-author Official History of
+          the COVID-19 response, using wartime official histories as a template.
+     2. The funding, commissioning and publication of an Unresolved Questions research project
+          across all domains of the COVID-19 policy response, drawing on both officials, practitioners
+          and academic subject-matter experts, with the objective of identifying all areas on which
+          opinion and evidence remains substantially unclear or unresolved, to guide future decision­
+          makers.
+     3. A cross-government policy review of the ongoing appropriateness of all Commonwealth
+          policy settings given the surprising persistence of high levels of COVID-19 infections (albeit
+          with decreased lethality and severity), driven by Cabinet-level acknowledgement that this
+          persistence was not adequately foreseen earlier in the pandemic.
+
+
+
+
+References
+
+I.        Hensher M, Angeles MR, de Graaf B, Campbell J, Athan E, Haddock R. Issues Brief: Managing
+          the long-term consequences of COVID-19 in Australia. 26 May 2021.
+2.        Angeles MR, Hensher M. Estimating the current scale and impact of Long COVID in Australia.
+          Online Only. 2022.
+3.        Angeles MR, Wanni Arachchige Dona S, Nguyen HD, Le LK-D, Hensher M. Modelling the
+          potential acute and post-acute burden of COVID-19 under the Australian border re-opening
+          plan. BMC Public Health. 2022/04/14 2022;22( I ):757. doi: 10.1 186/s 12889-022-13169-x
+4.        Hensher M, Angeles MR. Potential scale of Long COVID cases from the Omicron wave in Australia,
+          Summer 2021-2022. Online Only. February 2022.
+5.        Sorrell TC, Hensher M, Sanci LA. Long COVID in Australia: achieving equitable access to
+          supportive health care. Medical Journal of Australia. 2023/05/10 2023
+          doi:https://doi.org/10.5694/mja2.51950
+6.        Hensher M, Wanni Arachchige Dona S. COVID-19 vaccines, boosters and mandates: building
+          a mission economy, not a rentier paradise. Medical Journal of Australia. 2022/04/24
+          2022;216:556-558. doi:https://doi.org/10.5694/mja2.51500
+

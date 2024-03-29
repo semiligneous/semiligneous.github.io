@@ -1,0 +1,129 @@
+To: Australian Government Department of Prime Minister and Cabinet
+
+Re: Submission to the Australian Government COVID-19 Response Inquiry
+
+
+
+Terms of reference addressed in this submission:
+Key health response measures of the maternity sector in Victoria and
+associated impacts on maternal and newborn health outcomes
+
+
+Author: Professor Lisa Hui MBBS PhD FRANZCOG CMFM DDU
+
+I live and work in^^^^^^^which was subject to the strictest lockdown conditions in the
+country. As a clinical academic in maternal fetal medicine, I monitored the impacts of the
+Victorian COVID-19 response on maternal and newborn outcomes through my roles with
+the Victorian Consultative Council on Obstetric and Paediatric Mortality and Morbidity, the
+University of Melbourne, Mercy Health, Northern Health, and the Murdoch Children's
+Research Institute.
+
+Evidence: The data provided in this submission is publicly available in peer reviewed scientific
+publications and state government commissioned reports listed in the references below.
+
+
+The challenges for the maternity sector In Victoria
+
+Metropolitan Melbourne experienced one of the longest and most stringent lockdown
+conditions in the world during the COVID-10 pandemic. However, the maternity sector in
+Melbourne had to continue providing hospital-based in-patient and outpatient care for
+~4000 births per month.
+
+Pregnant women are a medically vulnerable population as they have increased risks of
+severe morbidity and mortality from COVID-19 infection. Maternal COVID-19 infection also
+increases risks for the unborn baby, such as preterm birth and stillbirth.
+
+Numerous modifications to pregnancy care were adopted during the pandemic to mitigate
+the anticipated strain on maternity health services and reduce infection risks to patients and
+staff. These included rapid transition to telehealth, hospital visitor restrictions, increasing
+the interval between in-person visits, reducing face-to-face appointment time, changes to
+gestational diabetes screening, and ultrasound surveillance of fetal growth. There was also a
+dramatic reduction in hospital length of stay for mothers and babies during the pandemic.
+
+The COVID-19 vaccine roll-out to pregnant women was delayed until June 2021 due to
+concerns about lack of safety data in pregnancy. Similarly, the inclusion of pregnant women
+in clinical trials of COVID-19 therapies was delayed, and only overcome after intense
+advocacy from the maternity sector.
+The successes
+
+•   In Victoria, there were no maternal deaths directly attributable to COVID-19 infection in
+    2020-2022.
+•   Telehealth consultations supported the maintenance of antenatal and postnatal visits
+    throughout the pandemic.(1)
+•   In Victoria, COVID-19 vaccination rates in pregnant women exceeded 85% within 12
+    months, surpassing rates of other high-income countries such as UK and USA.(2,3)
+•   The adjusted odds of stillbirth, preterm birth, and neonatal intensive care admission
+    were significantly reduced among infants born to COVID-19 vaccinated women
+    compared with unvaccinated women. We did not observe any adverse impacts of
+    vaccination on fetal growth or development.(3)
+
+
+The concerns
+
+•   The 2020 Melbourne lockdown was associated with a significant increase in preterm
+    stillbirths and a significant reduction in medically indicated preterm birth for fetal
+    compromise. This suggests that our pandemic response may have led to a failure to
+    identify and appropriately care for patients at an increased risk of stillbirth. (4)
+•   COVID-19 vaccine coverage among pregnant people was significantly influenced by
+    known social determinants of health, including country of birth, socioeconomic status,
+    and age. This was associated with worse pregnancy outcomes for unvaccinated women,
+    exacerbating health inequities. (3)
+•   There was a sharp withdrawal of hospital-based abortion services after the cancellation
+    of elective surgery at the end of March 2020. The availability of outpatient abortion was
+    important for maintaining access during the COVID-19 pandemic. (5)
+•   Despite mandatory data collection on all births from 20 weeks gestation, timely state­
+    wide data collection and reporting back to maternity services during the pandemic was
+    not available. A research collaboration of all 12 public maternity services in Melbourne
+    was formed to fill this gap (the Collaborative Maternity and Newborn Dashboard for the
+    COVID-19 Pandemic), funded by philanthropy. (6,7) This CoMaND project has produced
+    13 reports to date to inform health services and policy makers on perinatal outcomes.(8)
+•   The reduction in hospital length of stay for mothers and babies has persisted well
+    beyond the end of lockdown restrictions.(2) It has been associated with a statistically
+    significant increase in unplanned hospital readmissions of infants.
+
+
+Key recommendations for maternity care
+
+•   Access to population-based maternal and newborn data through government sources is
+    currently too slow to inform a future pandemic response. No system exists for the timely
+    detection of congenital anomalies that might arise from future pandemics. A
+    comprehensive maternity and newborn surveillance system will require a whole-of-
+    government approach to overcome structural barriers to data collection and reporting.
+•   Maternal and newborn health inequities due to socioeconomic disadvantage were
+    exacerbated during the pandemic. This was reflected in vaccination coverage and
+     associated perinatal outcomes. More work needs to be done to engage with vulnerable
+     populations to improve trust in health authorities and safeguard access to healthcare.
+•    Further analysis of the impact of shorter hospital length of stay should be conducted to
+     understand the consumer experience and the effect on infant readmission rates and
+     breastfeeding.
+•    Automatic clinical trial exclusion due to pregnancy should not be the norm in future
+     pandemics. Pregnant people can be safely included in clinical trials and should have the
+     same access to life-saving therapies and evidence-based care as other individuals. (8)
+
+References
+
+1.   Potenza S, Marzan MB, Rolnik DL, et al. Business as usual during the COVID-19
+     pandemic? Reflections on state-wide trends in maternity telehealth consultations during
+     lockdown in Victoria and New South Wales. Aust N Z J Obstet Gynaecol. 2021
+     Dec;61(6):982-985. doi: 10.1111/ajo.l3438.
+2.   Safer Care Victoria COVID-19 communique A report on maternal and newborn outcomes
+     during the COVID-19 pandemic. Hui L, Marzan M, Davey M, et al.
+     https://www.safercare.vic.gov.au/reports-and-publications/covid-19-communique
+3.   Hui L, Marzan MB, Rolnik DL, et al. Reductions in stillbirths and preterm birth in COVID-
+     19-vaccinated women: a multicenter cohort study of vaccination uptake and perinatal
+     outcomes. Am J Obstet Gynecol. 2023 May;228(5):585.el-585.el6..
+4.   Hui L, Marzan MB, Potenza S, et al. Increase in preterm stillbirths in association with
+     reduction in iatrogenic preterm births during COVID-19 lockdown in Australia: a
+     multicenter cohort study. Am J Obstet Gynecol. 2022 Sep;227(3):491.el-491.el7.
+5.   Marzan MB, Johnson E, Moore P, Jiang H, Hui L. Changes in the numbers of hospital­
+     based abortions and outpatient early medical abortions in Victoria, 2012-22: a
+     retrospective cohort study. Medical Journal of Australia 2024. Accepted, in press.
+6.   Hui L, Marzan MB, Potenza S, et al. Collaborative maternity and newborn dashboard
+     (CoMaND) for the COVID-19 pandemic: a protocol for timely, adaptive monitoring of
+     perinatal outcomes in Melbourne, Australia. BMJ Open. 2021 Nov 23;ll(ll):e055902.
+7.   Hui L, Marzan MB, Potenza S, Rolnik DL, Said JM, Palmer KR, Whitehead CL, Sheehan PM,
+     Ford J, Pritchard N, Mol BW, Walker SP. Collaborative maternity and newborn dashboard
+     (CoMaND) for the COVID-19 pandemic: Report #13 (period ending April 30, 2022.
+8.   Hui L, Whitehead C, Walker SP. Evidence and advocacy in Melbourne maternity care
+     during the COVID-19 pandemic. Med J Aust. 2021 Nov l;215(9):433-434.
+
